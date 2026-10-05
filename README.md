@@ -24,8 +24,8 @@ The **Monsters drop the Random Headgear Box** setting decides what a kill can dr
 | **20** tickets | a **Lower / Middle / Upper Headgear Box**: one random headgear of that slot from the pool |
 | **30** tickets | the **Random Headgear Box**: one random headgear from the pool, any slot |
 
-A headgear or costume with several slots (for example upper and middle) is in the list of each of its slots.
-All three prices are settings.
+A headgear with several slots (for example upper and middle) is in the list of each of its slots. Costumes are always
+single-slot (see below), so a costume box gives one costume piece. All three prices are settings.
 
 ## Costume Tailor (Prontera 181,190)
 
@@ -33,6 +33,9 @@ The same NPC as in the `headgear-to-costume` mod, bundled here. It turns a headg
 exactly like it: **cards come back, refine, enchantments and bonus options are lost.** Fee 10,000 zeny by
 default (setting). Only unequipped headgear in your inventory is listed, 30 per page. 755 headgears in
 pre-renewal and 2,443 in renewal can be converted; those without a view id or AegisName are skipped (3 and 22).
+**A headgear that fills several slots comes as one costume per slot** (for example Dark Basilium: upper, middle
+and lower pieces), because the server only hides a costume with the "view costume" checkbox when the costume fills a
+single slot. 101 headgears in pre-renewal and 178 in renewal are affected.
 
 Each headgear has a **costume twin**: a normal item in a costume slot with the headgear's view id, so it draws
 the same sprite. Twins are named `Costume <headgear name>` and have no stats.
@@ -65,11 +68,11 @@ This mod reserves two id blocks. Stock items do not use 70000-99999.
 | 72011-72013 | Upper / Middle / Lower Headgear Costume Box |
 | 72021-72023 | Upper / Middle / Lower Headgear Box |
 | 72031 | Headgear Exchange Ticket |
-| **73000-75999** | **costume twins** (pre-renewal 73000-73754, renewal 73000-75442) |
+| **73000-75999** | **costume twins** (pre-renewal 73000-73881, renewal 73000-75661) |
 
-A twin's id is its position in the era's sorted headgear list, so if an app update adds a headgear the table
-must be regenerated with new headgears *appended* at the end, otherwise costumes players already own would
-turn into different items. Other mods in this repository use 50000-50071, 55000-56999 (ARPG Equipments),
+A twin's id is its position in the era's sorted headgear list (73000 + i, the headgear's first slot); the extra pieces of
+multi-slot headgears follow after that block. If an app update adds a headgear the table must be regenerated with new
+headgears *appended* at the end, otherwise costumes players already own would turn into different items. Other mods in this repository use 50000-50071, 55000-56999 (ARPG Equipments),
 70000-71301 (costume-collector-extended-prerenewal) and 92001-92010 (endow-sage).
 
 ## How the pools were built
@@ -120,7 +123,7 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 ## Changelog
 
 - **1.3.0**: Headgear Exchange Ticket drop (new setting), the Headgear Exchange NPC with costume boxes, one-slot
-  headgear boxes and the Random Headgear Box, and the Costume Tailor from headgear-to-costume bundled. Exchange ticket idea by BlaXun, costume exchange idea by faust.layout.
+  headgear boxes and the Random Headgear Box, and the Costume Tailor from headgear-to-costume bundled. A multi-slot headgear becomes one costume per slot, so the "view costume" checkbox hides it. Exchange ticket idea by BlaXun, costume exchange idea by faust.layout.
 - **1.2.0**: item descriptions for the 480 renewal headgears the client has no entry for (see above), including skill bonuses and conditions.
 - **1.1.1**: fixed the box showing as "Unknown Item" in renewal. The app links one item table per mod and the renewal table replaced the box's, so the renewal table now includes the box.
 - **1.1.0**: the 480 renewal headgears the client has no item name for are named by the mod (they showed as "Unknown Item"), so the renewal pool is the full 1,207. They use generic icons.

@@ -535,17 +535,17 @@ tbl = {
 		costume = true
 	},
 	[73023] = {
-		unidentifiedDisplayName = "Costume Goggles",
+		unidentifiedDisplayName = "Costume Goggles (Upper)",
 		unidentifiedResourceName = "고글",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Goggles",
+		identifiedDisplayName = "Costume Goggles (Upper)",
 		identifiedResourceName = "고글",
 		identifiedDescriptionName = {
-			"A costume version of Goggles.",
-			"It looks the same but has no stats.",
+			"A costume version of Goggles, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -553,17 +553,17 @@ tbl = {
 		costume = true
 	},
 	[73024] = {
-		unidentifiedDisplayName = "Costume Goggles",
+		unidentifiedDisplayName = "Costume Goggles (Upper)",
 		unidentifiedResourceName = "고글",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Goggles",
+		identifiedDisplayName = "Costume Goggles (Upper)",
 		identifiedResourceName = "고글",
 		identifiedDescriptionName = {
-			"A costume version of Goggles.",
-			"It looks the same but has no stats.",
+			"A costume version of Goggles, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1201,17 +1201,17 @@ tbl = {
 		costume = true
 	},
 	[73060] = {
-		unidentifiedDisplayName = "Costume Munak Hat",
+		unidentifiedDisplayName = "Costume Munak Hat (Upper)",
 		unidentifiedResourceName = "무낙모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Munak Hat",
+		identifiedDisplayName = "Costume Munak Hat (Upper)",
 		identifiedResourceName = "무낙모자",
 		identifiedDescriptionName = {
-			"A costume version of Munak Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Munak Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1453,17 +1453,17 @@ tbl = {
 		costume = true
 	},
 	[73074] = {
-		unidentifiedDisplayName = "Costume Mr. Smile",
+		unidentifiedDisplayName = "Costume Mr. Smile (Middle)",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mr. Smile",
+		identifiedDisplayName = "Costume Mr. Smile (Middle)",
 		identifiedResourceName = "스마일",
 		identifiedDescriptionName = {
-			"A costume version of Mr. Smile.",
-			"It looks the same but has no stats.",
+			"A costume version of Mr. Smile, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1507,17 +1507,17 @@ tbl = {
 		costume = true
 	},
 	[73077] = {
-		unidentifiedDisplayName = "Costume Opera Mask",
+		unidentifiedDisplayName = "Costume Opera Mask (Middle)",
 		unidentifiedResourceName = "오페라가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Opera Mask",
+		identifiedDisplayName = "Costume Opera Mask (Middle)",
 		identifiedResourceName = "오페라가면",
 		identifiedDescriptionName = {
-			"A costume version of Opera Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Opera Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1633,17 +1633,17 @@ tbl = {
 		costume = true
 	},
 	[73084] = {
-		unidentifiedDisplayName = "Costume Mr. Scream",
+		unidentifiedDisplayName = "Costume Mr. Scream (Middle)",
 		unidentifiedResourceName = "스크래치마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mr. Scream",
+		identifiedDisplayName = "Costume Mr. Scream (Middle)",
 		identifiedResourceName = "스크래치마스크",
 		identifiedDescriptionName = {
-			"A costume version of Mr. Scream.",
-			"It looks the same but has no stats.",
+			"A costume version of Mr. Scream, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1705,17 +1705,17 @@ tbl = {
 		costume = true
 	},
 	[73088] = {
-		unidentifiedDisplayName = "Costume Welding Mask",
+		unidentifiedDisplayName = "Costume Welding Mask (Middle)",
 		unidentifiedResourceName = "용접마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Welding Mask",
+		identifiedDisplayName = "Costume Welding Mask (Middle)",
 		identifiedResourceName = "용접마스크",
 		identifiedDescriptionName = {
-			"A costume version of Welding Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Welding Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1795,17 +1795,17 @@ tbl = {
 		costume = true
 	},
 	[73093] = {
-		unidentifiedDisplayName = "Costume Goblin Mask",
+		unidentifiedDisplayName = "Costume Goblin Mask (Middle)",
 		unidentifiedResourceName = "고블린족가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Goblin Mask",
+		identifiedDisplayName = "Costume Goblin Mask (Middle)",
 		identifiedResourceName = "고블린족가면",
 		identifiedDescriptionName = {
-			"A costume version of Goblin Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Goblin Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -1957,17 +1957,17 @@ tbl = {
 		costume = true
 	},
 	[73102] = {
-		unidentifiedDisplayName = "Costume Gas Mask",
+		unidentifiedDisplayName = "Costume Gas Mask (Middle)",
 		unidentifiedResourceName = "가스마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Gas Mask",
+		identifiedDisplayName = "Costume Gas Mask (Middle)",
 		identifiedResourceName = "가스마스크",
 		identifiedDescriptionName = {
-			"A costume version of Gas Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Gas Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -2263,17 +2263,17 @@ tbl = {
 		costume = true
 	},
 	[73119] = {
-		unidentifiedDisplayName = "Costume Hat of the Sun God",
+		unidentifiedDisplayName = "Costume Hat of the Sun God (Upper)",
 		unidentifiedResourceName = "태양신의모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Hat of the Sun God",
+		identifiedDisplayName = "Costume Hat of the Sun God (Upper)",
 		identifiedResourceName = "태양신의모자",
 		identifiedDescriptionName = {
-			"A costume version of Hat of the Sun God.",
-			"It looks the same but has no stats.",
+			"A costume version of Hat of the Sun God, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -2695,17 +2695,17 @@ tbl = {
 		costume = true
 	},
 	[73143] = {
-		unidentifiedDisplayName = "Costume Bongun Hat",
+		unidentifiedDisplayName = "Costume Bongun Hat (Upper)",
 		unidentifiedResourceName = "본건모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Bongun Hat",
+		identifiedDisplayName = "Costume Bongun Hat (Upper)",
 		identifiedResourceName = "본건모자",
 		identifiedDescriptionName = {
-			"A costume version of Bongun Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Bongun Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -2821,17 +2821,17 @@ tbl = {
 		costume = true
 	},
 	[73150] = {
-		unidentifiedDisplayName = "Costume Sphinx Hat",
+		unidentifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		unidentifiedResourceName = "스핑크스모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sphinx Hat",
+		identifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		identifiedResourceName = "스핑크스모자",
 		identifiedDescriptionName = {
-			"A costume version of Sphinx Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Sphinx Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3415,17 +3415,17 @@ tbl = {
 		costume = true
 	},
 	[73183] = {
-		unidentifiedDisplayName = "Costume Alarm Mask",
+		unidentifiedDisplayName = "Costume Alarm Mask (Middle)",
 		unidentifiedResourceName = "알람가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Alarm Mask",
+		identifiedDisplayName = "Costume Alarm Mask (Middle)",
 		identifiedResourceName = "알람가면",
 		identifiedDescriptionName = {
-			"A costume version of Alarm Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Alarm Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3433,17 +3433,17 @@ tbl = {
 		costume = true
 	},
 	[73184] = {
-		unidentifiedDisplayName = "Costume Poker Face",
+		unidentifiedDisplayName = "Costume Poker Face (Middle)",
 		unidentifiedResourceName = "고블린가면1호",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Poker Face",
+		identifiedDisplayName = "Costume Poker Face (Middle)",
 		identifiedResourceName = "고블린가면1호",
 		identifiedDescriptionName = {
-			"A costume version of Poker Face.",
-			"It looks the same but has no stats.",
+			"A costume version of Poker Face, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3451,17 +3451,17 @@ tbl = {
 		costume = true
 	},
 	[73185] = {
-		unidentifiedDisplayName = "Costume Surprised Mask",
+		unidentifiedDisplayName = "Costume Surprised Mask (Middle)",
 		unidentifiedResourceName = "고블린가면2호",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Surprised Mask",
+		identifiedDisplayName = "Costume Surprised Mask (Middle)",
 		identifiedResourceName = "고블린가면2호",
 		identifiedDescriptionName = {
-			"A costume version of Surprised Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Surprised Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3469,17 +3469,17 @@ tbl = {
 		costume = true
 	},
 	[73186] = {
-		unidentifiedDisplayName = "Costume Annoyed Mask",
+		unidentifiedDisplayName = "Costume Annoyed Mask (Middle)",
 		unidentifiedResourceName = "고블린가면3호",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Annoyed Mask",
+		identifiedDisplayName = "Costume Annoyed Mask (Middle)",
 		identifiedResourceName = "고블린가면3호",
 		identifiedDescriptionName = {
-			"A costume version of Annoyed Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Annoyed Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3487,17 +3487,17 @@ tbl = {
 		costume = true
 	},
 	[73187] = {
-		unidentifiedDisplayName = "Costume Goblin Leader Mask",
+		unidentifiedDisplayName = "Costume Goblin Leader Mask (Middle)",
 		unidentifiedResourceName = "고블린가면4호",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Goblin Leader Mask",
+		identifiedDisplayName = "Costume Goblin Leader Mask (Middle)",
 		identifiedResourceName = "고블린가면4호",
 		identifiedDescriptionName = {
-			"A costume version of Goblin Leader Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Goblin Leader Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3505,17 +3505,17 @@ tbl = {
 		costume = true
 	},
 	[73188] = {
-		unidentifiedDisplayName = "Costume Decorative Golden Bell",
+		unidentifiedDisplayName = "Costume Decorative Golden Bell (Upper)",
 		unidentifiedResourceName = "대형금방울",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Decorative Golden Bell",
+		identifiedDisplayName = "Costume Decorative Golden Bell (Upper)",
 		identifiedResourceName = "대형금방울",
 		identifiedDescriptionName = {
-			"A costume version of Decorative Golden Bell.",
-			"It looks the same but has no stats.",
+			"A costume version of Decorative Golden Bell, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3523,17 +3523,17 @@ tbl = {
 		costume = true
 	},
 	[73189] = {
-		unidentifiedDisplayName = "Costume Coif",
+		unidentifiedDisplayName = "Costume Coif (Upper)",
 		unidentifiedResourceName = "수녀모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Coif",
+		identifiedDisplayName = "Costume Coif (Upper)",
 		identifiedResourceName = "수녀모자",
 		identifiedDescriptionName = {
-			"A costume version of Coif.",
-			"It looks the same but has no stats.",
+			"A costume version of Coif, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3541,17 +3541,17 @@ tbl = {
 		costume = true
 	},
 	[73190] = {
-		unidentifiedDisplayName = "Costume Coif",
+		unidentifiedDisplayName = "Costume Coif (Upper)",
 		unidentifiedResourceName = "수녀모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Coif",
+		identifiedDisplayName = "Costume Coif (Upper)",
 		identifiedResourceName = "수녀모자",
 		identifiedDescriptionName = {
-			"A costume version of Coif.",
-			"It looks the same but has no stats.",
+			"A costume version of Coif, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3559,17 +3559,17 @@ tbl = {
 		costume = true
 	},
 	[73191] = {
-		unidentifiedDisplayName = "Costume Helmet of Orc Hero",
+		unidentifiedDisplayName = "Costume Helmet of Orc Hero (Upper)",
 		unidentifiedResourceName = "오크히어로투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Helmet of Orc Hero",
+		identifiedDisplayName = "Costume Helmet of Orc Hero (Upper)",
 		identifiedResourceName = "오크히어로투구",
 		identifiedDescriptionName = {
-			"A costume version of Helmet of Orc Hero.",
-			"It looks the same but has no stats.",
+			"A costume version of Helmet of Orc Hero, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -3613,17 +3613,17 @@ tbl = {
 		costume = true
 	},
 	[73194] = {
-		unidentifiedDisplayName = "Costume Tiger Mask",
+		unidentifiedDisplayName = "Costume Tiger Mask (Upper)",
 		unidentifiedResourceName = "타이거마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Tiger Mask",
+		identifiedDisplayName = "Costume Tiger Mask (Upper)",
 		identifiedResourceName = "타이거마스크",
 		identifiedDescriptionName = {
-			"A costume version of Tiger Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Tiger Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4027,17 +4027,17 @@ tbl = {
 		costume = true
 	},
 	[73217] = {
-		unidentifiedDisplayName = "Costume Zealotus Mask",
+		unidentifiedDisplayName = "Costume Zealotus Mask (Upper)",
 		unidentifiedResourceName = "지르타스가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Zealotus Mask",
+		identifiedDisplayName = "Costume Zealotus Mask (Upper)",
 		identifiedResourceName = "지르타스가면",
 		identifiedDescriptionName = {
-			"A costume version of Zealotus Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Zealotus Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4189,17 +4189,17 @@ tbl = {
 		costume = true
 	},
 	[73226] = {
-		unidentifiedDisplayName = "Costume Lion Mask",
+		unidentifiedDisplayName = "Costume Lion Mask (Upper)",
 		unidentifiedResourceName = "라이온마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Lion Mask",
+		identifiedDisplayName = "Costume Lion Mask (Upper)",
 		identifiedResourceName = "라이온마스크",
 		identifiedDescriptionName = {
-			"A costume version of Lion Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Lion Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4207,17 +4207,17 @@ tbl = {
 		costume = true
 	},
 	[73227] = {
-		unidentifiedDisplayName = "Costume Close Helmet",
+		unidentifiedDisplayName = "Costume Close Helmet (Upper)",
 		unidentifiedResourceName = "클로스헬멧",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Close Helmet",
+		identifiedDisplayName = "Costume Close Helmet (Upper)",
 		identifiedResourceName = "클로스헬멧",
 		identifiedDescriptionName = {
-			"A costume version of Close Helmet.",
-			"It looks the same but has no stats.",
+			"A costume version of Close Helmet, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4405,17 +4405,17 @@ tbl = {
 		costume = true
 	},
 	[73238] = {
-		unidentifiedDisplayName = "Costume Crescent Helm",
+		unidentifiedDisplayName = "Costume Crescent Helm (Upper)",
 		unidentifiedResourceName = "초승달투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Crescent Helm",
+		identifiedDisplayName = "Costume Crescent Helm (Upper)",
 		identifiedResourceName = "초승달투구",
 		identifiedDescriptionName = {
-			"A costume version of Crescent Helm.",
-			"It looks the same but has no stats.",
+			"A costume version of Crescent Helm, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4423,17 +4423,17 @@ tbl = {
 		costume = true
 	},
 	[73239] = {
-		unidentifiedDisplayName = "Costume Kabuki Mask",
+		unidentifiedDisplayName = "Costume Kabuki Mask (Upper)",
 		unidentifiedResourceName = "가부키가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Kabuki Mask",
+		identifiedDisplayName = "Costume Kabuki Mask (Upper)",
 		identifiedResourceName = "가부키가면",
 		identifiedDescriptionName = {
-			"A costume version of Kabuki Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Kabuki Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4567,17 +4567,17 @@ tbl = {
 		costume = true
 	},
 	[73247] = {
-		unidentifiedDisplayName = "Costume Note Headphone",
+		unidentifiedDisplayName = "Costume Note Headphone (Upper)",
 		unidentifiedResourceName = "음표헤드폰",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Note Headphone",
+		identifiedDisplayName = "Costume Note Headphone (Upper)",
 		identifiedResourceName = "음표헤드폰",
 		identifiedDescriptionName = {
-			"A costume version of Note Headphone.",
-			"It looks the same but has no stats.",
+			"A costume version of Note Headphone, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4585,17 +4585,17 @@ tbl = {
 		costume = true
 	},
 	[73248] = {
-		unidentifiedDisplayName = "Costume Chinese Crown",
+		unidentifiedDisplayName = "Costume Chinese Crown (Upper)",
 		unidentifiedResourceName = "봉관",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Chinese Crown",
+		identifiedDisplayName = "Costume Chinese Crown (Upper)",
 		identifiedResourceName = "봉관",
 		identifiedDescriptionName = {
-			"A costume version of Chinese Crown.",
-			"It looks the same but has no stats.",
+			"A costume version of Chinese Crown, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4837,17 +4837,17 @@ tbl = {
 		costume = true
 	},
 	[73262] = {
-		unidentifiedDisplayName = "Costume Sphinx Hat",
+		unidentifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		unidentifiedResourceName = "스핑크스모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sphinx Hat",
+		identifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		identifiedResourceName = "스핑크스모자",
 		identifiedDescriptionName = {
-			"A costume version of Sphinx Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Sphinx Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4855,17 +4855,17 @@ tbl = {
 		costume = true
 	},
 	[73263] = {
-		unidentifiedDisplayName = "Costume Munak Hat",
+		unidentifiedDisplayName = "Costume Munak Hat (Upper)",
 		unidentifiedResourceName = "무낙모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Munak Hat",
+		identifiedDisplayName = "Costume Munak Hat (Upper)",
 		identifiedResourceName = "무낙모자",
 		identifiedDescriptionName = {
-			"A costume version of Munak Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Munak Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4873,17 +4873,17 @@ tbl = {
 		costume = true
 	},
 	[73264] = {
-		unidentifiedDisplayName = "Costume Bongun Hat",
+		unidentifiedDisplayName = "Costume Bongun Hat (Upper)",
 		unidentifiedResourceName = "본건모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Bongun Hat",
+		identifiedDisplayName = "Costume Bongun Hat (Upper)",
 		identifiedResourceName = "본건모자",
 		identifiedDescriptionName = {
-			"A costume version of Bongun Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Bongun Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -4891,17 +4891,17 @@ tbl = {
 		costume = true
 	},
 	[73265] = {
-		unidentifiedDisplayName = "Costume Bride Mask",
+		unidentifiedDisplayName = "Costume Bride Mask (Upper)",
 		unidentifiedResourceName = "각시탈",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Bride Mask",
+		identifiedDisplayName = "Costume Bride Mask (Upper)",
 		identifiedResourceName = "각시탈",
 		identifiedDescriptionName = {
-			"A costume version of Bride Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Bride Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5017,17 +5017,17 @@ tbl = {
 		costume = true
 	},
 	[73272] = {
-		unidentifiedDisplayName = "Costume Hahoe Mask",
+		unidentifiedDisplayName = "Costume Hahoe Mask (Middle)",
 		unidentifiedResourceName = "하회탈",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Hahoe Mask",
+		identifiedDisplayName = "Costume Hahoe Mask (Middle)",
 		identifiedResourceName = "하회탈",
 		identifiedDescriptionName = {
-			"A costume version of Hahoe Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Hahoe Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5035,17 +5035,17 @@ tbl = {
 		costume = true
 	},
 	[73273] = {
-		unidentifiedDisplayName = "Costume Mythical Lion Mask",
+		unidentifiedDisplayName = "Costume Mythical Lion Mask (Upper)",
 		unidentifiedResourceName = "사자탈",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mythical Lion Mask",
+		identifiedDisplayName = "Costume Mythical Lion Mask (Upper)",
 		identifiedResourceName = "사자탈",
 		identifiedDescriptionName = {
-			"A costume version of Mythical Lion Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Mythical Lion Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5107,17 +5107,17 @@ tbl = {
 		costume = true
 	},
 	[73277] = {
-		unidentifiedDisplayName = "Costume Helm of Darkness",
+		unidentifiedDisplayName = "Costume Helm of Darkness (Upper)",
 		unidentifiedResourceName = "암흑의투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Helm of Darkness",
+		identifiedDisplayName = "Costume Helm of Darkness (Upper)",
 		identifiedResourceName = "암흑의투구",
 		identifiedDescriptionName = {
-			"A costume version of Helm of Darkness.",
-			"It looks the same but has no stats.",
+			"A costume version of Helm of Darkness, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5503,17 +5503,17 @@ tbl = {
 		costume = true
 	},
 	[73299] = {
-		unidentifiedDisplayName = "Costume Smiling Mask",
+		unidentifiedDisplayName = "Costume Smiling Mask (Middle)",
 		unidentifiedResourceName = "메롱가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Smiling Mask",
+		identifiedDisplayName = "Costume Smiling Mask (Middle)",
 		identifiedResourceName = "메롱가면",
 		identifiedDescriptionName = {
-			"A costume version of Smiling Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Smiling Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5539,17 +5539,17 @@ tbl = {
 		costume = true
 	},
 	[73301] = {
-		unidentifiedDisplayName = "Costume Emperor's Laurel Crown",
+		unidentifiedDisplayName = "Costume Emperor's Laurel Crown (Upper)",
 		unidentifiedResourceName = "월계관",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Emperor's Laurel Crown",
+		identifiedDisplayName = "Costume Emperor's Laurel Crown (Upper)",
 		identifiedResourceName = "월계관",
 		identifiedDescriptionName = {
-			"A costume version of Emperor's Laurel Crown.",
-			"It looks the same but has no stats.",
+			"A costume version of Emperor's Laurel Crown, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5701,17 +5701,17 @@ tbl = {
 		costume = true
 	},
 	[73310] = {
-		unidentifiedDisplayName = "Costume Moonlight Flower Hat",
+		unidentifiedDisplayName = "Costume Moonlight Flower Hat (Upper)",
 		unidentifiedResourceName = "월야화모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Moonlight Flower Hat",
+		identifiedDisplayName = "Costume Moonlight Flower Hat (Upper)",
 		identifiedResourceName = "월야화모자",
 		identifiedDescriptionName = {
-			"A costume version of Moonlight Flower Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Moonlight Flower Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5863,17 +5863,17 @@ tbl = {
 		costume = true
 	},
 	[73319] = {
-		unidentifiedDisplayName = "Costume Evolved Big Golden Bell",
+		unidentifiedDisplayName = "Costume Evolved Big Golden Bell (Upper)",
 		unidentifiedResourceName = "대형금방울",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Evolved Big Golden Bell",
+		identifiedDisplayName = "Costume Evolved Big Golden Bell (Upper)",
 		identifiedResourceName = "대형금방울",
 		identifiedDescriptionName = {
-			"A costume version of Evolved Big Golden Bell.",
-			"It looks the same but has no stats.",
+			"A costume version of Evolved Big Golden Bell, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -5881,17 +5881,17 @@ tbl = {
 		costume = true
 	},
 	[73320] = {
-		unidentifiedDisplayName = "Costume Evolved Orc Hero Helm",
+		unidentifiedDisplayName = "Costume Evolved Orc Hero Helm (Upper)",
 		unidentifiedResourceName = "오크히어로투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Evolved Orc Hero Helm",
+		identifiedDisplayName = "Costume Evolved Orc Hero Helm (Upper)",
 		identifiedResourceName = "오크히어로투구",
 		identifiedDescriptionName = {
-			"A costume version of Evolved Orc Hero Helm.",
-			"It looks the same but has no stats.",
+			"A costume version of Evolved Orc Hero Helm, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6223,17 +6223,17 @@ tbl = {
 		costume = true
 	},
 	[73339] = {
-		unidentifiedDisplayName = "Costume Shafka",
+		unidentifiedDisplayName = "Costume Shafka (Upper)",
 		unidentifiedResourceName = "귀마개모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Shafka",
+		identifiedDisplayName = "Costume Shafka (Upper)",
 		identifiedResourceName = "귀마개모자",
 		identifiedDescriptionName = {
-			"A costume version of Shafka.",
-			"It looks the same but has no stats.",
+			"A costume version of Shafka, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6493,17 +6493,17 @@ tbl = {
 		costume = true
 	},
 	[73354] = {
-		unidentifiedDisplayName = "Costume Afro Wig",
+		unidentifiedDisplayName = "Costume Afro Wig (Upper)",
 		unidentifiedResourceName = "아프로가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Afro Wig",
+		identifiedDisplayName = "Costume Afro Wig (Upper)",
 		identifiedResourceName = "아프로가발",
 		identifiedDescriptionName = {
-			"A costume version of Afro Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Afro Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6583,17 +6583,17 @@ tbl = {
 		costume = true
 	},
 	[73359] = {
-		unidentifiedDisplayName = "Costume Pagdayaw",
+		unidentifiedDisplayName = "Costume Pagdayaw (Upper)",
 		unidentifiedResourceName = "아티아티모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Pagdayaw",
+		identifiedDisplayName = "Costume Pagdayaw (Upper)",
 		identifiedResourceName = "아티아티모자",
 		identifiedDescriptionName = {
-			"A costume version of Pagdayaw.",
-			"It looks the same but has no stats.",
+			"A costume version of Pagdayaw, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6727,17 +6727,17 @@ tbl = {
 		costume = true
 	},
 	[73367] = {
-		unidentifiedDisplayName = "Costume Phoenix Crown",
+		unidentifiedDisplayName = "Costume Phoenix Crown (Upper)",
 		unidentifiedResourceName = "봉관",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Phoenix Crown",
+		identifiedDisplayName = "Costume Phoenix Crown (Upper)",
 		identifiedResourceName = "봉관",
 		identifiedDescriptionName = {
-			"A costume version of Phoenix Crown.",
-			"It looks the same but has no stats.",
+			"A costume version of Phoenix Crown, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6745,17 +6745,17 @@ tbl = {
 		costume = true
 	},
 	[73368] = {
-		unidentifiedDisplayName = "Costume Tongue Mask",
+		unidentifiedDisplayName = "Costume Tongue Mask (Middle)",
 		unidentifiedResourceName = "메롱가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Tongue Mask",
+		identifiedDisplayName = "Costume Tongue Mask (Middle)",
 		identifiedResourceName = "메롱가면",
 		identifiedDescriptionName = {
-			"A costume version of Tongue Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Tongue Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6763,17 +6763,17 @@ tbl = {
 		costume = true
 	},
 	[73369] = {
-		unidentifiedDisplayName = "Costume Happy Wig",
+		unidentifiedDisplayName = "Costume Happy Wig (Upper)",
 		unidentifiedResourceName = "행복한가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Happy Wig",
+		identifiedDisplayName = "Costume Happy Wig (Upper)",
 		identifiedResourceName = "행복한가발",
 		identifiedDescriptionName = {
-			"A costume version of Happy Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Happy Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6781,17 +6781,17 @@ tbl = {
 		costume = true
 	},
 	[73370] = {
-		unidentifiedDisplayName = "Costume Shiny Wig",
+		unidentifiedDisplayName = "Costume Shiny Wig (Upper)",
 		unidentifiedResourceName = "눈부신가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Shiny Wig",
+		identifiedDisplayName = "Costume Shiny Wig (Upper)",
 		identifiedResourceName = "눈부신가발",
 		identifiedDescriptionName = {
-			"A costume version of Shiny Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Shiny Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6799,17 +6799,17 @@ tbl = {
 		costume = true
 	},
 	[73371] = {
-		unidentifiedDisplayName = "Costume Marvelous Wig",
+		unidentifiedDisplayName = "Costume Marvelous Wig (Upper)",
 		unidentifiedResourceName = "놀라운가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Marvelous Wig",
+		identifiedDisplayName = "Costume Marvelous Wig (Upper)",
 		identifiedResourceName = "놀라운가발",
 		identifiedDescriptionName = {
-			"A costume version of Marvelous Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Marvelous Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -6817,17 +6817,17 @@ tbl = {
 		costume = true
 	},
 	[73372] = {
-		unidentifiedDisplayName = "Costume Fantastic Wig",
+		unidentifiedDisplayName = "Costume Fantastic Wig (Upper)",
 		unidentifiedResourceName = "환상적인가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Fantastic Wig",
+		identifiedDisplayName = "Costume Fantastic Wig (Upper)",
 		identifiedResourceName = "환상적인가발",
 		identifiedDescriptionName = {
-			"A costume version of Fantastic Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Fantastic Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7141,17 +7141,17 @@ tbl = {
 		costume = true
 	},
 	[73390] = {
-		unidentifiedDisplayName = "Costume Whisper Mask",
+		unidentifiedDisplayName = "Costume Whisper Mask (Upper)",
 		unidentifiedResourceName = "위스퍼마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Whisper Mask",
+		identifiedDisplayName = "Costume Whisper Mask (Upper)",
 		identifiedResourceName = "위스퍼마스크",
 		identifiedDescriptionName = {
-			"A costume version of Whisper Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Whisper Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7159,17 +7159,17 @@ tbl = {
 		costume = true
 	},
 	[73391] = {
-		unidentifiedDisplayName = "Costume Golden Bandana",
+		unidentifiedDisplayName = "Costume Golden Bandana (Upper)",
 		unidentifiedResourceName = "태양신의모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Golden Bandana",
+		identifiedDisplayName = "Costume Golden Bandana (Upper)",
 		identifiedResourceName = "태양신의모자",
 		identifiedDescriptionName = {
-			"A costume version of Golden Bandana.",
-			"It looks the same but has no stats.",
+			"A costume version of Golden Bandana, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7213,17 +7213,17 @@ tbl = {
 		costume = true
 	},
 	[73394] = {
-		unidentifiedDisplayName = "Costume Dokkaebi's Wig",
+		unidentifiedDisplayName = "Costume Dokkaebi's Wig (Upper)",
 		unidentifiedResourceName = "놀라운가발",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dokkaebi's Wig",
+		identifiedDisplayName = "Costume Dokkaebi's Wig (Upper)",
 		identifiedResourceName = "놀라운가발",
 		identifiedDescriptionName = {
-			"A costume version of Dokkaebi's Wig.",
-			"It looks the same but has no stats.",
+			"A costume version of Dokkaebi's Wig, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7231,17 +7231,17 @@ tbl = {
 		costume = true
 	},
 	[73395] = {
-		unidentifiedDisplayName = "Costume Pagdayaw",
+		unidentifiedDisplayName = "Costume Pagdayaw (Upper)",
 		unidentifiedResourceName = "아티아티모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Pagdayaw",
+		identifiedDisplayName = "Costume Pagdayaw (Upper)",
 		identifiedResourceName = "아티아티모자",
 		identifiedDescriptionName = {
-			"A costume version of Pagdayaw.",
-			"It looks the same but has no stats.",
+			"A costume version of Pagdayaw, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7321,17 +7321,17 @@ tbl = {
 		costume = true
 	},
 	[73400] = {
-		unidentifiedDisplayName = "Costume Cap of Blindness",
+		unidentifiedDisplayName = "Costume Cap of Blindness (Upper)",
 		unidentifiedResourceName = "맹목모",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Cap of Blindness",
+		identifiedDisplayName = "Costume Cap of Blindness (Upper)",
 		identifiedResourceName = "맹목모",
 		identifiedDescriptionName = {
-			"A costume version of Cap of Blindness.",
-			"It looks the same but has no stats.",
+			"A costume version of Cap of Blindness, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7411,17 +7411,17 @@ tbl = {
 		costume = true
 	},
 	[73405] = {
-		unidentifiedDisplayName = "Costume Mohawk Mask",
+		unidentifiedDisplayName = "Costume Mohawk Mask (Upper)",
 		unidentifiedResourceName = "모히칸",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mohawk Mask",
+		identifiedDisplayName = "Costume Mohawk Mask (Upper)",
 		identifiedResourceName = "모히칸",
 		identifiedDescriptionName = {
-			"A costume version of Mohawk Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Mohawk Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7483,17 +7483,17 @@ tbl = {
 		costume = true
 	},
 	[73409] = {
-		unidentifiedDisplayName = "Costume Diadem",
+		unidentifiedDisplayName = "Costume Diadem (Upper)",
 		unidentifiedResourceName = "다이아뎀",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Diadem",
+		identifiedDisplayName = "Costume Diadem (Upper)",
 		identifiedResourceName = "다이아뎀",
 		identifiedDescriptionName = {
-			"A costume version of Diadem.",
-			"It looks the same but has no stats.",
+			"A costume version of Diadem, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7501,17 +7501,17 @@ tbl = {
 		costume = true
 	},
 	[73410] = {
-		unidentifiedDisplayName = "Costume Hockey Mask",
+		unidentifiedDisplayName = "Costume Hockey Mask (Middle)",
 		unidentifiedResourceName = "하키마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Hockey Mask",
+		identifiedDisplayName = "Costume Hockey Mask (Middle)",
 		identifiedResourceName = "하키마스크",
 		identifiedDescriptionName = {
-			"A costume version of Hockey Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Hockey Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7735,17 +7735,17 @@ tbl = {
 		costume = true
 	},
 	[73423] = {
-		unidentifiedDisplayName = "Costume Refined Helmet of Orc Hero",
+		unidentifiedDisplayName = "Costume Refined Helmet of Orc Hero (Upper)",
 		unidentifiedResourceName = "오크히어로투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Refined Helmet of Orc Hero",
+		identifiedDisplayName = "Costume Refined Helmet of Orc Hero (Upper)",
 		identifiedResourceName = "오크히어로투구",
 		identifiedDescriptionName = {
-			"A costume version of Refined Helmet of Orc Hero.",
-			"It looks the same but has no stats.",
+			"A costume version of Refined Helmet of Orc Hero, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -7825,17 +7825,17 @@ tbl = {
 		costume = true
 	},
 	[73428] = {
-		unidentifiedDisplayName = "Costume Loki Mask",
+		unidentifiedDisplayName = "Costume Loki Mask (Middle)",
 		unidentifiedResourceName = "로키마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Loki Mask",
+		identifiedDisplayName = "Costume Loki Mask (Middle)",
 		identifiedResourceName = "로키마스크",
 		identifiedDescriptionName = {
-			"A costume version of Loki Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Loki Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8203,17 +8203,17 @@ tbl = {
 		costume = true
 	},
 	[73449] = {
-		unidentifiedDisplayName = "Costume Hat of The Sun God",
+		unidentifiedDisplayName = "Costume Hat of The Sun God (Upper)",
 		unidentifiedResourceName = "태양신의모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Hat of The Sun God",
+		identifiedDisplayName = "Costume Hat of The Sun God (Upper)",
 		identifiedResourceName = "태양신의모자",
 		identifiedDescriptionName = {
-			"A costume version of Hat of The Sun God.",
-			"It looks the same but has no stats.",
+			"A costume version of Hat of The Sun God, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8275,17 +8275,17 @@ tbl = {
 		costume = true
 	},
 	[73453] = {
-		unidentifiedDisplayName = "Costume Wings of Victory",
+		unidentifiedDisplayName = "Costume Wings of Victory (Upper)",
 		unidentifiedResourceName = "승리의날개",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Wings of Victory",
+		identifiedDisplayName = "Costume Wings of Victory (Upper)",
 		identifiedResourceName = "승리의날개",
 		identifiedDescriptionName = {
-			"A costume version of Wings of Victory.",
-			"It looks the same but has no stats.",
+			"A costume version of Wings of Victory, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8455,17 +8455,17 @@ tbl = {
 		costume = true
 	},
 	[73463] = {
-		unidentifiedDisplayName = "Costume Yao Jun Hat",
+		unidentifiedDisplayName = "Costume Yao Jun Hat (Upper)",
 		unidentifiedResourceName = "혜군모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Yao Jun Hat",
+		identifiedDisplayName = "Costume Yao Jun Hat (Upper)",
 		identifiedResourceName = "혜군모자",
 		identifiedDescriptionName = {
-			"A costume version of Yao Jun Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Yao Jun Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8527,17 +8527,17 @@ tbl = {
 		costume = true
 	},
 	[73467] = {
-		unidentifiedDisplayName = "Costume Judge Hat",
+		unidentifiedDisplayName = "Costume Judge Hat (Upper)",
 		unidentifiedResourceName = "판관모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Judge Hat",
+		identifiedDisplayName = "Costume Judge Hat (Upper)",
 		identifiedResourceName = "판관모자",
 		identifiedDescriptionName = {
-			"A costume version of Judge Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Judge Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8563,17 +8563,17 @@ tbl = {
 		costume = true
 	},
 	[73469] = {
-		unidentifiedDisplayName = "Costume Dark Randgris Helm",
+		unidentifiedDisplayName = "Costume Dark Randgris Helm (Upper)",
 		unidentifiedResourceName = "다크네스헬름",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dark Randgris Helm",
+		identifiedDisplayName = "Costume Dark Randgris Helm (Upper)",
 		identifiedResourceName = "다크네스헬름",
 		identifiedDescriptionName = {
-			"A costume version of Dark Randgris Helm.",
-			"It looks the same but has no stats.",
+			"A costume version of Dark Randgris Helm, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -8599,17 +8599,17 @@ tbl = {
 		costume = true
 	},
 	[73471] = {
-		unidentifiedDisplayName = "Costume Large Orc Hero Helm",
+		unidentifiedDisplayName = "Costume Large Orc Hero Helm (Upper)",
 		unidentifiedResourceName = "대형오크히어로투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Large Orc Hero Helm",
+		identifiedDisplayName = "Costume Large Orc Hero Helm (Upper)",
 		identifiedResourceName = "대형오크히어로투구",
 		identifiedDescriptionName = {
-			"A costume version of Large Orc Hero Helm.",
-			"It looks the same but has no stats.",
+			"A costume version of Large Orc Hero Helm, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9031,17 +9031,17 @@ tbl = {
 		costume = true
 	},
 	[73495] = {
-		unidentifiedDisplayName = "Costume Fox Hat",
+		unidentifiedDisplayName = "Costume Fox Hat (Upper)",
 		unidentifiedResourceName = "여우모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Fox Hat",
+		identifiedDisplayName = "Costume Fox Hat (Upper)",
 		identifiedResourceName = "여우모자",
 		identifiedDescriptionName = {
-			"A costume version of Fox Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Fox Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9211,17 +9211,17 @@ tbl = {
 		costume = true
 	},
 	[73505] = {
-		unidentifiedDisplayName = "Costume Brown Paperbag Hat",
+		unidentifiedDisplayName = "Costume Brown Paperbag Hat (Upper)",
 		unidentifiedResourceName = "빵봉투2",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Brown Paperbag Hat",
+		identifiedDisplayName = "Costume Brown Paperbag Hat (Upper)",
 		identifiedResourceName = "빵봉투2",
 		identifiedDescriptionName = {
-			"A costume version of Brown Paperbag Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Brown Paperbag Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9391,17 +9391,17 @@ tbl = {
 		costume = true
 	},
 	[73515] = {
-		unidentifiedDisplayName = "Costume Mask of Ifrit",
+		unidentifiedDisplayName = "Costume Mask of Ifrit (Upper)",
 		unidentifiedResourceName = "이프리트가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mask of Ifrit",
+		identifiedDisplayName = "Costume Mask of Ifrit (Upper)",
 		identifiedResourceName = "이프리트가면",
 		identifiedDescriptionName = {
-			"A costume version of Mask of Ifrit.",
-			"It looks the same but has no stats.",
+			"A costume version of Mask of Ifrit, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9535,17 +9535,17 @@ tbl = {
 		costume = true
 	},
 	[73523] = {
-		unidentifiedDisplayName = "Costume RWC Anniversary Bread Envelope",
+		unidentifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Upper)",
 		unidentifiedResourceName = "빵봉투1",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume RWC Anniversary Bread Envelope",
+		identifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Upper)",
 		identifiedResourceName = "빵봉투1",
 		identifiedDescriptionName = {
-			"A costume version of RWC Anniversary Bread Envelope.",
-			"It looks the same but has no stats.",
+			"A costume version of RWC Anniversary Bread Envelope, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9877,17 +9877,17 @@ tbl = {
 		costume = true
 	},
 	[73542] = {
-		unidentifiedDisplayName = "Costume Indifferent Solo Hat",
+		unidentifiedDisplayName = "Costume Indifferent Solo Hat (Upper)",
 		unidentifiedResourceName = "혼자놀기상자1",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Indifferent Solo Hat",
+		identifiedDisplayName = "Costume Indifferent Solo Hat (Upper)",
 		identifiedResourceName = "혼자놀기상자1",
 		identifiedDescriptionName = {
-			"A costume version of Indifferent Solo Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Indifferent Solo Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -9895,17 +9895,17 @@ tbl = {
 		costume = true
 	},
 	[73543] = {
-		unidentifiedDisplayName = "Costume Angry Solo Hat",
+		unidentifiedDisplayName = "Costume Angry Solo Hat (Upper)",
 		unidentifiedResourceName = "혼자놀기상자2",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Angry Solo Hat",
+		identifiedDisplayName = "Costume Angry Solo Hat (Upper)",
 		identifiedResourceName = "혼자놀기상자2",
 		identifiedDescriptionName = {
-			"A costume version of Angry Solo Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Angry Solo Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10111,17 +10111,17 @@ tbl = {
 		costume = true
 	},
 	[73555] = {
-		unidentifiedDisplayName = "Costume Evolved Whisper Mask",
+		unidentifiedDisplayName = "Costume Evolved Whisper Mask (Upper)",
 		unidentifiedResourceName = "진화된위스퍼마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Evolved Whisper Mask",
+		identifiedDisplayName = "Costume Evolved Whisper Mask (Upper)",
 		identifiedResourceName = "진화된위스퍼마스크",
 		identifiedDescriptionName = {
-			"A costume version of Evolved Whisper Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Evolved Whisper Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10183,17 +10183,17 @@ tbl = {
 		costume = true
 	},
 	[73559] = {
-		unidentifiedDisplayName = "Costume Grand Peco Headdress",
+		unidentifiedDisplayName = "Costume Grand Peco Headdress (Upper)",
 		unidentifiedResourceName = "그랜드페코의머리띠",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Grand Peco Headdress",
+		identifiedDisplayName = "Costume Grand Peco Headdress (Upper)",
 		identifiedResourceName = "그랜드페코의머리띠",
 		identifiedDescriptionName = {
-			"A costume version of Grand Peco Headdress.",
-			"It looks the same but has no stats.",
+			"A costume version of Grand Peco Headdress, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10291,17 +10291,17 @@ tbl = {
 		costume = true
 	},
 	[73565] = {
-		unidentifiedDisplayName = "Costume Dark Knight Mask",
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Upper)",
 		unidentifiedResourceName = "다크나이트마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dark Knight Mask",
+		identifiedDisplayName = "Costume Dark Knight Mask (Upper)",
 		identifiedResourceName = "다크나이트마스크",
 		identifiedDescriptionName = {
-			"A costume version of Dark Knight Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Dark Knight Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10309,17 +10309,17 @@ tbl = {
 		costume = true
 	},
 	[73566] = {
-		unidentifiedDisplayName = "Costume Odin's Mask",
+		unidentifiedDisplayName = "Costume Odin's Mask (Middle)",
 		unidentifiedResourceName = "오딘마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Odin's Mask",
+		identifiedDisplayName = "Costume Odin's Mask (Middle)",
 		identifiedResourceName = "오딘마스크",
 		identifiedDescriptionName = {
-			"A costume version of Odin's Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Odin's Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10327,17 +10327,17 @@ tbl = {
 		costume = true
 	},
 	[73567] = {
-		unidentifiedDisplayName = "Costume Tiger Face",
+		unidentifiedDisplayName = "Costume Tiger Face (Upper)",
 		unidentifiedResourceName = "호랑이얼굴",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Tiger Face",
+		identifiedDisplayName = "Costume Tiger Face (Upper)",
 		identifiedResourceName = "호랑이얼굴",
 		identifiedDescriptionName = {
-			"A costume version of Tiger Face.",
-			"It looks the same but has no stats.",
+			"A costume version of Tiger Face, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10489,17 +10489,17 @@ tbl = {
 		costume = true
 	},
 	[73576] = {
-		unidentifiedDisplayName = "Costume Sphinx Hat",
+		unidentifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		unidentifiedResourceName = "스핑크스모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sphinx Hat",
+		identifiedDisplayName = "Costume Sphinx Hat (Upper)",
 		identifiedResourceName = "스핑크스모자",
 		identifiedDescriptionName = {
-			"A costume version of Sphinx Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Sphinx Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10561,17 +10561,17 @@ tbl = {
 		costume = true
 	},
 	[73580] = {
-		unidentifiedDisplayName = "Costume Wandering Wolf King Helmet",
+		unidentifiedDisplayName = "Costume Wandering Wolf King Helmet (Upper)",
 		unidentifiedResourceName = "떠돌이늑대왕투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Wandering Wolf King Helmet",
+		identifiedDisplayName = "Costume Wandering Wolf King Helmet (Upper)",
 		identifiedResourceName = "떠돌이늑대왕투구",
 		identifiedDescriptionName = {
-			"A costume version of Wandering Wolf King Helmet.",
-			"It looks the same but has no stats.",
+			"A costume version of Wandering Wolf King Helmet, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10633,17 +10633,17 @@ tbl = {
 		costume = true
 	},
 	[73584] = {
-		unidentifiedDisplayName = "Costume Necromancer's Hood",
+		unidentifiedDisplayName = "Costume Necromancer's Hood (Upper)",
 		unidentifiedResourceName = "강령술사의두건",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Necromancer's Hood",
+		identifiedDisplayName = "Costume Necromancer's Hood (Upper)",
 		identifiedResourceName = "강령술사의두건",
 		identifiedDescriptionName = {
-			"A costume version of Necromancer's Hood.",
-			"It looks the same but has no stats.",
+			"A costume version of Necromancer's Hood, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10669,17 +10669,17 @@ tbl = {
 		costume = true
 	},
 	[73586] = {
-		unidentifiedDisplayName = "Costume RO 5th Wedding Anniversary",
+		unidentifiedDisplayName = "Costume RO 5th Wedding Anniversary (Upper)",
 		unidentifiedResourceName = "5주년기념면사포",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume RO 5th Wedding Anniversary",
+		identifiedDisplayName = "Costume RO 5th Wedding Anniversary (Upper)",
 		identifiedResourceName = "5주년기념면사포",
 		identifiedDescriptionName = {
-			"A costume version of RO 5th Wedding Anniversary.",
-			"It looks the same but has no stats.",
+			"A costume version of RO 5th Wedding Anniversary, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10687,17 +10687,17 @@ tbl = {
 		costume = true
 	},
 	[73587] = {
-		unidentifiedDisplayName = "Costume Ashura Fairy Hat",
+		unidentifiedDisplayName = "Costume Ashura Fairy Hat (Upper)",
 		unidentifiedResourceName = "아사라요정모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Ashura Fairy Hat",
+		identifiedDisplayName = "Costume Ashura Fairy Hat (Upper)",
 		identifiedResourceName = "아사라요정모자",
 		identifiedDescriptionName = {
-			"A costume version of Ashura Fairy Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Ashura Fairy Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10795,17 +10795,17 @@ tbl = {
 		costume = true
 	},
 	[73593] = {
-		unidentifiedDisplayName = "Costume Samambaia",
+		unidentifiedDisplayName = "Costume Samambaia (Upper)",
 		unidentifiedResourceName = "사만바이아",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Samambaia",
+		identifiedDisplayName = "Costume Samambaia (Upper)",
 		identifiedResourceName = "사만바이아",
 		identifiedDescriptionName = {
-			"A costume version of Samambaia.",
-			"It looks the same but has no stats.",
+			"A costume version of Samambaia, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -10957,17 +10957,17 @@ tbl = {
 		costume = true
 	},
 	[73602] = {
-		unidentifiedDisplayName = "Costume Rabbit Earmuffs",
+		unidentifiedDisplayName = "Costume Rabbit Earmuffs (Upper)",
 		unidentifiedResourceName = "토끼귀마개",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Rabbit Earmuffs",
+		identifiedDisplayName = "Costume Rabbit Earmuffs (Upper)",
 		identifiedResourceName = "토끼귀마개",
 		identifiedDescriptionName = {
-			"A costume version of Rabbit Earmuffs.",
-			"It looks the same but has no stats.",
+			"A costume version of Rabbit Earmuffs, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11119,17 +11119,17 @@ tbl = {
 		costume = true
 	},
 	[73611] = {
-		unidentifiedDisplayName = "Costume Devil's Bone Helm",
+		unidentifiedDisplayName = "Costume Devil's Bone Helm (Upper)",
 		unidentifiedResourceName = "마왕의뼈투구",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Devil's Bone Helm",
+		identifiedDisplayName = "Costume Devil's Bone Helm (Upper)",
 		identifiedResourceName = "마왕의뼈투구",
 		identifiedDescriptionName = {
-			"A costume version of Devil's Bone Helm.",
-			"It looks the same but has no stats.",
+			"A costume version of Devil's Bone Helm, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11263,17 +11263,17 @@ tbl = {
 		costume = true
 	},
 	[73619] = {
-		unidentifiedDisplayName = "Costume Tucan Hat",
+		unidentifiedDisplayName = "Costume Tucan Hat (Upper)",
 		unidentifiedResourceName = "투칸모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Tucan Hat",
+		identifiedDisplayName = "Costume Tucan Hat (Upper)",
 		identifiedResourceName = "투칸모자",
 		identifiedDescriptionName = {
-			"A costume version of Tucan Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Tucan Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11281,17 +11281,17 @@ tbl = {
 		costume = true
 	},
 	[73620] = {
-		unidentifiedDisplayName = "Costume Jaguar Hat",
+		unidentifiedDisplayName = "Costume Jaguar Hat (Upper)",
 		unidentifiedResourceName = "재규어모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Jaguar Hat",
+		identifiedDisplayName = "Costume Jaguar Hat (Upper)",
 		identifiedResourceName = "재규어모자",
 		identifiedDescriptionName = {
-			"A costume version of Jaguar Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Jaguar Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11569,17 +11569,17 @@ tbl = {
 		costume = true
 	},
 	[73636] = {
-		unidentifiedDisplayName = "Costume Fur Seal Hat",
+		unidentifiedDisplayName = "Costume Fur Seal Hat (Upper)",
 		unidentifiedResourceName = "퍼씰모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Fur Seal Hat",
+		identifiedDisplayName = "Costume Fur Seal Hat (Upper)",
 		identifiedResourceName = "퍼씰모자",
 		identifiedDescriptionName = {
-			"A costume version of Fur Seal Hat.",
-			"It looks the same but has no stats.",
+			"A costume version of Fur Seal Hat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11677,17 +11677,17 @@ tbl = {
 		costume = true
 	},
 	[73642] = {
-		unidentifiedDisplayName = "Costume Love of Truth",
+		unidentifiedDisplayName = "Costume Love of Truth (Upper)",
 		unidentifiedResourceName = "5주년기념면사포",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Love of Truth",
+		identifiedDisplayName = "Costume Love of Truth (Upper)",
 		identifiedResourceName = "5주년기념면사포",
 		identifiedDescriptionName = {
-			"A costume version of Love of Truth.",
-			"It looks the same but has no stats.",
+			"A costume version of Love of Truth, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11695,17 +11695,17 @@ tbl = {
 		costume = true
 	},
 	[73643] = {
-		unidentifiedDisplayName = "Costume Crown of Deceit",
+		unidentifiedDisplayName = "Costume Crown of Deceit (Upper)",
 		unidentifiedResourceName = "사기의왕관",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Crown of Deceit",
+		identifiedDisplayName = "Costume Crown of Deceit (Upper)",
 		identifiedResourceName = "사기의왕관",
 		identifiedDescriptionName = {
-			"A costume version of Crown of Deceit.",
-			"It looks the same but has no stats.",
+			"A costume version of Crown of Deceit, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11713,17 +11713,17 @@ tbl = {
 		costume = true
 	},
 	[73644] = {
-		unidentifiedDisplayName = "Costume Dragon Arhat Mask",
+		unidentifiedDisplayName = "Costume Dragon Arhat Mask (Middle)",
 		unidentifiedResourceName = "항룡나한가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dragon Arhat Mask",
+		identifiedDisplayName = "Costume Dragon Arhat Mask (Middle)",
 		identifiedResourceName = "항룡나한가면",
 		identifiedDescriptionName = {
-			"A costume version of Dragon Arhat Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Dragon Arhat Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11731,17 +11731,17 @@ tbl = {
 		costume = true
 	},
 	[73645] = {
-		unidentifiedDisplayName = "Costume Tiger Arhat Mask",
+		unidentifiedDisplayName = "Costume Tiger Arhat Mask (Middle)",
 		unidentifiedResourceName = "복호나한가면",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Tiger Arhat Mask",
+		identifiedDisplayName = "Costume Tiger Arhat Mask (Middle)",
 		identifiedResourceName = "복호나한가면",
 		identifiedDescriptionName = {
-			"A costume version of Tiger Arhat Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Tiger Arhat Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle",
+			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11767,17 +11767,17 @@ tbl = {
 		costume = true
 	},
 	[73647] = {
-		unidentifiedDisplayName = "Costume Rabbit Bonnet",
+		unidentifiedDisplayName = "Costume Rabbit Bonnet (Upper)",
 		unidentifiedResourceName = "토끼보닛",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Rabbit Bonnet",
+		identifiedDisplayName = "Costume Rabbit Bonnet (Upper)",
 		identifiedResourceName = "토끼보닛",
 		identifiedDescriptionName = {
-			"A costume version of Rabbit Bonnet.",
-			"It looks the same but has no stats.",
+			"A costume version of Rabbit Bonnet, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11893,17 +11893,17 @@ tbl = {
 		costume = true
 	},
 	[73654] = {
-		unidentifiedDisplayName = "Costume Dark Knight Mask",
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Upper)",
 		unidentifiedResourceName = "다크나이트마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dark Knight Mask",
+		identifiedDisplayName = "Costume Dark Knight Mask (Upper)",
 		identifiedResourceName = "다크나이트마스크",
 		identifiedDescriptionName = {
-			"A costume version of Dark Knight Mask.",
-			"It looks the same but has no stats.",
+			"A costume version of Dark Knight Mask, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -11929,17 +11929,17 @@ tbl = {
 		costume = true
 	},
 	[73656] = {
-		unidentifiedDisplayName = "Costume Wanderer's Sakkat",
+		unidentifiedDisplayName = "Costume Wanderer's Sakkat (Upper)",
 		unidentifiedResourceName = "배회하는자의삿갓",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Wanderer's Sakkat",
+		identifiedDisplayName = "Costume Wanderer's Sakkat (Upper)",
 		identifiedResourceName = "배회하는자의삿갓",
 		identifiedDescriptionName = {
-			"A costume version of Wanderer's Sakkat.",
-			"It looks the same but has no stats.",
+			"A costume version of Wanderer's Sakkat, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -12019,17 +12019,17 @@ tbl = {
 		costume = true
 	},
 	[73661] = {
-		unidentifiedDisplayName = "Costume Rune Hairband",
+		unidentifiedDisplayName = "Costume Rune Hairband (Upper)",
 		unidentifiedResourceName = "룬매듭머리띠",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Rune Hairband",
+		identifiedDisplayName = "Costume Rune Hairband (Upper)",
 		identifiedResourceName = "룬매듭머리띠",
 		identifiedDescriptionName = {
-			"A costume version of Rune Hairband.",
-			"It looks the same but has no stats.",
+			"A costume version of Rune Hairband, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -12109,17 +12109,17 @@ tbl = {
 		costume = true
 	},
 	[73666] = {
-		unidentifiedDisplayName = "Costume Rabbit Bonnet",
+		unidentifiedDisplayName = "Costume Rabbit Bonnet (Upper)",
 		unidentifiedResourceName = "토끼보닛",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Rabbit Bonnet",
+		identifiedDisplayName = "Costume Rabbit Bonnet (Upper)",
 		identifiedResourceName = "토끼보닛",
 		identifiedDescriptionName = {
-			"A costume version of Rabbit Bonnet.",
-			"It looks the same but has no stats.",
+			"A costume version of Rabbit Bonnet, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -12397,17 +12397,17 @@ tbl = {
 		costume = true
 	},
 	[73682] = {
-		unidentifiedDisplayName = "Costume Skull Hood",
+		unidentifiedDisplayName = "Costume Skull Hood (Upper)",
 		unidentifiedResourceName = "해골후드",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Skull Hood",
+		identifiedDisplayName = "Costume Skull Hood (Upper)",
 		identifiedResourceName = "해골후드",
 		identifiedDescriptionName = {
-			"A costume version of Skull Hood.",
-			"It looks the same but has no stats.",
+			"A costume version of Skull Hood, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -13063,17 +13063,17 @@ tbl = {
 		costume = true
 	},
 	[73719] = {
-		unidentifiedDisplayName = "Costume Dark Basilium",
+		unidentifiedDisplayName = "Costume Dark Basilium (Upper)",
 		unidentifiedResourceName = "다크바실리움",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Dark Basilium",
+		identifiedDisplayName = "Costume Dark Basilium (Upper)",
 		identifiedResourceName = "다크바실리움",
 		identifiedDescriptionName = {
-			"A costume version of Dark Basilium.",
-			"It looks the same but has no stats.",
+			"A costume version of Dark Basilium, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -13333,17 +13333,17 @@ tbl = {
 		costume = true
 	},
 	[73734] = {
-		unidentifiedDisplayName = "Costume Crown of Summer",
+		unidentifiedDisplayName = "Costume Crown of Summer (Upper)",
 		unidentifiedResourceName = "태양신의모자",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Crown of Summer",
+		identifiedDisplayName = "Costume Crown of Summer (Upper)",
 		identifiedResourceName = "태양신의모자",
 		identifiedDescriptionName = {
-			"A costume version of Crown of Summer.",
-			"It looks the same but has no stats.",
+			"A costume version of Crown of Summer, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -13513,17 +13513,17 @@ tbl = {
 		costume = true
 	},
 	[73744] = {
-		unidentifiedDisplayName = "Costume Hatta Black",
+		unidentifiedDisplayName = "Costume Hatta Black (Upper)",
 		unidentifiedResourceName = "하타블랙",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Hatta Black",
+		identifiedDisplayName = "Costume Hatta Black (Upper)",
 		identifiedResourceName = "하타블랙",
 		identifiedDescriptionName = {
-			"A costume version of Hatta Black.",
-			"It looks the same but has no stats.",
+			"A costume version of Hatta Black, upper part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Lower, Middle, Upper",
+			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0"
 		},
 		slotCount = 0,
@@ -13708,6 +13708,2292 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 717,
+		costume = true
+	},
+	[73755] = {
+		unidentifiedDisplayName = "Costume Goggles (Middle)",
+		unidentifiedResourceName = "고글",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goggles (Middle)",
+		identifiedResourceName = "고글",
+		identifiedDescriptionName = {
+			"A costume version of Goggles, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1,
+		costume = true
+	},
+	[73756] = {
+		unidentifiedDisplayName = "Costume Goggles (Middle)",
+		unidentifiedResourceName = "고글",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goggles (Middle)",
+		identifiedResourceName = "고글",
+		identifiedDescriptionName = {
+			"A costume version of Goggles, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1,
+		costume = true
+	},
+	[73757] = {
+		unidentifiedDisplayName = "Costume Munak Hat (Middle)",
+		unidentifiedResourceName = "무낙모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Munak Hat (Middle)",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"A costume version of Munak Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[73758] = {
+		unidentifiedDisplayName = "Costume Munak Hat (Lower)",
+		unidentifiedResourceName = "무낙모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Munak Hat (Lower)",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"A costume version of Munak Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[73759] = {
+		unidentifiedDisplayName = "Costume Mr. Smile (Lower)",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mr. Smile (Lower)",
+		identifiedResourceName = "스마일",
+		identifiedDescriptionName = {
+			"A costume version of Mr. Smile, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 65,
+		costume = true
+	},
+	[73760] = {
+		unidentifiedDisplayName = "Costume Opera Mask (Lower)",
+		unidentifiedResourceName = "오페라가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Opera Mask (Lower)",
+		identifiedResourceName = "오페라가면",
+		identifiedDescriptionName = {
+			"A costume version of Opera Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 68,
+		costume = true
+	},
+	[73761] = {
+		unidentifiedDisplayName = "Costume Mr. Scream (Lower)",
+		unidentifiedResourceName = "스크래치마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mr. Scream (Lower)",
+		identifiedResourceName = "스크래치마스크",
+		identifiedDescriptionName = {
+			"A costume version of Mr. Scream, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 75,
+		costume = true
+	},
+	[73762] = {
+		unidentifiedDisplayName = "Costume Welding Mask (Lower)",
+		unidentifiedResourceName = "용접마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Welding Mask (Lower)",
+		identifiedResourceName = "용접마스크",
+		identifiedDescriptionName = {
+			"A costume version of Welding Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 79,
+		costume = true
+	},
+	[73763] = {
+		unidentifiedDisplayName = "Costume Goblin Mask (Lower)",
+		unidentifiedResourceName = "고블린족가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goblin Mask (Lower)",
+		identifiedResourceName = "고블린족가면",
+		identifiedDescriptionName = {
+			"A costume version of Goblin Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 84,
+		costume = true
+	},
+	[73764] = {
+		unidentifiedDisplayName = "Costume Gas Mask (Lower)",
+		unidentifiedResourceName = "가스마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gas Mask (Lower)",
+		identifiedResourceName = "가스마스크",
+		identifiedDescriptionName = {
+			"A costume version of Gas Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 91,
+		costume = true
+	},
+	[73765] = {
+		unidentifiedDisplayName = "Costume Hat of the Sun God (Middle)",
+		unidentifiedResourceName = "태양신의모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hat of the Sun God (Middle)",
+		identifiedResourceName = "태양신의모자",
+		identifiedDescriptionName = {
+			"A costume version of Hat of the Sun God, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 138,
+		costume = true
+	},
+	[73766] = {
+		unidentifiedDisplayName = "Costume Bongun Hat (Middle)",
+		unidentifiedResourceName = "본건모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bongun Hat (Middle)",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"A costume version of Bongun Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 139,
+		costume = true
+	},
+	[73767] = {
+		unidentifiedDisplayName = "Costume Bongun Hat (Lower)",
+		unidentifiedResourceName = "본건모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bongun Hat (Lower)",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"A costume version of Bongun Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 139,
+		costume = true
+	},
+	[73768] = {
+		unidentifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		unidentifiedResourceName = "스핑크스모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		identifiedResourceName = "스핑크스모자",
+		identifiedDescriptionName = {
+			"A costume version of Sphinx Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[73769] = {
+		unidentifiedDisplayName = "Costume Alarm Mask (Lower)",
+		unidentifiedResourceName = "알람가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Alarm Mask (Lower)",
+		identifiedResourceName = "알람가면",
+		identifiedDescriptionName = {
+			"A costume version of Alarm Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 170,
+		costume = true
+	},
+	[73770] = {
+		unidentifiedDisplayName = "Costume Poker Face (Lower)",
+		unidentifiedResourceName = "고블린가면1호",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Poker Face (Lower)",
+		identifiedResourceName = "고블린가면1호",
+		identifiedDescriptionName = {
+			"A costume version of Poker Face, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 171,
+		costume = true
+	},
+	[73771] = {
+		unidentifiedDisplayName = "Costume Surprised Mask (Lower)",
+		unidentifiedResourceName = "고블린가면2호",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Surprised Mask (Lower)",
+		identifiedResourceName = "고블린가면2호",
+		identifiedDescriptionName = {
+			"A costume version of Surprised Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 172,
+		costume = true
+	},
+	[73772] = {
+		unidentifiedDisplayName = "Costume Annoyed Mask (Lower)",
+		unidentifiedResourceName = "고블린가면3호",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Annoyed Mask (Lower)",
+		identifiedResourceName = "고블린가면3호",
+		identifiedDescriptionName = {
+			"A costume version of Annoyed Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 173,
+		costume = true
+	},
+	[73773] = {
+		unidentifiedDisplayName = "Costume Goblin Leader Mask (Lower)",
+		unidentifiedResourceName = "고블린가면4호",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goblin Leader Mask (Lower)",
+		identifiedResourceName = "고블린가면4호",
+		identifiedDescriptionName = {
+			"A costume version of Goblin Leader Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 174,
+		costume = true
+	},
+	[73774] = {
+		unidentifiedDisplayName = "Costume Decorative Golden Bell (Middle)",
+		unidentifiedResourceName = "대형금방울",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Decorative Golden Bell (Middle)",
+		identifiedResourceName = "대형금방울",
+		identifiedDescriptionName = {
+			"A costume version of Decorative Golden Bell, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 175,
+		costume = true
+	},
+	[73775] = {
+		unidentifiedDisplayName = "Costume Coif (Middle)",
+		unidentifiedResourceName = "수녀모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Coif (Middle)",
+		identifiedResourceName = "수녀모자",
+		identifiedDescriptionName = {
+			"A costume version of Coif, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 176,
+		costume = true
+	},
+	[73776] = {
+		unidentifiedDisplayName = "Costume Coif (Middle)",
+		unidentifiedResourceName = "수녀모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Coif (Middle)",
+		identifiedResourceName = "수녀모자",
+		identifiedDescriptionName = {
+			"A costume version of Coif, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 177,
+		costume = true
+	},
+	[73777] = {
+		unidentifiedDisplayName = "Costume Helmet of Orc Hero (Middle)",
+		unidentifiedResourceName = "오크히어로투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Helmet of Orc Hero (Middle)",
+		identifiedResourceName = "오크히어로투구",
+		identifiedDescriptionName = {
+			"A costume version of Helmet of Orc Hero, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 178,
+		costume = true
+	},
+	[73778] = {
+		unidentifiedDisplayName = "Costume Tiger Mask (Middle)",
+		unidentifiedResourceName = "타이거마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Mask (Middle)",
+		identifiedResourceName = "타이거마스크",
+		identifiedDescriptionName = {
+			"A costume version of Tiger Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 181,
+		costume = true
+	},
+	[73779] = {
+		unidentifiedDisplayName = "Costume Zealotus Mask (Middle)",
+		unidentifiedResourceName = "지르타스가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Zealotus Mask (Middle)",
+		identifiedResourceName = "지르타스가면",
+		identifiedDescriptionName = {
+			"A costume version of Zealotus Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 200,
+		costume = true
+	},
+	[73780] = {
+		unidentifiedDisplayName = "Costume Lion Mask (Middle)",
+		unidentifiedResourceName = "라이온마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lion Mask (Middle)",
+		identifiedResourceName = "라이온마스크",
+		identifiedDescriptionName = {
+			"A costume version of Lion Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 202,
+		costume = true
+	},
+	[73781] = {
+		unidentifiedDisplayName = "Costume Close Helmet (Middle)",
+		unidentifiedResourceName = "클로스헬멧",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Close Helmet (Middle)",
+		identifiedResourceName = "클로스헬멧",
+		identifiedDescriptionName = {
+			"A costume version of Close Helmet, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 203,
+		costume = true
+	},
+	[73782] = {
+		unidentifiedDisplayName = "Costume Close Helmet (Lower)",
+		unidentifiedResourceName = "클로스헬멧",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Close Helmet (Lower)",
+		identifiedResourceName = "클로스헬멧",
+		identifiedDescriptionName = {
+			"A costume version of Close Helmet, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 203,
+		costume = true
+	},
+	[73783] = {
+		unidentifiedDisplayName = "Costume Crescent Helm (Middle)",
+		unidentifiedResourceName = "초승달투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crescent Helm (Middle)",
+		identifiedResourceName = "초승달투구",
+		identifiedDescriptionName = {
+			"A costume version of Crescent Helm, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 213,
+		costume = true
+	},
+	[73784] = {
+		unidentifiedDisplayName = "Costume Kabuki Mask (Middle)",
+		unidentifiedResourceName = "가부키가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kabuki Mask (Middle)",
+		identifiedResourceName = "가부키가면",
+		identifiedDescriptionName = {
+			"A costume version of Kabuki Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 214,
+		costume = true
+	},
+	[73785] = {
+		unidentifiedDisplayName = "Costume Kabuki Mask (Lower)",
+		unidentifiedResourceName = "가부키가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kabuki Mask (Lower)",
+		identifiedResourceName = "가부키가면",
+		identifiedDescriptionName = {
+			"A costume version of Kabuki Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 214,
+		costume = true
+	},
+	[73786] = {
+		unidentifiedDisplayName = "Costume Note Headphone (Middle)",
+		unidentifiedResourceName = "음표헤드폰",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Note Headphone (Middle)",
+		identifiedResourceName = "음표헤드폰",
+		identifiedDescriptionName = {
+			"A costume version of Note Headphone, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 220,
+		costume = true
+	},
+	[73787] = {
+		unidentifiedDisplayName = "Costume Chinese Crown (Middle)",
+		unidentifiedResourceName = "봉관",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Chinese Crown (Middle)",
+		identifiedResourceName = "봉관",
+		identifiedDescriptionName = {
+			"A costume version of Chinese Crown, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 221,
+		costume = true
+	},
+	[73788] = {
+		unidentifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		unidentifiedResourceName = "스핑크스모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		identifiedResourceName = "스핑크스모자",
+		identifiedDescriptionName = {
+			"A costume version of Sphinx Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[73789] = {
+		unidentifiedDisplayName = "Costume Munak Hat (Middle)",
+		unidentifiedResourceName = "무낙모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Munak Hat (Middle)",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"A costume version of Munak Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[73790] = {
+		unidentifiedDisplayName = "Costume Munak Hat (Lower)",
+		unidentifiedResourceName = "무낙모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Munak Hat (Lower)",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"A costume version of Munak Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[73791] = {
+		unidentifiedDisplayName = "Costume Bongun Hat (Middle)",
+		unidentifiedResourceName = "본건모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bongun Hat (Middle)",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"A costume version of Bongun Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 139,
+		costume = true
+	},
+	[73792] = {
+		unidentifiedDisplayName = "Costume Bongun Hat (Lower)",
+		unidentifiedResourceName = "본건모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bongun Hat (Lower)",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"A costume version of Bongun Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 139,
+		costume = true
+	},
+	[73793] = {
+		unidentifiedDisplayName = "Costume Bride Mask (Middle)",
+		unidentifiedResourceName = "각시탈",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bride Mask (Middle)",
+		identifiedResourceName = "각시탈",
+		identifiedDescriptionName = {
+			"A costume version of Bride Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 223,
+		costume = true
+	},
+	[73794] = {
+		unidentifiedDisplayName = "Costume Hahoe Mask (Lower)",
+		unidentifiedResourceName = "하회탈",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hahoe Mask (Lower)",
+		identifiedResourceName = "하회탈",
+		identifiedDescriptionName = {
+			"A costume version of Hahoe Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 230,
+		costume = true
+	},
+	[73795] = {
+		unidentifiedDisplayName = "Costume Mythical Lion Mask (Middle)",
+		unidentifiedResourceName = "사자탈",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mythical Lion Mask (Middle)",
+		identifiedResourceName = "사자탈",
+		identifiedDescriptionName = {
+			"A costume version of Mythical Lion Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 231,
+		costume = true
+	},
+	[73796] = {
+		unidentifiedDisplayName = "Costume Helm of Darkness (Middle)",
+		unidentifiedResourceName = "암흑의투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Helm of Darkness (Middle)",
+		identifiedResourceName = "암흑의투구",
+		identifiedDescriptionName = {
+			"A costume version of Helm of Darkness, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 233,
+		costume = true
+	},
+	[73797] = {
+		unidentifiedDisplayName = "Costume Smiling Mask (Lower)",
+		unidentifiedResourceName = "메롱가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Smiling Mask (Lower)",
+		identifiedResourceName = "메롱가면",
+		identifiedDescriptionName = {
+			"A costume version of Smiling Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 253,
+		costume = true
+	},
+	[73798] = {
+		unidentifiedDisplayName = "Costume Emperor's Laurel Crown (Middle)",
+		unidentifiedResourceName = "월계관",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Emperor's Laurel Crown (Middle)",
+		identifiedResourceName = "월계관",
+		identifiedDescriptionName = {
+			"A costume version of Emperor's Laurel Crown, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 261,
+		costume = true
+	},
+	[73799] = {
+		unidentifiedDisplayName = "Costume Moonlight Flower Hat (Middle)",
+		unidentifiedResourceName = "월야화모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Moonlight Flower Hat (Middle)",
+		identifiedResourceName = "월야화모자",
+		identifiedDescriptionName = {
+			"A costume version of Moonlight Flower Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 268,
+		costume = true
+	},
+	[73800] = {
+		unidentifiedDisplayName = "Costume Evolved Big Golden Bell (Middle)",
+		unidentifiedResourceName = "대형금방울",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Evolved Big Golden Bell (Middle)",
+		identifiedResourceName = "대형금방울",
+		identifiedDescriptionName = {
+			"A costume version of Evolved Big Golden Bell, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 175,
+		costume = true
+	},
+	[73801] = {
+		unidentifiedDisplayName = "Costume Evolved Orc Hero Helm (Middle)",
+		unidentifiedResourceName = "오크히어로투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Evolved Orc Hero Helm (Middle)",
+		identifiedResourceName = "오크히어로투구",
+		identifiedDescriptionName = {
+			"A costume version of Evolved Orc Hero Helm, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 178,
+		costume = true
+	},
+	[73802] = {
+		unidentifiedDisplayName = "Costume Shafka (Middle)",
+		unidentifiedResourceName = "귀마개모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Shafka (Middle)",
+		identifiedResourceName = "귀마개모자",
+		identifiedDescriptionName = {
+			"A costume version of Shafka, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 287,
+		costume = true
+	},
+	[73803] = {
+		unidentifiedDisplayName = "Costume Afro Wig (Middle)",
+		unidentifiedResourceName = "아프로가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Afro Wig (Middle)",
+		identifiedResourceName = "아프로가발",
+		identifiedDescriptionName = {
+			"A costume version of Afro Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 302,
+		costume = true
+	},
+	[73804] = {
+		unidentifiedDisplayName = "Costume Pagdayaw (Middle)",
+		unidentifiedResourceName = "아티아티모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pagdayaw (Middle)",
+		identifiedResourceName = "아티아티모자",
+		identifiedDescriptionName = {
+			"A costume version of Pagdayaw, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[73805] = {
+		unidentifiedDisplayName = "Costume Pagdayaw (Lower)",
+		unidentifiedResourceName = "아티아티모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pagdayaw (Lower)",
+		identifiedResourceName = "아티아티모자",
+		identifiedDescriptionName = {
+			"A costume version of Pagdayaw, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[73806] = {
+		unidentifiedDisplayName = "Costume Phoenix Crown (Middle)",
+		unidentifiedResourceName = "봉관",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Phoenix Crown (Middle)",
+		identifiedResourceName = "봉관",
+		identifiedDescriptionName = {
+			"A costume version of Phoenix Crown, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 221,
+		costume = true
+	},
+	[73807] = {
+		unidentifiedDisplayName = "Costume Tongue Mask (Lower)",
+		unidentifiedResourceName = "메롱가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tongue Mask (Lower)",
+		identifiedResourceName = "메롱가면",
+		identifiedDescriptionName = {
+			"A costume version of Tongue Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 253,
+		costume = true
+	},
+	[73808] = {
+		unidentifiedDisplayName = "Costume Happy Wig (Middle)",
+		unidentifiedResourceName = "행복한가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Happy Wig (Middle)",
+		identifiedResourceName = "행복한가발",
+		identifiedDescriptionName = {
+			"A costume version of Happy Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 305,
+		costume = true
+	},
+	[73809] = {
+		unidentifiedDisplayName = "Costume Shiny Wig (Middle)",
+		unidentifiedResourceName = "눈부신가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Shiny Wig (Middle)",
+		identifiedResourceName = "눈부신가발",
+		identifiedDescriptionName = {
+			"A costume version of Shiny Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 306,
+		costume = true
+	},
+	[73810] = {
+		unidentifiedDisplayName = "Costume Marvelous Wig (Middle)",
+		unidentifiedResourceName = "놀라운가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Marvelous Wig (Middle)",
+		identifiedResourceName = "놀라운가발",
+		identifiedDescriptionName = {
+			"A costume version of Marvelous Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 307,
+		costume = true
+	},
+	[73811] = {
+		unidentifiedDisplayName = "Costume Fantastic Wig (Middle)",
+		unidentifiedResourceName = "환상적인가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fantastic Wig (Middle)",
+		identifiedResourceName = "환상적인가발",
+		identifiedDescriptionName = {
+			"A costume version of Fantastic Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 308,
+		costume = true
+	},
+	[73812] = {
+		unidentifiedDisplayName = "Costume Whisper Mask (Middle)",
+		unidentifiedResourceName = "위스퍼마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Whisper Mask (Middle)",
+		identifiedResourceName = "위스퍼마스크",
+		identifiedDescriptionName = {
+			"A costume version of Whisper Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 321,
+		costume = true
+	},
+	[73813] = {
+		unidentifiedDisplayName = "Costume Whisper Mask (Lower)",
+		unidentifiedResourceName = "위스퍼마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Whisper Mask (Lower)",
+		identifiedResourceName = "위스퍼마스크",
+		identifiedDescriptionName = {
+			"A costume version of Whisper Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 321,
+		costume = true
+	},
+	[73814] = {
+		unidentifiedDisplayName = "Costume Golden Bandana (Middle)",
+		unidentifiedResourceName = "태양신의모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Golden Bandana (Middle)",
+		identifiedResourceName = "태양신의모자",
+		identifiedDescriptionName = {
+			"A costume version of Golden Bandana, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 138,
+		costume = true
+	},
+	[73815] = {
+		unidentifiedDisplayName = "Costume Dokkaebi's Wig (Middle)",
+		unidentifiedResourceName = "놀라운가발",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dokkaebi's Wig (Middle)",
+		identifiedResourceName = "놀라운가발",
+		identifiedDescriptionName = {
+			"A costume version of Dokkaebi's Wig, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 307,
+		costume = true
+	},
+	[73816] = {
+		unidentifiedDisplayName = "Costume Pagdayaw (Middle)",
+		unidentifiedResourceName = "아티아티모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pagdayaw (Middle)",
+		identifiedResourceName = "아티아티모자",
+		identifiedDescriptionName = {
+			"A costume version of Pagdayaw, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[73817] = {
+		unidentifiedDisplayName = "Costume Pagdayaw (Lower)",
+		unidentifiedResourceName = "아티아티모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pagdayaw (Lower)",
+		identifiedResourceName = "아티아티모자",
+		identifiedDescriptionName = {
+			"A costume version of Pagdayaw, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[73818] = {
+		unidentifiedDisplayName = "Costume Cap of Blindness (Middle)",
+		unidentifiedResourceName = "맹목모",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cap of Blindness (Middle)",
+		identifiedResourceName = "맹목모",
+		identifiedDescriptionName = {
+			"A costume version of Cap of Blindness, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 326,
+		costume = true
+	},
+	[73819] = {
+		unidentifiedDisplayName = "Costume Cap of Blindness (Lower)",
+		unidentifiedResourceName = "맹목모",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cap of Blindness (Lower)",
+		identifiedResourceName = "맹목모",
+		identifiedDescriptionName = {
+			"A costume version of Cap of Blindness, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 326,
+		costume = true
+	},
+	[73820] = {
+		unidentifiedDisplayName = "Costume Mohawk Mask (Middle)",
+		unidentifiedResourceName = "모히칸",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mohawk Mask (Middle)",
+		identifiedResourceName = "모히칸",
+		identifiedDescriptionName = {
+			"A costume version of Mohawk Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 331,
+		costume = true
+	},
+	[73821] = {
+		unidentifiedDisplayName = "Costume Mohawk Mask (Lower)",
+		unidentifiedResourceName = "모히칸",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mohawk Mask (Lower)",
+		identifiedResourceName = "모히칸",
+		identifiedDescriptionName = {
+			"A costume version of Mohawk Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 331,
+		costume = true
+	},
+	[73822] = {
+		unidentifiedDisplayName = "Costume Diadem (Middle)",
+		unidentifiedResourceName = "다이아뎀",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Diadem (Middle)",
+		identifiedResourceName = "다이아뎀",
+		identifiedDescriptionName = {
+			"A costume version of Diadem, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 335,
+		costume = true
+	},
+	[73823] = {
+		unidentifiedDisplayName = "Costume Hockey Mask (Lower)",
+		unidentifiedResourceName = "하키마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hockey Mask (Lower)",
+		identifiedResourceName = "하키마스크",
+		identifiedDescriptionName = {
+			"A costume version of Hockey Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 336,
+		costume = true
+	},
+	[73824] = {
+		unidentifiedDisplayName = "Costume Refined Helmet of Orc Hero (Middle)",
+		unidentifiedResourceName = "오크히어로투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Refined Helmet of Orc Hero (Middle)",
+		identifiedResourceName = "오크히어로투구",
+		identifiedDescriptionName = {
+			"A costume version of Refined Helmet of Orc Hero, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 178,
+		costume = true
+	},
+	[73825] = {
+		unidentifiedDisplayName = "Costume Loki Mask (Lower)",
+		unidentifiedResourceName = "로키마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Loki Mask (Lower)",
+		identifiedResourceName = "로키마스크",
+		identifiedDescriptionName = {
+			"A costume version of Loki Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 346,
+		costume = true
+	},
+	[73826] = {
+		unidentifiedDisplayName = "Costume Hat of The Sun God (Middle)",
+		unidentifiedResourceName = "태양신의모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hat of The Sun God (Middle)",
+		identifiedResourceName = "태양신의모자",
+		identifiedDescriptionName = {
+			"A costume version of Hat of The Sun God, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 138,
+		costume = true
+	},
+	[73827] = {
+		unidentifiedDisplayName = "Costume Wings of Victory (Middle)",
+		unidentifiedResourceName = "승리의날개",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wings of Victory (Middle)",
+		identifiedResourceName = "승리의날개",
+		identifiedDescriptionName = {
+			"A costume version of Wings of Victory, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 365,
+		costume = true
+	},
+	[73828] = {
+		unidentifiedDisplayName = "Costume Yao Jun Hat (Middle)",
+		unidentifiedResourceName = "혜군모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yao Jun Hat (Middle)",
+		identifiedResourceName = "혜군모자",
+		identifiedDescriptionName = {
+			"A costume version of Yao Jun Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 375,
+		costume = true
+	},
+	[73829] = {
+		unidentifiedDisplayName = "Costume Yao Jun Hat (Lower)",
+		unidentifiedResourceName = "혜군모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yao Jun Hat (Lower)",
+		identifiedResourceName = "혜군모자",
+		identifiedDescriptionName = {
+			"A costume version of Yao Jun Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 375,
+		costume = true
+	},
+	[73830] = {
+		unidentifiedDisplayName = "Costume Judge Hat (Middle)",
+		unidentifiedResourceName = "판관모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Judge Hat (Middle)",
+		identifiedResourceName = "판관모자",
+		identifiedDescriptionName = {
+			"A costume version of Judge Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 377,
+		costume = true
+	},
+	[73831] = {
+		unidentifiedDisplayName = "Costume Dark Randgris Helm (Middle)",
+		unidentifiedResourceName = "다크네스헬름",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Randgris Helm (Middle)",
+		identifiedResourceName = "다크네스헬름",
+		identifiedDescriptionName = {
+			"A costume version of Dark Randgris Helm, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 379,
+		costume = true
+	},
+	[73832] = {
+		unidentifiedDisplayName = "Costume Large Orc Hero Helm (Middle)",
+		unidentifiedResourceName = "대형오크히어로투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Large Orc Hero Helm (Middle)",
+		identifiedResourceName = "대형오크히어로투구",
+		identifiedDescriptionName = {
+			"A costume version of Large Orc Hero Helm, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 381,
+		costume = true
+	},
+	[73833] = {
+		unidentifiedDisplayName = "Costume Fox Hat (Middle)",
+		unidentifiedResourceName = "여우모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fox Hat (Middle)",
+		identifiedResourceName = "여우모자",
+		identifiedDescriptionName = {
+			"A costume version of Fox Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 403,
+		costume = true
+	},
+	[73834] = {
+		unidentifiedDisplayName = "Costume Fox Hat (Lower)",
+		unidentifiedResourceName = "여우모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fox Hat (Lower)",
+		identifiedResourceName = "여우모자",
+		identifiedDescriptionName = {
+			"A costume version of Fox Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 403,
+		costume = true
+	},
+	[73835] = {
+		unidentifiedDisplayName = "Costume Brown Paperbag Hat (Middle)",
+		unidentifiedResourceName = "빵봉투2",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Brown Paperbag Hat (Middle)",
+		identifiedResourceName = "빵봉투2",
+		identifiedDescriptionName = {
+			"A costume version of Brown Paperbag Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 412,
+		costume = true
+	},
+	[73836] = {
+		unidentifiedDisplayName = "Costume Brown Paperbag Hat (Lower)",
+		unidentifiedResourceName = "빵봉투2",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Brown Paperbag Hat (Lower)",
+		identifiedResourceName = "빵봉투2",
+		identifiedDescriptionName = {
+			"A costume version of Brown Paperbag Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 412,
+		costume = true
+	},
+	[73837] = {
+		unidentifiedDisplayName = "Costume Mask of Ifrit (Middle)",
+		unidentifiedResourceName = "이프리트가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mask of Ifrit (Middle)",
+		identifiedResourceName = "이프리트가면",
+		identifiedDescriptionName = {
+			"A costume version of Mask of Ifrit, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 421,
+		costume = true
+	},
+	[73838] = {
+		unidentifiedDisplayName = "Costume Mask of Ifrit (Lower)",
+		unidentifiedResourceName = "이프리트가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mask of Ifrit (Lower)",
+		identifiedResourceName = "이프리트가면",
+		identifiedDescriptionName = {
+			"A costume version of Mask of Ifrit, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 421,
+		costume = true
+	},
+	[73839] = {
+		unidentifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Middle)",
+		unidentifiedResourceName = "빵봉투1",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Middle)",
+		identifiedResourceName = "빵봉투1",
+		identifiedDescriptionName = {
+			"A costume version of RWC Anniversary Bread Envelope, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 429,
+		costume = true
+	},
+	[73840] = {
+		unidentifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Lower)",
+		unidentifiedResourceName = "빵봉투1",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume RWC Anniversary Bread Envelope (Lower)",
+		identifiedResourceName = "빵봉투1",
+		identifiedDescriptionName = {
+			"A costume version of RWC Anniversary Bread Envelope, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 429,
+		costume = true
+	},
+	[73841] = {
+		unidentifiedDisplayName = "Costume Indifferent Solo Hat (Middle)",
+		unidentifiedResourceName = "혼자놀기상자1",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Indifferent Solo Hat (Middle)",
+		identifiedResourceName = "혼자놀기상자1",
+		identifiedDescriptionName = {
+			"A costume version of Indifferent Solo Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 449,
+		costume = true
+	},
+	[73842] = {
+		unidentifiedDisplayName = "Costume Indifferent Solo Hat (Lower)",
+		unidentifiedResourceName = "혼자놀기상자1",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Indifferent Solo Hat (Lower)",
+		identifiedResourceName = "혼자놀기상자1",
+		identifiedDescriptionName = {
+			"A costume version of Indifferent Solo Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 449,
+		costume = true
+	},
+	[73843] = {
+		unidentifiedDisplayName = "Costume Angry Solo Hat (Middle)",
+		unidentifiedResourceName = "혼자놀기상자2",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angry Solo Hat (Middle)",
+		identifiedResourceName = "혼자놀기상자2",
+		identifiedDescriptionName = {
+			"A costume version of Angry Solo Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 450,
+		costume = true
+	},
+	[73844] = {
+		unidentifiedDisplayName = "Costume Angry Solo Hat (Lower)",
+		unidentifiedResourceName = "혼자놀기상자2",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angry Solo Hat (Lower)",
+		identifiedResourceName = "혼자놀기상자2",
+		identifiedDescriptionName = {
+			"A costume version of Angry Solo Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 450,
+		costume = true
+	},
+	[73845] = {
+		unidentifiedDisplayName = "Costume Evolved Whisper Mask (Middle)",
+		unidentifiedResourceName = "진화된위스퍼마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Evolved Whisper Mask (Middle)",
+		identifiedResourceName = "진화된위스퍼마스크",
+		identifiedDescriptionName = {
+			"A costume version of Evolved Whisper Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 458,
+		costume = true
+	},
+	[73846] = {
+		unidentifiedDisplayName = "Costume Evolved Whisper Mask (Lower)",
+		unidentifiedResourceName = "진화된위스퍼마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Evolved Whisper Mask (Lower)",
+		identifiedResourceName = "진화된위스퍼마스크",
+		identifiedDescriptionName = {
+			"A costume version of Evolved Whisper Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 458,
+		costume = true
+	},
+	[73847] = {
+		unidentifiedDisplayName = "Costume Grand Peco Headdress (Middle)",
+		unidentifiedResourceName = "그랜드페코의머리띠",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Grand Peco Headdress (Middle)",
+		identifiedResourceName = "그랜드페코의머리띠",
+		identifiedDescriptionName = {
+			"A costume version of Grand Peco Headdress, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 473,
+		costume = true
+	},
+	[73848] = {
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Middle)",
+		unidentifiedResourceName = "다크나이트마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Knight Mask (Middle)",
+		identifiedResourceName = "다크나이트마스크",
+		identifiedDescriptionName = {
+			"A costume version of Dark Knight Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 479,
+		costume = true
+	},
+	[73849] = {
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Lower)",
+		unidentifiedResourceName = "다크나이트마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Knight Mask (Lower)",
+		identifiedResourceName = "다크나이트마스크",
+		identifiedDescriptionName = {
+			"A costume version of Dark Knight Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 479,
+		costume = true
+	},
+	[73850] = {
+		unidentifiedDisplayName = "Costume Odin's Mask (Lower)",
+		unidentifiedResourceName = "오딘마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odin's Mask (Lower)",
+		identifiedResourceName = "오딘마스크",
+		identifiedDescriptionName = {
+			"A costume version of Odin's Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 480,
+		costume = true
+	},
+	[73851] = {
+		unidentifiedDisplayName = "Costume Tiger Face (Middle)",
+		unidentifiedResourceName = "호랑이얼굴",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Face (Middle)",
+		identifiedResourceName = "호랑이얼굴",
+		identifiedDescriptionName = {
+			"A costume version of Tiger Face, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 483,
+		costume = true
+	},
+	[73852] = {
+		unidentifiedDisplayName = "Costume Tiger Face (Lower)",
+		unidentifiedResourceName = "호랑이얼굴",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Face (Lower)",
+		identifiedResourceName = "호랑이얼굴",
+		identifiedDescriptionName = {
+			"A costume version of Tiger Face, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 483,
+		costume = true
+	},
+	[73853] = {
+		unidentifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		unidentifiedResourceName = "스핑크스모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sphinx Hat (Lower)",
+		identifiedResourceName = "스핑크스모자",
+		identifiedDescriptionName = {
+			"A costume version of Sphinx Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[73854] = {
+		unidentifiedDisplayName = "Costume Wandering Wolf King Helmet (Middle)",
+		unidentifiedResourceName = "떠돌이늑대왕투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wandering Wolf King Helmet (Middle)",
+		identifiedResourceName = "떠돌이늑대왕투구",
+		identifiedDescriptionName = {
+			"A costume version of Wandering Wolf King Helmet, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 490,
+		costume = true
+	},
+	[73855] = {
+		unidentifiedDisplayName = "Costume Necromancer's Hood (Middle)",
+		unidentifiedResourceName = "강령술사의두건",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Necromancer's Hood (Middle)",
+		identifiedResourceName = "강령술사의두건",
+		identifiedDescriptionName = {
+			"A costume version of Necromancer's Hood, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 491,
+		costume = true
+	},
+	[73856] = {
+		unidentifiedDisplayName = "Costume RO 5th Wedding Anniversary (Middle)",
+		unidentifiedResourceName = "5주년기념면사포",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume RO 5th Wedding Anniversary (Middle)",
+		identifiedResourceName = "5주년기념면사포",
+		identifiedDescriptionName = {
+			"A costume version of RO 5th Wedding Anniversary, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 489,
+		costume = true
+	},
+	[73857] = {
+		unidentifiedDisplayName = "Costume Ashura Fairy Hat (Middle)",
+		unidentifiedResourceName = "아사라요정모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ashura Fairy Hat (Middle)",
+		identifiedResourceName = "아사라요정모자",
+		identifiedDescriptionName = {
+			"A costume version of Ashura Fairy Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 492,
+		costume = true
+	},
+	[73858] = {
+		unidentifiedDisplayName = "Costume Samambaia (Middle)",
+		unidentifiedResourceName = "사만바이아",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Samambaia (Middle)",
+		identifiedResourceName = "사만바이아",
+		identifiedDescriptionName = {
+			"A costume version of Samambaia, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 508,
+		costume = true
+	},
+	[73859] = {
+		unidentifiedDisplayName = "Costume Rabbit Earmuffs (Middle)",
+		unidentifiedResourceName = "토끼귀마개",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rabbit Earmuffs (Middle)",
+		identifiedResourceName = "토끼귀마개",
+		identifiedDescriptionName = {
+			"A costume version of Rabbit Earmuffs, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 515,
+		costume = true
+	},
+	[73860] = {
+		unidentifiedDisplayName = "Costume Devil's Bone Helm (Middle)",
+		unidentifiedResourceName = "마왕의뼈투구",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Devil's Bone Helm (Middle)",
+		identifiedResourceName = "마왕의뼈투구",
+		identifiedDescriptionName = {
+			"A costume version of Devil's Bone Helm, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 523,
+		costume = true
+	},
+	[73861] = {
+		unidentifiedDisplayName = "Costume Tucan Hat (Middle)",
+		unidentifiedResourceName = "투칸모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tucan Hat (Middle)",
+		identifiedResourceName = "투칸모자",
+		identifiedDescriptionName = {
+			"A costume version of Tucan Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 528,
+		costume = true
+	},
+	[73862] = {
+		unidentifiedDisplayName = "Costume Jaguar Hat (Middle)",
+		unidentifiedResourceName = "재규어모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jaguar Hat (Middle)",
+		identifiedResourceName = "재규어모자",
+		identifiedDescriptionName = {
+			"A costume version of Jaguar Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 530,
+		costume = true
+	},
+	[73863] = {
+		unidentifiedDisplayName = "Costume Jaguar Hat (Lower)",
+		unidentifiedResourceName = "재규어모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jaguar Hat (Lower)",
+		identifiedResourceName = "재규어모자",
+		identifiedDescriptionName = {
+			"A costume version of Jaguar Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 530,
+		costume = true
+	},
+	[73864] = {
+		unidentifiedDisplayName = "Costume Fur Seal Hat (Middle)",
+		unidentifiedResourceName = "퍼씰모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fur Seal Hat (Middle)",
+		identifiedResourceName = "퍼씰모자",
+		identifiedDescriptionName = {
+			"A costume version of Fur Seal Hat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 540,
+		costume = true
+	},
+	[73865] = {
+		unidentifiedDisplayName = "Costume Fur Seal Hat (Lower)",
+		unidentifiedResourceName = "퍼씰모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fur Seal Hat (Lower)",
+		identifiedResourceName = "퍼씰모자",
+		identifiedDescriptionName = {
+			"A costume version of Fur Seal Hat, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 540,
+		costume = true
+	},
+	[73866] = {
+		unidentifiedDisplayName = "Costume Love of Truth (Middle)",
+		unidentifiedResourceName = "5주년기념면사포",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Love of Truth (Middle)",
+		identifiedResourceName = "5주년기념면사포",
+		identifiedDescriptionName = {
+			"A costume version of Love of Truth, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 489,
+		costume = true
+	},
+	[73867] = {
+		unidentifiedDisplayName = "Costume Crown of Deceit (Middle)",
+		unidentifiedResourceName = "사기의왕관",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crown of Deceit (Middle)",
+		identifiedResourceName = "사기의왕관",
+		identifiedDescriptionName = {
+			"A costume version of Crown of Deceit, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 544,
+		costume = true
+	},
+	[73868] = {
+		unidentifiedDisplayName = "Costume Dragon Arhat Mask (Lower)",
+		unidentifiedResourceName = "항룡나한가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dragon Arhat Mask (Lower)",
+		identifiedResourceName = "항룡나한가면",
+		identifiedDescriptionName = {
+			"A costume version of Dragon Arhat Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 545,
+		costume = true
+	},
+	[73869] = {
+		unidentifiedDisplayName = "Costume Tiger Arhat Mask (Lower)",
+		unidentifiedResourceName = "복호나한가면",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Arhat Mask (Lower)",
+		identifiedResourceName = "복호나한가면",
+		identifiedDescriptionName = {
+			"A costume version of Tiger Arhat Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 546,
+		costume = true
+	},
+	[73870] = {
+		unidentifiedDisplayName = "Costume Rabbit Bonnet (Middle)",
+		unidentifiedResourceName = "토끼보닛",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rabbit Bonnet (Middle)",
+		identifiedResourceName = "토끼보닛",
+		identifiedDescriptionName = {
+			"A costume version of Rabbit Bonnet, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 549,
+		costume = true
+	},
+	[73871] = {
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Middle)",
+		unidentifiedResourceName = "다크나이트마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Knight Mask (Middle)",
+		identifiedResourceName = "다크나이트마스크",
+		identifiedDescriptionName = {
+			"A costume version of Dark Knight Mask, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 479,
+		costume = true
+	},
+	[73872] = {
+		unidentifiedDisplayName = "Costume Dark Knight Mask (Lower)",
+		unidentifiedResourceName = "다크나이트마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Knight Mask (Lower)",
+		identifiedResourceName = "다크나이트마스크",
+		identifiedDescriptionName = {
+			"A costume version of Dark Knight Mask, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 479,
+		costume = true
+	},
+	[73873] = {
+		unidentifiedDisplayName = "Costume Wanderer's Sakkat (Middle)",
+		unidentifiedResourceName = "배회하는자의삿갓",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer's Sakkat (Middle)",
+		identifiedResourceName = "배회하는자의삿갓",
+		identifiedDescriptionName = {
+			"A costume version of Wanderer's Sakkat, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 558,
+		costume = true
+	},
+	[73874] = {
+		unidentifiedDisplayName = "Costume Rune Hairband (Middle)",
+		unidentifiedResourceName = "룬매듭머리띠",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rune Hairband (Middle)",
+		identifiedResourceName = "룬매듭머리띠",
+		identifiedDescriptionName = {
+			"A costume version of Rune Hairband, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 564,
+		costume = true
+	},
+	[73875] = {
+		unidentifiedDisplayName = "Costume Rabbit Bonnet (Middle)",
+		unidentifiedResourceName = "토끼보닛",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rabbit Bonnet (Middle)",
+		identifiedResourceName = "토끼보닛",
+		identifiedDescriptionName = {
+			"A costume version of Rabbit Bonnet, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 549,
+		costume = true
+	},
+	[73876] = {
+		unidentifiedDisplayName = "Costume Skull Hood (Middle)",
+		unidentifiedResourceName = "해골후드",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Skull Hood (Middle)",
+		identifiedResourceName = "해골후드",
+		identifiedDescriptionName = {
+			"A costume version of Skull Hood, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 598,
+		costume = true
+	},
+	[73877] = {
+		unidentifiedDisplayName = "Costume Dark Basilium (Middle)",
+		unidentifiedResourceName = "다크바실리움",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Basilium (Middle)",
+		identifiedResourceName = "다크바실리움",
+		identifiedDescriptionName = {
+			"A costume version of Dark Basilium, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 364,
+		costume = true
+	},
+	[73878] = {
+		unidentifiedDisplayName = "Costume Dark Basilium (Lower)",
+		unidentifiedResourceName = "다크바실리움",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Basilium (Lower)",
+		identifiedResourceName = "다크바실리움",
+		identifiedDescriptionName = {
+			"A costume version of Dark Basilium, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 364,
+		costume = true
+	},
+	[73879] = {
+		unidentifiedDisplayName = "Costume Crown of Summer (Middle)",
+		unidentifiedResourceName = "태양신의모자",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crown of Summer (Middle)",
+		identifiedResourceName = "태양신의모자",
+		identifiedDescriptionName = {
+			"A costume version of Crown of Summer, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 138,
+		costume = true
+	},
+	[73880] = {
+		unidentifiedDisplayName = "Costume Hatta Black (Middle)",
+		unidentifiedResourceName = "하타블랙",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hatta Black (Middle)",
+		identifiedResourceName = "하타블랙",
+		identifiedDescriptionName = {
+			"A costume version of Hatta Black, middle part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 676,
+		costume = true
+	},
+	[73881] = {
+		unidentifiedDisplayName = "Costume Hatta Black (Lower)",
+		unidentifiedResourceName = "하타블랙",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hatta Black (Lower)",
+		identifiedResourceName = "하타블랙",
+		identifiedDescriptionName = {
+			"A costume version of Hatta Black, lower part.",
+			"It looks the same but has no stats. The headgear fills several slots, so it comes as one costume per slot.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 676,
 		costume = true
 	}
 }

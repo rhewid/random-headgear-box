@@ -3,7 +3,8 @@
 //
 // The costume twin of every headgear is a normal item in the id block 73000-75999 (see README.md and the
 // era folder's db/item_db.yml). Which headgear maps to which twin is in the era folder's npc/htc_table.txt:
-// .map[<headgear id>] is the twin's item id (0 = not a headgear we can convert). It is an array lookup, so
+// .map[<headgear id>] is the twin's item id (0 = not a headgear we can convert); a headgear that fills several slots
+// has one twin per slot: .map is the first, .map2 / .map3 the others (the server only hides single-slot costumes). It is an array lookup, so
 // no loop is needed: a script that loops too often is stopped by the server ("infinity loop").
 //
 // What the player gets: the costume. Cards in the headgear go back to the player. Refine, enchantments and
@@ -24,6 +25,8 @@ prontera,181,190,4	script	Costume Tailor#rhb	4_F_02,{
 		.@hid = @inventorylist_id[.@i];
 		.@cid = getvariableofnpc(.map[.@hid], "HTC_Table");
 		if (.@cid <= 0) continue;
+		.@sel_cos2[.@cnt] = getvariableofnpc(.map2[.@hid], "HTC_Table");
+		.@sel_cos3[.@cnt] = getvariableofnpc(.map3[.@hid], "HTC_Table");
 		.@sel_arr[.@cnt] = .@i;
 		.@sel_idx[.@cnt] = @inventorylist_idx[.@i];
 		.@sel_id[.@cnt] = @inventorylist_id[.@i];
@@ -70,6 +73,8 @@ prontera,181,190,4	script	Costume Tailor#rhb	4_F_02,{
 	.@idx = .@sel_idx[.@pick];
 	.@id = .@sel_id[.@pick];
 	.@cos = .@sel_cos[.@pick];
+	.@cos2 = .@sel_cos2[.@pick];
+	.@cos3 = .@sel_cos3[.@pick];
 	.@ref = @inventorylist_refine[.@arr];
 	.@ncards = 0;
 	for (.@k = 1; .@k <= 4; .@k++) {
@@ -82,7 +87,8 @@ prontera,181,190,4	script	Costume Tailor#rhb	4_F_02,{
 
 	mes "[Costume Tailor]";
 	mes "Make a costume from ^0000FF" + (.@ref > 0 ? "+" + .@ref + " " : "") + getitemname(.@id) + "^000000?";
-	mes "You get: ^008800" + getitemname(.@cos) + "^000000.";
+	mes "You get: ^008800" + getitemname(.@cos) + "^000000" + (.@cos2 > 0 ? ", ^008800" + getitemname(.@cos2) + "^000000" : "") + (.@cos3 > 0 ? ", ^008800" + getitemname(.@cos3) + "^000000" : "") + ".";
+	if (.@cos2 > 0) mes "This headgear fills several slots, so it comes as one costume per slot.";
 	if (.@ncards) {
 		mes "Cards returned:";
 		for (.@k = 0; .@k < .@ncards; .@k++) mes " - " + getitemname(.@card[.@k]);
@@ -111,7 +117,7 @@ prontera,181,190,4	script	Costume Tailor#rhb	4_F_02,{
 		mes "That headgear is no longer where it was. Please try again.";
 		close;
 	}
-	if (!checkweight(.@cos, 1)) {
+	if (!checkweight(.@cos, 1) || (.@cos2 > 0 && !checkweight(.@cos2, 1)) || (.@cos3 > 0 && !checkweight(.@cos3, 1))) {
 		mes "[Costume Tailor]";
 		mes "You are carrying too much. Make some room first!";
 		close;
@@ -121,9 +127,11 @@ prontera,181,190,4	script	Costume Tailor#rhb	4_F_02,{
 	if (.fee) Zeny -= .fee;
 	for (.@k = 0; .@k < .@ncards; .@k++) getitem .@card[.@k], 1;
 	getitem .@cos, 1;
+	if (.@cos2 > 0) getitem .@cos2, 1;
+	if (.@cos3 > 0) getitem .@cos3, 1;
 	specialeffect2 EF_COIN;
 	mes "[Costume Tailor]";
-	mes "Here you go: ^008800" + getitemname(.@cos) + "^000000.";
+	mes "Here you go: ^008800" + getitemname(.@cos) + "^000000" + (.@cos2 > 0 ? ", ^008800" + getitemname(.@cos2) + "^000000" : "") + (.@cos3 > 0 ? ", ^008800" + getitemname(.@cos3) + "^000000" : "") + ".";
 	close;
 
 OnInit:
