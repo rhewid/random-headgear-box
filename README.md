@@ -40,8 +40,6 @@ not part of the stock database.
   `setarray` lines of item ids. The app applies the folder for the running era over the mod, so only
   one is ever loaded. Add or remove ids and the script adapts to the length.
 
-Modelled on the chests of ARPG Equipments Mod (container item plus an OnNPCKillEvent roll).
-
 ## Install
 
 Copy the `random-headgear-box` folder to `%APPDATA%\Ragnarok Offline\state\mods`, or use
