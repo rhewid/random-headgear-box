@@ -18,6 +18,13 @@
       "max": 10000,
       "label": "Box drop chance (units of 0.01%)",
       "description": "Chance per monster kill. 5 = 0.05%, 100 = 1%, 0 = no drops."
+    },
+    {
+      "key": "ground_drop",
+      "type": "boolean",
+      "default": false,
+      "label": "Drop the box on the ground",
+      "description": "Off: the box goes straight into your inventory. On: it drops on the ground next to you like a normal drop. If your @autoloot would pick it up (its drop chance is within your @autoloot rate and its type is allowed, or it is on your @autolootitem list), it goes into your inventory anyway."
     }
   ]
 }

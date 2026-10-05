@@ -1,5 +1,9 @@
 // Random Headgear Box drop: every monster kill has a small chance to drop one box.
 // Chance = the "drop_chance" setting in units of 0.01% (5 = 0.05%, the default).
+// With "ground_drop" on, the box falls on the ground next to the player instead of going straight
+// into the inventory. A player whose @autoloot would pick it up still gets it directly, the same
+// test as extended-arpg-eq-mod: the box is on the @autolootitem list, or its drop chance is within
+// the player's @autoloot rate and its item type is allowed.
 
 -	script	RHB_BoxDrop	-1,{
 	end;
@@ -7,12 +11,31 @@
 OnInit:
 	.id = 72001;
 	.chance = callfunc("F_ModSetting", "random-headgear-box", "drop_chance", 5);
+	.ground = callfunc("F_ModSetting", "random-headgear-box", "ground_drop", 0);
 	end;
 
 OnNPCKillEvent:
-	if (.chance > 0 && rand(10000) < .chance) {
-		getitem .id, 1;
-		dispbottom "A Random Headgear Box dropped!", 0x00FF88;
+	if (.chance < 1 || rand(10000) >= .chance) end;
+
+	.@auto = 0;
+	if (.ground) {
+		if (AUTOLOOT_RATE > 0) {
+			.@type = getiteminfo(.id, ITEMINFO_TYPE);
+			if (.chance <= AUTOLOOT_RATE && (AUTOLOOT_TYPE == 0 || (AUTOLOOT_TYPE & (1 << .@type)))) .@auto = 1;
+		}
+		if (!.@auto) {
+			.@n = getautolootitems(.@list);
+			for (.@u = 0; .@u < .@n; .@u++)
+				if (.@list[.@u] == .id) .@auto = 1;
+		}
 	}
+
+	if (.ground && !.@auto) {
+		getmapxy(.@map$, .@x, .@y, BL_PC);
+		makeitem .id, 1, .@map$, .@x, .@y;
+	} else {
+		getitem .id, 1;
+	}
+	//dispbottom "A Random Headgear Box dropped!", 0x00FF88;
 	end;
 }
