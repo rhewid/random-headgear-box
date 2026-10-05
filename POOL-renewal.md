@@ -309,8 +309,8 @@
 | 15127 | Female_Poring_Earmuff | Poring Girl Earrings |
 | 15165 | PureWhite_Marching_Hat | Pure White Marching Hat |
 | 15166 | Necklace_Rosary | Rosary Necklace |
-| 15369 | Cylinder_Hairband_BR | Futuristic Tiara    # !todo check english name |
-| 15385 | MemorialD_Assistant | Little Robot Know-It-All    # !todo check english name |
+| 15369 | Cylinder_Hairband_BR | Futuristic Tiara |
+| 15385 | MemorialD_Assistant | Little Robot Know-It-All |
 | 15434 | Golden_Angel_Statue_YG | Meta Angel Figure (OSM) |
 | 15476 | Comp_Diabolus_Wing | [Not For Sale] Diabolus Wing |
 | 15822 | Magaleta_Ribbon_EXE | Magaleta's Ribbon |
@@ -339,7 +339,7 @@
 | 15897 | Rebirth_Circlet | Rebirth Crown |
 | 15898 | Kings_Crown_A | Awakened Old King's Crown |
 | 15906 | Northern_Cross | Northern Cross |
-| 15920 | Charm_Of_Flame_Heart_BR | Flaming Heart    # !todo check english name |
+| 15920 | Charm_Of_Flame_Heart_BR | Flaming Heart |
 | 15921 | Charm_Of_Nature_BR | Charm Of Great Nature |
 | 15922 | Charm_Of_Frozen_BR | Charm Of Mistic Frozen |
 | 15923 | Charm_Of_Wind_BR | Charm of Leafwind |
@@ -1107,12 +1107,12 @@
 | 410348 | D_Protect_Shields | Divine Protect Shield |
 | 410349 | aegis_410349 | Adventurous Poring |
 | 410362 | Exiled_Ninja_US | Exiled Ninja's Eyes |
-| 410587 | aegis_410587 | Mermaid Headphones (Global Cooldown)    # !todo check english name |
-| 410588 | aegis_410588 | Mermaid Headphones (Variable Casting)    # !todo check english name |
-| 410589 | aegis_410589 | Mermaid Headphones (MAXHP)    # !todo check english name |
-| 410590 | 26_3_MidHat1_ | Mermaid Headphones (Global Cooldown)    # !todo check english name |
-| 410591 | 26_3_MidHat2_ | Mermaid Headphones (Variable Casting)    # !todo check english name |
-| 410592 | 26_3_MidHat3_ | Mermaid Headphones (MAXHP)    # !todo check english name |
+| 410587 | aegis_410587 | Mermaid Headphones (Global Cooldown) |
+| 410588 | aegis_410588 | Mermaid Headphones (Variable Casting) |
+| 410589 | aegis_410589 | Mermaid Headphones (MAXHP) |
+| 410590 | 26_3_MidHat1_ | Mermaid Headphones (Global Cooldown) |
+| 410591 | 26_3_MidHat2_ | Mermaid Headphones (Variable Casting) |
+| 410592 | 26_3_MidHat3_ | Mermaid Headphones (MAXHP) |
 | 420000 | Isabella_Carrot | Isabella Carrot |
 | 420004 | Nine_Tail_Fox_Hair | Fox Hair |
 | 420005 | Love_Feeling_TW | Feeling of Love |

@@ -1,0 +1,61 @@
+// Costume Exchange -- turns Costume Exchange Tickets (item 72032) into costume boxes from the costume collection.
+//
+//   Upper / Middle / Lower Costume Box   "price_costume_slot_box" tickets (default 10): one random costume of that slot
+//   Random Costume Box (any slot)        "price_costume_any_box" tickets  (default 15): one random costume, any head slot or garment
+//
+// The costumes come from the era's costume list (<era>/npc/costume_lists.txt). Costume Exchange Tickets drop from monsters
+// ("costume_ticket_chance" setting) and can be had from Headgear Exchange Tickets at the Ticket Swap NPC.
+
+prontera,185,190,4	script	Costume Exchange#rhb	1_M_SIZ,{
+	mes "[Costume Exchange]";
+	mes "Bring me Costume Exchange Tickets and I will trade them for costume boxes.";
+	mes "You have ^0055FF" + countitem(72032) + "^000000 tickets.";
+	mes "^008800Upper / Middle / Lower Costume Box^000000: " + .p_slot + " tickets";
+	mes "^008800Random Costume Box^000000 (any slot): " + .p_any + " tickets";
+	next;
+	.@kind = select("Costume Box, one slot (" + .p_slot + "):Random Costume Box, any slot (" + .p_any + "):Cancel");
+	if (.@kind == 3) close;
+
+	if (.@kind == 2) {
+		.@box = 72044;
+		.@price = .p_any;
+	} else {
+		.@s = select("Lower:Middle:Upper:Cancel");
+		if (.@s == 4) close;
+		// menu order is lower, middle, upper; slot numbers are 1 = upper, 2 = middle, 3 = lower
+		.@box = 72040 + (4 - .@s);
+		.@price = .p_slot;
+	}
+
+	.@max = countitem(72032) / .@price;
+	if (.@max < 1) {
+		mes "[Costume Exchange]";
+		mes "You need " + .@price + " tickets for a ^008800" + getitemname(.@box) + "^000000 and you have " + countitem(72032) + ".";
+		close;
+	}
+	mes "[Costume Exchange]";
+	mes "^008800" + getitemname(.@box) + "^000000 costs " + .@price + " tickets each.";
+	.@n = callfunc("F_RhbQty", .@max);
+	if (.@n < 1) close;
+	.@total = .@price * .@n;
+	if (countitem(72032) < .@total) {
+		mes "[Costume Exchange]";
+		mes "You do not have enough tickets.";
+		close;
+	}
+	if (!checkweight(.@box, .@n)) {
+		mes "[Costume Exchange]";
+		mes "You are carrying too much. Make some room first!";
+		close;
+	}
+	delitem 72032, .@total;
+	getitem .@box, .@n;
+	mes "[Costume Exchange]";
+	mes "Here you go: " + .@n + " x ^008800" + getitemname(.@box) + "^000000 for " + .@total + " tickets.";
+	close;
+
+OnInit:
+	.p_slot = callfunc("F_ModSetting", "random-headgear-box", "price_costume_slot_box", 10);
+	.p_any = callfunc("F_ModSetting", "random-headgear-box", "price_costume_any_box", 15);
+	end;
+}

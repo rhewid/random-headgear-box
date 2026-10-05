@@ -1013,10 +1013,10 @@ tbl = {
 		ClassNum = 1106
 	},
 	[15369] = {
-		unidentifiedDisplayName = "Futuristic Tiara    # !todo check english name",
+		unidentifiedDisplayName = "Futuristic Tiara",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Futuristic Tiara    # !todo check english name",
+		identifiedDisplayName = "Futuristic Tiara",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
 			"STR + 5",
@@ -1031,10 +1031,10 @@ tbl = {
 		ClassNum = 1477
 	},
 	[15385] = {
-		unidentifiedDisplayName = "Little Robot Know-It-All    # !todo check english name",
+		unidentifiedDisplayName = "Little Robot Know-It-All",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Little Robot Know-It-All    # !todo check english name",
+		identifiedDisplayName = "Little Robot Know-It-All",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"Enables Item Appraisal Lv.1",
@@ -1708,10 +1708,10 @@ tbl = {
 		ClassNum = 2132
 	},
 	[15920] = {
-		unidentifiedDisplayName = "Flaming Heart    # !todo check english name",
+		unidentifiedDisplayName = "Flaming Heart",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Flaming Heart    # !todo check english name",
+		identifiedDisplayName = "Flaming Heart",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
 			"Enables Endow Blaze Lv.1",
@@ -9077,10 +9077,10 @@ tbl = {
 		ClassNum = 2156
 	},
 	[410587] = {
-		unidentifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (Global Cooldown)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"After Cast Delay - 8%",
@@ -9095,10 +9095,10 @@ tbl = {
 		ClassNum = 1254
 	},
 	[410588] = {
-		unidentifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (Variable Casting)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (Variable Casting)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"Variable Cast Time - 8%",
@@ -9113,10 +9113,10 @@ tbl = {
 		ClassNum = 1254
 	},
 	[410589] = {
-		unidentifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (MAXHP)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (MAXHP)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"Max HP + 8%",
@@ -9131,10 +9131,10 @@ tbl = {
 		ClassNum = 1254
 	},
 	[410590] = {
-		unidentifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (Global Cooldown)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"After Cast Delay - 4%",
@@ -9150,10 +9150,10 @@ tbl = {
 		ClassNum = 1254
 	},
 	[410591] = {
-		unidentifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (Variable Casting)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (Variable Casting)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"Variable Cast Time - 4%",
@@ -9169,10 +9169,10 @@ tbl = {
 		ClassNum = 1254
 	},
 	[410592] = {
-		unidentifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
+		unidentifiedDisplayName = "Mermaid Headphones (MAXHP)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
+		identifiedDisplayName = "Mermaid Headphones (MAXHP)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
 			"Max HP + 4%",
@@ -29035,13 +29035,13 @@ tbl = {
 		costume = true
 	},
 	[74025] = {
-		unidentifiedDisplayName = "Costume Futuristic Tiara    # !todo check english name",
+		unidentifiedDisplayName = "Costume Futuristic Tiara",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Futuristic Tiara    # !todo check english name",
+		identifiedDisplayName = "Costume Futuristic Tiara",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Futuristic Tiara    # !todo check english name.",
+			"A costume version of Futuristic Tiara.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -29053,13 +29053,13 @@ tbl = {
 		costume = true
 	},
 	[74026] = {
-		unidentifiedDisplayName = "Costume Little Robot Know-It-All    # !todo check english name",
+		unidentifiedDisplayName = "Costume Little Robot Know-It-All",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Little Robot Know-It-All    # !todo check english name",
+		identifiedDisplayName = "Costume Little Robot Know-It-All",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Little Robot Know-It-All    # !todo check english name.",
+			"A costume version of Little Robot Know-It-All.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -29575,13 +29575,13 @@ tbl = {
 		costume = true
 	},
 	[74055] = {
-		unidentifiedDisplayName = "Costume Flaming Heart    # !todo check english name",
+		unidentifiedDisplayName = "Costume Flaming Heart",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Flaming Heart    # !todo check english name",
+		identifiedDisplayName = "Costume Flaming Heart",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"A costume version of Flaming Heart    # !todo check english name.",
+			"A costume version of Flaming Heart.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -44317,13 +44317,13 @@ tbl = {
 		costume = true
 	},
 	[74874] = {
-		unidentifiedDisplayName = "Costume 2020RTC Naughty Ghost    # !todo check english name",
+		unidentifiedDisplayName = "Costume 2020RTC Naughty Ghost",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume 2020RTC Naughty Ghost    # !todo check english name",
+		identifiedDisplayName = "Costume 2020RTC Naughty Ghost",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of 2020RTC Naughty Ghost    # !todo check english name.",
+			"A costume version of 2020RTC Naughty Ghost.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50023,13 +50023,13 @@ tbl = {
 		costume = true
 	},
 	[75191] = {
-		unidentifiedDisplayName = "Costume Silver Stardust Crown    # !todo check english name",
+		unidentifiedDisplayName = "Costume Silver Stardust Crown",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Silver Stardust Crown    # !todo check english name",
+		identifiedDisplayName = "Costume Silver Stardust Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Silver Stardust Crown    # !todo check english name.",
+			"A costume version of Silver Stardust Crown.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50041,13 +50041,13 @@ tbl = {
 		costume = true
 	},
 	[75192] = {
-		unidentifiedDisplayName = "Costume Scarlet Stardust Crown    # !todo check english name",
+		unidentifiedDisplayName = "Costume Scarlet Stardust Crown",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Scarlet Stardust Crown    # !todo check english name",
+		identifiedDisplayName = "Costume Scarlet Stardust Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Scarlet Stardust Crown    # !todo check english name.",
+			"A costume version of Scarlet Stardust Crown.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50059,13 +50059,13 @@ tbl = {
 		costume = true
 	},
 	[75193] = {
-		unidentifiedDisplayName = "Costume Violet Stardust Crown    # !todo check english name",
+		unidentifiedDisplayName = "Costume Violet Stardust Crown",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Violet Stardust Crown    # !todo check english name",
+		identifiedDisplayName = "Costume Violet Stardust Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Violet Stardust Crown    # !todo check english name.",
+			"A costume version of Violet Stardust Crown.",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50077,13 +50077,13 @@ tbl = {
 		costume = true
 	},
 	[75194] = {
-		unidentifiedDisplayName = "Costume Celestial Rune Crown (Imperial Guard)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Celestial Rune Crown (Imperial Guard)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Celestial Rune Crown (Imperial Guard)    # !todo check english name",
+		identifiedDisplayName = "Costume Celestial Rune Crown (Imperial Guard)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Celestial Rune Crown (Imperial Guard)    # !todo check english name.",
+			"A costume version of Celestial Rune Crown (Imperial Guard).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50095,13 +50095,13 @@ tbl = {
 		costume = true
 	},
 	[75195] = {
-		unidentifiedDisplayName = "Costume Celestial Rune Crown (Abyss Chaser)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Celestial Rune Crown (Abyss Chaser)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Celestial Rune Crown (Abyss Chaser)    # !todo check english name",
+		identifiedDisplayName = "Costume Celestial Rune Crown (Abyss Chaser)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Celestial Rune Crown (Abyss Chaser)    # !todo check english name.",
+			"A costume version of Celestial Rune Crown (Abyss Chaser).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50113,13 +50113,13 @@ tbl = {
 		costume = true
 	},
 	[75196] = {
-		unidentifiedDisplayName = "Costume Rune Crown of the Sky (Spiritualist)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Rune Crown of the Sky (Spiritualist)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Rune Crown of the Sky (Spiritualist)    # !todo check english name",
+		identifiedDisplayName = "Costume Rune Crown of the Sky (Spiritualist)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Rune Crown of the Sky (Spiritualist)    # !todo check english name.",
+			"A costume version of Rune Crown of the Sky (Spiritualist).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50131,13 +50131,13 @@ tbl = {
 		costume = true
 	},
 	[75197] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Meister)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Meister)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Meister)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Meister)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Meister)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Meister).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50149,13 +50149,13 @@ tbl = {
 		costume = true
 	},
 	[75198] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Windhawk)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Windhawk)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Windhawk)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Windhawk)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Windhawk)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Windhawk).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50167,13 +50167,13 @@ tbl = {
 		costume = true
 	},
 	[75199] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Hyper Novice)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Hyper Novice)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Hyper Novice)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Hyper Novice)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Hyper Novice)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Hyper Novice).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50185,13 +50185,13 @@ tbl = {
 		costume = true
 	},
 	[75200] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Cardinal)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Cardinal)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Cardinal)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Cardinal)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Cardinal)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Cardinal).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50203,13 +50203,13 @@ tbl = {
 		costume = true
 	},
 	[75201] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Inquisitor)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Inquisitor)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Inquisitor)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Inquisitor)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Inquisitor)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Inquisitor).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -50221,13 +50221,13 @@ tbl = {
 		costume = true
 	},
 	[75202] = {
-		unidentifiedDisplayName = "Costume Sky Rune Crown (Sky Emperor)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Sky Rune Crown (Sky Emperor)",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Sky Rune Crown (Sky Emperor)    # !todo check english name",
+		identifiedDisplayName = "Costume Sky Rune Crown (Sky Emperor)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A costume version of Sky Rune Crown (Sky Emperor)    # !todo check english name.",
+			"A costume version of Sky Rune Crown (Sky Emperor).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52453,13 +52453,13 @@ tbl = {
 		costume = true
 	},
 	[75326] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (Global Cooldown)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (Global Cooldown).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52471,13 +52471,13 @@ tbl = {
 		costume = true
 	},
 	[75327] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (Variable Casting)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (Variable Casting).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52489,13 +52489,13 @@ tbl = {
 		costume = true
 	},
 	[75328] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (MAXHP)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (MAXHP)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (MAXHP)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (MAXHP)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (MAXHP)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (MAXHP).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52507,13 +52507,13 @@ tbl = {
 		costume = true
 	},
 	[75329] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (Global Cooldown)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (Global Cooldown)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (Global Cooldown).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52525,13 +52525,13 @@ tbl = {
 		costume = true
 	},
 	[75330] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (Variable Casting)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (Variable Casting)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (Variable Casting).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -52543,13 +52543,13 @@ tbl = {
 		costume = true
 	},
 	[75331] = {
-		unidentifiedDisplayName = "Costume Mermaid Headphones (MAXHP)    # !todo check english name",
+		unidentifiedDisplayName = "Costume Mermaid Headphones (MAXHP)",
 		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "A costume." },
-		identifiedDisplayName = "Costume Mermaid Headphones (MAXHP)    # !todo check english name",
+		identifiedDisplayName = "Costume Mermaid Headphones (MAXHP)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A costume version of Mermaid Headphones (MAXHP)    # !todo check english name.",
+			"A costume version of Mermaid Headphones (MAXHP).",
 			"It looks the same but has no stats.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
@@ -58498,6 +58498,12508 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 666,
+		costume = true
+	},
+	[72032] = {
+		unidentifiedDisplayName = "Costume Exchange Ticket",
+		unidentifiedResourceName = "교통카드",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Costume Exchange Ticket",
+		identifiedResourceName = "교통카드",
+		identifiedDescriptionName = {
+			"A ticket dropped by monsters.",
+			"Exchange it for costume boxes at the Costume Exchange in Prontera.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72043] = {
+		unidentifiedDisplayName = "Lower Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Lower Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random lower costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72042] = {
+		unidentifiedDisplayName = "Middle Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Middle Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random middle costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72041] = {
+		unidentifiedDisplayName = "Upper Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Upper Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random upper costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72044] = {
+		unidentifiedDisplayName = "Random Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Random Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random costume, in any slot (including garments).",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[15825] = {
+		unidentifiedDisplayName = "Costume Black Musang Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Musang Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 771,
+		costume = true
+	},
+	[15836] = {
+		unidentifiedDisplayName = "Costume Blazing Angel Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blazing Angel Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 679,
+		costume = true
+	},
+	[15838] = {
+		unidentifiedDisplayName = "Costume Vesper Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Vesper Headgear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1827,
+		costume = true
+	},
+	[15839] = {
+		unidentifiedDisplayName = "Costume Drooping Rebellion",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Drooping Rebellion",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1444,
+		costume = true
+	},
+	[15840] = {
+		unidentifiedDisplayName = "Costume Bike Protector",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bike Protector",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1366,
+		costume = true
+	},
+	[15841] = {
+		unidentifiedDisplayName = "Costume Goggles Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goggles Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1721,
+		costume = true
+	},
+	[15842] = {
+		unidentifiedDisplayName = "Costume Magic Time",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Magic Time",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1998,
+		costume = true
+	},
+	[15844] = {
+		unidentifiedDisplayName = "Costume Muscle Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Muscle Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1211,
+		costume = true
+	},
+	[15846] = {
+		unidentifiedDisplayName = "Costume Artist's Silk Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Artist's Silk Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2057,
+		costume = true
+	},
+	[15847] = {
+		unidentifiedDisplayName = "Costume Unknown Feather Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Unknown Feather Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1597,
+		costume = true
+	},
+	[15851] = {
+		unidentifiedDisplayName = "Costume Freyja Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Freyja Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 328,
+		costume = true
+	},
+	[15853] = {
+		unidentifiedDisplayName = "Costume Gold Ingot Poring",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gold Ingot Poring",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 887,
+		costume = true
+	},
+	[15854] = {
+		unidentifiedDisplayName = "Costume Phigasia Scarf",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Phigasia Scarf",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2079,
+		costume = true
+	},
+	[15875] = {
+		unidentifiedDisplayName = "Costume King of Spirit Circle",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume King of Spirit Circle",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1118,
+		costume = true
+	},
+	[15876] = {
+		unidentifiedDisplayName = "Costume RTC Second Best (Red)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume RTC Second Best (Red)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 578,
+		costume = true
+	},
+	[15888] = {
+		unidentifiedDisplayName = "Costume Dragon Claw Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dragon Claw Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1018,
+		costume = true
+	},
+	[15890] = {
+		unidentifiedDisplayName = "Costume Black Death King's Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Death King's Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 996,
+		costume = true
+	},
+	[15893] = {
+		unidentifiedDisplayName = "Costume Hat of the Sun God (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hat of the Sun God (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 138,
+		costume = true
+	},
+	[15894] = {
+		unidentifiedDisplayName = "Costume Rebirth Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rebirth Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2120,
+		costume = true
+	},
+	[15899] = {
+		unidentifiedDisplayName = "Costume Awakened Old King Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Awakened Old King Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2121,
+		costume = true
+	},
+	[15904] = {
+		unidentifiedDisplayName = "Costume Love Guard",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Love Guard",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 716,
+		costume = true
+	},
+	[15925] = {
+		unidentifiedDisplayName = "Costume Syrup Water Balloon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Syrup Water Balloon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 649,
+		costume = true
+	},
+	[15926] = {
+		unidentifiedDisplayName = "Costume Beer Server",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Beer Server",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 117,
+		costume = true
+	},
+	[15952] = {
+		unidentifiedDisplayName = "Costume 15th Nov Helmet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 15th Nov Helmet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2296,
+		costume = true
+	},
+	[15954] = {
+		unidentifiedDisplayName = "Costume Wichienmaat & Bangkaew",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wichienmaat & Bangkaew",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2297,
+		costume = true
+	},
+	[19287] = {
+		unidentifiedDisplayName = "Costume Cat Poring Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cat Poring Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1438,
+		costume = true
+	},
+	[19933] = {
+		unidentifiedDisplayName = "Costume 711 Headphone",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 711 Headphone",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1131,
+		costume = true
+	},
+	[20072] = {
+		unidentifiedDisplayName = "Costume Deviruchi Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Deviruchi Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[20308] = {
+		unidentifiedDisplayName = "Costume Koneko Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Koneko Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 378,
+		costume = true
+	},
+	[20310] = {
+		unidentifiedDisplayName = "Costume Cute Parrot",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cute Parrot",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1116,
+		costume = true
+	},
+	[20501] = {
+		unidentifiedDisplayName = "Costume Mechanic Wing",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Wing",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 11,
+		costume = true
+	},
+	[20503] = {
+		unidentifiedDisplayName = "Costume Candy Pouch Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Candy Pouch Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 13,
+		costume = true
+	},
+	[20505] = {
+		unidentifiedDisplayName = "Costume Cupid Wing Skyblue",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cupid Wing Skyblue",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 15,
+		costume = true
+	},
+	[20513] = {
+		unidentifiedDisplayName = "Costume EXE Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume EXE Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 22,
+		costume = true
+	},
+	[20518] = {
+		unidentifiedDisplayName = "Costume Gerhard Von Devi Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gerhard Von Devi Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 27,
+		costume = true
+	},
+	[20521] = {
+		unidentifiedDisplayName = "Costume Black Cat Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Cat Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
+	[20523] = {
+		unidentifiedDisplayName = "Costume: 2018 RTC Memorial Cloak",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: 2018 RTC Memorial Cloak",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 28,
+		costume = true
+	},
+	[20527] = {
+		unidentifiedDisplayName = "Costume Pink Butterfly Wing",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pink Butterfly Wing",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 35,
+		costume = true
+	},
+	[20529] = {
+		unidentifiedDisplayName = "Costume 2018 RTC Memorial Cloak",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2018 RTC Memorial Cloak",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 28,
+		costume = true
+	},
+	[20536] = {
+		unidentifiedDisplayName = "Costume Violet Halo",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Violet Halo",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 39,
+		costume = true
+	},
+	[20539] = {
+		unidentifiedDisplayName = "Costume Sakura Festival Ribbon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sakura Festival Ribbon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 40,
+		costume = true
+	},
+	[20542] = {
+		unidentifiedDisplayName = "Costume Black Bear Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Bear Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 43,
+		costume = true
+	},
+	[20573] = {
+		unidentifiedDisplayName = "Costume Violet High Row",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Violet High Row",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 39,
+		costume = true
+	},
+	[20574] = {
+		unidentifiedDisplayName = "Costume Backpack (Red)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Backpack (Red)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[20580] = {
+		unidentifiedDisplayName = "Costume Heart Wing Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Heart Wing Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 58,
+		costume = true
+	},
+	[20581] = {
+		unidentifiedDisplayName = "Costume Soldier Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Soldier Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 59,
+		costume = true
+	},
+	[20585] = {
+		unidentifiedDisplayName = "Costume Angry Bear Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angry Bear Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 63,
+		costume = true
+	},
+	[20587] = {
+		unidentifiedDisplayName = "Wings of Light and Darkness",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Wings of Light and Darkness",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 20,
+		costume = true
+	},
+	[20596] = {
+		unidentifiedDisplayName = "Costume: Black Bear Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Black Bear Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 81,
+		costume = true
+	},
+	[20606] = {
+		unidentifiedDisplayName = "Costume Golden Angel Wing",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Golden Angel Wing",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 5,
+		costume = true
+	},
+	[20612] = {
+		unidentifiedDisplayName = "Costume Ten Guardian Shield",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ten Guardian Shield",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 90,
+		costume = true
+	},
+	[20617] = {
+		unidentifiedDisplayName = "Costume Wing of Eutaxy",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wing of Eutaxy",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 120,
+		costume = true
+	},
+	[20620] = {
+		unidentifiedDisplayName = "Costume Songkran Water Gun",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Songkran Water Gun",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 174,
+		costume = true
+	},
+	[20622] = {
+		unidentifiedDisplayName = "Costume Winner of ROS 2023",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Winner of ROS 2023",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 181,
+		costume = true
+	},
+	[20623] = {
+		unidentifiedDisplayName = "Costume Runner Up of ROS 2023",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Runner Up of ROS 2023",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 182,
+		costume = true
+	},
+	[20624] = {
+		unidentifiedDisplayName = "Costume Second Runner-Up of ROS 2023",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Second Runner-Up of ROS 2023",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 183,
+		costume = true
+	},
+	[20625] = {
+		unidentifiedDisplayName = "Costume Star Champion's Manteau",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Star Champion's Manteau",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 197,
+		costume = true
+	},
+	[20627] = {
+		unidentifiedDisplayName = "Costume Red Pitaya Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Pitaya Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 245,
+		costume = true
+	},
+	[20628] = {
+		unidentifiedDisplayName = "Costume Blue Pitaya Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Pitaya Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 246,
+		costume = true
+	},
+	[20629] = {
+		unidentifiedDisplayName = "Costume Yellow Pitaya Backpack",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yellow Pitaya Backpack",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 247,
+		costume = true
+	},
+	[20985] = {
+		unidentifiedDisplayName = "Costume Gourd Bottle",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gourd Bottle",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 82,
+		costume = true
+	},
+	[20987] = {
+		unidentifiedDisplayName = "Costume Piglering Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Piglering Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 58,
+		costume = true
+	},
+	[20992] = {
+		unidentifiedDisplayName = "Costume Fairy of Eden",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fairy of Eden",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 95,
+		costume = true
+	},
+	[31108] = {
+		unidentifiedDisplayName = "Costume Free Hug",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Free Hug",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1542,
+		costume = true
+	},
+	[31109] = {
+		unidentifiedDisplayName = "Costume Guildsman Recruit",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guildsman Recruit",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1543,
+		costume = true
+	},
+	[31110] = {
+		unidentifiedDisplayName = "Costume Party Seeker",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Party Seeker",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1544,
+		costume = true
+	},
+	[31111] = {
+		unidentifiedDisplayName = "Costume Party Mem Recruit",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Party Mem Recruit",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1545,
+		costume = true
+	},
+	[31112] = {
+		unidentifiedDisplayName = "Costume Begging Board",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Begging Board",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1546,
+		costume = true
+	},
+	[31115] = {
+		unidentifiedDisplayName = "Costume Inw True",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Inw True",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1547,
+		costume = true
+	},
+	[31116] = {
+		unidentifiedDisplayName = "Costume Inw True 7 Days",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Inw True 7 Days",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1547,
+		costume = true
+	},
+	[31156] = {
+		unidentifiedDisplayName = "Costume Nut Shell",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Nut Shell",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 122,
+		costume = true
+	},
+	[31159] = {
+		unidentifiedDisplayName = "Costume Jormungandr Head",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jormungandr Head",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1149,
+		costume = true
+	},
+	[31257] = {
+		unidentifiedDisplayName = "Costume Poring Jars Of Clay",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Poring Jars Of Clay",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1634,
+		costume = true
+	},
+	[31305] = {
+		unidentifiedDisplayName = "Costume: Walking Poring",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Walking Poring",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1666,
+		costume = true
+	},
+	[31324] = {
+		unidentifiedDisplayName = "Costume Kitty DJ",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kitty DJ",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1672,
+		costume = true
+	},
+	[31333] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1395,
+		costume = true
+	},
+	[31334] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1394,
+		costume = true
+	},
+	[31335] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Brown)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Brown)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1393,
+		costume = true
+	},
+	[31336] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1392,
+		costume = true
+	},
+	[31337] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1391,
+		costume = true
+	},
+	[31338] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1390,
+		costume = true
+	},
+	[31339] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1389,
+		costume = true
+	},
+	[31340] = {
+		unidentifiedDisplayName = "Costume: Straight Pony (Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Straight Pony (Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1371,
+		costume = true
+	},
+	[31341] = {
+		unidentifiedDisplayName = "Costume Low Pony (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1613,
+		costume = true
+	},
+	[31342] = {
+		unidentifiedDisplayName = "Costume Low Pony (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1614,
+		costume = true
+	},
+	[31343] = {
+		unidentifiedDisplayName = "Costume Low Pony (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1615,
+		costume = true
+	},
+	[31344] = {
+		unidentifiedDisplayName = "Costume Low Pony (Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1616,
+		costume = true
+	},
+	[31345] = {
+		unidentifiedDisplayName = "Costume Low Pony (Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1617,
+		costume = true
+	},
+	[31346] = {
+		unidentifiedDisplayName = "Costume Low Pony (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1618,
+		costume = true
+	},
+	[31347] = {
+		unidentifiedDisplayName = "Costume Low Pony (Brown)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Brown)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1619,
+		costume = true
+	},
+	[31348] = {
+		unidentifiedDisplayName = "Costume Low Pony (Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Low Pony (Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1620,
+		costume = true
+	},
+	[31349] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1511,
+		costume = true
+	},
+	[31350] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1512,
+		costume = true
+	},
+	[31351] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1513,
+		costume = true
+	},
+	[31352] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1514,
+		costume = true
+	},
+	[31353] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1515,
+		costume = true
+	},
+	[31354] = {
+		unidentifiedDisplayName = "Costume Roll Twin (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1516,
+		costume = true
+	},
+	[31355] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Brown)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Brown)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1517,
+		costume = true
+	},
+	[31356] = {
+		unidentifiedDisplayName = "Costume Roll Twin (Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roll Twin (Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1518,
+		costume = true
+	},
+	[31357] = {
+		unidentifiedDisplayName = "Costume Oliver Wolf Hood",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Oliver Wolf Hood",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 849,
+		costume = true
+	},
+	[31359] = {
+		unidentifiedDisplayName = "Costume Assassin Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Assassin Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 180,
+		costume = true
+	},
+	[31360] = {
+		unidentifiedDisplayName = "Costume Centimental Flower",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Centimental Flower",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 56,
+		costume = true
+	},
+	[31361] = {
+		unidentifiedDisplayName = "Costume Blush",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blush",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 125,
+		costume = true
+	},
+	[31362] = {
+		unidentifiedDisplayName = "Costume Magestic Goat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Magestic Goat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 41,
+		costume = true
+	},
+	[31363] = {
+		unidentifiedDisplayName = "Costume Frog Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Frog Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 448,
+		costume = true
+	},
+	[31364] = {
+		unidentifiedDisplayName = "Costume Deviruchi Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Deviruchi Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[31365] = {
+		unidentifiedDisplayName = "Costume Boys Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Boys Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 102,
+		costume = true
+	},
+	[31366] = {
+		unidentifiedDisplayName = "Costume Valkyrie Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Valkyrie Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 225,
+		costume = true
+	},
+	[31367] = {
+		unidentifiedDisplayName = "Costume Bamboo Leaf Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bamboo Leaf Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1270,
+		costume = true
+	},
+	[31386] = {
+		unidentifiedDisplayName = "Costume Survivor's Orb",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Survivor's Orb",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1488,
+		costume = true
+	},
+	[31419] = {
+		unidentifiedDisplayName = "Costume Angel of Happiness",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angel of Happiness",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1251,
+		costume = true
+	},
+	[31421] = {
+		unidentifiedDisplayName = "Costume Pink Angeling Bubble",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pink Angeling Bubble",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 975,
+		costume = true
+	},
+	[31422] = {
+		unidentifiedDisplayName = "Costume Angeling Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angeling Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 976,
+		costume = true
+	},
+	[31423] = {
+		unidentifiedDisplayName = "Costume: Cute Bear Bear Balloon (Brown)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Cute Bear Bear Balloon (Brown)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1038,
+		costume = true
+	},
+	[31424] = {
+		unidentifiedDisplayName = "Costume Love Love Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Love Love Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1039,
+		costume = true
+	},
+	[31428] = {
+		unidentifiedDisplayName = "Costume Panda Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Panda Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1115,
+		costume = true
+	},
+	[31429] = {
+		unidentifiedDisplayName = "Costume Blue Poring Bubble",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Poring Bubble",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 958,
+		costume = true
+	},
+	[31458] = {
+		unidentifiedDisplayName = "Costume Reservation Limited Poring Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Reservation Limited Poring Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1426,
+		costume = true
+	},
+	[31462] = {
+		unidentifiedDisplayName = "Costume Cute Poring Earmuffs",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cute Poring Earmuffs",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1162,
+		costume = true
+	},
+	[31499] = {
+		unidentifiedDisplayName = "Costume Easter Egg Shell",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Easter Egg Shell",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 537,
+		costume = true
+	},
+	[31500] = {
+		unidentifiedDisplayName = "Costume Sparkler Stick",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sparkler Stick",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1747,
+		costume = true
+	},
+	[31501] = {
+		unidentifiedDisplayName = "Costume Sparkler Fountain",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sparkler Fountain",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1748,
+		costume = true
+	},
+	[31502] = {
+		unidentifiedDisplayName = "Costume Aches Love Cobra",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aches Love Cobra",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1749,
+		costume = true
+	},
+	[31503] = {
+		unidentifiedDisplayName = "Costume 2nd Return Balloons",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2nd Return Balloons",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1750,
+		costume = true
+	},
+	[31515] = {
+		unidentifiedDisplayName = "Costume: Bengal Cat",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Bengal Cat",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1757,
+		costume = true
+	},
+	[31535] = {
+		unidentifiedDisplayName = "Costume: Pink Poo Poo Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Pink Poo Poo Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1102,
+		costume = true
+	},
+	[31536] = {
+		unidentifiedDisplayName = "Costume Beelzebub's Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Beelzebub's Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1350,
+		costume = true
+	},
+	[31537] = {
+		unidentifiedDisplayName = "Costume: 2nd Anniversary Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: 2nd Anniversary Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1772,
+		costume = true
+	},
+	[31539] = {
+		unidentifiedDisplayName = "Costume Roasted Pork Dumpling Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Roasted Pork Dumpling Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1773,
+		costume = true
+	},
+	[31584] = {
+		unidentifiedDisplayName = "Costume: Marin's Muffler",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Marin's Muffler",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1795,
+		costume = true
+	},
+	[31587] = {
+		unidentifiedDisplayName = "Costume: Skoi Rider",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Skoi Rider",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1798,
+		costume = true
+	},
+	[31591] = {
+		unidentifiedDisplayName = "Costume Crown of Might",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crown of Might",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1117,
+		costume = true
+	},
+	[31593] = {
+		unidentifiedDisplayName = "Costume Yellow Scarf",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yellow Scarf",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1170,
+		costume = true
+	},
+	[31594] = {
+		unidentifiedDisplayName = "Costume Red Pencil in Mouth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Pencil in Mouth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 931,
+		costume = true
+	},
+	[31595] = {
+		unidentifiedDisplayName = "Costume Book of Soyga",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Book of Soyga",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 423,
+		costume = true
+	},
+	[31596] = {
+		unidentifiedDisplayName = "Costume Spider Seduction",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Spider Seduction",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1711,
+		costume = true
+	},
+	[31597] = {
+		unidentifiedDisplayName = "Costume Golden Fish Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Golden Fish Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1645,
+		costume = true
+	},
+	[31603] = {
+		unidentifiedDisplayName = "Costume Cat Ears Shortcut",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cat Ears Shortcut",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1752,
+		costume = true
+	},
+	[31604] = {
+		unidentifiedDisplayName = "Costume Cat Ears Long",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cat Ears Long",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1928,
+		costume = true
+	},
+	[31605] = {
+		unidentifiedDisplayName = "Costume Volume Low Twin (White)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Volume Low Twin (White)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1913,
+		costume = true
+	},
+	[31613] = {
+		unidentifiedDisplayName = "Costume Blue Hair of Strong",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Hair of Strong",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1858,
+		costume = true
+	},
+	[31627] = {
+		unidentifiedDisplayName = "Costume Goat Helmet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goat Helmet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 513,
+		costume = true
+	},
+	[31665] = {
+		unidentifiedDisplayName = "Costume Rich Rich Poring",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rich Rich Poring",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 887,
+		costume = true
+	},
+	[31666] = {
+		unidentifiedDisplayName = "Costume Luxury Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Luxury Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 903,
+		costume = true
+	},
+	[31677] = {
+		unidentifiedDisplayName = "Costume Pinocchio Nose",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pinocchio Nose",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 737,
+		costume = true
+	},
+	[31680] = {
+		unidentifiedDisplayName = "Costume Fairy Long Purple",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fairy Long Purple",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1912,
+		costume = true
+	},
+	[31681] = {
+		unidentifiedDisplayName = "Costume Fairy Long Hair (Blonde)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fairy Long Hair (Blonde)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1911,
+		costume = true
+	},
+	[31702] = {
+		unidentifiedDisplayName = "Costume Full Moon Cat Hood",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Full Moon Cat Hood",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1308,
+		costume = true
+	},
+	[31722] = {
+		unidentifiedDisplayName = "Costume Sedora Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sedora Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 869,
+		costume = true
+	},
+	[31821] = {
+		unidentifiedDisplayName = "Costume Jeje Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jeje Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1011,
+		costume = true
+	},
+	[31822] = {
+		unidentifiedDisplayName = "Costume Red Sun Baseball Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Sun Baseball Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 812,
+		costume = true
+	},
+	[31829] = {
+		unidentifiedDisplayName = "Costume I Love China",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume I Love China",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 424,
+		costume = true
+	},
+	[31882] = {
+		unidentifiedDisplayName = "Costume Choco Stick In Mouth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Choco Stick In Mouth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 884,
+		costume = true
+	},
+	[31890] = {
+		unidentifiedDisplayName = "Costume Sagittarius Diadem",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sagittarius Diadem",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 618,
+		costume = true
+	},
+	[31891] = {
+		unidentifiedDisplayName = "Costume Surpentarius Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Surpentarius Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1765,
+		costume = true
+	},
+	[31892] = {
+		unidentifiedDisplayName = "Costume Aquarius Diadem",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aquarius Diadem",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 509,
+		costume = true
+	},
+	[31893] = {
+		unidentifiedDisplayName = "Costume Libra Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Libra Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 593,
+		costume = true
+	},
+	[31894] = {
+		unidentifiedDisplayName = "Costume Scorpio Diadem",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Scorpio Diadem",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 606,
+		costume = true
+	},
+	[31895] = {
+		unidentifiedDisplayName = "Costume Aries Diadem",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aries Diadem",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 531,
+		costume = true
+	},
+	[31896] = {
+		unidentifiedDisplayName = "Costume Capricorn Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Capricorn Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 621,
+		costume = true
+	},
+	[31897] = {
+		unidentifiedDisplayName = "Costume Pisces Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pisces Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 512,
+		costume = true
+	},
+	[31898] = {
+		unidentifiedDisplayName = "Costume Sagittarius Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sagittarius Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 617,
+		costume = true
+	},
+	[31900] = {
+		unidentifiedDisplayName = "Costume Hair Of The Strong",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hair Of The Strong",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 879,
+		costume = true
+	},
+	[31901] = {
+		unidentifiedDisplayName = "Costume White Strong Hair",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Strong Hair",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1317,
+		costume = true
+	},
+	[31908] = {
+		unidentifiedDisplayName = "Costume Antler Fedora",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Antler Fedora",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 811,
+		costume = true
+	},
+	[31910] = {
+		unidentifiedDisplayName = "Costume Festive Santa Beard",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Festive Santa Beard",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 847,
+		costume = true
+	},
+	[31925] = {
+		unidentifiedDisplayName = "Costume Valentine Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Valentine Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 397,
+		costume = true
+	},
+	[31926] = {
+		unidentifiedDisplayName = "Costume Aura Quartz",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aura Quartz",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 866,
+		costume = true
+	},
+	[31935] = {
+		unidentifiedDisplayName = "Costume Baby Dragon Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Baby Dragon Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 525,
+		costume = true
+	},
+	[31941] = {
+		unidentifiedDisplayName = "Costume Storm Cell",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Storm Cell",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 688,
+		costume = true
+	},
+	[31945] = {
+		unidentifiedDisplayName = "Costume Golden Angel Hairband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Golden Angel Hairband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1104,
+		costume = true
+	},
+	[31949] = {
+		unidentifiedDisplayName = "Costume Diablos Wings",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Diablos Wings",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 680,
+		costume = true
+	},
+	[31950] = {
+		unidentifiedDisplayName = "Costume Replica Nut Cracker",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Replica Nut Cracker",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1991,
+		costume = true
+	},
+	[31952] = {
+		unidentifiedDisplayName = "Costume Gates of Netherworld",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gates of Netherworld",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2016,
+		costume = true
+	},
+	[31953] = {
+		unidentifiedDisplayName = "Costume Core Headset",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Core Headset",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2017,
+		costume = true
+	},
+	[31954] = {
+		unidentifiedDisplayName = "Costume Vassalage Necklace",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Vassalage Necklace",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2018,
+		costume = true
+	},
+	[31955] = {
+		unidentifiedDisplayName = "Costume 1st Angeling Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 1st Angeling Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 204,
+		costume = true
+	},
+	[31956] = {
+		unidentifiedDisplayName = "Costume 2nd Angeling Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2nd Angeling Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 204,
+		costume = true
+	},
+	[31958] = {
+		unidentifiedDisplayName = "Costume Santa Poring Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Santa Poring Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1428,
+		costume = true
+	},
+	[31972] = {
+		unidentifiedDisplayName = "Costume Purificatory Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Purificatory Mask",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 8,
+		costume = true
+	},
+	[31977] = {
+		unidentifiedDisplayName = "[Rental] Costume Dog Officer",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "[Rental] Costume Dog Officer",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1601,
+		costume = true
+	},
+	[31980] = {
+		unidentifiedDisplayName = "Costume Concentration Beret",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Concentration Beret",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1122,
+		costume = true
+	},
+	[400080] = {
+		unidentifiedDisplayName = "Costume Kriemhild Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kriemhild Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1056,
+		costume = true
+	},
+	[400081] = {
+		unidentifiedDisplayName = "Costume 2020RTC Naughty Ghost",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2020RTC Naughty Ghost",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2009,
+		costume = true
+	},
+	[400091] = {
+		unidentifiedDisplayName = "Costume Gray Helmet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gray Helmet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 941,
+		costume = true
+	},
+	[400092] = {
+		unidentifiedDisplayName = "Costume Luxurious Horns",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Luxurious Horns",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 513,
+		costume = true
+	},
+	[400093] = {
+		unidentifiedDisplayName = "Costume Ragnarok 18th Anniversary Headwear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ragnarok 18th Anniversary Headwear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2015,
+		costume = true
+	},
+	[400103] = {
+		unidentifiedDisplayName = "Costume Phoenix Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Phoenix Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1056,
+		costume = true
+	},
+	[400104] = {
+		unidentifiedDisplayName = "Odin Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Odin Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 480,
+		costume = true
+	},
+	[400126] = {
+		unidentifiedDisplayName = "Costume Capooring",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Capooring",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2021,
+		costume = true
+	},
+	[400129] = {
+		unidentifiedDisplayName = "Costume Puriku Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Puriku Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2076,
+		costume = true
+	},
+	[400131] = {
+		unidentifiedDisplayName = "Costume Diadem of Brunhild",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Diadem of Brunhild",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1057,
+		costume = true
+	},
+	[400132] = {
+		unidentifiedDisplayName = "Costume Afro Hair Wig",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Afro Hair Wig",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 302,
+		costume = true
+	},
+	[400133] = {
+		unidentifiedDisplayName = "Costume Aurora Parade Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aurora Parade Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1530,
+		costume = true
+	},
+	[400136] = {
+		unidentifiedDisplayName = "Costume Ancient Gold Deco",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ancient Gold Deco",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 739,
+		costume = true
+	},
+	[400143] = {
+		unidentifiedDisplayName = "Costume Crimson Valkyrie Circlet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crimson Valkyrie Circlet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2100,
+		costume = true
+	},
+	[400144] = {
+		unidentifiedDisplayName = "Costume Glory Symbol",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Glory Symbol",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2101,
+		costume = true
+	},
+	[400158] = {
+		unidentifiedDisplayName = "Costume Demon Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Demon Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2135,
+		costume = true
+	},
+	[400159] = {
+		unidentifiedDisplayName = "Costume Bridal Heir Band",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bridal Heir Band",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 167,
+		costume = true
+	},
+	[400161] = {
+		unidentifiedDisplayName = "Costume Hat of King",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hat of King",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 374,
+		costume = true
+	},
+	[400162] = {
+		unidentifiedDisplayName = "Costume Red Navy Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Navy Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 651,
+		costume = true
+	},
+	[400165] = {
+		unidentifiedDisplayName = "Costume Green Apple Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Green Apple Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 821,
+		costume = true
+	},
+	[400166] = {
+		unidentifiedDisplayName = "Costume Aegir Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aegir Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 870,
+		costume = true
+	},
+	[400167] = {
+		unidentifiedDisplayName = "Costume Mosquito Coil",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mosquito Coil",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 563,
+		costume = true
+	},
+	[400168] = {
+		unidentifiedDisplayName = "Costume Souvenirs Of Izlude",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Souvenirs Of Izlude",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1377,
+		costume = true
+	},
+	[400169] = {
+		unidentifiedDisplayName = "Costume Fish Pin",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fish Pin",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 669,
+		costume = true
+	},
+	[400170] = {
+		unidentifiedDisplayName = "Costume Jaty",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jaty",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 686,
+		costume = true
+	},
+	[400171] = {
+		unidentifiedDisplayName = "Costume Angel feather",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angel feather",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 18,
+		costume = true
+	},
+	[400172] = {
+		unidentifiedDisplayName = "Costume Atihan Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Atihan Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[400173] = {
+		unidentifiedDisplayName = "Costume Fancy Phantom Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fancy Phantom Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 710,
+		costume = true
+	},
+	[400175] = {
+		unidentifiedDisplayName = "Costume Camp Fire Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Camp Fire Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 416,
+		costume = true
+	},
+	[400183] = {
+		unidentifiedDisplayName = "Costume Rabbit Earmuffs (Head)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rabbit Earmuffs (Head)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 515,
+		costume = true
+	},
+	[400184] = {
+		unidentifiedDisplayName = "Costume Hill Wind Head (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hill Wind Head (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1342,
+		costume = true
+	},
+	[400186] = {
+		unidentifiedDisplayName = "Costume Snake Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Snake Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 393,
+		costume = true
+	},
+	[400195] = {
+		unidentifiedDisplayName = "Costume Pepperoni Pizza",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pepperoni Pizza",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 487,
+		costume = true
+	},
+	[400196] = {
+		unidentifiedDisplayName = "Costume Autumn Flavor(Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Autumn Flavor(Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1792,
+		costume = true
+	},
+	[400205] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Blue)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Blue)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2190,
+		costume = true
+	},
+	[400206] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Red)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Red)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2191,
+		costume = true
+	},
+	[400207] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Yellow)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Yellow)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2192,
+		costume = true
+	},
+	[400208] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Green)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Green)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2193,
+		costume = true
+	},
+	[400209] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Black)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Black)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2194,
+		costume = true
+	},
+	[400210] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (White)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (White)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2195,
+		costume = true
+	},
+	[400211] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Brown)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Brown)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2196,
+		costume = true
+	},
+	[400212] = {
+		unidentifiedDisplayName = "Costume Odango Twintails (Purple)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Odango Twintails (Purple)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2197,
+		costume = true
+	},
+	[400221] = {
+		unidentifiedDisplayName = "Costume Jasper Crest",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jasper Crest",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 399,
+		costume = true
+	},
+	[400223] = {
+		unidentifiedDisplayName = "Costume Fantastic Wig",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fantastic Wig",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 308,
+		costume = true
+	},
+	[400224] = {
+		unidentifiedDisplayName = "Costume Navy Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Navy Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 652,
+		costume = true
+	},
+	[400250] = {
+		unidentifiedDisplayName = "Costume The Winner of RTC 2021",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume The Winner of RTC 2021",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2213,
+		costume = true
+	},
+	[400251] = {
+		unidentifiedDisplayName = "Costume First Runner Up of RTC 2021",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume First Runner Up of RTC 2021",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2214,
+		costume = true
+	},
+	[400252] = {
+		unidentifiedDisplayName = "Costume Second Runner Up of RTC 2021",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Second Runner Up of RTC 2021",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2215,
+		costume = true
+	},
+	[400256] = {
+		unidentifiedDisplayName = "Costume New Year Headband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume New Year Headband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2179,
+		costume = true
+	},
+	[400258] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2224,
+		costume = true
+	},
+	[400260] = {
+		unidentifiedDisplayName = "Costume Magic lamp",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Magic lamp",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 897,
+		costume = true
+	},
+	[400269] = {
+		unidentifiedDisplayName = "Costume Nostalgia Cherry Blossom",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Nostalgia Cherry Blossom",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2162,
+		costume = true
+	},
+	[400270] = {
+		unidentifiedDisplayName = "Costume Kannam On Head",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kannam On Head",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1003,
+		costume = true
+	},
+	[400271] = {
+		unidentifiedDisplayName = "Costume Shovel Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Shovel Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1024,
+		costume = true
+	},
+	[400277] = {
+		unidentifiedDisplayName = "Costume Felrock's Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Felrock's Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1489,
+		costume = true
+	},
+	[400289] = {
+		unidentifiedDisplayName = "Costume Umbrella Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Umbrella Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 338,
+		costume = true
+	},
+	[400290] = {
+		unidentifiedDisplayName = "Costume Pink Angel Hairband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pink Angel Hairband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 916,
+		costume = true
+	},
+	[400292] = {
+		unidentifiedDisplayName = "Costume Little Angle Gift",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Little Angle Gift",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 444,
+		costume = true
+	},
+	[400312] = {
+		unidentifiedDisplayName = "Costume Tiraya Bonnet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiraya Bonnet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 398,
+		costume = true
+	},
+	[400313] = {
+		unidentifiedDisplayName = "Costume Galaxy Circlet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Galaxy Circlet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 725,
+		costume = true
+	},
+	[400314] = {
+		unidentifiedDisplayName = "Costume Northern Cross",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Northern Cross",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2132,
+		costume = true
+	},
+	[400315] = {
+		unidentifiedDisplayName = "Costume Blue Emotion",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Emotion",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2285,
+		costume = true
+	},
+	[400320] = {
+		unidentifiedDisplayName = "Costume Drum Hood (Black)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Drum Hood (Black)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2146,
+		costume = true
+	},
+	[400321] = {
+		unidentifiedDisplayName = "Costume Academy Freshman Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Academy Freshman Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 409,
+		costume = true
+	},
+	[400325] = {
+		unidentifiedDisplayName = "Costume Wandering Wolf Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wandering Wolf Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 490,
+		costume = true
+	},
+	[400326] = {
+		unidentifiedDisplayName = "Costume Cowhide Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cowhide Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 819,
+		costume = true
+	},
+	[400327] = {
+		unidentifiedDisplayName = "Costume Sleek Pink Half-Updo",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sleek Pink Half-Updo",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2278,
+		costume = true
+	},
+	[400341] = {
+		unidentifiedDisplayName = "Costume Empty Can Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Empty Can Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 851,
+		costume = true
+	},
+	[400342] = {
+		unidentifiedDisplayName = "Costume Pure White Horn",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pure White Horn",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = true
+	},
+	[400347] = {
+		unidentifiedDisplayName = "Costume Necromancer Hood (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Necromancer Hood (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 491,
+		costume = true
+	},
+	[400348] = {
+		unidentifiedDisplayName = "Costume Red Cat Ear Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Cat Ear Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2153,
+		costume = true
+	},
+	[400349] = {
+		unidentifiedDisplayName = "Costume Pumpkin Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pumpkin Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 206,
+		costume = true
+	},
+	[400350] = {
+		unidentifiedDisplayName = "Costume Soul Ring",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Soul Ring",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = true
+	},
+	[400357] = {
+		unidentifiedDisplayName = "Costume Asia Masters 1st Dragon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Asia Masters 1st Dragon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 452,
+		costume = true
+	},
+	[400358] = {
+		unidentifiedDisplayName = "Costume Asia Masters 2nd Dragon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Asia Masters 2nd Dragon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 453,
+		costume = true
+	},
+	[400363] = {
+		unidentifiedDisplayName = "Costume Book of Soyga",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Book of Soyga",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 423,
+		costume = true
+	},
+	[400366] = {
+		unidentifiedDisplayName = "Costume Royal Beret",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Royal Beret",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1122,
+		costume = true
+	},
+	[400367] = {
+		unidentifiedDisplayName = "Costume Ladys Feather Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ladys Feather Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1276,
+		costume = true
+	},
+	[400369] = {
+		unidentifiedDisplayName = "Costume Rabbit Ears And Egg Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rabbit Ears And Egg Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1000,
+		costume = true
+	},
+	[400370] = {
+		unidentifiedDisplayName = "Costume Purple Big Ears Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Purple Big Ears Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2323,
+		costume = true
+	},
+	[400372] = {
+		unidentifiedDisplayName = "Costume 5th Anniversary Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 5th Anniversary Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2326,
+		costume = true
+	},
+	[400397] = {
+		unidentifiedDisplayName = "Costume Pretty Rabbit Hood (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pretty Rabbit Hood (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1085,
+		costume = true
+	},
+	[400398] = {
+		unidentifiedDisplayName = "Costume Feather White Beret",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Feather White Beret",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2286,
+		costume = true
+	},
+	[400402] = {
+		unidentifiedDisplayName = "Costume GGH 1st Anniversary Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume GGH 1st Anniversary Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2344,
+		costume = true
+	},
+	[400403] = {
+		unidentifiedDisplayName = "Costume Face Crusher (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Face Crusher (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1341,
+		costume = true
+	},
+	[400404] = {
+		unidentifiedDisplayName = "Costume Dorothy Doll Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dorothy Doll Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 582,
+		costume = true
+	},
+	[400405] = {
+		unidentifiedDisplayName = "Costume Chocolate Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Chocolate Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 794,
+		costume = true
+	},
+	[400422] = {
+		unidentifiedDisplayName = "Costume Dark Bacilium (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Bacilium (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 364,
+		costume = true
+	},
+	[400423] = {
+		unidentifiedDisplayName = "Costume World-erosive Curse",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume World-erosive Curse",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2020,
+		costume = true
+	},
+	[400424] = {
+		unidentifiedDisplayName = "Costume Owl Viscount Silk Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Owl Viscount Silk Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1323,
+		costume = true
+	},
+	[400425] = {
+		unidentifiedDisplayName = "Costume Falconer Flute",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Falconer Flute",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1143,
+		costume = true
+	},
+	[400426] = {
+		unidentifiedDisplayName = "Costume Smoky Transform Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Smoky Transform Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1646,
+		costume = true
+	},
+	[400429] = {
+		unidentifiedDisplayName = "Costume Mountain Helmet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mountain Helmet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2098,
+		costume = true
+	},
+	[400430] = {
+		unidentifiedDisplayName = "Costume Twin Casquette",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twin Casquette",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 576,
+		costume = true
+	},
+	[400434] = {
+		unidentifiedDisplayName = "Costume Fallen Angel Lost",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fallen Angel Lost",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 907,
+		costume = true
+	},
+	[400435] = {
+		unidentifiedDisplayName = "Costume Mad Hatter's Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mad Hatter's Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2376,
+		costume = true
+	},
+	[400439] = {
+		unidentifiedDisplayName = "Costume Angel's Kiss",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angel's Kiss",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 255,
+		costume = true
+	},
+	[400444] = {
+		unidentifiedDisplayName = "Costume Black Fox Ear Ribbon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Fox Ear Ribbon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1726,
+		costume = true
+	},
+	[400448] = {
+		unidentifiedDisplayName = "Costume Juan Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Juan Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2387,
+		costume = true
+	},
+	[400449] = {
+		unidentifiedDisplayName = "Costume Tare Maid",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tare Maid",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1083,
+		costume = true
+	},
+	[400451] = {
+		unidentifiedDisplayName = "Costume Angeling Bread Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angeling Bread Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2019,
+		costume = true
+	},
+	[400452] = {
+		unidentifiedDisplayName = "Costume Heavy Infantry Silver Helmet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Heavy Infantry Silver Helmet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1781,
+		costume = true
+	},
+	[400458] = {
+		unidentifiedDisplayName = "Costume Ally of the Demons",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ally of the Demons",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2268,
+		costume = true
+	},
+	[400460] = {
+		unidentifiedDisplayName = "Costume Burst Flame",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Burst Flame",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 451,
+		costume = true
+	},
+	[400461] = {
+		unidentifiedDisplayName = "Costume Red Pirate Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Pirate Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 496,
+		costume = true
+	},
+	[400480] = {
+		unidentifiedDisplayName = "Costume Cat Straw Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cat Straw Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2413,
+		costume = true
+	},
+	[400484] = {
+		unidentifiedDisplayName = "Costume Bomb Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bomb Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1191,
+		costume = true
+	},
+	[400485] = {
+		unidentifiedDisplayName = "Costume Twinkling Star",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twinkling Star",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1005,
+		costume = true
+	},
+	[400491] = {
+		unidentifiedDisplayName = "Costume Citrus Bandana (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Citrus Bandana (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 778,
+		costume = true
+	},
+	[400495] = {
+		unidentifiedDisplayName = "Costume Crescent Helm (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crescent Helm (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 213,
+		costume = true
+	},
+	[400497] = {
+		unidentifiedDisplayName = "Costume Academy 1st Completion Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Academy 1st Completion Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 410,
+		costume = true
+	},
+	[400503] = {
+		unidentifiedDisplayName = "Costume Bunny Ear Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bunny Ear Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2422,
+		costume = true
+	},
+	[400509] = {
+		unidentifiedDisplayName = "Costume Golden Whickebein's Ears",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Golden Whickebein's Ears",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1588,
+		costume = true
+	},
+	[400510] = {
+		unidentifiedDisplayName = "Costume Blue Kitten Ears",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Kitten Ears",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1589,
+		costume = true
+	},
+	[400516] = {
+		unidentifiedDisplayName = "Costume Skull hood",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Skull hood",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 598,
+		costume = true
+	},
+	[400517] = {
+		unidentifiedDisplayName = "Costume Fairy Tale Poison Apple",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fairy Tale Poison Apple",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2438,
+		costume = true
+	},
+	[400518] = {
+		unidentifiedDisplayName = "Costume Juno's Eye",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Juno's Eye",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 570,
+		costume = true
+	},
+	[400519] = {
+		unidentifiedDisplayName = "Costume Majestic Goat of Dawn",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Majestic Goat of Dawn",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 513,
+		costume = true
+	},
+	[400520] = {
+		unidentifiedDisplayName = "[Not for Sale] Costume Golden Magestic Goat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "[Not for Sale] Costume Golden Magestic Goat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1800,
+		costume = true
+	},
+	[400565] = {
+		unidentifiedDisplayName = "Costume Small Deviling Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Small Deviling Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 957,
+		costume = true
+	},
+	[400567] = {
+		unidentifiedDisplayName = "Costume Awaking Bloom",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Awaking Bloom",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2449,
+		costume = true
+	},
+	[400588] = {
+		unidentifiedDisplayName = "Costume Lucky Purse",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lucky Purse",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2493,
+		costume = true
+	},
+	[400594] = {
+		unidentifiedDisplayName = "Costume Clockwise",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Clockwise",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2350,
+		costume = true
+	},
+	[400595] = {
+		unidentifiedDisplayName = "Costume Mary's Charity (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mary's Charity (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 610,
+		costume = true
+	},
+	[400596] = {
+		unidentifiedDisplayName = "Costume Petit Chocolate Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Petit Chocolate Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2498,
+		costume = true
+	},
+	[400600] = {
+		unidentifiedDisplayName = "Costume Numbawan GGH",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Numbawan GGH",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2502,
+		costume = true
+	},
+	[400606] = {
+		unidentifiedDisplayName = "Costume Crown of Mistress",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Crown of Mistress",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 165,
+		costume = true
+	},
+	[400607] = {
+		unidentifiedDisplayName = "Costume Riot Chip",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Riot Chip",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1201,
+		costume = true
+	},
+	[400635] = {
+		unidentifiedDisplayName = "Costume Flower Summer Knit Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Flower Summer Knit Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2516,
+		costume = true
+	},
+	[400655] = {
+		unidentifiedDisplayName = "Costume Octopus Leg In Mouth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Octopus Leg In Mouth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2401,
+		costume = true
+	},
+	[400656] = {
+		unidentifiedDisplayName = "Costume Khalitzburg Knight White Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Khalitzburg Knight White Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2392,
+		costume = true
+	},
+	[400657] = {
+		unidentifiedDisplayName = "Costume Hyegun Hat (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyegun Hat (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 375,
+		costume = true
+	},
+	[400670] = {
+		unidentifiedDisplayName = "Costume White Cat Coffee Cup",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Cat Coffee Cup",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2538,
+		costume = true
+	},
+	[400671] = {
+		unidentifiedDisplayName = "Costume Fried Egg",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fried Egg",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2542,
+		costume = true
+	},
+	[400682] = {
+		unidentifiedDisplayName = "Costume White Cat Hood (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Cat Hood (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1052,
+		costume = true
+	},
+	[400704] = {
+		unidentifiedDisplayName = "Costume Splash Cat Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Splash Cat Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 507,
+		costume = true
+	},
+	[400708] = {
+		unidentifiedDisplayName = "Costume Wolf Officer Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wolf Officer Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2177,
+		costume = true
+	},
+	[400709] = {
+		unidentifiedDisplayName = "Costume Sitting Dog (White)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sitting Dog (White)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2574,
+		costume = true
+	},
+	[400712] = {
+		unidentifiedDisplayName = "Costume Tiger Mask (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Mask (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 181,
+		costume = true
+	},
+	[400716] = {
+		unidentifiedDisplayName = "Costume Orange Cat Ear Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Orange Cat Ear Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2580,
+		costume = true
+	},
+	[400728] = {
+		unidentifiedDisplayName = "Costume Research Team Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Research Team Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 339,
+		costume = true
+	},
+	[400729] = {
+		unidentifiedDisplayName = "Costume Drops' Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Drops' Headgear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2600,
+		costume = true
+	},
+	[400730] = {
+		unidentifiedDisplayName = "Costume Angeling Hairband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angeling Hairband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2601,
+		costume = true
+	},
+	[400741] = {
+		unidentifiedDisplayName = "Costume RWC 2013 Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume RWC 2013 Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1136,
+		costume = true
+	},
+	[400754] = {
+		unidentifiedDisplayName = "Costume Squirrel Ear Hood (Albino)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Squirrel Ear Hood (Albino)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2371,
+		costume = true
+	},
+	[400755] = {
+		unidentifiedDisplayName = "Costume Ulle's Cap",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ulle's Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 254,
+		costume = true
+	},
+	[400756] = {
+		unidentifiedDisplayName = "Costume Veil of Sacred Gems",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Veil of Sacred Gems",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1420,
+		costume = true
+	},
+	[400757] = {
+		unidentifiedDisplayName = "Costume White Fox Hood Twin",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Fox Hood Twin",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2646,
+		costume = true
+	},
+	[400761] = {
+		unidentifiedDisplayName = "Costume Work Cap",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Work Cap",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1793,
+		costume = true
+	},
+	[400762] = {
+		unidentifiedDisplayName = "Costume Red Head Dress",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Head Dress",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2657,
+		costume = true
+	},
+	[400788] = {
+		unidentifiedDisplayName = "Costume Queen Scaraba Helmet (Upper)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Queen Scaraba Helmet (Upper)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1231,
+		costume = true
+	},
+	[400789] = {
+		unidentifiedDisplayName = "Costume Desecrate Fides Aureola",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Desecrate Fides Aureola",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2668,
+		costume = true
+	},
+	[400793] = {
+		unidentifiedDisplayName = "Costume Satanic Crown",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Satanic Crown",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2523,
+		costume = true
+	},
+	[400794] = {
+		unidentifiedDisplayName = "Costume Many Flowers Love",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Many Flowers Love",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2575,
+		costume = true
+	},
+	[400799] = {
+		unidentifiedDisplayName = "Costume Kumamon Bald Person",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kumamon Bald Person",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2675,
+		costume = true
+	},
+	[400801] = {
+		unidentifiedDisplayName = "Costume Fumi Hausu Doll",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fumi Hausu Doll",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2676,
+		costume = true
+	},
+	[400898] = {
+		unidentifiedDisplayName = "Costume Cherry Blossom Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cherry Blossom Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2582,
+		costume = true
+	},
+	[400899] = {
+		unidentifiedDisplayName = "Costume Invincible Crest Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Invincible Crest Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2391,
+		costume = true
+	},
+	[400900] = {
+		unidentifiedDisplayName = "Costume Majestic Helmet (Black)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Majestic Helmet (Black)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2686,
+		costume = true
+	},
+	[400901] = {
+		unidentifiedDisplayName = "Costume Frog Cap (Brown)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Frog Cap (Brown)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2687,
+		costume = true
+	},
+	[400918] = {
+		unidentifiedDisplayName = "Costume White Cat Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Cat Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2509,
+		costume = true
+	},
+	[400920] = {
+		unidentifiedDisplayName = "Costume Blue Chick Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Chick Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2702,
+		costume = true
+	},
+	[400921] = {
+		unidentifiedDisplayName = "Costume Puppy Headband (Brown)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Puppy Headband (Brown)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2703,
+		costume = true
+	},
+	[400931] = {
+		unidentifiedDisplayName = "Costume Silver Globe Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Silver Globe Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 943,
+		costume = true
+	},
+	[400932] = {
+		unidentifiedDisplayName = "Costume Blue Stardust Hairband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Stardust Hairband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2709,
+		costume = true
+	},
+	[400952] = {
+		unidentifiedDisplayName = "Costume Indian Feather Headband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Indian Feather Headband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 809,
+		costume = true
+	},
+	[400953] = {
+		unidentifiedDisplayName = "Costume Summer Sunglasses",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Summer Sunglasses",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2720,
+		costume = true
+	},
+	[400993] = {
+		unidentifiedDisplayName = "Costume White Mechanical Plant Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Mechanical Plant Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2583,
+		costume = true
+	},
+	[400994] = {
+		unidentifiedDisplayName = "Costume Blue Mechanical Feather",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Mechanical Feather",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2659,
+		costume = true
+	},
+	[401000] = {
+		unidentifiedDisplayName = "Costume Liamette Hair Band",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Liamette Hair Band",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2737,
+		costume = true
+	},
+	[401001] = {
+		unidentifiedDisplayName = "Costume Piamette Bonnet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Piamette Bonnet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2738,
+		costume = true
+	},
+	[401015] = {
+		unidentifiedDisplayName = "Costume Inquisitor Veil",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Inquisitor Veil",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2447,
+		costume = true
+	},
+	[401016] = {
+		unidentifiedDisplayName = "Costume Mage Hat (Brown)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mage Hat (Brown)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 284,
+		costume = true
+	},
+	[401046] = {
+		unidentifiedDisplayName = "Costume Warm PoongCha",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Warm PoongCha",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2755,
+		costume = true
+	},
+	[401062] = {
+		unidentifiedDisplayName = "Costume Ignis Cap (Red)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ignis Cap (Red)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2556,
+		costume = true
+	},
+	[401113] = {
+		unidentifiedDisplayName = "Costume Snow Rune Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Snow Rune Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2203,
+		costume = true
+	},
+	[401114] = {
+		unidentifiedDisplayName = "Costume Asgard Wing Hairband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Asgard Wing Hairband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2100,
+		costume = true
+	},
+	[401148] = {
+		unidentifiedDisplayName = "Costume Blue Poring Hairpin",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Poring Hairpin",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 789,
+		costume = true
+	},
+	[401194] = {
+		unidentifiedDisplayName = "Costume Passion Rabbit Ribbon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Passion Rabbit Ribbon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2484,
+		costume = true
+	},
+	[401196] = {
+		unidentifiedDisplayName = "Costume Striped Ribbon Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Striped Ribbon Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2425,
+		costume = true
+	},
+	[401207] = {
+		unidentifiedDisplayName = "Costume Honor Eagle Five Brothers",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Honor Eagle Five Brothers",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2805,
+		costume = true
+	},
+	[401213] = {
+		unidentifiedDisplayName = "Costume Jaow Pirun Sra Yok",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jaow Pirun Sra Yok",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2810,
+		costume = true
+	},
+	[401246] = {
+		unidentifiedDisplayName = "Costume Fafnir Helm",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fafnir Helm",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2149,
+		costume = true
+	},
+	[401247] = {
+		unidentifiedDisplayName = "Costume Wolf Rayet",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wolf Rayet",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2487,
+		costume = true
+	},
+	[401248] = {
+		unidentifiedDisplayName = "Costume Apprentice Witch Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Apprentice Witch Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2814,
+		costume = true
+	},
+	[401294] = {
+		unidentifiedDisplayName = "Costume Tulip Hairpin (Yellow)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tulip Hairpin (Yellow)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 499,
+		costume = true
+	},
+	[401295] = {
+		unidentifiedDisplayName = "Costume Nymph's Ear",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Nymph's Ear",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2818,
+		costume = true
+	},
+	[401300] = {
+		unidentifiedDisplayName = "Costume Light Green Feather Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Light Green Feather Hat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2819,
+		costume = true
+	},
+	[401303] = {
+		unidentifiedDisplayName = "Costume Ruck Keeper",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ruck Keeper",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2822,
+		costume = true
+	},
+	[401320] = {
+		unidentifiedDisplayName = "Costume Astrologer's Tricorne (Blue)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Astrologer's Tricorne (Blue)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2663,
+		costume = true
+	},
+	[410011] = {
+		unidentifiedDisplayName = "Costume Dark Blinkers",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Blinkers",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 187,
+		costume = true
+	},
+	[410021] = {
+		unidentifiedDisplayName = "Costume Ancient Resonance",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ancient Resonance",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1823,
+		costume = true
+	},
+	[410022] = {
+		unidentifiedDisplayName = "Costume Blue Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 545,
+		costume = true
+	},
+	[410030] = {
+		unidentifiedDisplayName = "Costume Country Tail (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2039,
+		costume = true
+	},
+	[410031] = {
+		unidentifiedDisplayName = "Costume Country Tail (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2040,
+		costume = true
+	},
+	[410032] = {
+		unidentifiedDisplayName = "Costume Country Tail (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2041,
+		costume = true
+	},
+	[410033] = {
+		unidentifiedDisplayName = "Costume Country Tail (Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2042,
+		costume = true
+	},
+	[410034] = {
+		unidentifiedDisplayName = "Costume Country Tail (Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2043,
+		costume = true
+	},
+	[410035] = {
+		unidentifiedDisplayName = "Costume Country Tail (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2044,
+		costume = true
+	},
+	[410036] = {
+		unidentifiedDisplayName = "Costume Country Tail (Brown)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Brown)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2045,
+		costume = true
+	},
+	[410037] = {
+		unidentifiedDisplayName = "Costume Country Tail (Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Country Tail (Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2046,
+		costume = true
+	},
+	[410038] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2047,
+		costume = true
+	},
+	[410039] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2048,
+		costume = true
+	},
+	[410040] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2049,
+		costume = true
+	},
+	[410041] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2050,
+		costume = true
+	},
+	[410042] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2051,
+		costume = true
+	},
+	[410043] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2052,
+		costume = true
+	},
+	[410044] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Brown)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Brown)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2053,
+		costume = true
+	},
+	[410045] = {
+		unidentifiedDisplayName = "Costume Braid Half Up (Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Half Up (Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2054,
+		costume = true
+	},
+	[410047] = {
+		unidentifiedDisplayName = "Costume Hero Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hero Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1367,
+		costume = true
+	},
+	[410050] = {
+		unidentifiedDisplayName = "Costume Puriku White Tea",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Puriku White Tea",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2075,
+		costume = true
+	},
+	[410051] = {
+		unidentifiedDisplayName = "Costume Falling Snow",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Falling Snow",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2080,
+		costume = true
+	},
+	[410053] = {
+		unidentifiedDisplayName = "Costume Exorcist Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Exorcist Glasses",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1169,
+		costume = true
+	},
+	[410059] = {
+		unidentifiedDisplayName = "Costume Ghoul Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ghoul Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2092,
+		costume = true
+	},
+	[410060] = {
+		unidentifiedDisplayName = "Costume Ghost Bat",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ghost Bat",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2093,
+		costume = true
+	},
+	[410072] = {
+		unidentifiedDisplayName = "Costume Demons Familiar",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Demons Familiar",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2127,
+		costume = true
+	},
+	[410073] = {
+		unidentifiedDisplayName = "Costume Diadem",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Diadem",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 335,
+		costume = true
+	},
+	[410074] = {
+		unidentifiedDisplayName = "Costume Gravekeeper Blinker",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gravekeeper Blinker",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1210,
+		costume = true
+	},
+	[410075] = {
+		unidentifiedDisplayName = "Costume Hagu Hagu Poring",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hagu Hagu Poring",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1872,
+		costume = true
+	},
+	[410076] = {
+		unidentifiedDisplayName = "Costume Hagu Hagu Marin",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hagu Hagu Marin",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1871,
+		costume = true
+	},
+	[410077] = {
+		unidentifiedDisplayName = "Costume Happy Balloon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Happy Balloon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1183,
+		costume = true
+	},
+	[410078] = {
+		unidentifiedDisplayName = "Costume 2021RTC Gaming Headset",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2021RTC Gaming Headset",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2134,
+		costume = true
+	},
+	[410083] = {
+		unidentifiedDisplayName = "Costume Scuba Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Scuba Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 400,
+		costume = true
+	},
+	[410086] = {
+		unidentifiedDisplayName = "Costume Melon Headphone",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Melon Headphone",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2129,
+		costume = true
+	},
+	[410098] = {
+		unidentifiedDisplayName = "Costume Nero Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Nero Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 917,
+		costume = true
+	},
+	[410104] = {
+		unidentifiedDisplayName = "Costume Lude Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lude Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 802,
+		costume = true
+	},
+	[410105] = {
+		unidentifiedDisplayName = "Costume Cube Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cube Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 472,
+		costume = true
+	},
+	[410107] = {
+		unidentifiedDisplayName = "Costume Rice Bale (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rice Bale (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1273,
+		costume = true
+	},
+	[410111] = {
+		unidentifiedDisplayName = "Costume Intake(Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2182,
+		costume = true
+	},
+	[410112] = {
+		unidentifiedDisplayName = "Costume Intake(Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2183,
+		costume = true
+	},
+	[410113] = {
+		unidentifiedDisplayName = "Costume Intake(Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2184,
+		costume = true
+	},
+	[410114] = {
+		unidentifiedDisplayName = "Costume Intake(Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2185,
+		costume = true
+	},
+	[410115] = {
+		unidentifiedDisplayName = "Costume Intake(Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2186,
+		costume = true
+	},
+	[410116] = {
+		unidentifiedDisplayName = "Costume Intake(White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2187,
+		costume = true
+	},
+	[410117] = {
+		unidentifiedDisplayName = "Costume Intake(Orange)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Orange)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2188,
+		costume = true
+	},
+	[410118] = {
+		unidentifiedDisplayName = "Costume Intake(Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Intake(Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2189,
+		costume = true
+	},
+	[410121] = {
+		unidentifiedDisplayName = "Costume Guardian Helm",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guardian Helm",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2199,
+		costume = true
+	},
+	[410123] = {
+		unidentifiedDisplayName = "Costume Bear Head",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bear Head",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2147,
+		costume = true
+	},
+	[410128] = {
+		unidentifiedDisplayName = "Costume Powered Income",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Powered Income",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2148,
+		costume = true
+	},
+	[410138] = {
+		unidentifiedDisplayName = "Costume Flower Pot Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Flower Pot Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1086,
+		costume = true
+	},
+	[410143] = {
+		unidentifiedDisplayName = "Costume Charlie's Mustache",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Charlie's Mustache",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 700,
+		costume = true
+	},
+	[410154] = {
+		unidentifiedDisplayName = "Costume Flowery Vision",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Flowery Vision",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1744,
+		costume = true
+	},
+	[410155] = {
+		unidentifiedDisplayName = "Costume Twin Margaret",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twin Margaret",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1472,
+		costume = true
+	},
+	[410167] = {
+		unidentifiedDisplayName = "Costume Popcorn",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Popcorn",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2142,
+		costume = true
+	},
+	[410168] = {
+		unidentifiedDisplayName = "Costume Heart balloon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Heart balloon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1039,
+		costume = true
+	},
+	[410171] = {
+		unidentifiedDisplayName = "Costume Wishing Tree Hat",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wishing Tree Hat",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1270,
+		costume = true
+	},
+	[410178] = {
+		unidentifiedDisplayName = "Costume Princess Headphones",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Princess Headphones",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2275,
+		costume = true
+	},
+	[410179] = {
+		unidentifiedDisplayName = "Costume Queen Melon Headphones",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Queen Melon Headphones",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2276,
+		costume = true
+	},
+	[410194] = {
+		unidentifiedDisplayName = "Costume White Fox Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Fox Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 403,
+		costume = true
+	},
+	[410195] = {
+		unidentifiedDisplayName = "Costume Fluffy Lovely Fox",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fluffy Lovely Fox",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2178,
+		costume = true
+	},
+	[410196] = {
+		unidentifiedDisplayName = "Costume Yinyang Earrings (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yinyang Earrings (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2088,
+		costume = true
+	},
+	[410198] = {
+		unidentifiedDisplayName = "Costume Deviruchi Party",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Deviruchi Party",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2299,
+		costume = true
+	},
+	[410199] = {
+		unidentifiedDisplayName = "Costume Midnight Candle",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Midnight Candle",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2301,
+		costume = true
+	},
+	[410224] = {
+		unidentifiedDisplayName = "Costume Pope Ribbon (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pope Ribbon (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2152,
+		costume = true
+	},
+	[410228] = {
+		unidentifiedDisplayName = "Costume Tomboy Fairy",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tomboy Fairy",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 998,
+		costume = true
+	},
+	[410230] = {
+		unidentifiedDisplayName = "Costume Twin Ribbon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twin Ribbon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 575,
+		costume = true
+	},
+	[410234] = {
+		unidentifiedDisplayName = "Costume Rebellion Pocket Watch",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rebellion Pocket Watch",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2289,
+		costume = true
+	},
+	[410240] = {
+		unidentifiedDisplayName = "Costume White Rabbit",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Rabbit",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2388,
+		costume = true
+	},
+	[410241] = {
+		unidentifiedDisplayName = "Costume Ribbon Sweets Party",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ribbon Sweets Party",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2370,
+		costume = true
+	},
+	[410242] = {
+		unidentifiedDisplayName = "Costume Wanderer Grim Reaper",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Grim Reaper",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2395,
+		costume = true
+	},
+	[410248] = {
+		unidentifiedDisplayName = "Costume Tuk Tuk",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tuk Tuk",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2404,
+		costume = true
+	},
+	[410255] = {
+		unidentifiedDisplayName = "Costume Red & White Headband",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red & White Headband",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 342,
+		costume = true
+	},
+	[410257] = {
+		unidentifiedDisplayName = "Costume Happy Droopy Lunatic Ear",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Happy Droopy Lunatic Ear",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1340,
+		costume = true
+	},
+	[410258] = {
+		unidentifiedDisplayName = "Costume Kabuki Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kabuki Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 214,
+		costume = true
+	},
+	[410266] = {
+		unidentifiedDisplayName = "Costume Miss Rabbit and Little Dog",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Miss Rabbit and Little Dog",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2423,
+		costume = true
+	},
+	[410278] = {
+		unidentifiedDisplayName = "Costume Twinkling Bloody Eye",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twinkling Bloody Eye",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2437,
+		costume = true
+	},
+	[410281] = {
+		unidentifiedDisplayName = "Costume Tiger Face (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Face (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 483,
+		costume = true
+	},
+	[410282] = {
+		unidentifiedDisplayName = "Costume Balloon Release",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Balloon Release",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2345,
+		costume = true
+	},
+	[410283] = {
+		unidentifiedDisplayName = "Costume Wing Headphone",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wing Headphone",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1347,
+		costume = true
+	},
+	[410288] = {
+		unidentifiedDisplayName = "Costume P-Shu & Pink Bunny",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume P-Shu & Pink Bunny",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2480,
+		costume = true
+	},
+	[410292] = {
+		unidentifiedDisplayName = "Costume Little Abyss Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Little Abyss Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2316,
+		costume = true
+	},
+	[410293] = {
+		unidentifiedDisplayName = "Costume Red Baby Dragon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Baby Dragon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1463,
+		costume = true
+	},
+	[410296] = {
+		unidentifiedDisplayName = "Costume One Liter Bottle",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume One Liter Bottle",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2491,
+		costume = true
+	},
+	[410297] = {
+		unidentifiedDisplayName = "Costume Blinking A Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blinking A Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2492,
+		costume = true
+	},
+	[410300] = {
+		unidentifiedDisplayName = "Costume Lady Tanee",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lady Tanee",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1815,
+		costume = true
+	},
+	[410301] = {
+		unidentifiedDisplayName = "[NFS] Costume Little Abyss Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "[NFS] Costume Little Abyss Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2316,
+		costume = true
+	},
+	[410311] = {
+		unidentifiedDisplayName = "Costume Gorgon Coronet",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gorgon Coronet",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2250,
+		costume = true
+	},
+	[410317] = {
+		unidentifiedDisplayName = "Costume Eyes Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Eyes Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2524,
+		costume = true
+	},
+	[410318] = {
+		unidentifiedDisplayName = "Costume Lord of Death Helmet (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lord of Death Helmet (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 742,
+		costume = true
+	},
+	[410319] = {
+		unidentifiedDisplayName = "Costume Thanatos's Maero Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Thanatos's Maero Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 666,
+		costume = true
+	},
+	[410324] = {
+		unidentifiedDisplayName = "Costume Guardian of Abyss (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guardian of Abyss (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2546,
+		costume = true
+	},
+	[410325] = {
+		unidentifiedDisplayName = "Costume Interdimensional Rift",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Interdimensional Rift",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2529,
+		costume = true
+	},
+	[410329] = {
+		unidentifiedDisplayName = "Costume Green Aura Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Green Aura Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2539,
+		costume = true
+	},
+	[410330] = {
+		unidentifiedDisplayName = "Costume Red Aura Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Aura Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2540,
+		costume = true
+	},
+	[410331] = {
+		unidentifiedDisplayName = "Costume Yellow Aura Dragon",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yellow Aura Dragon",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2541,
+		costume = true
+	},
+	[410343] = {
+		unidentifiedDisplayName = "Costume Injured Eyepatch",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Injured Eyepatch",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 772,
+		costume = true
+	},
+	[410350] = {
+		unidentifiedDisplayName = "Costume Carabao",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Carabao",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2557,
+		costume = true
+	},
+	[410357] = {
+		unidentifiedDisplayName = "Costume Lightning Savage",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lightning Savage",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2403,
+		costume = true
+	},
+	[410358] = {
+		unidentifiedDisplayName = "Costume Jaguar Face (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jaguar Face (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 530,
+		costume = true
+	},
+	[410360] = {
+		unidentifiedDisplayName = "Costume Goal Tender Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goal Tender Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 336,
+		costume = true
+	},
+	[410361] = {
+		unidentifiedDisplayName = "Costume Wounded Eye Patch",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wounded Eye Patch",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 772,
+		costume = true
+	},
+	[410367] = {
+		unidentifiedDisplayName = "Costume Atokwe Poenitentia (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Atokwe Poenitentia (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2594,
+		costume = true
+	},
+	[410368] = {
+		unidentifiedDisplayName = "Costume Permafrost Oblivion",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Permafrost Oblivion",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2595,
+		costume = true
+	},
+	[410370] = {
+		unidentifiedDisplayName = "Costume Happy Clown Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Happy Clown Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1288,
+		costume = true
+	},
+	[410371] = {
+		unidentifiedDisplayName = "Costume Closed Eyes",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Closed Eyes",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2599,
+		costume = true
+	},
+	[410384] = {
+		unidentifiedDisplayName = "Costume Blink Eyes White Serpent",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blink Eyes White Serpent",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2649,
+		costume = true
+	},
+	[410388] = {
+		unidentifiedDisplayName = "Costume Ear of Victory",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ear of Victory",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1185,
+		costume = true
+	},
+	[410392] = {
+		unidentifiedDisplayName = "Costume Thanatos's Dolor Mask",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Thanatos's Dolor Mask",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2665,
+		costume = true
+	},
+	[410393] = {
+		unidentifiedDisplayName = "Costume Blink Eyes Rigel",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blink Eyes Rigel",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2667,
+		costume = true
+	},
+	[410396] = {
+		unidentifiedDisplayName = "Costume Dark Night Veil",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dark Night Veil",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1303,
+		costume = true
+	},
+	[410397] = {
+		unidentifiedDisplayName = "Costume DoughKun",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume DoughKun",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2677,
+		costume = true
+	},
+	[410429] = {
+		unidentifiedDisplayName = "Costume Dokkebi Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dokkebi Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 689,
+		costume = true
+	},
+	[410441] = {
+		unidentifiedDisplayName = "Costume Phantom Ears",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Phantom Ears",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2226,
+		costume = true
+	},
+	[410442] = {
+		unidentifiedDisplayName = "Costume Norwegian Forest Cat",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Norwegian Forest Cat",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2701,
+		costume = true
+	},
+	[410447] = {
+		unidentifiedDisplayName = "Costume Telescope (Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Telescope (Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2375,
+		costume = true
+	},
+	[410448] = {
+		unidentifiedDisplayName = "Costume Cosmic Blink Eyes",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cosmic Blink Eyes",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2708,
+		costume = true
+	},
+	[410470] = {
+		unidentifiedDisplayName = "Costume Alarm Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Alarm Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 170,
+		costume = true
+	},
+	[410471] = {
+		unidentifiedDisplayName = "Costume Gear Monocle",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gear Monocle",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2736,
+		costume = true
+	},
+	[410474] = {
+		unidentifiedDisplayName = "Costume Chained Bear",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Chained Bear",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2739,
+		costume = true
+	},
+	[410485] = {
+		unidentifiedDisplayName = "Costume Idol Standing Mic",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Idol Standing Mic",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2000,
+		costume = true
+	},
+	[410487] = {
+		unidentifiedDisplayName = "Costume Idol's Flower Stage",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Idol's Flower Stage",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1893,
+		costume = true
+	},
+	[410489] = {
+		unidentifiedDisplayName = "Costume Opera Mask (Middle)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Opera Mask (Middle)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 68,
+		costume = true
+	},
+	[410491] = {
+		unidentifiedDisplayName = "Costume Violet Starlight",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Violet Starlight",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2748,
+		costume = true
+	},
+	[410508] = {
+		unidentifiedDisplayName = "Costume Celestial Integrity",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Celestial Integrity",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2750,
+		costume = true
+	},
+	[410556] = {
+		unidentifiedDisplayName = "Costume Emperor Penguin",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Emperor Penguin",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2790,
+		costume = true
+	},
+	[410574] = {
+		unidentifiedDisplayName = "Costume Blink Eyes Chocolate",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blink Eyes Chocolate",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2795,
+		costume = true
+	},
+	[410576] = {
+		unidentifiedDisplayName = "Costume Eye of Necromancer",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Eye of Necromancer",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2809,
+		costume = true
+	},
+	[410582] = {
+		unidentifiedDisplayName = "Costume Nursing Poring",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Nursing Poring",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2817,
+		costume = true
+	},
+	[420011] = {
+		unidentifiedDisplayName = "Costume Gluttony CAPOO",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Gluttony CAPOO",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2022,
+		costume = true
+	},
+	[420014] = {
+		unidentifiedDisplayName = "Costume Japanese Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Japanese Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2027,
+		costume = true
+	},
+	[420023] = {
+		unidentifiedDisplayName = "Costume Mintgum In Mouth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mintgum In Mouth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1096,
+		costume = true
+	},
+	[420024] = {
+		unidentifiedDisplayName = "Costume Deviruchi Balloon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Deviruchi Balloon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1082,
+		costume = true
+	},
+	[420026] = {
+		unidentifiedDisplayName = "Costume Piamette Ribbon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Piamette Ribbon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1403,
+		costume = true
+	},
+	[420033] = {
+		unidentifiedDisplayName = "Costume Airy Twin Tails (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Airy Twin Tails (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2028,
+		costume = true
+	},
+	[420051] = {
+		unidentifiedDisplayName = "Costume Fire and Lightning Witch Necklace",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fire and Lightning Witch Necklace",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1831,
+		costume = true
+	},
+	[420052] = {
+		unidentifiedDisplayName = "Costume Chungee's Soul",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Chungee's Soul",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 882,
+		costume = true
+	},
+	[420056] = {
+		unidentifiedDisplayName = "Costume Schmitz's Helm",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Schmitz's Helm",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 634,
+		costume = true
+	},
+	[420063] = {
+		unidentifiedDisplayName = "Costume White Sunshade Headscarf",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Sunshade Headscarf",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 363,
+		costume = true
+	},
+	[420069] = {
+		unidentifiedDisplayName = "Costume King Schmidt's Cape",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume King Schmidt's Cape",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2128,
+		costume = true
+	},
+	[420070] = {
+		unidentifiedDisplayName = "Costume Blind Hood (Low)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blind Hood (Low)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 326,
+		costume = true
+	},
+	[420073] = {
+		unidentifiedDisplayName = "Costume 2021RTC Supporting Wings",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume 2021RTC Supporting Wings",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2133,
+		costume = true
+	},
+	[420075] = {
+		unidentifiedDisplayName = "Costume Floating Gioia",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Floating Gioia",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1730,
+		costume = true
+	},
+	[420083] = {
+		unidentifiedDisplayName = "Costume Large Ribbon Muffler (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Large Ribbon Muffler (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2165,
+		costume = true
+	},
+	[420085] = {
+		unidentifiedDisplayName = "Costume Curly Hair (Blonde)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Curly Hair (Blonde)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2167,
+		costume = true
+	},
+	[420086] = {
+		unidentifiedDisplayName = "Costume Long Wave (Light Brown)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Long Wave (Light Brown)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2168,
+		costume = true
+	},
+	[420091] = {
+		unidentifiedDisplayName = "Costume Silky Long(Blonde)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Silky Long(Blonde)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2180,
+		costume = true
+	},
+	[420094] = {
+		unidentifiedDisplayName = "Costume Cloak of Einherjar",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cloak of Einherjar",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2200,
+		costume = true
+	},
+	[420111] = {
+		unidentifiedDisplayName = "Costume Rocking Short",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rocking Short",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2225,
+		costume = true
+	},
+	[420132] = {
+		unidentifiedDisplayName = "Costume Charm of Great Nature",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Charm of Great Nature",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1264,
+		costume = true
+	},
+	[420159] = {
+		unidentifiedDisplayName = "Costume Yesterday Once More",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Yesterday Once More",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2264,
+		costume = true
+	},
+	[420168] = {
+		unidentifiedDisplayName = "Costume Cow mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cow mask",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2078,
+		costume = true
+	},
+	[420169] = {
+		unidentifiedDisplayName = "Costume Pipe of Jiraiya",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pipe of Jiraiya",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1088,
+		costume = true
+	},
+	[420171] = {
+		unidentifiedDisplayName = "Costume Thorn Scarf",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Thorn Scarf",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 459,
+		costume = true
+	},
+	[420172] = {
+		unidentifiedDisplayName = "Costume Braid Ring",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braid Ring",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2300,
+		costume = true
+	},
+	[420177] = {
+		unidentifiedDisplayName = "Costume Valkyrie Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Valkyrie Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2311,
+		costume = true
+	},
+	[420185] = {
+		unidentifiedDisplayName = "Costume Red Sailor Collar",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Sailor Collar",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1364,
+		costume = true
+	},
+	[420190] = {
+		unidentifiedDisplayName = "Costume Orochimaru's Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Orochimaru's Mask",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1089,
+		costume = true
+	},
+	[420195] = {
+		unidentifiedDisplayName = "Costume GGH 1st Anniversary Balloons",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume GGH 1st Anniversary Balloons",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2345,
+		costume = true
+	},
+	[420196] = {
+		unidentifiedDisplayName = "Costume Fruit Stick",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fruit Stick",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 855,
+		costume = true
+	},
+	[420205] = {
+		unidentifiedDisplayName = "Costume Memorial Claus",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Memorial Claus",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2310,
+		costume = true
+	},
+	[420206] = {
+		unidentifiedDisplayName = "Costume Samambaia (Lower)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Samambaia (Lower)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 508,
+		costume = true
+	},
+	[420214] = {
+		unidentifiedDisplayName = "Costume Fallen Angel Valletta",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fallen Angel Valletta",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1674,
+		costume = true
+	},
+	[420218] = {
+		unidentifiedDisplayName = "Costume Wonderer Curl (white)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wonderer Curl (white)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2379,
+		costume = true
+	},
+	[420222] = {
+		unidentifiedDisplayName = "Costume Consecrate Fides Aureola",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Consecrate Fides Aureola",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2396,
+		costume = true
+	},
+	[420230] = {
+		unidentifiedDisplayName = "Costume Consecrate Fides Aureola (Garment)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Consecrate Fides Aureola (Garment)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2396,
+		costume = true
+	},
+	[420232] = {
+		unidentifiedDisplayName = "Costume Cheese Stick",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cheese Stick",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 843,
+		costume = true
+	},
+	[420233] = {
+		unidentifiedDisplayName = "Costume Trouvere Side-Tail",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Trouvere Side-Tail",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2411,
+		costume = true
+	},
+	[420234] = {
+		unidentifiedDisplayName = "Costume Festival Stalls",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Festival Stalls",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2412,
+		costume = true
+	},
+	[420237] = {
+		unidentifiedDisplayName = "Costume Tiger Muffler",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tiger Muffler",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2417,
+		costume = true
+	},
+	[420240] = {
+		unidentifiedDisplayName = "Costume Tsunade's Scroll",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tsunade's Scroll",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1090,
+		costume = true
+	},
+	[420244] = {
+		unidentifiedDisplayName = "Costume Fierce Tiger Headgear",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fierce Tiger Headgear",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2216,
+		costume = true
+	},
+	[420254] = {
+		unidentifiedDisplayName = "Costume Wizard's Beard",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wizard's Beard",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1004,
+		costume = true
+	},
+	[420255] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Low Pony",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Low Pony",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2435,
+		costume = true
+	},
+	[420272] = {
+		unidentifiedDisplayName = "Costume Evil Eyes of False God (Garment)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Evil Eyes of False God (Garment)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2450,
+		costume = true
+	},
+	[420274] = {
+		unidentifiedDisplayName = "Costume Rose wave (Blonde Pink)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rose wave (Blonde Pink)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2452,
+		costume = true
+	},
+	[420275] = {
+		unidentifiedDisplayName = "Costume Rose Wave (Silver)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rose Wave (Silver)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2453,
+		costume = true
+	},
+	[420277] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Light Green)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Light Green)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2455,
+		costume = true
+	},
+	[420278] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Yellow)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Yellow)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2456,
+		costume = true
+	},
+	[420279] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Sakura)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Sakura)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2457,
+		costume = true
+	},
+	[420280] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Light Blue)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Light Blue)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2458,
+		costume = true
+	},
+	[420281] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Light Purple)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Light Purple)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2459,
+		costume = true
+	},
+	[420282] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Jet Black)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Jet Black)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2460,
+		costume = true
+	},
+	[420283] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2461,
+		costume = true
+	},
+	[420284] = {
+		unidentifiedDisplayName = "Costume Guillotine Cross Short (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guillotine Cross Short (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2462,
+		costume = true
+	},
+	[420285] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Green)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Green)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2463,
+		costume = true
+	},
+	[420286] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Yellow)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Yellow)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2464,
+		costume = true
+	},
+	[420287] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Sakura)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Sakura)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2465,
+		costume = true
+	},
+	[420288] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Blue)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Blue)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2466,
+		costume = true
+	},
+	[420289] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Purple)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Light Purple)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2467,
+		costume = true
+	},
+	[420290] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Jet Black)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Jet Black)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2468,
+		costume = true
+	},
+	[420291] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2469,
+		costume = true
+	},
+	[420292] = {
+		unidentifiedDisplayName = "Costume Mechanic Outside Hanebob (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanic Outside Hanebob (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2470,
+		costume = true
+	},
+	[420293] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Light Green)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Light Green)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2471,
+		costume = true
+	},
+	[420294] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Yellow)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Yellow)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2472,
+		costume = true
+	},
+	[420295] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Sakura)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Sakura)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2473,
+		costume = true
+	},
+	[420296] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Light Blue)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Light Blue)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2474,
+		costume = true
+	},
+	[420297] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Light Purple)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Light Purple)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2475,
+		costume = true
+	},
+	[420298] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Jet Black)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Jet Black)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2476,
+		costume = true
+	},
+	[420299] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (White)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (White)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2477,
+		costume = true
+	},
+	[420300] = {
+		unidentifiedDisplayName = "Costume Ranger Half-Up (Red)",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Half-Up (Red)",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2478,
+		costume = true
+	},
+	[420305] = {
+		unidentifiedDisplayName = "Costume Mini Tentacle",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mini Tentacle",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2401,
+		costume = true
+	},
+	[420317] = {
+		unidentifiedDisplayName = "Costume White Rabbit Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Rabbit Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2499,
+		costume = true
+	},
+	[420319] = {
+		unidentifiedDisplayName = "Costume Card Board Box (Lower)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Card Board Box (Lower)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 450,
+		costume = true
+	},
+	[420320] = {
+		unidentifiedDisplayName = "Costume Charm of Rough Wind",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Charm of Rough Wind",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 1263,
+		costume = true
+	},
+	[420335] = {
+		unidentifiedDisplayName = "Costume Guardian of Abyss (Lower)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guardian of Abyss (Lower)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2546,
+		costume = true
+	},
+	[420336] = {
+		unidentifiedDisplayName = "Costume Queen of Calamity",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Queen of Calamity",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2530,
+		costume = true
+	},
+	[420347] = {
+		unidentifiedDisplayName = "Costume Jet Black Rose",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Jet Black Rose",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2525,
+		costume = true
+	},
+	[420357] = {
+		unidentifiedDisplayName = "Costume Baby Seal",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Baby Seal",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2570,
+		costume = true
+	},
+	[420360] = {
+		unidentifiedDisplayName = "Costume Bell Cat Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Bell Cat Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2573,
+		costume = true
+	},
+	[420365] = {
+		unidentifiedDisplayName = "Costume Secret Society Hood (Lower)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Secret Society Hood (Lower)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 806,
+		costume = true
+	},
+	[420382] = {
+		unidentifiedDisplayName = "Costume Atokwe Poenitentia",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Atokwe Poenitentia",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2594,
+		costume = true
+	},
+	[420393] = {
+		unidentifiedDisplayName = "Costume Straight two-side up (Blonde)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Straight two-side up (Blonde)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2610,
+		costume = true
+	},
+	[420394] = {
+		unidentifiedDisplayName = "Costume Straight two-side up (Blonde Pink)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Straight two-side up (Blonde Pink)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2611,
+		costume = true
+	},
+	[420396] = {
+		unidentifiedDisplayName = "Costume Straight two-side up (Black Pink)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Straight two-side up (Black Pink)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2613,
+		costume = true
+	},
+	[420397] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Blue-Green)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Blue-Green)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2614,
+		costume = true
+	},
+	[420398] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Yellow)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Yellow)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2615,
+		costume = true
+	},
+	[420399] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Sakura)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Sakura)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2616,
+		costume = true
+	},
+	[420400] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Light Blue)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Light Blue)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2617,
+		costume = true
+	},
+	[420401] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Light Purple)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Light Purple)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2618,
+		costume = true
+	},
+	[420402] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Jet Black)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Jet Black)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2619,
+		costume = true
+	},
+	[420403] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2620,
+		costume = true
+	},
+	[420404] = {
+		unidentifiedDisplayName = "Costume Hyper Novice Pony (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hyper Novice Pony (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2621,
+		costume = true
+	},
+	[420405] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Blue-Green)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Blue-Green)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2622,
+		costume = true
+	},
+	[420406] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Yellow)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Yellow)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2623,
+		costume = true
+	},
+	[420407] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Sakura)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Sakura)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2624,
+		costume = true
+	},
+	[420408] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Light Blue)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Light Blue)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2625,
+		costume = true
+	},
+	[420409] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Light Purple)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Light Purple)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2626,
+		costume = true
+	},
+	[420410] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Jet Black)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Jet Black)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2627,
+		costume = true
+	},
+	[420411] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2628,
+		costume = true
+	},
+	[420412] = {
+		unidentifiedDisplayName = "Costume Ranger Wolf Shorts (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ranger Wolf Shorts (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2629,
+		costume = true
+	},
+	[420413] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Blue-Green)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Blue-Green)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2630,
+		costume = true
+	},
+	[420414] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Yellow)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Yellow)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2631,
+		costume = true
+	},
+	[420415] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Sakura)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Sakura)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2632,
+		costume = true
+	},
+	[420416] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Light Blue)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Light Blue)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2633,
+		costume = true
+	},
+	[420417] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Light Purple)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Light Purple)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2634,
+		costume = true
+	},
+	[420418] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Jet Black)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Jet Black)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2635,
+		costume = true
+	},
+	[420419] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Snow White)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Snow White)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2636,
+		costume = true
+	},
+	[420420] = {
+		unidentifiedDisplayName = "Costume Wanderer Curl (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wanderer Curl (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2637,
+		costume = true
+	},
+	[420426] = {
+		unidentifiedDisplayName = "Costume White Fox Hood Twin (No Decoration)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Fox Hood Twin (No Decoration)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2647,
+		costume = true
+	},
+	[420427] = {
+		unidentifiedDisplayName = "Costume Lunatic Kamakura",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lunatic Kamakura",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2648,
+		costume = true
+	},
+	[420432] = {
+		unidentifiedDisplayName = "Costume Baby Seal",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Baby Seal",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2653,
+		costume = true
+	},
+	[420433] = {
+		unidentifiedDisplayName = "Costume Braided Twin Ribbons",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braided Twin Ribbons",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2654,
+		costume = true
+	},
+	[420434] = {
+		unidentifiedDisplayName = "Costume Braided Twin Ribbons (No Decoration)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Braided Twin Ribbons (No Decoration)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2655,
+		costume = true
+	},
+	[420440] = {
+		unidentifiedDisplayName = "Costume Rigel Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rigel Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2666,
+		costume = true
+	},
+	[420447] = {
+		unidentifiedDisplayName = "Costume Emerald Rose",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Emerald Rose",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2526,
+		costume = true
+	},
+	[420448] = {
+		unidentifiedDisplayName = "Costume Abyssal",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Abyssal",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2671,
+		costume = true
+	},
+	[420449] = {
+		unidentifiedDisplayName = "Costume Abyssal Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Abyssal Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2672,
+		costume = true
+	},
+	[420499] = {
+		unidentifiedDisplayName = "Costume Sakura Twin tails",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sakura Twin tails",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2682,
+		costume = true
+	},
+	[420500] = {
+		unidentifiedDisplayName = "Costume Sakura Two side up",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sakura Two side up",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2683,
+		costume = true
+	},
+	[420501] = {
+		unidentifiedDisplayName = "Costume Hot Spring",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hot Spring",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2684,
+		costume = true
+	},
+	[420514] = {
+		unidentifiedDisplayName = "Costume Wonderful Long (No Decoration)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wonderful Long (No Decoration)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2697,
+		costume = true
+	},
+	[420515] = {
+		unidentifiedDisplayName = "Costume Wonderful Long",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wonderful Long",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2698,
+		costume = true
+	},
+	[420516] = {
+		unidentifiedDisplayName = "Costume Forest Friends",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Forest Friends",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2699,
+		costume = true
+	},
+	[420524] = {
+		unidentifiedDisplayName = "Costume Twin Milkyway (Undecorated)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twin Milkyway (Undecorated)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2706,
+		costume = true
+	},
+	[420525] = {
+		unidentifiedDisplayName = "Costume Twin Milkyway",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Twin Milkyway",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2707,
+		costume = true
+	},
+	[420545] = {
+		unidentifiedDisplayName = "Costume Vacation Pope Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Vacation Pope Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2718,
+		costume = true
+	},
+	[420546] = {
+		unidentifiedDisplayName = "Costume Miriam Ponytail",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Miriam Ponytail",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2719,
+		costume = true
+	},
+	[420547] = {
+		unidentifiedDisplayName = "Costume Blueberry Popsicle",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blueberry Popsicle",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2721,
+		costume = true
+	},
+	[420570] = {
+		unidentifiedDisplayName = "Costume Winged Twin Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Winged Twin Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2734,
+		costume = true
+	},
+	[420571] = {
+		unidentifiedDisplayName = "Costume Feather Blonde Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Feather Blonde Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2735,
+		costume = true
+	},
+	[420575] = {
+		unidentifiedDisplayName = "Costume Piamette Rollhair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Piamette Rollhair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2740,
+		costume = true
+	},
+	[420593] = {
+		unidentifiedDisplayName = "Costume Halloween Candy Hair",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Halloween Candy Hair",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2743,
+		costume = true
+	},
+	[420594] = {
+		unidentifiedDisplayName = "Costume Halloween Candy Hair (No Decoration)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Halloween Candy Hair (No Decoration)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2744,
+		costume = true
+	},
+	[420595] = {
+		unidentifiedDisplayName = "Costume Medjed Cloth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Medjed Cloth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2745,
+		costume = true
+	},
+	[420596] = {
+		unidentifiedDisplayName = "Costume Blink Eyes Halloween",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blink Eyes Halloween",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2746,
+		costume = true
+	},
+	[420602] = {
+		unidentifiedDisplayName = "Costume Red Bat",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Red Bat",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2439,
+		costume = true
+	},
+	[420618] = {
+		unidentifiedDisplayName = "Costume Solid State Recognition",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Solid State Recognition",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2751,
+		costume = true
+	},
+	[420642] = {
+		unidentifiedDisplayName = "Costume Open Air Headset (Red)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Open Air Headset (Red)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2716,
+		costume = true
+	},
+	[420647] = {
+		unidentifiedDisplayName = "Costume Loose Braided Waves (Bronze)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Loose Braided Waves (Bronze)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2756,
+		costume = true
+	},
+	[420648] = {
+		unidentifiedDisplayName = "Costume Loose Braided Waves (Royal Bronze)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Loose Braided Waves (Royal Bronze)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2757,
+		costume = true
+	},
+	[420649] = {
+		unidentifiedDisplayName = "Costume Loose Braided Waves (Silver)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Loose Braided Waves (Silver)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2758,
+		costume = true
+	},
+	[420650] = {
+		unidentifiedDisplayName = "Costume Loose Braided Waves (Royal Silver)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Loose Braided Waves (Royal Silver)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2759,
+		costume = true
+	},
+	[420702] = {
+		unidentifiedDisplayName = "Costume Eclipse Muffler",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Eclipse Muffler",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2688,
+		costume = true
+	},
+	[420703] = {
+		unidentifiedDisplayName = "Costume Aurelie Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Aurelie Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2789,
+		costume = true
+	},
+	[420726] = {
+		unidentifiedDisplayName = "Costume Orange Rear Ribbon",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Orange Rear Ribbon",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2704,
+		costume = true
+	},
+	[420727] = {
+		unidentifiedDisplayName = "Costume Lots Braided Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lots Braided Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2794,
+		costume = true
+	},
+	[420728] = {
+		unidentifiedDisplayName = "Costume Heart Chocolate in Mouth",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Heart Chocolate in Mouth",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2796,
+		costume = true
+	},
+	[420729] = {
+		unidentifiedDisplayName = "Costume Goodbye Five Eagle Brothers",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Goodbye Five Eagle Brothers",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2802,
+		costume = true
+	},
+	[420730] = {
+		unidentifiedDisplayName = "Costume Let's go Five Eagle Brothers",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Let's go Five Eagle Brothers",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2803,
+		costume = true
+	},
+	[420743] = {
+		unidentifiedDisplayName = "Costume Spirit Cat",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Spirit Cat",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2811,
+		costume = true
+	},
+	[420747] = {
+		unidentifiedDisplayName = "Costume Wishing Sky Lantern",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wishing Sky Lantern",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 947,
+		costume = true
+	},
+	[420750] = {
+		unidentifiedDisplayName = "Costume Seyren Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Seyren Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2815,
+		costume = true
+	},
+	[420751] = {
+		unidentifiedDisplayName = "Costume Magaleta Hair",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Magaleta Hair",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2816,
+		costume = true
+	},
+	[420774] = {
+		unidentifiedDisplayName = "Costume Poporin Bubble Pipe",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Poporin Bubble Pipe",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2753,
+		costume = true
+	},
+	[420775] = {
+		unidentifiedDisplayName = "Costume Petal Twin",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Petal Twin",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2820,
+		costume = true
+	},
+	[420776] = {
+		unidentifiedDisplayName = "Costume Petal Twin (No Decoration)",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Petal Twin (No Decoration)",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2821,
+		costume = true
+	},
+	[480060] = {
+		unidentifiedDisplayName = "Costume Wavy Green Angel Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wavy Green Angel Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 78,
+		costume = true
+	},
+	[480082] = {
+		unidentifiedDisplayName = "Costume Sandalphon Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sandalphon Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 88,
+		costume = true
+	},
+	[480086] = {
+		unidentifiedDisplayName = "Costume CAPOO Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume CAPOO Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 89,
+		costume = true
+	},
+	[480092] = {
+		unidentifiedDisplayName = "Costume Sudden Wealth",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sudden Wealth",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 96,
+		costume = true
+	},
+	[480119] = {
+		unidentifiedDisplayName = "Costume Niflheim Key",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Niflheim Key",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 110,
+		costume = true
+	},
+	[480155] = {
+		unidentifiedDisplayName = "Costume National Flag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume National Flag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 122,
+		costume = true
+	},
+	[480158] = {
+		unidentifiedDisplayName = "Costume Lunatic Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Lunatic Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[480222] = {
+		unidentifiedDisplayName = "Costume Japanese Umbrella",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Japanese Umbrella",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 146,
+		costume = true
+	},
+	[480247] = {
+		unidentifiedDisplayName = "Costume Giant Angeling",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Giant Angeling",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 155,
+		costume = true
+	},
+	[480264] = {
+		unidentifiedDisplayName = "Costume Wing of Harmony",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wing of Harmony",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 136,
+		costume = true
+	},
+	[480271] = {
+		unidentifiedDisplayName = "Costume Angelic Long (Blonde)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angelic Long (Blonde)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2328,
+		costume = true
+	},
+	[480272] = {
+		unidentifiedDisplayName = "Costume Angelic Long (Royal Blonde)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angelic Long (Royal Blonde)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2329,
+		costume = true
+	},
+	[480273] = {
+		unidentifiedDisplayName = "Costume Angelic Long (Silver)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angelic Long (Silver)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2330,
+		costume = true
+	},
+	[480274] = {
+		unidentifiedDisplayName = "Costume Angelic Long (Royal Silver)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angelic Long (Royal Silver)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2331,
+		costume = true
+	},
+	[480280] = {
+		unidentifiedDisplayName = "Costume Big Milky Ribbon Cloak",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Big Milky Ribbon Cloak",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 162,
+		costume = true
+	},
+	[480287] = {
+		unidentifiedDisplayName = "Costume Skia Doll",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Skia Doll",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 170,
+		costume = true
+	},
+	[480305] = {
+		unidentifiedDisplayName = "Costume Pope Doll",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pope Doll",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 171,
+		costume = true
+	},
+	[480329] = {
+		unidentifiedDisplayName = "Costume ROS 2023 Flames Coat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume ROS 2023 Flames Coat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 184,
+		costume = true
+	},
+	[480330] = {
+		unidentifiedDisplayName = "Costume Hero Cloak",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Hero Cloak",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 185,
+		costume = true
+	},
+	[480363] = {
+		unidentifiedDisplayName = "Costume Oversized Miss Rabbit",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Oversized Miss Rabbit",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 193,
+		costume = true
+	},
+	[480364] = {
+		unidentifiedDisplayName = "Costume Black Cat Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Black Cat Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
+	[480368] = {
+		unidentifiedDisplayName = "Costume Big Lollipop",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Big Lollipop",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 194,
+		costume = true
+	},
+	[480377] = {
+		unidentifiedDisplayName = "Costume White Cat Doll",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Cat Doll",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 196,
+		costume = true
+	},
+	[480406] = {
+		unidentifiedDisplayName = "[NFS] Costume Valkyrie Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "[NFS] Costume Valkyrie Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 48,
+		costume = true
+	},
+	[480407] = {
+		unidentifiedDisplayName = "Costume Leticia's Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Leticia's Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 203,
+		costume = true
+	},
+	[480411] = {
+		unidentifiedDisplayName = "Costume White Rabbit Tail",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Rabbit Tail",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 206,
+		costume = true
+	},
+	[480423] = {
+		unidentifiedDisplayName = "Costume Unicorn Fantasy Travel",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Unicorn Fantasy Travel",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 211,
+		costume = true
+	},
+	[480436] = {
+		unidentifiedDisplayName = "Costume Baphomet's Scythe",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Baphomet's Scythe",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 217,
+		costume = true
+	},
+	[480443] = {
+		unidentifiedDisplayName = "Costume Guardian of Abyss",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Guardian of Abyss",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 220,
+		costume = true
+	},
+	[480444] = {
+		unidentifiedDisplayName = "Costume Interdimensional Rift (Garment)",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Interdimensional Rift (Garment)",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2529,
+		costume = true
+	},
+	[480458] = {
+		unidentifiedDisplayName = "Costume Fallen Heaven Lost Wing",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fallen Heaven Lost Wing",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 225,
+		costume = true
+	},
+	[480460] = {
+		unidentifiedDisplayName = "Costume Rose Gothic Ribbon",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Rose Gothic Ribbon",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 227,
+		costume = true
+	},
+	[480461] = {
+		unidentifiedDisplayName = "Costume Ragdoll Face Bag",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Ragdoll Face Bag",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 228,
+		costume = true
+	},
+	[480469] = {
+		unidentifiedDisplayName = "Costume Con of Singapura",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Con of Singapura",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2576,
+		costume = true
+	},
+	[480472] = {
+		unidentifiedDisplayName = "Costume Big Ribbon Rabbit",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Big Ribbon Rabbit",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 232,
+		costume = true
+	},
+	[480473] = {
+		unidentifiedDisplayName = "Costume Fallen Bishop Evil Spirit",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Fallen Bishop Evil Spirit",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 233,
+		costume = true
+	},
+	[480484] = {
+		unidentifiedDisplayName = "Costume Blue Magpie Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blue Magpie Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 237,
+		costume = true
+	},
+	[480485] = {
+		unidentifiedDisplayName = "Costume Call of the Deep Sea Octopus",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Call of the Deep Sea Octopus",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 238,
+		costume = true
+	},
+	[480488] = {
+		unidentifiedDisplayName = "Costume Wings Of Simulation Juncea",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Wings Of Simulation Juncea",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 241,
+		costume = true
+	},
+	[480494] = {
+		unidentifiedDisplayName = "Costume Halloween Candy Pouch",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Halloween Candy Pouch",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 2579,
+		costume = true
+	},
+	[480501] = {
+		unidentifiedDisplayName = "Costume Anniversary Popcorn Bucket",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Anniversary Popcorn Bucket",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 244,
+		costume = true
+	},
+	[480521] = {
+		unidentifiedDisplayName = "Costume White Fox Tail",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume White Fox Tail",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 255,
+		costume = true
+	},
+	[480524] = {
+		unidentifiedDisplayName = "Costume Giant Teddy Bear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Giant Teddy Bear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 253,
+		costume = true
+	},
+	[480525] = {
+		unidentifiedDisplayName = "Costume Pitaya Garden Parfait",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Pitaya Garden Parfait",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 257,
+		costume = true
+	},
+	[480541] = {
+		unidentifiedDisplayName = "Costume Demi-Freya Wing",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Demi-Freya Wing",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 258,
+		costume = true
+	},
+	[480555] = {
+		unidentifiedDisplayName = "Costume Laphine Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Laphine Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 260,
+		costume = true
+	},
+	[480559] = {
+		unidentifiedDisplayName = "Costume Kumamon Doll",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Kumamon Doll",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 262,
+		costume = true
+	},
+	[480581] = {
+		unidentifiedDisplayName = "Costume Samurai Twin Sword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Samurai Twin Sword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 265,
+		costume = true
+	},
+	[480582] = {
+		unidentifiedDisplayName = "Costume Three Color Dumplings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Three Color Dumplings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 266,
+		costume = true
+	},
+	[480603] = {
+		unidentifiedDisplayName = "Costume Starry Sky Pen",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Starry Sky Pen",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 270,
+		costume = true
+	},
+	[480609] = {
+		unidentifiedDisplayName = "Costume Dimensional Sword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Dimensional Sword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 273,
+		costume = true
+	},
+	[480616] = {
+		unidentifiedDisplayName = "Costume: Royal Knight's Rune Sword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Royal Knight's Rune Sword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 276,
+		costume = true
+	},
+	[480617] = {
+		unidentifiedDisplayName = "Costume: Royal Knight's Greatsword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Royal Knight's Greatsword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 277,
+		costume = true
+	},
+	[480618] = {
+		unidentifiedDisplayName = "Costume: Knight's Greatsword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume: Knight's Greatsword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 278,
+		costume = true
+	},
+	[480619] = {
+		unidentifiedDisplayName = "Costume Melon Cream Soda",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Melon Cream Soda",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 279,
+		costume = true
+	},
+	[480627] = {
+		unidentifiedDisplayName = "Costume ROS 2025 Champion Coat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume ROS 2025 Champion Coat",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 282,
+		costume = true
+	},
+	[480629] = {
+		unidentifiedDisplayName = "Costume Clock Rod",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Clock Rod",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 283,
+		costume = true
+	},
+	[480630] = {
+		unidentifiedDisplayName = "Costume Mechanical Fairy Wings",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mechanical Fairy Wings",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 284,
+		costume = true
+	},
+	[480631] = {
+		unidentifiedDisplayName = "Costume Detective's Magnifying Glass",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Detective's Magnifying Glass",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 285,
+		costume = true
+	},
+	[480632] = {
+		unidentifiedDisplayName = "Costume Mad Bunny Nightmare",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Mad Bunny Nightmare",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 286,
+		costume = true
+	},
+	[480648] = {
+		unidentifiedDisplayName = "Costume Broom of Crimson",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Broom of Crimson",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 288,
+		costume = true
+	},
+	[480658] = {
+		unidentifiedDisplayName = "Costume Arcanum Corvus Corax",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Arcanum Corvus Corax",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 289,
+		costume = true
+	},
+	[480664] = {
+		unidentifiedDisplayName = "Costume Cursed Serpent",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Cursed Serpent",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 291,
+		costume = true
+	},
+	[480665] = {
+		unidentifiedDisplayName = "Costume Tan Spear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Tan Spear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 292,
+		costume = true
+	},
+	[480666] = {
+		unidentifiedDisplayName = "Costume Herosria Sword",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Herosria Sword",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 293,
+		costume = true
+	},
+	[480699] = {
+		unidentifiedDisplayName = "Costume Silver Scepter",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Silver Scepter",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 296,
+		costume = true
+	},
+	[480717] = {
+		unidentifiedDisplayName = "Costume Giant Chained Bear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Giant Chained Bear",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 297,
+		costume = true
+	},
+	[480718] = {
+		unidentifiedDisplayName = "Costume Sweet Folk",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sweet Folk",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 298,
+		costume = true
+	},
+	[480725] = {
+		unidentifiedDisplayName = "Costume Sixth Sense Satan",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Sixth Sense Satan",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 299,
+		costume = true
+	},
+	[480747] = {
+		unidentifiedDisplayName = "Costume Knights Sword Shield",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Knights Sword Shield",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 300,
+		costume = true
+	},
+	[480748] = {
+		unidentifiedDisplayName = "Costume Doram Paw Hammer",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Doram Paw Hammer",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 301,
+		costume = true
+	},
+	[480772] = {
+		unidentifiedDisplayName = "Costume Angel's Gift",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Angel's Gift",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 302,
+		costume = true
+	},
+	[480773] = {
+		unidentifiedDisplayName = "Costume Blooming Staff Pink",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "A costume." },
+		identifiedDisplayName = "Costume Blooming Staff Pink",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"A costume.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 303,
 		costume = true
 	}
 }

@@ -15995,5 +15995,21442 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 676,
 		costume = true
+	},
+	[72032] = {
+		unidentifiedDisplayName = "Costume Exchange Ticket",
+		unidentifiedResourceName = "교통카드",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Costume Exchange Ticket",
+		identifiedResourceName = "교통카드",
+		identifiedDescriptionName = {
+			"A ticket dropped by monsters.",
+			"Exchange it for costume boxes at the Costume Exchange in Prontera.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72043] = {
+		unidentifiedDisplayName = "Lower Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Lower Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random lower costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72042] = {
+		unidentifiedDisplayName = "Middle Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Middle Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random middle costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72041] = {
+		unidentifiedDisplayName = "Upper Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Upper Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random upper costume.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[72044] = {
+		unidentifiedDisplayName = "Random Costume Box",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = { "I wonder what is inside." },
+		identifiedDisplayName = "Random Costume Box",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"A box that holds a costume from the costume collection.",
+			"Open it to get a random costume, in any slot (including garments).",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70001] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sphinx Hat",
+		identifiedResourceName = "스핑크스모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[70002] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Goggles",
+		identifiedResourceName = "고글",
+		identifiedDescriptionName = {
+			"A pair of goggles designed for pilots in order to reduce vision impairment when traveling at very high speeds.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1,
+		costume = true
+	},
+	[70003] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Munak Hat",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"An exact replica of Munak's turban, complete with queue and talisman.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[70004] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sunglasses",
+		identifiedResourceName = "선글래스",
+		identifiedDescriptionName = {
+			"Glasses with special, darkened lenses that block ultraviolet light.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 12,
+		costume = true
+	},
+	[70005] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cigarette",
+		identifiedResourceName = "담배",
+		identifiedDescriptionName = {
+			"A narrow, short roll of finely cut tobacco wrapped in thin paper.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 54,
+		costume = true
+	},
+	[70006] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Valkyrie Feather Band",
+		identifiedResourceName = "발키리깃털모자",
+		identifiedDescriptionName = {
+			"A hairband utilizing a Feather from a Valkyrie Angel.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 300,
+		costume = true
+	},
+	[70007] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shining Sun",
+		identifiedResourceName = "불타는태양",
+		identifiedDescriptionName = {
+			"A brightly shining sun that floats above your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 654,
+		costume = true
+	},
+	[70008] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gemmed Sallet",
+		identifiedResourceName = "쥬얼헬름",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70009] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Butterfly Wings",
+		identifiedResourceName = "나비날개귀",
+		identifiedDescriptionName = {
+			"Have the appearance of wearing the wings of a butterfly as your ears with this accessory.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 695,
+		costume = true
+	},
+	[70010] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bolt Ears",
+		identifiedResourceName = "머리박힌나사",
+		identifiedDescriptionName = {
+			"You can look like you just rolled off the assembly line with these bolt-on ear accessories.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 696,
+		costume = true
+	},
+	[70011] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Blue Eyebandge",
+		identifiedResourceName = "하트눈안대1",
+		identifiedDescriptionName = {
+			"The lovely shape of eye patch in blue colour.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 697,
+		costume = true
+	},
+	[70012] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Pink Eyebandge",
+		identifiedResourceName = "하트눈안대2",
+		identifiedDescriptionName = {
+			"The lovely shape of eye patch in pink colour.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 698,
+		costume = true
+	},
+	[70013] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chicken Beak",
+		identifiedResourceName = "닭부리",
+		identifiedDescriptionName = {
+			"A simple bird beak. Wearing this won't make you less fearful of things.",
+			"Class:^6666CC Lower^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 699,
+		costume = true
+	},
+	[70014] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Old Timey Mustache",
+		identifiedResourceName = "찰리의수염",
+		identifiedDescriptionName = {
+			"A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 700,
+		costume = true
+	},
+	[70015] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Hat",
+		identifiedResourceName = "노란햇",
+		identifiedDescriptionName = {
+			"A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 701,
+		costume = true
+	},
+	[70016] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Singing Bird",
+		identifiedResourceName = "노래하는새",
+		identifiedDescriptionName = {
+			"A newly hatched baby bird chirps it's tunes on a twig of dreams.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 702,
+		costume = true
+	},
+	[70017] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rooster's Comb",
+		identifiedResourceName = "닭벼슬",
+		identifiedDescriptionName = {
+			"A roosters dignified comb. But don't be fooled while wearing this or the yolk's on you!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 703,
+		costume = true
+	},
+	[70018] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rainbow",
+		identifiedResourceName = "무지개",
+		identifiedDescriptionName = {
+			"Share your happiness with others with this brightly colored rainbow.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 704,
+		costume = true
+	},
+	[70019] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lightning Cloud",
+		identifiedResourceName = "벼락구름",
+		identifiedDescriptionName = {
+			"A dark thunder cloud that rivals the bolts created by Thor... well maybe not.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 688,
+		costume = true
+	},
+	[70020] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rain Cloud",
+		identifiedResourceName = "비구름",
+		identifiedDescriptionName = {
+			"When it rains it pours. Especially when it's only raining above your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 705,
+		costume = true
+	},
+	[70021] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Old Timey Derby",
+		identifiedResourceName = "찰리의모자",
+		identifiedDescriptionName = {
+			"A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 706,
+		costume = true
+	},
+	[70022] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Crown",
+		identifiedResourceName = "미니크라운1",
+		identifiedDescriptionName = {
+			"A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 707,
+		costume = true
+	},
+	[70023] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Ribbon",
+		identifiedResourceName = "리본_초록",
+		identifiedDescriptionName = {
+			"A long piece of green satin tied together into a neat little ribbon that wards off harmful magic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 244,
+		costume = true
+	},
+	[70024] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Feeler",
+		identifiedResourceName = "초록더듬이",
+		identifiedDescriptionName = {
+			"Grasshopper's Green feelers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 85,
+		costume = true
+	},
+	[70025] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jack be Dandy",
+		identifiedResourceName = "머리안경",
+		identifiedDescriptionName = {
+			"A pair of glasses that are worn on the head for a more charming appearance, instead of vision related purposes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 58,
+		costume = true
+	},
+	[70026] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Helm",
+		identifiedResourceName = "헬름",
+		identifiedDescriptionName = {
+			"Helm made from metal.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 40,
+		costume = true
+	},
+	[70027] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spiky Band",
+		identifiedResourceName = "샤프헤드기어",
+		identifiedDescriptionName = {
+			"A headband with two dangerously fashionable spikes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 43,
+		costume = true
+	},
+	[70028] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Iron Cane",
+		identifiedResourceName = "아이언케인",
+		identifiedDescriptionName = {
+			"Specialized face armor that protects the jaw and teeth in battle.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 53,
+		costume = true
+	},
+	[70029] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Wings",
+		identifiedResourceName = "천사의머리띠",
+		identifiedDescriptionName = {
+			"A headband adorned with what appears to be the wings of an angel.",
+			"Agi +1, Vit +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 38,
+		costume = true
+	},
+	[70030] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wild Rose",
+		identifiedResourceName = "와일드로즈모자",
+		identifiedDescriptionName = {
+			"The cat which is rough, the sample picked the wild road and the hat which made.",
+			"Atk +2, Matk +2.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 541,
+		costume = true
+	},
+	[70032] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Bunny Band",
+		identifiedResourceName = "빨간토끼머리띠",
+		identifiedDescriptionName = {
+			"A hat that makes you charming.",
+			"Dex +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 640,
+		costume = true
+	},
+	[70033] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spore Hat",
+		identifiedResourceName = "스포아모자",
+		identifiedDescriptionName = {
+			"Hat for those who want to be like the Spore monster. Feel like a mushroom!",
+			"Vit +1",
+			"Experience gain +1%",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 114,
+		costume = true
+	},
+	[70035] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sinsuncho Hat",
+		identifiedResourceName = "신선초모자",
+		identifiedDescriptionName = {
+			"Part of wild ginseng. They say that when ginseng taken out of the ground, you can hear the human groan.",
+			"Str +1",
+			"Experience gain +1%",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 730,
+		costume = true
+	},
+	[70036] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rose Corsage",
+		identifiedResourceName = "RJC카츄사",
+		identifiedDescriptionName = {
+			"A hair band decorated with small flowers.",
+			"Int +1",
+			"Experience gain +1%",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 533,
+		costume = true
+	},
+	[70037] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gryphon Hat",
+		identifiedResourceName = "그리폰모자",
+		identifiedDescriptionName = {
+			"A hat from Gryphon symbolic of bravery.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 591,
+		costume = true
+	},
+	[70038] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Full Moon",
+		identifiedResourceName = "보름달",
+		identifiedDescriptionName = {
+			"Bright full moon which is the biggest on the15th of August.",
+			"Has a chance of adding +50 ATK or +50 MATK while when dealing physical or magical attacks for 5 seconds.",
+			"This effect does not work during War of Emperium.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 780,
+		costume = true
+	},
+	[70041] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Romantic White Flower",
+		identifiedResourceName = "하얀꽃잎",
+		identifiedDescriptionName = {
+			"A cute and romantic white flower that is fashionable and functional at the same time.",
+			"Hit +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 259,
+		costume = true
+	},
+	[70042] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Devil's Whisper",
+		identifiedResourceName = "악마의속삭임",
+		identifiedDescriptionName = {
+			"An Evil Spirit, whispering promises of power in the ears of everyone who is willing to listen.",
+			"Reduces damage taken from Demon and Angel monsters by 1%.",
+			"^6666CCDemon^000000 monsters have a chance to drop 'Cursed Water'. ^6666CCAngel^000000 monsters have a chance drop 'Holy Water'.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 712,
+		costume = true
+	},
+	[70043] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Oliver Wolf Hood",
+		identifiedResourceName = "올리버늑대후드",
+		identifiedDescriptionName = {
+			"Wolf face shaped fluffy hood. Useful when you cannot sleep well.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 30^000000",
+			"Level Requirement:^009900 70^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 849,
+		costume = true
+	},
+	[70044] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Neko Crew",
+		identifiedResourceName = "타레네코크루",
+		identifiedDescriptionName = {
+			"Lori Ruri's pet 'Crew'. It's very acute but has a tendency to be easily surprised.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 692,
+		costume = true
+	},
+	[70045] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Boy's Cap",
+		identifiedResourceName = "학생모",
+		identifiedDescriptionName = {
+			"Lousy black hat for school kids.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 102,
+		costume = true
+	},
+	[70046] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Valkyrie Helm",
+		identifiedResourceName = "발키리투구",
+		identifiedDescriptionName = {
+			"A Helm of 'Battle Princess' who serves Odin.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 225,
+		costume = true
+	},
+	[70047] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Deviruchi Hat",
+		identifiedResourceName = "새끼악마모자",
+		identifiedDescriptionName = {
+			"Copied hat of Baby Deviruchi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 123,
+		costume = true
+	},
+	[70048] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Frog Hat",
+		identifiedResourceName = "개구리모자",
+		identifiedDescriptionName = {
+			"A hat which resembles the Frog God. But even the God of all frogs looks exactly like any other frog.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 448,
+		costume = true
+	},
+	[70049] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Majestic Goat",
+		identifiedResourceName = "마제스틱고우트",
+		identifiedDescriptionName = {
+			"A helmet that has been fashioned to give its wearer the appearance of having mighty goat horns. It's a helm that evokes power!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 41,
+		costume = true
+	},
+	[70050] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "발그레",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blush",
+		identifiedResourceName = "발그레",
+		identifiedDescriptionName = {
+			"Wear this when you want to look cute for your beloved.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 125,
+		costume = true
+	},
+	[70051] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Elven Ears",
+		identifiedResourceName = "요정의귀",
+		identifiedDescriptionName = {
+			"Modeled after the long ears of a fairy, when worn you can hear fairys playing in the blue forest.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 73,
+		costume = true
+	},
+	[70052] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Romantic Flower",
+		identifiedResourceName = "꽃잎",
+		identifiedDescriptionName = {
+			"A little flower leaf. The whole world seems pretty and happy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 56,
+		costume = true
+	},
+	[70053] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Assassin Mask",
+		identifiedResourceName = "어새신마스크",
+		identifiedDescriptionName = {
+			"A dark mask for assassins.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 100^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 180,
+		costume = true
+	},
+	[70057] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ayothaya Hat",
+		identifiedResourceName = "아요타야모자",
+		identifiedDescriptionName = {
+			"An ancient helm of Ayothaya's fighter. The braver actually can wear.",
+			"Str +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 334,
+		costume = true
+	},
+	[70058] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crow Hat",
+		identifiedResourceName = "까마귀모자",
+		identifiedDescriptionName = {
+			"A black Raven Cap that has black beak and feathers. It is so black.",
+			"Vit +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 524,
+		costume = true
+	},
+	[70059] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Baby Dragon Hat",
+		identifiedResourceName = "아기드래곤",
+		identifiedDescriptionName = {
+			"A baby dragon who has been trained to help its master. Nothing will freeze like this, and to awake appears.",
+			"Agi +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 525,
+		costume = true
+	},
+	[70060] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Coati Hat",
+		identifiedResourceName = "콰티모자",
+		identifiedDescriptionName = {
+			"A Cute kwati tail hat, you can feel the scent of the forest and nature of Kwati.",
+			"Dex +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 527,
+		costume = true
+	},
+	[70065] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Qing Headdress",
+		identifiedResourceName = "청나라머리장식",
+		identifiedDescriptionName = {
+			"When you wear it, you will feel a gorgeous atmosphere of Qing nobility.",
+			"Luk +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 583,
+		costume = true
+	},
+	[70066] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Samurai Mask",
+		identifiedResourceName = "사무라이마스크",
+		identifiedDescriptionName = {
+			"Amatsu warrior Samurai wearing mask during the War time.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 644,
+		costume = true
+	},
+	[70068] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ancient Horns",
+		identifiedResourceName = "고대인의뿔",
+		identifiedDescriptionName = {
+			"Soul of the ancients the feather the horn which is listening.",
+			"Str +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 757,
+		costume = true
+	},
+	[70069] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sprout Hat",
+		identifiedResourceName = "새싹모자",
+		identifiedDescriptionName = {
+			"The hat of the sprout shape.",
+			"Int +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 758,
+		costume = true
+	},
+	[70070] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mercury Riser",
+		identifiedResourceName = "머큐리의투구",
+		identifiedDescriptionName = {
+			"That govern Mercury's brilliant pitching god Mercury.",
+			"Luk +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 759,
+		costume = true
+	},
+	[70071] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Musang Hat",
+		identifiedResourceName = "백무상모자",
+		identifiedDescriptionName = {
+			"The hat worn by white general.",
+			"Str +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 770,
+		costume = true
+	},
+	[70072] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Musang Hat",
+		identifiedResourceName = "흑무상모자",
+		identifiedDescriptionName = {
+			"The hat is worn by black general.",
+			"Int +1",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 771,
+		costume = true
+	},
+	[70073] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Wing Hairband",
+		identifiedResourceName = "하트날개헤어밴드",
+		identifiedDescriptionName = {
+			"Decorated with tiny hearts and lace wings, headband Young girl wind.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 733,
+		costume = true
+	},
+	[70075] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ascension Black Dragon",
+		identifiedResourceName = "승천블랙드래곤",
+		identifiedDescriptionName = {
+			"Chosen as a reminder of Black Dragon, to ascend a hat made. Time aspect of the Black Dragon will look great in the pitching has been applied, has always been maintained Side...",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 863,
+		costume = true
+	},
+	[70076] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Pope Hat",
+		identifiedResourceName = "타레교황인형모자",
+		identifiedDescriptionName = {
+			"Peak of popularity!. Dropping pope hat of Arunafeltz modeled after the helmet made by pope!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 817,
+		costume = true
+	},
+	[70077] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 10th Anniversary Poring Hat",
+		identifiedResourceName = "10주년포링모",
+		identifiedDescriptionName = {
+			"A Poring hat made to celebrate Ragnarok Online's 10th anniversary.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 874,
+		costume = true
+	},
+	[70079] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Wind Hat",
+		identifiedResourceName = "프리스트의모자",
+		identifiedDescriptionName = {
+			"A red driver's hat decorated with white wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 613,
+		costume = true
+	},
+	[70081] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Adventurer's Hat",
+		identifiedResourceName = "모험가의모자",
+		identifiedDescriptionName = {
+			"The lucky, well-worn hat of former adventurer Mort Whimsey.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 891,
+		costume = true
+	},
+	[70082] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowboy Hat",
+		identifiedResourceName = "신카우보이모자",
+		identifiedDescriptionName = {
+			"The fancy Cowboy hat of the western Cowboy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 411,
+		costume = true
+	},
+	[70083] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Zorro Mask",
+		identifiedResourceName = "의적안대",
+		identifiedDescriptionName = {
+			"The mysterious mask of the roguish hero.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 50,
+		costume = true
+	},
+	[70084] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dagger in Mouth",
+		identifiedResourceName = "해적의대거",
+		identifiedDescriptionName = {
+			"Never bring only a knife to a gun fight, but having a spare knife is always handy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 327,
+		costume = true
+	},
+	[70085] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Feather Beret",
+		identifiedResourceName = "깃털베레모",
+		identifiedDescriptionName = {
+			"A premium-grade hat that offers a great fit. The feather decoration nicely complements the sky blue color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 224,
+		costume = true
+	},
+	[70086] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pink Bunny Band",
+		identifiedResourceName = "분홍토끼머리띠",
+		identifiedDescriptionName = {
+			"Cute Pink Bunny Hair Band.",
+			"Class:^6666CC Costumes^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Class:^6666CC 2nd Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 898,
+		costume = true
+	},
+	[70087] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume King Poring Hat",
+		identifiedResourceName = "킹포링모자",
+		identifiedDescriptionName = {
+			"The Master of all porings, the King Poring's hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 905,
+		costume = true
+	},
+	[70088] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nekomimi Hat",
+		identifiedResourceName = "고양이모자",
+		identifiedDescriptionName = {
+			"A cute cat-looking hat which enhances its wearer's look.",
+			"Has a cat tail which emphasises the appearance.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 182,
+		costume = true
+	},
+	[70089] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fallen Angel",
+		identifiedResourceName = "타천사의분실물",
+		identifiedDescriptionName = {
+			"A beatiful helm shaped as a rising angel's wing.",
+			"Wearing this item makes you feel little bit dizzy, but soon it will fresh you up.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 907,
+		costume = true
+	},
+	[70090] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Twin Red Ribbon",
+		identifiedResourceName = "트윈리본",
+		identifiedDescriptionName = {
+			"A red ribbon with a white flower. It makes girls prettier.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 239,
+		costume = true
+	},
+	[70091] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Ribbon",
+		identifiedResourceName = "리본_빨강",
+		identifiedDescriptionName = {
+			"A long piece of red satin tied together into a neat little ribbon that wards off harmful magic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 246,
+		costume = true
+	},
+	[70092] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hibiscus",
+		identifiedResourceName = "부용",
+		identifiedDescriptionName = {
+			"A flower said to be as beautiful as a fairy in a far east country, and usually used as a medicinal",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 210,
+		costume = true
+	},
+	[70093] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Laurel Wreath",
+		identifiedResourceName = "월계수관",
+		identifiedDescriptionName = {
+			"A wreath made with bright blue Leaves and Flowers to make you feel Fresh and rejuvenated.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 237,
+		costume = true
+	},
+	[70094] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Decorative Geographer",
+		identifiedResourceName = "장식용지오그래퍼",
+		identifiedDescriptionName = {
+			"A special geographer costume designed to rest nicely on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 238,
+		costume = true
+	},
+	[70095] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume April's Fool Day",
+		identifiedResourceName = "드레스햇",
+		identifiedDescriptionName = {
+			"Funny hats made for April Fool's Day.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 265,
+		costume = true
+	},
+	[70096] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flapping Angel Wings",
+		identifiedResourceName = "비상하는천사",
+		identifiedDescriptionName = {
+			"A headgear that looks like flapping angel wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 264,
+		costume = true
+	},
+	[70097] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magic Eyes",
+		identifiedResourceName = "매직아이즈",
+		identifiedDescriptionName = {
+			"A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 209,
+		costume = true
+	},
+	[70098] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wandering Wolf King Helmet",
+		identifiedResourceName = "떠돌이늑대왕투구",
+		identifiedDescriptionName = {
+			"Can feel a high dignity of the Northern Wolf Tribe.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 490,
+		costume = true
+	},
+	[70099] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Imp Hat",
+		identifiedResourceName = "임프모자",
+		identifiedDescriptionName = {
+			"A hat which resemble Imp of Thor Volcano.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 589,
+		costume = true
+	},
+	[70100] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Kiehl",
+		identifiedResourceName = "풀죽은키엘모자",
+		identifiedDescriptionName = {
+			"Doll keel of expression was not pleased with that one. When worn, also depressed mood and figure of the wearer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 40^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 909,
+		costume = true
+	},
+	[70101] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Aliot",
+		identifiedResourceName = "풀죽은엘리엇모자",
+		identifiedDescriptionName = {
+			"Elliott doll look despondent. When worn, also depressed mood and figure of the wearer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 910,
+		costume = true
+	},
+	[70102] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Invisible Cap",
+		identifiedResourceName = "인비지블캡",
+		identifiedDescriptionName = {
+			"A hat that can be touched...but invisible.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70103] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Invisible Glasses",
+		identifiedResourceName = "인비지블선글라스",
+		identifiedDescriptionName = {
+			"A glasses that can be touched...but invisible.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70104] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Invisible Mask",
+		identifiedResourceName = "인비지블마스크",
+		identifiedDescriptionName = {
+			"A mask that can be touched...but invisible.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70105] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gang Scarf",
+		identifiedResourceName = "갱스카프",
+		identifiedDescriptionName = {
+			"A gangster's red scarf.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 369,
+		costume = true
+	},
+	[70106] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ninja Scroll",
+		identifiedResourceName = "닌자의두루마리",
+		identifiedDescriptionName = {
+			"A scroll used by Ninjas to cast spells.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 370,
+		costume = true
+	},
+	[70107] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chicken Love Hat",
+		identifiedResourceName = "사랑의병아리모자",
+		identifiedDescriptionName = {
+			"The little chick converted from love energy. Please handle with care.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 500,
+		costume = true
+	},
+	[70108] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chick Hat",
+		identifiedResourceName = "병아리모자",
+		identifiedDescriptionName = {
+			"A hat adorned with a cute chick that brings feelings of joy to those that see it hopping.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 311,
+		costume = true
+	},
+	[70109] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Glasses",
+		identifiedResourceName = "빨간안경",
+		identifiedDescriptionName = {
+			"A must-have item for those that care about appearances: it can increase your beauty threefold.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 316,
+		costume = true
+	},
+	[70111] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Peco Ears",
+		identifiedResourceName = "페코페코날개귀",
+		identifiedDescriptionName = {
+			"An ornament wing created by Morgan Stanley's.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 366,
+		costume = true
+	},
+	[70113] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Valkyrie Feather Band",
+		identifiedResourceName = "발키리깃털모자",
+		identifiedDescriptionName = {
+			"A hairband utilizing a Feather from a Valkyrie Angel.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 300,
+		costume = true
+	},
+	[70114] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Super Novice Hat",
+		identifiedResourceName = "슈노모자",
+		identifiedDescriptionName = {
+			"A hat that happens to match the Super Novice costume... absolutely perfectly.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 193,
+		costume = true
+	},
+	[70116] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wickebine's Black Cat Ears",
+		identifiedResourceName = "휘케바인의귀",
+		identifiedDescriptionName = {
+			"Wickebine's black cat ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 368,
+		costume = true
+	},
+	[70117] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Puppy Headband",
+		identifiedResourceName = "강아지귀",
+		identifiedDescriptionName = {
+			"A cute headband that looks just like a pair of adorable puppy ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 199,
+		costume = true
+	},
+	[70118] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Kitsune Mask",
+		identifiedResourceName = "여우가면",
+		identifiedDescriptionName = {
+			"A mask rumored to have been worn by certain assassins in order to hide themselves.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 153,
+		costume = true
+	},
+	[70119] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Corsair",
+		identifiedResourceName = "커세어",
+		identifiedDescriptionName = {
+			"A flamboyant hat worn only by the strongest of pirates.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 105,
+		costume = true
+	},
+	[70120] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Detective Hat",
+		identifiedResourceName = "탐정모자",
+		identifiedDescriptionName = {
+			"This type of cap is known to have been worn by a world famous detective. It feels like a Pipe would perfectly complement this cap for some reason.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 189,
+		costume = true
+	},
+	[70121] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Evil Wing Ears",
+		identifiedResourceName = "악마날개귀",
+		identifiedDescriptionName = {
+			"An ear accessory made with Evil Wing.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 152,
+		costume = true
+	},
+	[70122] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crescent Hairpin",
+		identifiedResourceName = "초승달머리핀",
+		identifiedDescriptionName = {
+			"A hairpin in the shape of a crescent.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 132,
+		costume = true
+	},
+	[70123] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bijofnil Wings",
+		identifiedResourceName = "비조프닐날개장식",
+		identifiedDescriptionName = {
+			"A hat made to honor Bijofnil, the legendary bird that lives above the Yggdrasil tree.",
+			"A hairpin in the shape of a crescent.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 477,
+		costume = true
+	},
+	[70124] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blank Eyes",
+		identifiedResourceName = "배틀온라인",
+		identifiedDescriptionName = {
+			"A special item that makes its wearer look absent-minded.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 185,
+		costume = true
+	},
+	[70125] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bunny Band",
+		identifiedResourceName = "토끼머리띠",
+		identifiedDescriptionName = {
+			"A hairband that gives one the appearance of having rabbit ears, a lasting symbol of extremely good luck.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 15,
+		costume = true
+	},
+	[70126] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Satellite Hairband",
+		identifiedResourceName = "새틀라이트헤어밴드",
+		identifiedDescriptionName = {
+			"Stay in tuned with the universe with this orbital headpiece",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 266,
+		costume = true
+	},
+	[70127] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Headset",
+		identifiedResourceName = "헤드폰",
+		identifiedDescriptionName = {
+			"A strange device that was invented by an old craftsman, but has just recently been completed by his grandson.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 97,
+		costume = true
+	},
+	[70128] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tiara",
+		identifiedResourceName = "티아라",
+		identifiedDescriptionName = {
+			"A jeweled coronet said to grant the wisdom of an ancient queen that had worn it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 19,
+		costume = true
+	},
+	[70129] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown",
+		identifiedResourceName = "크라운",
+		identifiedDescriptionName = {
+			"A crown adorned with",
+			"gorgeous jewels that",
+			"is said to be worn by a wise, ancient king who",
+			"will grant his wisdom",
+			"to the wearer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 20^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 45,
+		costume = true
+	},
+	[70130] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Fedora Hat",
+		identifiedResourceName = "보스모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 919,
+		costume = true
+	},
+	[70131] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hat",
+		identifiedResourceName = "햇",
+		identifiedDescriptionName = {
+			"An ordinary pink hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16,
+		costume = true
+	},
+	[70132] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flower Band",
+		identifiedResourceName = "꽃머리띠",
+		identifiedDescriptionName = {
+			"Braids woven with a subtle floral fragrance.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 5,
+		costume = true
+	},
+	[70133] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flu Mask",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"A mask that is worn by people with the flu to prevent spreading sickness to others.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 8,
+		costume = true
+	},
+	[70134] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Propeller",
+		identifiedResourceName = "프로펠라",
+		identifiedDescriptionName = {
+			"A headgear topped with a fashionably experimental propeller.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 46,
+		costume = true
+	},
+	[70135] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Clown Nose",
+		identifiedResourceName = "광대코",
+		identifiedDescriptionName = {
+			"A fashion accessory used in clown or town drunk disguises.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 49,
+		costume = true
+	},
+	[70136] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nurse Cap",
+		identifiedResourceName = "간호모",
+		identifiedDescriptionName = {
+			"A cap worn by nurses both great and small.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 64,
+		costume = true
+	},
+	[70138] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sakkat",
+		identifiedResourceName = "삿갓",
+		identifiedDescriptionName = {
+			"A rustic hat knit from rough reeds and bamboos that shields against the rain and the glare of the sun.",
+			"Saurabi, the ancient Korean warrior, was known to wear one of these.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 67,
+		costume = true
+	},
+	[70139] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Charming Ribbon",
+		identifiedResourceName = "예쁜리본",
+		identifiedDescriptionName = {
+			"A pretty red ribbon decorated with a pink heart in the middle.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 211,
+		costume = true
+	},
+	[70142] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wickebine Ears",
+		identifiedResourceName = "휘케바인의귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 368,
+		costume = true
+	},
+	[70143] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Takius Blindfold",
+		identifiedResourceName = "타키우스눈가리개",
+		identifiedDescriptionName = {
+			"A Commemorative blindfold named after the most famous of Sages; Takius from the Ragnarok Anime.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 184,
+		costume = true
+	},
+	[70145] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ramen Hat",
+		identifiedResourceName = "라면모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 320,
+		costume = true
+	},
+	[70146] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Deviruchi Hat",
+		identifiedResourceName = "빨강새끼악마모자",
+		identifiedDescriptionName = {
+			"A cute hat shaped like a Deviruchi that brings happiness to its wearer and onlookers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 271,
+		costume = true
+	},
+	[70147] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Autumn Leaves",
+		identifiedResourceName = "낙엽",
+		identifiedDescriptionName = {
+			"A headgear made from leaves fallen from an enchanted tree.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 241,
+		costume = true
+	},
+	[70148] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Kitten Ears",
+		identifiedResourceName = "하얀새끼고양이귀",
+		identifiedDescriptionName = {
+			"A white kitten looking cute hairlace.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 926,
+		costume = true
+	},
+	[70149] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Five Colored Feathers",
+		identifiedResourceName = "오색깃털장식",
+		identifiedDescriptionName = {
+			"Decorations Made by Feathers of Five color to Celebrate 'RWC 2012'",
+			"Class:^6666CC Costumes^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Class:^6666CC 2nd Job^000000"
+		},
+		slotCount = 0,
+		ClassNum = 934,
+		costume = true
+	},
+	[70150] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume RWC Shouting mouth",
+		identifiedResourceName = "분노입",
+		identifiedDescriptionName = {
+			"'RWC 2012!!' Is Reffered as Shouting Mouth.",
+			"A Chance to gain Extra ATK,MATK And also Various Other Effects.",
+			"Enables Level 5 Maximize Power.",
+			"Deleted After the End of Competition.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 194,
+		costume = true
+	},
+	[70151] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rabbit Magic Hat",
+		identifiedResourceName = "토끼마술모자",
+		identifiedDescriptionName = {
+			"A hat worn by a well-known magician. Rabbit is peeping out, and we don't know what is going to pop out next.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 497,
+		costume = true
+	},
+	[70152] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Marcher Hat",
+		identifiedResourceName = "마칭햇",
+		identifiedDescriptionName = {
+			"A hat which gives you a holy power and celestial melody in the rim of the ear.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 269,
+		costume = true
+	},
+	[70153] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Master's Hat",
+		identifiedResourceName = "선장모자",
+		identifiedDescriptionName = {
+			"This old airship captain's hat would make you think: 'That white horn was only the part of the hat'",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 367,
+		costume = true
+	},
+	[70154] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tiraya Bonnet",
+		identifiedResourceName = "티라야보넷",
+		identifiedDescriptionName = {
+			"A long and big bonnet. It is not sure when it is used for.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 398,
+		costume = true
+	},
+	[70155] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Minstrel Hat",
+		identifiedResourceName = "음유시인모자",
+		identifiedDescriptionName = {
+			"A useful and broad-brimmed hat providing a big shadow, and once worn by a famous minstrel.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 240,
+		costume = true
+	},
+	[70156] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Captain Hat",
+		identifiedResourceName = "선장의모자",
+		identifiedDescriptionName = {
+			"A captain's dignified hat with heavy color. It is famous for being worn by a vessel's leader.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 236,
+		costume = true
+	},
+	[70157] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vacation Hat",
+		identifiedResourceName = "바캉스모자",
+		identifiedDescriptionName = {
+			"A hat just fit for summer vacation. It prevents face from tanning by the strong sunlight.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 315,
+		costume = true
+	},
+	[70158] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Brown Beanie",
+		identifiedResourceName = "회색털모자",
+		identifiedDescriptionName = {
+			"A woolly hat made for warming heads, but it seems that some people wear it for fashion.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 279,
+		costume = true
+	},
+	[70159] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Coppola",
+		identifiedResourceName = "코폴라",
+		identifiedDescriptionName = {
+			"Marco's favorite hat. Inside you can find a short phrase Andrea had written, 'His memories to you...'.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 252,
+		costume = true
+	},
+	[70160] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sweet Bonnet",
+		identifiedResourceName = "스위트보넷",
+		identifiedDescriptionName = {
+			"A sweet bonnet.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 938,
+		costume = true
+	},
+	[70161] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magician Hat",
+		identifiedResourceName = "마술사의모자",
+		identifiedDescriptionName = {
+			"A hat worn by magicians. Rabbits are usually pulled out of this hat.",
+			"Pretty stout, it won't be destroyed easily.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 130,
+		costume = true
+	},
+	[70162] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wish Lamp",
+		identifiedResourceName = "소원성취천등",
+		identifiedDescriptionName = {
+			"Light of desired dreams come true.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 947,
+		costume = true
+	},
+	[70163] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Campus Festival",
+		identifiedResourceName = "축제머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 721,
+		costume = true
+	},
+	[70164] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Cake Hat",
+		identifiedResourceName = "포링케이크모자",
+		identifiedDescriptionName = {
+			"A hat looking like a cake with Poring on top.",
+			"It gives you happiness even by worn on top of the head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 417,
+		costume = true
+	},
+	[70165] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cookie Hat",
+		identifiedResourceName = "국경일모자",
+		identifiedDescriptionName = {
+			"A Hat worn by Cookie Xmas, 'the idol of Toy Dungeon'. It covers the ears to protect from cold weather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 217,
+		costume = true
+	},
+	[70166] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Helm",
+		identifiedResourceName = "드래군헬름",
+		identifiedDescriptionName = {
+			"A headgear made by the hard scale of Dragon. The wearer of this headgear can get the great power of Dragon.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 464,
+		costume = true
+	},
+	[70167] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wind Milestone",
+		identifiedResourceName = "바람의이정표",
+		identifiedDescriptionName = {
+			"A cap of post man who delivers letters with heart.",
+			"Magic in the cap protects the wearer not to lose their way.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 463,
+		costume = true
+	},
+	[70168] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Reginleif Wings",
+		identifiedResourceName = "레긴레이브의날개",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 468,
+		costume = true
+	},
+	[70169] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Southern Cross",
+		identifiedResourceName = "서전크로스",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 601,
+		costume = true
+	},
+	[70170] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piggie Bank",
+		identifiedResourceName = "돼지저금통",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 603,
+		costume = true
+	},
+	[70171] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Letter",
+		identifiedResourceName = "포링편지",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 604,
+		costume = true
+	},
+	[70174] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jumping Poring",
+		identifiedResourceName = "폴짝이는포링",
+		identifiedDescriptionName = {
+			"A Poring hat that feels like hopping on top of your head. It brings fortune to the wearer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 349,
+		costume = true
+	},
+	[70175] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rainbow Poring Hat",
+		identifiedResourceName = "무지개포링모자",
+		identifiedDescriptionName = {
+			"Colorful Poring hat, make all people love it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 900,
+		costume = true
+	},
+	[70176] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Soulless Wing",
+		identifiedResourceName = "소울리스윙",
+		identifiedDescriptionName = {
+			"A mysterious ring floating above your head. It feels like that you don't have a soul?!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 301,
+		costume = true
+	},
+	[70177] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bell Ribbon",
+		identifiedResourceName = "방울리본",
+		identifiedDescriptionName = {
+			"A cute ribbon with small bells. The bells seem to jingle.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 388,
+		costume = true
+	},
+	[70178] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Round Eyes J",
+		identifiedResourceName = "배틀온라인",
+		identifiedDescriptionName = {
+			"White round eyes make you look innocent and cute.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 185,
+		costume = true
+	},
+	[70180] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silver Tiara",
+		identifiedResourceName = "실버티아라",
+		identifiedDescriptionName = {
+			"A silver shining hair accessory with a star at the center.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 218,
+		costume = true
+	},
+	[70181] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Santa Poring Hat",
+		identifiedResourceName = "산타포링모자",
+		identifiedDescriptionName = {
+			"A cute santa poring is tumbling on your head!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 387,
+		costume = true
+	},
+	[70182] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sweet Candy",
+		identifiedResourceName = "달콤한사탕",
+		identifiedDescriptionName = {
+			"The sweetest yummy candy for good children.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 414,
+		costume = true
+	},
+	[70183] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Wig",
+		identifiedResourceName = "행복한가발",
+		identifiedDescriptionName = {
+			"A funky afro wig! The warmer your head, the warmer your heart.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 305,
+		costume = true
+	},
+	[70184] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shine Stanta Poring",
+		identifiedResourceName = "발광산타포링",
+		identifiedDescriptionName = {
+			"A poring with shiny hair that transmits light from a wonderful Christmas.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 961,
+		costume = true
+	},
+	[70185] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Santa Doll Headband",
+		identifiedResourceName = "산타인형머리띠",
+		identifiedDescriptionName = {
+			"Santa Claus doll-themed headband.",
+			"When attacking, has chance to transform into 'Antonio'.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 964,
+		costume = true
+	},
+	[70186] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lush Rose",
+		identifiedResourceName = "싱싱한장미",
+		identifiedDescriptionName = {
+			"If you don't know how to decorated it, always keep it fresh so it stay beautiful.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 963,
+		costume = true
+	},
+	[70187] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rose Corsage",
+		identifiedResourceName = "RJC카츄사",
+		identifiedDescriptionName = {
+			"A hair band decorated with small flowers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 533,
+		costume = true
+	},
+	[70189] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dark Snake Lord Hat J",
+		identifiedResourceName = "흑사왕의모자",
+		identifiedDescriptionName = {
+			"A hat of Dark Snake Lord. You can be an emperor with this.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 372,
+		costume = true
+	},
+	[70190] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Ribbon",
+		identifiedResourceName = "블루리본",
+		identifiedDescriptionName = {
+			"A blue ribbon symbolized of the elite!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 407,
+		costume = true
+	},
+	[70191] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Antique Pipe",
+		identifiedResourceName = "앤티크담뱃대",
+		identifiedDescriptionName = {
+			"An old pipe needed for the perfect captain fashion.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 383,
+		costume = true
+	},
+	[70192] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Triple Poring Hat",
+		identifiedResourceName = "포링겹모자",
+		identifiedDescriptionName = {
+			"A cute hat stacked with popular monster porings.",
+			"It seems that Angeling, Mastering and Poring are standing in a line.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 299,
+		costume = true
+	},
+	[70193] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vane Hairpin",
+		identifiedResourceName = "풍차비녀",
+		identifiedDescriptionName = {
+			"A traditional hairpin shaped like a windmill spining round. You can feel the wind with it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 313,
+		costume = true
+	},
+	[70194] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Kettle Hat",
+		identifiedResourceName = "주전자모자",
+		identifiedDescriptionName = {
+			"A kettle put on your head. It depends you well but water can overflow if you move too hard.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 318,
+		costume = true
+	},
+	[70195] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Friend Mochiring Hat",
+		identifiedResourceName = "모치링모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 965,
+		costume = true
+	},
+	[70196] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rudolph Santa Hat",
+		identifiedResourceName = "루돌프산타모",
+		identifiedDescriptionName = {
+			"A hat modelled after servant deer of santa claus.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 619,
+		costume = true
+	},
+	[70197] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bf Recruiter Hat",
+		identifiedResourceName = "남친구함모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 352,
+		costume = true
+	},
+	[70198] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gf Recruiter Hat",
+		identifiedResourceName = "여친구함모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 360,
+		costume = true
+	},
+	[70199] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume RWC Champ Crown 2nd",
+		identifiedResourceName = "rwc승리의왕관_파랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 903,
+		costume = true
+	},
+	[70200] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Bonnet",
+		identifiedResourceName = "차양모자",
+		identifiedDescriptionName = {
+			"A bonnet favored by women of nobility.",
+			"Wearing it supposedly causes inexplicable cravings for tea, but that might just be an aristocratic thing.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 190,
+		costume = true
+	},
+	[70201] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Twin Pom Santa",
+		identifiedResourceName = "양갈래산타모자",
+		identifiedDescriptionName = {
+			"A Santa Hat with two pom-poms instead of one for double the Christmas fun!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 390,
+		costume = true
+	},
+	[70202] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Afro Wig",
+		identifiedResourceName = "아프로가발_빨강",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 970,
+		costume = true
+	},
+	[70203] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Dress Hat",
+		identifiedResourceName = "빨간드레스햇",
+		identifiedDescriptionName = {
+			"A red dress hat. It goes well with fancy dresses.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 670,
+		costume = true
+	},
+	[70204] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Polar Bear Cap",
+		identifiedResourceName = "크리스마스흰곰모자",
+		identifiedDescriptionName = {
+			"Christmas hat that Raccoon Hooray team 'borrowed' from Santa.",
+			"It is very helpful for the Raccoons to keep warm since they're currently homeless.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 966,
+		costume = true
+	},
+	[70205] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Snake Hat",
+		identifiedResourceName = "하얀뱀모자",
+		identifiedDescriptionName = {
+			"A white snake that balances naturally on your head. It's beady eyes stare into your soul.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 413,
+		costume = true
+	},
+	[70206] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Ribbon",
+		identifiedResourceName = "노란색리본",
+		identifiedDescriptionName = {
+			"A ribbon made by an old flag. You can put it on one side of your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 310,
+		costume = true
+	},
+	[70208] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Little Angel Doll",
+		identifiedResourceName = "리틀엔젤돌",
+		identifiedDescriptionName = {
+			"A doll shaped like an angel. It is used to worship Odin by the blacksmith guild of dwarf.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 344,
+		costume = true
+	},
+	[70209] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lucky Clover",
+		identifiedResourceName = "입에문네잎클로버",
+		identifiedDescriptionName = {
+			"A fresh lucky clover.",
+			"It brings you with a good luck.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 571,
+		costume = true
+	},
+	[70210] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lady Tanee Doll",
+		identifiedResourceName = "타니아가씨인형",
+		identifiedDescriptionName = {
+			"A cute doll shaped like Lady Tanee.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 520,
+		costume = true
+	},
+	[70211] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Scarf",
+		identifiedResourceName = "스카프",
+		identifiedDescriptionName = {
+			"A scarf with a mysterious wind.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 343,
+		costume = true
+	},
+	[70212] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alice Doll",
+		identifiedResourceName = "엘리스모자",
+		identifiedDescriptionName = {
+			"A doll shaped like a popular monster Alice. She says 'Master, cheer up' on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 208,
+		costume = true
+	},
+	[70213] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pink Ribbon",
+		identifiedResourceName = "리본_분홍",
+		identifiedDescriptionName = {
+			"A butterfly shaped ribbon for girls, or pretty boys can wear it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 245,
+		costume = true
+	},
+	[70214] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gothic Head Dress",
+		identifiedResourceName = "고딕헤드드레스",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 978,
+		costume = true
+	},
+	[70215] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Coronet",
+		identifiedResourceName = "코로넷",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 33,
+		costume = true
+	},
+	[70216] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Romantic Gent",
+		identifiedResourceName = "올드스터로맨스",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = true
+	},
+	[70217] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Darkness Helm",
+		identifiedResourceName = "다크네스헬름",
+		identifiedDescriptionName = {
+			"An elegant black wings which are spreading wide.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 586,
+		costume = true
+	},
+	[70218] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Glasses",
+		identifiedResourceName = "검은뿔테안경",
+		identifiedDescriptionName = {
+			"A black bold glasses. This is it- item for this season!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 404,
+		costume = true
+	},
+	[70219] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sacred Torch Coronet",
+		identifiedResourceName = "성화관",
+		identifiedDescriptionName = {
+			"A crown with holy fire.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 431,
+		costume = true
+	},
+	[70220] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Deprotai Doll",
+		identifiedResourceName = "디포르테인형모자",
+		identifiedDescriptionName = {
+			"A headgear shaped like Kafra Deprotai! All boys are chasing her so they can use Kafra service 20 times per day.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 354,
+		costume = true
+	},
+	[70222] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Scarlet Rose",
+		identifiedResourceName = "진홍의장미",
+		identifiedDescriptionName = {
+			"A bloody red rose in your lips. You should remove its thorns.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 534,
+		costume = true
+	},
+	[70223] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Devilring Hat",
+		identifiedResourceName = "데빌링모자",
+		identifiedDescriptionName = {
+			"A hat designed like Devilring. His sharp eyes are the best point for your fashion!",
+			"Class:^6666CC Headgear^000000",
+			"Weight:^009900 0^000000",
+			"Location:^6666CC Upper^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 298,
+		costume = true
+	},
+	[70224] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Zonda",
+		identifiedResourceName = "존다인형모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 985,
+		costume = true
+	},
+	[70225] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Neko Mimi Kafra",
+		identifiedResourceName = "네코미미카프라",
+		identifiedDescriptionName = {
+			"A stylish hairband shaped like Kafra's and cat's ears. It's double the cuteness!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 392,
+		costume = true
+	},
+	[70226] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Snake Hat",
+		identifiedResourceName = "뱀모자",
+		identifiedDescriptionName = {
+			"The headgear is designed according to the curled of snake.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 986,
+		costume = true
+	},
+	[70227] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Evil Wings",
+		identifiedResourceName = "악마의머리띠",
+		identifiedDescriptionName = {
+			"Headgear made according to the wings on the demon's back.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 39,
+		costume = true
+	},
+	[70229] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Panda Hat",
+		identifiedResourceName = "팬더곰모자",
+		identifiedDescriptionName = {
+			"A cute and cuddly headgear made in the form of a Panda's head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 115,
+		costume = true
+	},
+	[70230] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Binoculars",
+		identifiedResourceName = "망원경",
+		identifiedDescriptionName = {
+			"Fancy glasses helps you see long distances. Made with compressed glass.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 83,
+		costume = true
+	},
+	[70231] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fin Helm",
+		identifiedResourceName = "핀헬름",
+		identifiedDescriptionName = {
+			"A fish fin looking helm that protects Swordmen. This doesn't help you breathe under water.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 100,
+		costume = true
+	},
+	[70233] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Corsair",
+		identifiedResourceName = "커세어",
+		identifiedDescriptionName = {
+			"A flamboyant hat worn only by the strongest of pirates.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 105,
+		costume = true
+	},
+	[70234] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Detective Hat",
+		identifiedResourceName = "탐정모자",
+		identifiedDescriptionName = {
+			"This type of cap is known to have been worn by a world famous detective. It feels like a Pipe would perfectly complement this cap for some reason.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 189,
+		costume = true
+	},
+	[70235] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sleeping Cat Hat",
+		identifiedResourceName = "잠자는고양이모자",
+		identifiedDescriptionName = {
+			"Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 838,
+		costume = true
+	},
+	[70236] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Majestic Devil Horns",
+		identifiedResourceName = "마제스틱데빌혼",
+		identifiedDescriptionName = {
+			"The horns imbued with full of Devil Spirit. Feels so tight and harsh.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 562,
+		costume = true
+	},
+	[70237] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Small Golden Wings",
+		identifiedResourceName = "아스가르드의축복",
+		identifiedDescriptionName = {
+			"Divine wings that rumored contain holy force.",
+			"Increase 1% experience gain.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 724,
+		costume = true
+	},
+	[70239] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Tail Ribbon",
+		identifiedResourceName = "검은테일리본",
+		identifiedDescriptionName = {
+			"A black huge ribbon looks tidy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 642,
+		costume = true
+	},
+	[70240] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Holy Marching Hat",
+		identifiedResourceName = "신성한마칭햇",
+		identifiedDescriptionName = {
+			"A marching hat with sacred force.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 587,
+		costume = true
+	},
+	[70244] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gold Spirit Chain",
+		identifiedResourceName = "금색고리",
+		identifiedDescriptionName = {
+			"A splendid soul ring with angel's blessing given to sincere believers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 260,
+		costume = true
+	},
+	[70245] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Saint Frill Ribbon",
+		identifiedResourceName = "C세인트프릴리본",
+		identifiedDescriptionName = {
+			"It looks a neat big white ribbon.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 987,
+		costume = true
+	},
+	[70246] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Light Darkness Crown",
+		identifiedResourceName = "C빛과어둠의진혼관",
+		identifiedDescriptionName = {
+			"A white on the left, a black wing right wing was designed as a crown.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 988,
+		costume = true
+	},
+	[70247] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shelter Wing Ears",
+		identifiedResourceName = "C수호날개",
+		identifiedDescriptionName = {
+			"A wing-shaped accessory with purple roses.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 990,
+		costume = true
+	},
+	[70248] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Celestial Hat",
+		identifiedResourceName = "하늘모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 462,
+		costume = true
+	},
+	[70250] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume YinYang Earring",
+		identifiedResourceName = "태극귀걸이",
+		identifiedDescriptionName = {
+			"Earring symbolizes Yin and Yang.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 744,
+		costume = true
+	},
+	[70252] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Water Lily Crown",
+		identifiedResourceName = "수련왕관",
+		identifiedDescriptionName = {
+			"A hat shaped like a lily. It makes you calm and silent.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 312,
+		costume = true
+	},
+	[70253] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Frog King Hat",
+		identifiedResourceName = "개구리왕자모자",
+		identifiedDescriptionName = {
+			"Even though it is a frog, a gentle man is waiting for a lovely girl who can dispel his curse.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 522,
+		costume = true
+	},
+	[70254] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Umbrella Hat",
+		identifiedResourceName = "우산모자",
+		identifiedDescriptionName = {
+			"Very colorful umbrella. It is very useful in rainy season.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 338,
+		costume = true
+	},
+	[70256] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Lily",
+		identifiedResourceName = "화이트릴리",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 993,
+		costume = true
+	},
+	[70257] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Peace Proof",
+		identifiedResourceName = "행복평화의증표",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 994,
+		costume = true
+	},
+	[70258] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Leaf Cat Hat",
+		identifiedResourceName = "리프캣모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 539,
+		costume = true
+	},
+	[70259] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spare Card",
+		identifiedResourceName = "스페어카드",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 526,
+		costume = true
+	},
+	[70260] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wing Angels Ears",
+		identifiedResourceName = "천사날개귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 158,
+		costume = true
+	},
+	[70261] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yggdrasil Hat",
+		identifiedResourceName = "세계수의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 997,
+		costume = true
+	},
+	[70262] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Home Cherry Blossom",
+		identifiedResourceName = "고향의벚꽃",
+		identifiedDescriptionName = {
+			"A cute hair accessory decorated with cherry blossoms and bells. It reminds you of old memories.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 602,
+		costume = true
+	},
+	[70263] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sakura Coronet",
+		identifiedResourceName = "벚꽃화관",
+		identifiedDescriptionName = {
+			"A pink flowered wreath.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 645,
+		costume = true
+	},
+	[70264] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mischievous Fairy",
+		identifiedResourceName = "장난꾸러기요정",
+		identifiedDescriptionName = {
+			"A headgear looks like the ears of a mischievous fairy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 405,
+		costume = true
+	},
+	[70265] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Japan Winecup",
+		identifiedResourceName = "일본술잔",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 557,
+		costume = true
+	},
+	[70266] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Butterfly Hairpin",
+		identifiedResourceName = "나비머리핀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 723,
+		costume = true
+	},
+	[70267] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Honeybee Hat",
+		identifiedResourceName = "꿀벌모자",
+		identifiedDescriptionName = {
+			"An interesting hat decorated with honeybee-like stripes and feelers.",
+			"You feel like gathering the honey!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 709,
+		costume = true
+	},
+	[70268] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angelring Hairpin",
+		identifiedResourceName = "엔젤링핀",
+		identifiedDescriptionName = {
+			"A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 222,
+		costume = true
+	},
+	[70269] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Emperor Wreath",
+		identifiedResourceName = "월계관",
+		identifiedDescriptionName = {
+			"A laurel wreath used for the coronation of the emperor. It symbolizes glory and victory.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 261,
+		costume = true
+	},
+	[70271] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tomboy Fairy",
+		identifiedResourceName = "C말썽꾸러기요정",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 998,
+		costume = true
+	},
+	[70272] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Twinkle Little Star",
+		identifiedResourceName = "반짝반짝작은별",
+		identifiedDescriptionName = {
+			"Ornaments modeled after the stars twinkling in the night sky.",
+			"Only wish good fortune to come to find something.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 1^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1005,
+		costume = true
+	},
+	[70273] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume King Strawberry",
+		identifiedResourceName = "맛있는딸기모",
+		identifiedDescriptionName = {
+			"A texture that melts in the mouth.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 968,
+		costume = true
+	},
+	[70274] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Persica",
+		identifiedResourceName = "페르시카",
+		identifiedDescriptionName = {
+			"Spring flowers bloom earlier than other kinds of flowers made of hair ornaments to tell. Smells sweet.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 659,
+		costume = true
+	},
+	[70275] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Knit Rabbit Ears",
+		identifiedResourceName = "토끼귀니트모자",
+		identifiedDescriptionName = {
+			"Knitted hat is very cuteness and comfortable.",
+			"Pendent rabbit ears are impressive.",
+			"MaxHP +3%, MaxSP +3%.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 867,
+		costume = true
+	},
+	[70276] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Wing Ears",
+		identifiedResourceName = "천사날개귀",
+		identifiedDescriptionName = {
+			"An ear accessory that looks just like white, beautiful angel wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 158,
+		costume = true
+	},
+	[70277] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Cat",
+		identifiedResourceName = "늘어진고양이",
+		identifiedDescriptionName = {
+			"A cute kitty doll which can be worn on top of the head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 142,
+		costume = true
+	},
+	[70278] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grampa Beard",
+		identifiedResourceName = "흰수염",
+		identifiedDescriptionName = {
+			"A white colored moustache, symbol of experience and well aged sophistication.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 25,
+		costume = true
+	},
+	[70279] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Morrigane's Helm",
+		identifiedResourceName = "모리아네헬름",
+		identifiedDescriptionName = {
+			"A helm that was once owned by Morrigane, the goddess of war.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 257,
+		costume = true
+	},
+	[70280] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crunch Toast",
+		identifiedResourceName = "토스트",
+		identifiedDescriptionName = {
+			"A noble headgear created in the proud image of a crunchy toast.",
+			"Wearing it makes you feel just like a part of a balanced breakfast.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 188,
+		costume = true
+	},
+	[70281] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Mistress",
+		identifiedResourceName = "미스트레스왕관",
+		identifiedDescriptionName = {
+			"A crown which is made after the one worn by Mistress.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 165,
+		costume = true
+	},
+	[70282] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Devoted Eyes",
+		identifiedResourceName = "신앙의눈",
+		identifiedDescriptionName = {
+			"The truly devoted have seen into the infinite, and have been forever changed.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1021,
+		costume = true
+	},
+	[70283] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Eyepatch",
+		identifiedResourceName = "하트안대",
+		identifiedDescriptionName = {
+			"An eyepatch for those who would not like to look lovelier than a pirate.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 779,
+		costume = true
+	},
+	[70284] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sweet Gents",
+		identifiedResourceName = "스위트젠틀",
+		identifiedDescriptionName = {
+			"A dark colored and very stylish hat that was popularized by smooth crooners.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 29,
+		costume = true
+	},
+	[70285] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Veil",
+		identifiedResourceName = "면사포",
+		identifiedDescriptionName = {
+			"A transparent veil worn by brides on the day of their wedding.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 44,
+		costume = true
+	},
+	[70286] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alarm Mask",
+		identifiedResourceName = "알람가면",
+		identifiedDescriptionName = {
+			"A mask which resembles the face of an Alarm monster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 170,
+		costume = true
+	},
+	[70287] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poker Face",
+		identifiedResourceName = "고블린가면1호",
+		identifiedDescriptionName = {
+			"A mask with a blank expression on it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 171,
+		costume = true
+	},
+	[70290] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grand Circlet",
+		identifiedResourceName = "로드서클릿",
+		identifiedDescriptionName = {
+			"An exquisitely made circlet, typically worn by rulers or gentry.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 93,
+		costume = true
+	},
+	[70291] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bone Helm",
+		identifiedResourceName = "본헬름",
+		identifiedDescriptionName = {
+			"An incredibly heavy, yet almost impenetrable helmet constructed of bone.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 103,
+		costume = true
+	},
+	[70292] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Apple of Archer",
+		identifiedResourceName = "명사수의사과",
+		identifiedDescriptionName = {
+			"A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 72,
+		costume = true
+	},
+	[70293] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angry Snarl",
+		identifiedResourceName = "분노입",
+		identifiedDescriptionName = {
+			"A headgear that finally allows its wearer to express inner rage or slight disgust.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 194,
+		costume = true
+	},
+	[70294] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Gear",
+		identifiedResourceName = "골든헤드기어",
+		identifiedDescriptionName = {
+			"A helmet forged from pure gold which blocks attacks effectively, but is also unaffordable.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 30,
+		costume = true
+	},
+	[70295] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Carnation Headband",
+		identifiedResourceName = "카네이션머리띠",
+		identifiedDescriptionName = {
+			"To celebrate the month of home-made, it became a diadem of pink carnations.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 878,
+		costume = true
+	},
+	[70297] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Nine Tail",
+		identifiedResourceName = "늘어진구미호",
+		identifiedDescriptionName = {
+			"A hat shaped like a fox with nine tails. It makes you warm, definitely.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 296,
+		costume = true
+	},
+	[70298] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pinwheel Cap",
+		identifiedResourceName = "바람개비모자",
+		identifiedDescriptionName = {
+			"A hairband decorated with a pinwheel. It makes you cool!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 456,
+		costume = true
+	},
+	[70299] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Vane Hairpin",
+		identifiedResourceName = "붉은풍차비녀",
+		identifiedDescriptionName = {
+			"A red hairpin with a spining round windmill.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1044,
+		costume = true
+	},
+	[70300] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taboo Curse Scroll",
+		identifiedResourceName = "금주의두루마리",
+		identifiedDescriptionName = {
+			"A magic scroll which high class ninja use. It has a myterious power.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1045,
+		costume = true
+	},
+	[70301] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Full Bloom Hairpin",
+		identifiedResourceName = "앵화난만의비녀",
+		identifiedDescriptionName = {
+			"A fancy hairpin which you can feel spring flowers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1046,
+		costume = true
+	},
+	[70302] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Majestic Helmet",
+		identifiedResourceName = "위풍위연의투구",
+		identifiedDescriptionName = {
+			"A brave headgear that no one can block.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1047,
+		costume = true
+	},
+	[70303] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blazing Sun",
+		identifiedResourceName = "불타는태양",
+		identifiedDescriptionName = {
+			"A blazing sun",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 654,
+		costume = true
+	},
+	[70304] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Purple Cowboy Hat",
+		identifiedResourceName = "신카우보이모자",
+		identifiedDescriptionName = {
+			"This hat is for festival that represent west frontier in one country.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 411,
+		costume = true
+	},
+	[70305] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ears of Ifrit",
+		identifiedResourceName = "이프리트의귀",
+		identifiedDescriptionName = {
+			"This headgear is the figuration of soul of fire Lfrit's ear. It looks hot but when you equip, it's not at all.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 422,
+		costume = true
+	},
+	[70306] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Beer Cap",
+		identifiedResourceName = "맥주모자",
+		identifiedDescriptionName = {
+			"Drinking beer after shower it is good~!!",
+			"Prohibition underager drinking",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 418,
+		costume = true
+	},
+	[70307] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Hibiscus",
+		identifiedResourceName = "큰하이비스커스",
+		identifiedDescriptionName = {
+			"Big Hibiscus flower. It is only found in Ayothaya.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 333,
+		costume = true
+	},
+	[70308] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Icecream Hat",
+		identifiedResourceName = "아이스크림모자",
+		identifiedDescriptionName = {
+			"Ice cream is best in hot summer. Be careful its may cause brain freeze.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 488,
+		costume = true
+	},
+	[70309] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shiny Wig",
+		identifiedResourceName = "눈부신가발",
+		identifiedDescriptionName = {
+			"Wig with Yellow, Orange and Gold",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 306,
+		costume = true
+	},
+	[70310] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lolita Ten Gallon Hat",
+		identifiedResourceName = "로리타텐겔론모자",
+		identifiedDescriptionName = {
+			"Ten gallon hat gets along with Lolita fashion",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1048,
+		costume = true
+	},
+	[70311] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pecopeco Cap",
+		identifiedResourceName = "페코페코캡",
+		identifiedDescriptionName = {
+			"The motif of this hat is monster Pecopeco",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1049,
+		costume = true
+	},
+	[70312] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ifrit's Breath",
+		identifiedResourceName = "이프리트의숨결",
+		identifiedDescriptionName = {
+			"A fire-breathing machine, Its blazing forever",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1050,
+		costume = true
+	},
+	[70313] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Morocc Minion",
+		identifiedResourceName = "늘어진모로크의현신",
+		identifiedDescriptionName = {
+			"A scary bloody rag doll.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 600,
+		costume = true
+	},
+	[70317] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Bandana",
+		identifiedResourceName = "노란색두건",
+		identifiedDescriptionName = {
+			"A yellow bandana wearing by a pacifist. Some bloods are on it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 309,
+		costume = true
+	},
+	[70319] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Evil Druid Hat",
+		identifiedResourceName = "이블드루이드모자",
+		identifiedDescriptionName = {
+			"That cynical atmosphere for a lone user.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1053,
+		costume = true
+	},
+	[70320] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vicious Stop Bandage",
+		identifiedResourceName = "사안봉인의붕대",
+		identifiedDescriptionName = {
+			"Tight bandages for wounds of the eyes. It seems that they were already used.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1054,
+		costume = true
+	},
+	[70321] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ice Wings Ears",
+		identifiedResourceName = "얼음날개귀",
+		identifiedDescriptionName = {
+			"Ice and other special compounds made earrings. If you feel the heat, wear cool aura cast items!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 584,
+		costume = true
+	},
+	[70322] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Amistr Cap",
+		identifiedResourceName = "아미스트르캡",
+		identifiedDescriptionName = {
+			"A hat shaped like Homunculus Amistr.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 643,
+		costume = true
+	},
+	[70323] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fedora",
+		identifiedResourceName = "벙거지모자",
+		identifiedDescriptionName = {
+			"A hat worn by old soldiers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 195,
+		costume = true
+	},
+	[70324] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straw Hat",
+		identifiedResourceName = "밀짚모자",
+		identifiedDescriptionName = {
+			"A straw hat for the hot summer. You might want to cut the grass and celebrate the harvest with wearing this.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 146,
+		costume = true
+	},
+	[70325] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sunglasses",
+		identifiedResourceName = "선글래스",
+		identifiedDescriptionName = {
+			"Glasses with special, darkened lenses that block ultraviolet light.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 12,
+		costume = true
+	},
+	[70326] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Filir Hat",
+		identifiedResourceName = "필리르모자",
+		identifiedDescriptionName = {
+			"Too shy to attack someone, Filir!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 408,
+		costume = true
+	},
+	[70327] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Hat",
+		identifiedResourceName = "포링모자",
+		identifiedDescriptionName = {
+			"A hat shaped like the popular monster poring! It is not made by rubber.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 120,
+		costume = true
+	},
+	[70328] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cute Ribbon",
+		identifiedResourceName = "머리끈",
+		identifiedDescriptionName = {
+			"A small, decorative ribbon for the head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 34,
+		costume = true
+	},
+	[70329] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Baseball Cap",
+		identifiedResourceName = "야구모자",
+		identifiedDescriptionName = {
+			"A hat to protect your eyes from sunshines.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 216,
+		costume = true
+	},
+	[70330] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lif Doll Hat",
+		identifiedResourceName = "리프인형모자",
+		identifiedDescriptionName = {
+			"A hat with a cute Lif doll. It looks at you from your head.",
+			"It can be popular to who likes a little girl.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 297,
+		costume = true
+	},
+	[70331] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Majestic Horns",
+		identifiedResourceName = "대형마제스틱고우트",
+		identifiedDescriptionName = {
+			"A headgear made from the huge horns.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 380,
+		costume = true
+	},
+	[70332] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Asara Fairy Hat",
+		identifiedResourceName = "아사라요정모자",
+		identifiedDescriptionName = {
+			"A hat worn by priests for their religious ceremony.",
+			"It resembls the ancient Asara fairy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 492,
+		costume = true
+	},
+	[70334] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vanilmirth Hat",
+		identifiedResourceName = "바닐미르스모자",
+		identifiedDescriptionName = {
+			"A hat shaped like Homunculus Vanilmirth. It's very cold and mushy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 317,
+		costume = true
+	},
+	[70335] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragonhelm Copper",
+		identifiedResourceName = "용투구_동",
+		identifiedDescriptionName = {
+			"A legendary headgear.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 454,
+		costume = true
+	},
+	[70336] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Puppy Hat",
+		identifiedResourceName = "강아지모자",
+		identifiedDescriptionName = {
+			"A hat with small brown puppy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 234,
+		costume = true
+	},
+	[70337] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Kitty Band",
+		identifiedResourceName = "고양이머리띠",
+		identifiedDescriptionName = {
+			"A hair band that gives one the appearance of having ears like a cat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2,
+		costume = true
+	},
+	[70338] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Turban",
+		identifiedResourceName = "둥근모자",
+		identifiedDescriptionName = {
+			"A small, tight fitting headdress made of fine silk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 7,
+		costume = true
+	},
+	[70339] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bao Bao",
+		identifiedResourceName = "머리포자기",
+		identifiedDescriptionName = {
+			"Well-known item which has been rumored to have been worn by a great woman warrior in ancient times.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 127,
+		costume = true
+	},
+	[70340] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Opera Phantom Mask",
+		identifiedResourceName = "오페라유령가면",
+		identifiedDescriptionName = {
+			"A mask rumored to have been worn by a romantic hero with an unknown fate.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 128,
+		costume = true
+	},
+	[70341] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Big Ribbon",
+		identifiedResourceName = "왕리본",
+		identifiedDescriptionName = {
+			"An over-sized red ribbon that contains hidden magical power.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 28,
+		costume = true
+	},
+	[70342] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angelring Hat",
+		identifiedResourceName = "엔젤링모자",
+		identifiedDescriptionName = {
+			"A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 204,
+		costume = true
+	},
+	[70345] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Teddybear Hat",
+		identifiedResourceName = "곰돌이모자",
+		identifiedDescriptionName = {
+			"A hat made to look like a teddy bear's face. It makes a nice present.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 143,
+		costume = true
+	},
+	[70346] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Galapago Cap",
+		identifiedResourceName = "오리모자",
+		identifiedDescriptionName = {
+			"A cute looking cap that makes its wearer look just like Galapago the penguin.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 192,
+		costume = true
+	},
+	[70347] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Filir Wings",
+		identifiedResourceName = "필리르의날개",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"With the most popular new Filir homunculus, has created a beautiful headgear shaped wings.",
+			"Increase experience when kill monsters by 5%.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 595,
+		costume = true
+	},
+	[70348] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Summer Wig",
+		identifiedResourceName = "해피섬머아프로",
+		identifiedDescriptionName = {
+			"Give you have a happy feeling of summer season.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1059,
+		costume = true
+	},
+	[70349] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Snow Cone Hat",
+		identifiedResourceName = "빙수모자",
+		identifiedDescriptionName = {
+			"An Ice sherbet hat, cool from head to toe. Feels like all the heat are blown away.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1080,
+		costume = true
+	},
+	[70350] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crayfish Hat",
+		identifiedResourceName = "왕새우모자",
+		identifiedDescriptionName = {
+			"It lives at the bottom of the sea near Malangdo.",
+			"Created by the legendary lobster hat.",
+			"Seems very much alive.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 728,
+		costume = true
+	},
+	[70351] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Smokie Leaf",
+		identifiedResourceName = "나뭇잎투구",
+		identifiedDescriptionName = {
+			"A leaf which rumored to be worn by the Smokie monster for transformations.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 148,
+		costume = true
+	},
+	[70352] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flapping Angel Wings",
+		identifiedResourceName = "비상하는천사",
+		identifiedDescriptionName = {
+			"A headgear which looks like an angel flapping its wing.",
+			"It make you feel dizzy when you wear it, but also makes your body feel light.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 264,
+		costume = true
+	},
+	[70353] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume School Criatura Hat",
+		identifiedResourceName = "크리투라학원모자",
+		identifiedDescriptionName = {
+			"The first step you take in this world of fantasy need a helmet. This cap is called School Criatura.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 872,
+		costume = true
+	},
+	[70354] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Hairpin",
+		identifiedResourceName = "하트머리핀",
+		identifiedDescriptionName = {
+			"A cute hairpin with a heart attached to it.",
+			"Makes its wearer look adorable and charming.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 126,
+		costume = true
+	},
+	[70355] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Succubus Horn",
+		identifiedResourceName = "서큐버스뿔",
+		identifiedDescriptionName = {
+			"A headgear which resembles the horns of Succubus.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 150,
+		costume = true
+	},
+	[70356] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Incubus Horn",
+		identifiedResourceName = "인큐버스뿔",
+		identifiedDescriptionName = {
+			"A headgear which resembles the horns of Incubus.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 156,
+		costume = true
+	},
+	[70357] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dokkaebi's Wig",
+		identifiedResourceName = "아프로가발",
+		identifiedDescriptionName = {
+			"A fluffy afro style wig which is something teenagers go crazy for. Once you wear it, you might want to dance.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 302,
+		costume = true
+	},
+	[70358] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Joker Jester",
+		identifiedResourceName = "광대모자",
+		identifiedDescriptionName = {
+			"A comical hat worn by clowns and jesters that is rumored to protect its wearer from magic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 89,
+		costume = true
+	},
+	[70359] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Pajamas",
+		identifiedResourceName = "파란파자마모자",
+		identifiedDescriptionName = {
+			"A lovely nightcap. It is cute and you will feel sleepy when you wear it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 501,
+		costume = true
+	},
+	[70360] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Pajamas",
+		identifiedResourceName = "핑크파자마모자",
+		identifiedDescriptionName = {
+			"A lovely nightcap. It is cute and you will feel sleepy when you wear it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 502,
+		costume = true
+	},
+	[70361] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Showy High Cap",
+		identifiedResourceName = "화려한하이캡",
+		identifiedDescriptionName = {
+			"Wear this hat to be a show off!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 830,
+		costume = true
+	},
+	[70362] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Antiquity Helmet",
+		identifiedResourceName = "고대의문관",
+		identifiedDescriptionName = {
+			"A hat worn by ancient civillian.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 846,
+		costume = true
+	},
+	[70363] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Musical Decoration",
+		identifiedResourceName = "음계의오오라",
+		identifiedDescriptionName = {
+			"The rhythm that stimulates your five senses. Makes you feel the melody so vividly.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1074,
+		costume = true
+	},
+	[70364] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Carnival Hat",
+		identifiedResourceName = "카니발모자",
+		identifiedDescriptionName = {
+			"A hat which made to celebrate the festival.",
+			"^FF0000'Made especially for you.'^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 505,
+		costume = true
+	},
+	[70365] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Carnival Circlet",
+		identifiedResourceName = "카니발서클릿",
+		identifiedDescriptionName = {
+			"A Circlet that will be used in Carnival festival",
+			"^FF0000'Made especially for you.'^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 506,
+		costume = true
+	},
+	[70367] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rabbit Ear Hat",
+		identifiedResourceName = "토끼귀모자",
+		identifiedDescriptionName = {
+			"An energetic Bunny Band perfect for a magic show.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 384,
+		costume = true
+	},
+	[70368] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eyes of Darkness",
+		identifiedResourceName = "다크니스아이즈",
+		identifiedDescriptionName = {
+			"A blindfold with scary eyes. It is said those eyes are moving sometimes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 467,
+		costume = true
+	},
+	[70369] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Bunny",
+		identifiedResourceName = "늘어진토끼",
+		identifiedDescriptionName = {
+			"A doll shaped like a cute rabbit. Can be put on a head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 249,
+		costume = true
+	},
+	[70370] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Bunny Band",
+		identifiedResourceName = "검은토끼머리띠",
+		identifiedDescriptionName = {
+			"A sexy gorgeous hairband for you!",
+			"Every man chases you as soon as wearing this!",
+			"Increase your sex appeal 100%.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 267,
+		costume = true
+	},
+	[70371] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Tiara",
+		identifiedResourceName = "골드티아라",
+		identifiedDescriptionName = {
+			"A hairband with the shiny golden star.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 232,
+		costume = true
+	},
+	[70372] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pretty Rabbit Hood",
+		identifiedResourceName = "프리티토끼후드",
+		identifiedDescriptionName = {
+			"A newly designed love rabbit hood for the new year.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1085,
+		costume = true
+	},
+	[70374] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piamette Hood",
+		identifiedResourceName = "피아멧트의두건",
+		identifiedDescriptionName = {
+			"Piamette hood with mortuary motifs.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1087,
+		costume = true
+	},
+	[70375] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vanargand Helm",
+		identifiedResourceName = "바나르간드의투구",
+		identifiedDescriptionName = {
+			"Fenrir Helm modeled after all is said and swallowed.",
+			",...... alias, Fenrir.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 804,
+		costume = true
+	},
+	[70376] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blinkers",
+		identifiedResourceName = "눈가리개",
+		identifiedDescriptionName = {
+			"A face mask that is worn by those who have trouble sleeping.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 82,
+		costume = true
+	},
+	[70377] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Purple Glasses",
+		identifiedResourceName = "고급선글래스",
+		identifiedDescriptionName = {
+			"High quality sunglasses that effectively block glare from the sun.",
+			"A face mask that is worn by those who have trouble sleeping.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
+	[70378] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cyclops Glasses",
+		identifiedResourceName = "외눈안경",
+		identifiedDescriptionName = {
+			"An aristocratically stylish lens that is worn for only one eye.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 23,
+		costume = true
+	},
+	[70379] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Glasses",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"Prescription glasses worn to compensate for defects in vision.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 3,
+		costume = true
+	},
+	[70380] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Small Ribbon",
+		identifiedResourceName = "양쪽귀밑리본",
+		identifiedDescriptionName = {
+			"A pair of small red ribbons which can be used to decorate the hair of little girls.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 169,
+		costume = true
+	},
+	[70381] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mage Hat",
+		identifiedResourceName = "마법사의모자",
+		identifiedDescriptionName = {
+			"A stylish formal hat that talented magicians usually wear during a show.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 112,
+		costume = true
+	},
+	[70382] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magnolia Hat",
+		identifiedResourceName = "계란후라이",
+		identifiedDescriptionName = {
+			"What looks like a fried egg in a skillet is actually a furious Magnolia monster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 373,
+		costume = true
+	},
+	[70383] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Night Sparrow Hat",
+		identifiedResourceName = "나이트스패로우햇",
+		identifiedDescriptionName = {
+			"A hat named after the mysterious bird that sings at night.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 913,
+		costume = true
+	},
+	[70384] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ordinary Black Magician Hat",
+		identifiedResourceName = "평범한블랙매지션햇",
+		identifiedDescriptionName = {
+			"Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 912,
+		costume = true
+	},
+	[70385] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shrine Maiden Hat",
+		identifiedResourceName = "성자의리본모자",
+		identifiedDescriptionName = {
+			"A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 908,
+		costume = true
+	},
+	[70386] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magician's Night Cap",
+		identifiedResourceName = "매지션의나이트캡",
+		identifiedDescriptionName = {
+			"A hat that promotes a sophisticated yet sleepy look.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 911,
+		costume = true
+	},
+	[70387] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume PRO 10th Cap",
+		identifiedResourceName = "필리핀10주년모자",
+		identifiedDescriptionName = {
+			"A headgear to commemorate pRO's 10th Anniversary!",
+			"Happy 10th Anniversary pRO!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1094,
+		costume = true
+	},
+	[70388] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "RPC 1ST Wreath",
+		identifiedResourceName = "월계관",
+		identifiedDescriptionName = {
+			"A crown made of laurel, worn by emperors during coronation. A symbol of glory and victory.",
+			"All stats +3.",
+			"Mdef +3.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 261,
+		costume = true
+	},
+	[70389] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "RPC 2ND Wreath",
+		identifiedResourceName = "월계관",
+		identifiedDescriptionName = {
+			"A crown made of laurel, worn by emperors during coronation. A symbol of glory and victory.",
+			"All stats +2.",
+			"Mdef +2.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 261,
+		costume = true
+	},
+	[70390] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "RPC13 3RD Wreath",
+		identifiedResourceName = "월계관",
+		identifiedDescriptionName = {
+			"A crown made of laurel, worn by emperors during coronation. A symbol of glory and victory.",
+			"All stats +1",
+			"Mdef +1.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 261,
+		costume = true
+	},
+	[70391] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cool Pirate Eyepatch",
+		identifiedResourceName = "멋진해적안대",
+		identifiedDescriptionName = {
+			"Red Cool Pirate's eye patch. 3 times cooler than before.",
+			"Has a low chance of dropping Sealed Envelopes when killing any monster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1097,
+		costume = true
+	},
+	[70392] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Orc Helm",
+		identifiedResourceName = "오크족헬름",
+		identifiedDescriptionName = {
+			"A surprisingly durable helmet that was crafted by expert Orcish smiths.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 86,
+		costume = true
+	},
+	[70393] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cigarette",
+		identifiedResourceName = "담배",
+		identifiedDescriptionName = {
+			"A narrow, short roll of finely cut tobacco wrapped in thin paper.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 54,
+		costume = true
+	},
+	[70394] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Witch's Pumpkin Hat",
+		identifiedResourceName = "마녀의모자",
+		identifiedDescriptionName = {
+			"A dark, mysterious power of a Witch is in this hat. In contrast, shiny orange coloured pumpkin symbol makes the hat cute.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 717,
+		costume = true
+	},
+	[70395] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Skull Cap",
+		identifiedResourceName = "스컬캡",
+		identifiedDescriptionName = {
+			"A hat decorated by skull.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 713,
+		costume = true
+	},
+	[70397] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Screw stuck in head",
+		identifiedResourceName = "머리박힌나사",
+		identifiedDescriptionName = {
+			"Horror image screw item.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 696,
+		costume = true
+	},
+	[70399] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flag Crown Hat",
+		identifiedResourceName = "광대모자_",
+		identifiedDescriptionName = {
+			"Special hat made for the event motivated by national flags.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 219,
+		costume = true
+	},
+	[70400] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Deviruchi Hat",
+		identifiedResourceName = "흰색새끼악마모자",
+		identifiedDescriptionName = {
+			"A cute hat made after little demon Deviruchi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 272,
+		costume = true
+	},
+	[70401] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Halloween Hat",
+		identifiedResourceName = "할로윈모자",
+		identifiedDescriptionName = {
+			"A costume hat upgraded from Witch's hat for this halloween season.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1098,
+		costume = true
+	},
+	[70402] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Triangle Roof Hat",
+		identifiedResourceName = "삼각지붕모자",
+		identifiedDescriptionName = {
+			"Monster alarm's triangle hat costumed item.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1099,
+		costume = true
+	},
+	[70403] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat Eye",
+		identifiedResourceName = "고양이눈",
+		identifiedDescriptionName = {
+			"With this item you can become more like cutey cat eyes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1100,
+		costume = true
+	},
+	[70404] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poo Poo Hat",
+		identifiedResourceName = "거시기",
+		identifiedDescriptionName = {
+			"A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 70^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 76,
+		costume = true
+	},
+	[70405] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ferlock's Hat",
+		identifiedResourceName = "파란선장모자",
+		identifiedDescriptionName = {
+			"Airship captain Ferlock's hat.",
+			"It has different color than the normal one.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1101,
+		costume = true
+	},
+	[70406] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat Hat",
+		identifiedResourceName = "검은고양이모자",
+		identifiedDescriptionName = {
+			"A hat decorated with black cat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1105,
+		costume = true
+	},
+	[70407] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dark Pumpkin Hat",
+		identifiedResourceName = "음침한호박모자",
+		identifiedDescriptionName = {
+			"Sullen mood pumpkin hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 691,
+		costume = true
+	},
+	[70411] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wild Rose",
+		identifiedResourceName = "와일드로즈모자",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 541,
+		costume = true
+	},
+	[70412] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Noah's Hat",
+		identifiedResourceName = "노아의모자",
+		identifiedDescriptionName = {
+			"Costume hast were made of High Priest 'Noah'.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 636,
+		costume = true
+	},
+	[70413] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monocle",
+		identifiedResourceName = "외눈안경",
+		identifiedDescriptionName = {
+			"A dark image winged glass often used by well known theives.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 23,
+		costume = true
+	},
+	[70414] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gothic Heart Wing Ribbon",
+		identifiedResourceName = "고딕하트윙밴드",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1111,
+		costume = true
+	},
+	[70415] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Classical Ribbon",
+		identifiedResourceName = "클래식리본",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1112,
+		costume = true
+	},
+	[70416] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Mini Silk Hat",
+		identifiedResourceName = "천사의미니실크햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1113,
+		costume = true
+	},
+	[70417] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lazy Smokie",
+		identifiedResourceName = "귀찮은너구리",
+		identifiedDescriptionName = {
+			"A headgear made to look like an annoyed Smokie exhausted by the summer heat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 168,
+		costume = true
+	},
+	[70418] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Model Training Hat",
+		identifiedResourceName = "자세교정모자",
+		identifiedDescriptionName = {
+			"A headgear made of a book topped with an apple. Wear it to learn glamourous posture.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 157,
+		costume = true
+	},
+	[70419] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flaming Ten Gallon Hat",
+		identifiedResourceName = "불꽃의텐겔론햇",
+		identifiedDescriptionName = {
+			"Fireworks with the sanctity of God's power is sealed in ten gallons Hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1075,
+		costume = true
+	},
+	[70420] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hunting Cap of Gust",
+		identifiedResourceName = "돌풍의헌팅캡",
+		identifiedDescriptionName = {
+			"The sanctity of the god of wind power is sealed in this cap.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1076,
+		costume = true
+	},
+	[70421] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Knit Cap of Water",
+		identifiedResourceName = "물의니트캡",
+		identifiedDescriptionName = {
+			"The sanctity of the god of water power is sealed in this cap.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1077,
+		costume = true
+	},
+	[70422] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silk Hat of Earth",
+		identifiedResourceName = "대지의실크햇",
+		identifiedDescriptionName = {
+			"A hat with sealed force of false earth god.",
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1078,
+		costume = true
+	},
+	[70424] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Antlers",
+		identifiedResourceName = "사슴뿔",
+		identifiedDescriptionName = {
+			"A set of deer antlers that humans, finally, can proudly wear.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 71,
+		costume = true
+	},
+	[70425] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Costume Clown Nose",
+		identifiedResourceName = "광대코",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 49,
+		costume = true
+	},
+	[70426] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ear Muffs",
+		identifiedResourceName = "귀마개",
+		identifiedDescriptionName = {
+			"Costume hat to protect your ears from noise or cold.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 70,
+		costume = true
+	},
+	[70427] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume RWC2013 Japan Hat",
+		identifiedResourceName = "rwc2013_jp기념모자",
+		identifiedDescriptionName = {
+			"A hat to celebrate RWC 2013 in Japan.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1136,
+		costume = true
+	},
+	[70428] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bubble Gum in Mouth",
+		identifiedResourceName = "입에문풍선껌",
+		identifiedDescriptionName = {
+			"A bubble gum expanding like balloon. Can be blown very big depending on one's ability.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 572,
+		costume = true
+	},
+	[70429] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Parade Cap",
+		identifiedResourceName = "퍼레이드모자",
+		identifiedDescriptionName = {
+			"A hat brings happy feeling as much to hold a parade unconsciously.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 465,
+		costume = true
+	},
+	[70430] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 3D Glasses",
+		identifiedResourceName = "3D안경",
+		identifiedDescriptionName = {
+			"A mysterious glasses which shows objects in 3-dimentional.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 661,
+		costume = true
+	},
+	[70431] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Tree",
+		identifiedResourceName = "미니트리",
+		identifiedDescriptionName = {
+			"Direct your view up to see a small shiny christmas tree.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 727,
+		costume = true
+	},
+	[70432] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Soldier Hat",
+		identifiedResourceName = "병정모자",
+		identifiedDescriptionName = {
+			"Cruiser's hat. It somehow gives an urge to march.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 420,
+		costume = true
+	},
+	[70433] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Scooter Hat",
+		identifiedResourceName = "스쿠터헬멧",
+		identifiedDescriptionName = {
+			"A safety equipment for motor scooter riding.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 588,
+		costume = true
+	},
+	[70434] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Choir Hat",
+		identifiedResourceName = "성가대모자",
+		identifiedDescriptionName = {
+			"A Hat worn in church choir.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1137,
+		costume = true
+	},
+	[70435] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Argiope",
+		identifiedResourceName = "늘어진아르지오프",
+		identifiedDescriptionName = {
+			"Argiope put on top of head. Be careful, sometimes it might move fiercely.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1138,
+		costume = true
+	},
+	[70436] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chain Puppet",
+		identifiedResourceName = "체인퍼펫",
+		identifiedDescriptionName = {
+			"Chains for controlling puppets. It feels like I have become a doll.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1139,
+		costume = true
+	},
+	[70437] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rune Circlet",
+		identifiedResourceName = "룬서클릿",
+		identifiedDescriptionName = {
+			"A circlet designed for a Rune Knight. It has Rune magical power in it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 623,
+		costume = true
+	},
+	[70438] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mitra",
+		identifiedResourceName = "미트라",
+		identifiedDescriptionName = {
+			"A hat which is used for ceremonies by bishops.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 624,
+		costume = true
+	},
+	[70439] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Driver Band",
+		identifiedResourceName = "드라이버밴드",
+		identifiedDescriptionName = {
+			"A special hairband which is designed to use the most frequently used tools.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 626,
+		costume = true
+	},
+	[70440] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Driver Band",
+		identifiedResourceName = "드라이버밴드_",
+		identifiedDescriptionName = {
+			"A special hairband which is designed to use the most frequently used tools.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 637,
+		costume = true
+	},
+	[70441] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shadow Handicraft",
+		identifiedResourceName = "그림자공작",
+		identifiedDescriptionName = {
+			"A mini crown which is made at Shadow Artworks. Masterpiece of the designer Doomk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 627,
+		costume = true
+	},
+	[70442] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Minstrel Song's Hat",
+		identifiedResourceName = "민스트럴송의모자",
+		identifiedDescriptionName = {
+			"A hat of a famous minstrel. Fancy and plentiful black feathers adorn this hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 628,
+		costume = true
+	},
+	[70443] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Midas Whisper",
+		identifiedResourceName = "마이더스의속삭임",
+		identifiedDescriptionName = {
+			"Free gift of a famous Geneticist Bob Rose's book. Midas mark looks cute.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 629,
+		costume = true
+	},
+	[70444] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magic Stone Hat",
+		identifiedResourceName = "마력의돌모자",
+		identifiedDescriptionName = {
+			"A hat which is decorated with minerals from an unknown world that has magical power in it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 630,
+		costume = true
+	},
+	[70445] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blazing Soul",
+		identifiedResourceName = "불타는혼",
+		identifiedDescriptionName = {
+			"A hat made for those who decide to become a Sura. It expresses a burning spirit.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 631,
+		costume = true
+	},
+	[70446] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wind Whisper",
+		identifiedResourceName = "바람의속삭임",
+		identifiedDescriptionName = {
+			"A hat for a ritual ceremony which is made from a spiritual feather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 633,
+		costume = true
+	},
+	[70447] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dying Swan",
+		identifiedResourceName = "빈사의백조",
+		identifiedDescriptionName = {
+			"A beautiful head ornament of a ballerina.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 635,
+		costume = true
+	},
+	[70448] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Guardian",
+		identifiedResourceName = "수호의관",
+		identifiedDescriptionName = {
+			"Was awarded one hundred twenty-four people who keep a tube.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1140,
+		costume = true
+	},
+	[70449] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Circlet of Bones",
+		identifiedResourceName = "뼈의서클릿",
+		identifiedDescriptionName = {
+			"A circular crown as the pores of the bones.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1141,
+		costume = true
+	},
+	[70450] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Camouflage Rabbit Hood",
+		identifiedResourceName = "얼룩무늬토끼후드",
+		identifiedDescriptionName = {
+			"Christmas hooded cover perforated for rabbit ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1142,
+		costume = true
+	},
+	[70451] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat Santa Hat",
+		identifiedResourceName = "C고양이산타모자",
+		identifiedDescriptionName = {
+			"Cats living in Malangdo, wearing this hat for Christmas.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1144,
+		costume = true
+	},
+	[70452] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Exclamation Mark",
+		identifiedResourceName = "C금색느낌표",
+		identifiedDescriptionName = {
+			"Exclamation in sparkling gold. Always gives you an incredibly wonderful feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1145,
+		costume = true
+	},
+	[70453] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silver Exclamation Mark",
+		identifiedResourceName = "C은색느낌표",
+		identifiedDescriptionName = {
+			"Exclamation in sparkling silver. Always gives you an incredibly wonderful feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1146,
+		costume = true
+	},
+	[70454] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Question Mark",
+		identifiedResourceName = "C금색물음표",
+		identifiedDescriptionName = {
+			"Question in sparkling gold. Always gives you an incredibly wonderful feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1147,
+		costume = true
+	},
+	[70455] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silver Question Mark",
+		identifiedResourceName = "C은색물음표",
+		identifiedDescriptionName = {
+			"Question in sparkling silver. Always gives you an incredibly wonderful feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1148,
+		costume = true
+	},
+	[70456] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Costume Santa's Beard",
+		identifiedResourceName = "흰수염",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 25,
+		costume = true
+	},
+	[70457] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Santa Hat",
+		identifiedResourceName = "산타모자",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"A red, pompom topped cap that is associated with Santa Claus's legend.",
+			"MaxHP +1000, MaxSP +100.",
+			"Reduces after attack delay by 3.",
+			"Atk +10%, Matk +10%.",
+			"Heal increase by 10%.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 20,
+		costume = true
+	},
+	[70458] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flower Hairpin",
+		identifiedResourceName = "꽃머리핀",
+		identifiedDescriptionName = {
+			"A hairpin with a red flower attached. It helps hold hair in place.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 145,
+		costume = true
+	},
+	[70459] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Winter Hat",
+		identifiedResourceName = "방한모자",
+		identifiedDescriptionName = {
+			"A furry hat that is an all time favorite during the winter season.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 196,
+		costume = true
+	},
+	[70460] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Aura Quartz",
+		identifiedResourceName = "오러쿼츠의왕관",
+		identifiedDescriptionName = {
+			"A crown adorned with special crystals.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 866,
+		costume = true
+	},
+	[70461] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lunatic Hat",
+		identifiedResourceName = "루나틱모자",
+		identifiedDescriptionName = {
+			"A hat designed after a fluffy monster Lunatic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 521,
+		costume = true
+	},
+	[70462] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Fur Hat",
+		identifiedResourceName = "파랑털모자",
+		identifiedDescriptionName = {
+			"A woolly hat made for warming heads, but it seems that some people wear it for fashion.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 280,
+		costume = true
+	},
+	[70463] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Elder Crown",
+		identifiedResourceName = "엘더크라운",
+		identifiedDescriptionName = {
+			"A crown made from Elder Branch.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 933,
+		costume = true
+	},
+	[70464] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouton Life",
+		identifiedResourceName = "무통라이프",
+		identifiedDescriptionName = {
+			"A smooth hairband made from sheep's fur and horn.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1156,
+		costume = true
+	},
+	[70465] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rabbit Knit Hat",
+		identifiedResourceName = "눈토끼니트모자",
+		identifiedDescriptionName = {
+			"A hat redesigned after Rabbit-eared knit hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1157,
+		costume = true
+	},
+	[70466] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Galanthus Guard",
+		identifiedResourceName = "가란사스가드",
+		identifiedDescriptionName = {
+			"An armor made from pure white flower.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1158,
+		costume = true
+	},
+	[70467] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chilly Breath",
+		identifiedResourceName = "냉기입김",
+		identifiedDescriptionName = {
+			"It is so cold that white breathe is coming from the mouth.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 885,
+		costume = true
+	},
+	[70468] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume saLUsalo Hat",
+		identifiedResourceName = "saLUsalo기념모자",
+		identifiedDescriptionName = {
+			"A headgear to commemorate saLU-salo event!",
+			"Meet up, mingle and make friends, all in the name of online gaming fun.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1171,
+		costume = true
+	},
+	[70470] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bomb Hat",
+		identifiedResourceName = "폭탄모자",
+		identifiedDescriptionName = {
+			"A very dangerous hat! Nobody knows when it explodes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1191,
+		costume = true
+	},
+	[70471] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Turtle Hat",
+		identifiedResourceName = "용비늘거북이모자",
+		identifiedDescriptionName = {
+			"A turtle hat with poweful dragon scales.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1192,
+		costume = true
+	},
+	[70472] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouse Hat",
+		identifiedResourceName = "생쥐모자1",
+		identifiedDescriptionName = {
+			"Cap with aura of mouse.",
+			"A hat which make you want to wander the nightlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1193,
+		costume = true
+	},
+	[70473] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouse Hat",
+		identifiedResourceName = "생쥐모자2",
+		identifiedDescriptionName = {
+			"Cap with aura of mouse.",
+			"A hat which make you want to wander the nightlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1194,
+		costume = true
+	},
+	[70474] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouse Hat",
+		identifiedResourceName = "생쥐모자3",
+		identifiedDescriptionName = {
+			"Cap with aura of mouse.",
+			"A hat which make you want to wander the nightlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1195,
+		costume = true
+	},
+	[70475] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouse Hat",
+		identifiedResourceName = "생쥐모자4",
+		identifiedDescriptionName = {
+			"Cap with aura of mouse.",
+			"A hat which make you want to wander the nightlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1196,
+		costume = true
+	},
+	[70476] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mouse Hat",
+		identifiedResourceName = "생쥐모자5",
+		identifiedDescriptionName = {
+			"Cap with aura of mouse.",
+			"A hat which make you want to wander the nightlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1197,
+		costume = true
+	},
+	[70477] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Big Golden Bell",
+		identifiedResourceName = "대형금방울",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 175,
+		costume = true
+	},
+	[70478] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sigrun's Wings",
+		identifiedResourceName = "사이그룬의날개",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 568,
+		costume = true
+	},
+	[70480] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Horned Hat",
+		identifiedResourceName = "뿔투구모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 322,
+		costume = true
+	},
+	[70481] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon General Helm",
+		identifiedResourceName = "장군의투구",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 729,
+		costume = true
+	},
+	[70482] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Skull Hat",
+		identifiedResourceName = "용의해골",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 319,
+		costume = true
+	},
+	[70483] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rainbow Feather Ears",
+		identifiedResourceName = "사이그룬2",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1198,
+		costume = true
+	},
+	[70484] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lightning Speed",
+		identifiedResourceName = "질풍신뢰",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1199,
+		costume = true
+	},
+	[70485] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Double Horn Helm",
+		identifiedResourceName = "더블본헬름",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1200,
+		costume = true
+	},
+	[70486] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chef Hat",
+		identifiedResourceName = "요리사의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 111,
+		costume = true
+	},
+	[70487] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lincoln Hat",
+		identifiedResourceName = "링컨모자",
+		identifiedDescriptionName = {
+			"Replica of an Emancipator's tall black hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1204,
+		costume = true
+	},
+	[70488] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lincoln Beard",
+		identifiedResourceName = "링컨수염",
+		identifiedDescriptionName = {
+			"Replica of an Emancipator's beard.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1205,
+		costume = true
+	},
+	[70489] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cool Dinner Hat",
+		identifiedResourceName = "멋진저녁모자",
+		identifiedDescriptionName = {
+			"A fine dining experience is always better with lobster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1206,
+		costume = true
+	},
+	[70490] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Marionette Doll",
+		identifiedResourceName = "마리오넷모자",
+		identifiedDescriptionName = {
+			"A Marionette doll that gives you strange chills when you wear it on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 212,
+		costume = true
+	},
+	[70491] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Artisant Beret",
+		identifiedResourceName = "예술가의베레모",
+		identifiedDescriptionName = {
+			"This hat is for those artiest who comtributed to the community.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1209,
+		costume = true
+	},
+	[70492] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Zaha Doll Hat",
+		identifiedResourceName = "자하인형모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 461,
+		costume = true
+	},
+	[70493] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Heart Ribbon Hairband",
+		identifiedResourceName = "하트리본머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 708,
+		costume = true
+	},
+	[70494] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Love Fragment",
+		identifiedResourceName = "사랑의조각",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 734,
+		costume = true
+	},
+	[70495] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Beret",
+		identifiedResourceName = "붉은베레모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 559,
+		costume = true
+	},
+	[70496] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Orange Ribbon",
+		identifiedResourceName = "리본_주홍",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 247,
+		costume = true
+	},
+	[70497] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cow Hat",
+		identifiedResourceName = "젖소모자1",
+		identifiedDescriptionName = {
+			"Hat full of the spirit of the cow.",
+			"It makes me feel wanting to have a cup of fresh milk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1211,
+		costume = true
+	},
+	[70498] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cow Hat",
+		identifiedResourceName = "젖소모자2",
+		identifiedDescriptionName = {
+			"Hat full of the spirit of the cow.",
+			"It makes me feel wanting to have a cup of fresh milk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1212,
+		costume = true
+	},
+	[70499] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cow Hat",
+		identifiedResourceName = "젖소모자3",
+		identifiedDescriptionName = {
+			"Hat full of the spirit of the cow.",
+			"It makes me feel wanting to have a cup of fresh milk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1213,
+		costume = true
+	},
+	[70500] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cow Hat",
+		identifiedResourceName = "젖소모자4",
+		identifiedDescriptionName = {
+			"Hat full of the spirit of the cow.",
+			"It makes me feel wanting to have a cup of fresh milk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1214,
+		costume = true
+	},
+	[70501] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Donut in Mouth",
+		identifiedResourceName = "입에문도넛",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 569,
+		costume = true
+	},
+	[70502] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Choco Donut in Mouth",
+		identifiedResourceName = "입에문초코도넛",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 653,
+		costume = true
+	},
+	[70503] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bunny Headdress",
+		identifiedResourceName = "바니헤드드레스",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1215,
+		costume = true
+	},
+	[70504] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Firinto Scarf",
+		identifiedResourceName = "피린트스카프",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1216,
+		costume = true
+	},
+	[70505] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monk Crown",
+		identifiedResourceName = "법사관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1217,
+		costume = true
+	},
+	[70506] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jack Castle Bat",
+		identifiedResourceName = "잭캐슬배트",
+		identifiedDescriptionName = {
+			"Jack castle bat chases his owner anywhere.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1041,
+		costume = true
+	},
+	[70507] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Miracle Blue Rose",
+		identifiedResourceName = "기적의푸른장미",
+		identifiedDescriptionName = {
+			"A blue rose that can never exist.",
+			"This is a total dream to make it to Geneticists.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1064,
+		costume = true
+	},
+	[70508] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Victory",
+		identifiedResourceName = "검성의왕관",
+		identifiedDescriptionName = {
+			"A golden crown worn by a champion among champions.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 981,
+		costume = true
+	},
+	[70509] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Owlduke Silk Hat",
+		identifiedResourceName = "아울듀크의실크햇",
+		identifiedDescriptionName = {
+			"A silk hat of Owlduke.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 982,
+		costume = true
+	},
+	[70510] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alphonse Helm",
+		identifiedResourceName = "알폰소의투구",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1207,
+		costume = true
+	},
+	[70511] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Butterfly Wing Ears",
+		identifiedResourceName = "나비날개귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 695,
+		costume = true
+	},
+	[70512] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Qing Headdress",
+		identifiedResourceName = "청나라머리장식",
+		identifiedDescriptionName = {
+			"When you wear it, you will feel a gorgeous atmosphere of Qing nobility.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 583,
+		costume = true
+	},
+	[70513] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rose Headband",
+		identifiedResourceName = "장미머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 864,
+		costume = true
+	},
+	[70514] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hermos Cap",
+		identifiedResourceName = "헤르모즈캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 478,
+		costume = true
+	},
+	[70515] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cherryblossom in Mouth",
+		identifiedResourceName = "입에무는벚꽃가지",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 823,
+		costume = true
+	},
+	[70516] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tropical Fruit Hat",
+		identifiedResourceName = "열대과일모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 329,
+		costume = true
+	},
+	[70517] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Samambaia",
+		identifiedResourceName = "사만바이아",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 508,
+		costume = true
+	},
+	[70518] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Ribbon Band",
+		identifiedResourceName = "파란장미장식",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1222,
+		costume = true
+	},
+	[70519] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Prayer Cherry Blossom",
+		identifiedResourceName = "기원의벚꽃",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1223,
+		costume = true
+	},
+	[70520] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wind Prairie",
+		identifiedResourceName = "초원의바람",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1224,
+		costume = true
+	},
+	[70521] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Giant Aid Band",
+		identifiedResourceName = "반창고",
+		identifiedDescriptionName = {
+			"A hair accessory which looks just like two crossed band aids.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 147,
+		costume = true
+	},
+	[70522] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ph.D Hat",
+		identifiedResourceName = "학사모",
+		identifiedDescriptionName = {
+			"A ceremonial hat worn during one's graduation.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 98,
+		costume = true
+	},
+	[70523] = {
+		unidentifiedDisplayName = "Stop Post",
+		unidentifiedResourceName = "정지표지판",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Stop Post",
+		identifiedResourceName = "정지표지판",
+		identifiedDescriptionName = {
+			"A signpost that declares its wearer's desire that people should stop whatever they are doing.",
+			"Causes catastrophes during wedding ceremonies.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 59,
+		costume = true
+	},
+	[70524] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume AFK Hat",
+		identifiedResourceName = "알림간판",
+		identifiedDescriptionName = {
+			"A sign that says you are Away From your Keyboard. Whether or not you are telling the truth is another story.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 471,
+		costume = true
+	},
+	[70525] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White King Tiger Doll Hat",
+		identifiedResourceName = "흰호랑이왕모자",
+		identifiedDescriptionName = {
+			"Hat full of the most intelligent spirit of the white tiger.",
+			"Okay, but is comfortable this stuffed tiger.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 973,
+		costume = true
+	},
+	[70526] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pacifier",
+		identifiedResourceName = "젖꼭지",
+		identifiedDescriptionName = {
+			"An item used to shut babies up when they're crying.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 191,
+		costume = true
+	},
+	[70527] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ghost Bandana",
+		identifiedResourceName = "망자의머리띠",
+		identifiedDescriptionName = {
+			"A traditional Japanese headpiece associated with the afterlife.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 61,
+		costume = true
+	},
+	[70528] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bride's Corolla",
+		identifiedResourceName = "신부의화관",
+		identifiedDescriptionName = {
+			"A neatly made wedding corolla. A huge silk ribbon is attached to the back of it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 437,
+		costume = true
+	},
+	[70529] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Feather Bonnet",
+		identifiedResourceName = "깃털모자",
+		identifiedDescriptionName = {
+			"A fabulous, feathered hat that turns men into womanizers and women into manizers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = true
+	},
+	[70530] = {
+		unidentifiedDisplayName = "Hiarband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hot Blood Headband",
+		identifiedResourceName = "열혈머리띠",
+		identifiedDescriptionName = {
+			"A headgear which symbolizes hot-blooded challenge and battle vigor.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 154,
+		costume = true
+	},
+	[70532] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Construction Helmet",
+		identifiedResourceName = "안전모",
+		identifiedDescriptionName = {
+			"A durable safety helmet created to offer some protection from accidents.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 95,
+		costume = true
+	},
+	[70533] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Demo Mask",
+		identifiedResourceName = "시위용마스크",
+		identifiedDescriptionName = {
+			"This mask marked with an ''X'' is a popular fashion item for bonafide street toughs.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 52,
+		costume = true
+	},
+	[70534] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Stair",
+		identifiedResourceName = "엔젤스테어즈",
+		identifiedDescriptionName = {
+			"Great weather phenomenon where light passes through the clouds. Looks like a ladder to angels.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70535] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Brain Hat",
+		identifiedResourceName = "옐로우브레인햇",
+		identifiedDescriptionName = {
+			"A smart hat that pushes the boundaries of human feelings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1228,
+		costume = true
+	},
+	[70536] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Brain Hat",
+		identifiedResourceName = "블루브레인햇",
+		identifiedDescriptionName = {
+			"A smart hat that pushes the boundaries of human feelings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1229,
+		costume = true
+	},
+	[70537] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grand Peco Hairband",
+		identifiedResourceName = "그랜드페코의머리띠",
+		identifiedDescriptionName = {
+			"An elaborate multi-colored headdress made from the feathers of a Grand Peco.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 473,
+		costume = true
+	},
+	[70538] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pecopeco Hairband",
+		identifiedResourceName = "페코페코머리띠",
+		identifiedDescriptionName = {
+			"A hairband with PecoPeco wings that lends you a PecoPeco's speed.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 314,
+		costume = true
+	},
+	[70539] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Rabbit Headband",
+		identifiedResourceName = "흰토끼헤어밴드",
+		identifiedDescriptionName = {
+			"Hat full of the zodiac cute rabbit.",
+			"That beautiful ears have, but doubles the bites of ticks.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 719,
+		costume = true
+	},
+	[70540] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Rabbit Headband",
+		identifiedResourceName = "검은토끼헤어밴드",
+		identifiedDescriptionName = {
+			"Hat full of the zodiac cute rabbit.",
+			"That beautiful ears have, but doubles the bites of ticks.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 718,
+		costume = true
+	},
+	[70541] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gryphon Hairband",
+		identifiedResourceName = "그리폰머리띠",
+		identifiedDescriptionName = {
+			"A costume made from wings of Gryphon.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1233,
+		costume = true
+	},
+	[70543] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Worg in Mouth",
+		identifiedResourceName = "입에문워그",
+		identifiedDescriptionName = {
+			"It seem he love his mother.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1235,
+		costume = true
+	},
+	[70544] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Band",
+		identifiedResourceName = "머리띠",
+		identifiedDescriptionName = {
+			"A simple hair band that holds hair in place quite neatly. It's a very cute look for girls, but dudes, on the other hand.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 9,
+		costume = true
+	},
+	[70545] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Biretta",
+		identifiedResourceName = "비레타",
+		identifiedDescriptionName = {
+			"A stiff, squarish formal hat usually worn by clerics.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 11,
+		costume = true
+	},
+	[70546] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Little Feather Hat",
+		identifiedResourceName = "리틀페더햇",
+		identifiedDescriptionName = {
+			"A soft feathered archer's cap that gives you that dash of Errol Flynn flair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 715,
+		costume = true
+	},
+	[70547] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Idun Feather Ears",
+		identifiedResourceName = "아스가르드의축복",
+		identifiedDescriptionName = {
+			"Feather ears of Idun, wife of Bragi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 724,
+		costume = true
+	},
+	[70548] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wing Frame Sunglasses",
+		identifiedResourceName = "날개안경",
+		identifiedDescriptionName = {
+			"Sunglasses with Wing frame on its side.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 925,
+		costume = true
+	},
+	[70549] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Feather",
+		identifiedResourceName = "화이트페더",
+		identifiedDescriptionName = {
+			"A berret decorated with white feather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 741,
+		costume = true
+	},
+	[70550] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Forgotten Angel Wings",
+		identifiedResourceName = "아버지사랑2013",
+		identifiedDescriptionName = {
+			"A flapping wing of angel that long forgotten.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1104,
+		costume = true
+	},
+	[70551] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shaman Hair Ornament",
+		identifiedResourceName = "샤먼의머리장식",
+		identifiedDescriptionName = {
+			"A hair ornament with pink feathers of a Shaman.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 476,
+		costume = true
+	},
+	[70552] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Metal Dragon Helm",
+		identifiedResourceName = "메탈드래곤투구",
+		identifiedDescriptionName = {
+			"A costume that mimic the head of Dragon.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1242,
+		costume = true
+	},
+	[70553] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Metal Dragon Hat",
+		identifiedResourceName = "메탈드래곤모자",
+		identifiedDescriptionName = {
+			"Metal dragon that rest on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1243,
+		costume = true
+	},
+	[70554] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mythlit Hat",
+		identifiedResourceName = "미스릿모자",
+		identifiedDescriptionName = {
+			"A hat that resemble Mythlit.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1244,
+		costume = true
+	},
+	[70555] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ceremonial Hat",
+		identifiedResourceName = "화관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 325,
+		costume = true
+	},
+	[70556] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume St Patrick's Hat",
+		identifiedResourceName = "레프리컨의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 735,
+		costume = true
+	},
+	[70557] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Cintamani Hat",
+		identifiedResourceName = "여의주를품은용모자1",
+		identifiedDescriptionName = {
+			"Dragon is part of 12 chinese zodiacs.",
+			"A shiny hat that resemble Dragon whose will grant any wish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1245,
+		costume = true
+	},
+	[70558] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Cintamani Hat",
+		identifiedResourceName = "여의주를품은용모자2",
+		identifiedDescriptionName = {
+			"Dragon is part of 12 chinese zodiacs.",
+			"A shiny hat that resemble Dragon whose will grant any wish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1246,
+		costume = true
+	},
+	[70559] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Cintamani Hat",
+		identifiedResourceName = "여의주를품은용모자3",
+		identifiedDescriptionName = {
+			"Dragon is part of 12 chinese zodiacs.",
+			"A shiny hat that resemble Dragon whose will grant any wish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1247,
+		costume = true
+	},
+	[70560] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dragon Cintamani Hat",
+		identifiedResourceName = "여의주를품은용모자4",
+		identifiedDescriptionName = {
+			"Dragon is part of 12 chinese zodiacs.",
+			"A shiny hat that resemble Dragon whose will grant any wish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1248,
+		costume = true
+	},
+	[70561] = {
+		unidentifiedDisplayName = "Egg Shell",
+		unidentifiedResourceName = "장식용알껍질",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Egg Shell",
+		identifiedResourceName = "장식용알껍질",
+		identifiedDescriptionName = {
+			"A peculiar hat that makes it wearer look freshly hatched.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 101,
+		costume = true
+	},
+	[70562] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Smoking Pipe",
+		identifiedResourceName = "파이프담배",
+		identifiedDescriptionName = {
+			"Smoke in moderation or not at all. No one's choice but yours.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 55,
+		costume = true
+	},
+	[70563] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sale Banner",
+		identifiedResourceName = "세일표지판",
+		identifiedDescriptionName = {
+			"A banner which has a word 'Sale' written on the surface.",
+			"Seems to be useful when used for opening a vending shop.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 183,
+		costume = true
+	},
+	[70564] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wizard Hat",
+		identifiedResourceName = "위저드햇",
+		identifiedDescriptionName = {
+			"A mystic hat, made specifically for wizards, which amplifies pyschic power.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 36,
+		costume = true
+	},
+	[70565] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Ribbon",
+		identifiedResourceName = "머리끈_녹색",
+		identifiedDescriptionName = {
+			"A small Green ribbon emphasizes one's cuteness while wearing this hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 439,
+		costume = true
+	},
+	[70566] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Ribbon",
+		identifiedResourceName = "머리끈_빨강",
+		identifiedDescriptionName = {
+			"A small Red ribbon emphasizes one's cuteness while wearing this hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 440,
+		costume = true
+	},
+	[70567] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Ribbon",
+		identifiedResourceName = "머리끈_파랑",
+		identifiedDescriptionName = {
+			"A small Blue ribbon emphasizes one's cuteness while wearing this hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 441,
+		costume = true
+	},
+	[70568] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Ribbon",
+		identifiedResourceName = "머리끈_하양",
+		identifiedDescriptionName = {
+			"A small White ribbon emphasizes one's cuteness while wearing this hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 442,
+		costume = true
+	},
+	[70569] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vampire Hairband",
+		identifiedResourceName = "뱀파이어헤어밴드",
+		identifiedDescriptionName = {
+			"A hairband that give an image of vampire to you.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1238,
+		costume = true
+	},
+	[70570] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ljosalfar",
+		identifiedResourceName = "료스엘프",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1239,
+		costume = true
+	},
+	[70571] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Volume Fhat",
+		identifiedResourceName = "볼륨페더햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1240,
+		costume = true
+	},
+	[70572] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bragi Wing Ears",
+		identifiedResourceName = "브라기의날개귀",
+		identifiedDescriptionName = {
+			"Feather ear of Bragi, god of poem.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1241,
+		costume = true
+	},
+	[70574] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Panda",
+		identifiedResourceName = "늘어진판다",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1029,
+		costume = true
+	},
+	[70575] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Picky Egg Shell",
+		identifiedResourceName = "픽키알껍질",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1001,
+		costume = true
+	},
+	[70576] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fish Head",
+		identifiedResourceName = "물고기머리모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 386,
+		costume = true
+	},
+	[70577] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Classic Hat",
+		identifiedResourceName = "클래식햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 475,
+		costume = true
+	},
+	[70578] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fish in mouth",
+		identifiedResourceName = "입에문물고기",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 406,
+		costume = true
+	},
+	[70579] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blind Glasses",
+		identifiedResourceName = "블라인드안경",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 813,
+		costume = true
+	},
+	[70580] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jolly Roger Hat",
+		identifiedResourceName = "졸리로저",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 962,
+		costume = true
+	},
+	[70581] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Coiledup Snake Hat",
+		identifiedResourceName = "똬리튼뱀모자1",
+		identifiedDescriptionName = {
+			"Snake is part of 12 chinese zodiacs.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1258,
+		costume = true
+	},
+	[70582] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Coiledup Snake Hat",
+		identifiedResourceName = "똬리튼뱀모자2",
+		identifiedDescriptionName = {
+			"Snake is part of 12 chinese zodiacs.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1259,
+		costume = true
+	},
+	[70583] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Aqua Ten Gallon Hat",
+		identifiedResourceName = "아쿠아텐갤론햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1256,
+		costume = true
+	},
+	[70584] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Star Reading Hat",
+		identifiedResourceName = "점성술사의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1253,
+		costume = true
+	},
+	[70585] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Funeral Hat",
+		identifiedResourceName = "장례건",
+		identifiedDescriptionName = {
+			"Traditional Korean headdress worn during funeral ceremonies by the bereaved family and close friends.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 77,
+		costume = true
+	},
+	[70586] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Under Rim Glasses",
+		identifiedResourceName = "언더림안경",
+		identifiedDescriptionName = {
+			"Only the bottom of glasses attached with frame, its cool and stylish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1255,
+		costume = true
+	},
+	[70587] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mermaid Headphones",
+		identifiedResourceName = "머메이드헤드폰",
+		identifiedDescriptionName = {
+			"Everytime you walk, there are bubbles come out.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1254,
+		costume = true
+	},
+	[70588] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Raspberry Mousse Hat",
+		identifiedResourceName = "라즈베리무스햇",
+		identifiedDescriptionName = {
+			"A costume hat with plenty of delicious raspberry mousse cake.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1257,
+		costume = true
+	},
+	[70589] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cake Hat",
+		identifiedResourceName = "케이크모자",
+		identifiedDescriptionName = {
+			"A birthday cake replica that won't fit a Dancer inside, but it's almost just as much fun to wear it on top of your head. Almost.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 109,
+		costume = true
+	},
+	[70590] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Beanie",
+		identifiedResourceName = "털모자",
+		identifiedDescriptionName = {
+			"A knit beanie that protects from the cold. Makes some wearers look cute and gives other wearers street cred.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 160,
+		costume = true
+	},
+	[70591] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Antenna",
+		identifiedResourceName = "안테나",
+		identifiedDescriptionName = {
+			"A mysterious object, possibly a device, that was discovered in the depths of the ocean. Nobody knows what it is.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 97,
+		costume = true
+	},
+	[70592] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Water Lily Hat",
+		identifiedResourceName = "연꽃모자",
+		identifiedDescriptionName = {
+			"A hat made from a Brasilis Water Lily flower.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 324,
+		costume = true
+	},
+	[70593] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Summer Ribbon",
+		identifiedResourceName = "해피섬머리본",
+		identifiedDescriptionName = {
+			"Make you remember the happy feels when seeing the green of mountain, the white of clouds and the blue of sea. Let's be happy!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1260,
+		costume = true
+	},
+	[70594] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eagle Eyes",
+		identifiedResourceName = "도끼눈",
+		identifiedDescriptionName = {
+			"A pair of glasses with lenses that are angled up and outward.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 63,
+		costume = true
+	},
+	[70595] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Butterfly Mask",
+		identifiedResourceName = "나비가면",
+		identifiedDescriptionName = {
+			"A black leather mask, shaped like butterfly wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 78,
+		costume = true
+	},
+	[70596] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Glasses",
+		identifiedResourceName = "미니글래스",
+		identifiedDescriptionName = {
+			"Glasses worn by true sophisticates.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 47,
+		costume = true
+	},
+	[70598] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Helm of Abyss",
+		identifiedResourceName = "심연의투구",
+		identifiedDescriptionName = {
+			"A helm worn by the Abysmal Knight.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 371,
+		costume = true
+	},
+	[70599] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Remover Hat",
+		identifiedResourceName = "리무버모자",
+		identifiedDescriptionName = {
+			"A replica of a fireman helmet. Not as durable as the real one.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 655,
+		costume = true
+	},
+	[70600] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poporing Cap",
+		identifiedResourceName = "포포링모자",
+		identifiedDescriptionName = {
+			"It looks like a Poporing, but don't worry about the poison!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 361,
+		costume = true
+	},
+	[70601] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Whisper Tall Hat",
+		identifiedResourceName = "위스퍼톨햇",
+		identifiedDescriptionName = {
+			"A long hat modeled after the shape of monster Whisper.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1265,
+		costume = true
+	},
+	[70602] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Clock Tower Manager Incom",
+		identifiedResourceName = "시계탑관리자의인컴",
+		identifiedDescriptionName = {
+			"An incom costume designed after the head part of clock tower manager.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1266,
+		costume = true
+	},
+	[70603] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vicious Mind Aura",
+		identifiedResourceName = "사념의오오라",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1267,
+		costume = true
+	},
+	[70604] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Mascot",
+		identifiedResourceName = "덮어쓴포링",
+		identifiedDescriptionName = {
+			"A hat inspired by the adorable Poring.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1268,
+		costume = true
+	},
+	[70605] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Helm of Abyss",
+		identifiedResourceName = "흰색심연의모자",
+		identifiedDescriptionName = {
+			"The white pure helm of abyss.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1269,
+		costume = true
+	},
+	[70606] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 12th Anniversary Crown",
+		identifiedResourceName = "성자의왕관",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"A crown to celebrate 12 anniversary, it has a sacred aura.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1117,
+		costume = true
+	},
+	[70607] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 12th Anniversary Fairy Ears",
+		identifiedResourceName = "타레요정의귀",
+		identifiedDescriptionName = {
+			"^000088Rental Item^000000",
+			"A fairy ears to celebrate 12 anniversary with sacred aura all over it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 875,
+		costume = true
+	},
+	[70608] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bomb Wick",
+		identifiedResourceName = "심지",
+		identifiedDescriptionName = {
+			"A wick-like ornament worn on top of the head for a dangerous look.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 66,
+		costume = true
+	},
+	[70609] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sea Otter Hat",
+		identifiedResourceName = "해달모자",
+		identifiedDescriptionName = {
+			"A hat which looks like the face of a sea-otter.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 162,
+		costume = true
+	},
+	[70610] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Horse Hairpin",
+		identifiedResourceName = "미니말머리핀1",
+		identifiedDescriptionName = {
+			"Hat with spirits of 12 chinese zodiacs.",
+			"A high class production luxury hairpin.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1271,
+		costume = true
+	},
+	[70611] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Horse Hairpin",
+		identifiedResourceName = "미니말머리핀2",
+		identifiedDescriptionName = {
+			"Hat with spirits of 12 chinese zodiacs.",
+			"A high class production luxury hairpin.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1272,
+		costume = true
+	},
+	[70612] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Observer",
+		identifiedResourceName = "옵저버",
+		identifiedDescriptionName = {
+			"A device that can measure opponent's power. Commoners have power level 5. Heroes have a power level over 9,000!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 337,
+		costume = true
+	},
+	[70613] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Machoman Glasses",
+		identifiedResourceName = "하트파운데이션",
+		identifiedDescriptionName = {
+			"70's tough guy style sunglasses that give its wearer a manly swagger.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 92,
+		costume = true
+	},
+	[70614] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Candy Cane in Mouth",
+		identifiedResourceName = "입에무는막대사탕",
+		identifiedDescriptionName = {
+			"A lollipop bitten in the mouth. Make sure to brush your teeth after having it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 446,
+		costume = true
+	},
+	[70615] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ancient Elven Ear",
+		identifiedResourceName = "고대요정의귀",
+		identifiedDescriptionName = {
+			"Accessory which makes you feel like a nature-loving fairies in the past.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 665,
+		costume = true
+	},
+	[70616] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Robo Eyes",
+		identifiedResourceName = "로보아이",
+		identifiedDescriptionName = {
+			"A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 345,
+		costume = true
+	},
+	[70617] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Spirit",
+		identifiedResourceName = "천사의유령",
+		identifiedDescriptionName = {
+			"A golden mask rumored to be worn by some ancient Goddess.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 394,
+		costume = true
+	},
+	[70618] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pigeon on Shoulder",
+		identifiedResourceName = "벨의비둘기",
+		identifiedDescriptionName = {
+			"Cute pegeon bring good fortune to the ownner.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1034,
+		costume = true
+	},
+	[70619] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Musketeer Hat",
+		identifiedResourceName = "노블햇",
+		identifiedDescriptionName = {
+			"''One for all and all for one'' is inscribed on the inside of this extravagant hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 466,
+		costume = true
+	},
+	[70620] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hexagon Glasses",
+		identifiedResourceName = "육각안경",
+		identifiedDescriptionName = {
+			"A glasses of famous insect researcher.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 822,
+		costume = true
+	},
+	[70621] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wind Fan",
+		identifiedResourceName = "풍신의부채",
+		identifiedDescriptionName = {
+			"A fan used to enjoy the wind.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1051,
+		costume = true
+	},
+	[70622] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poison Spore Hat",
+		identifiedResourceName = "포이즌스포아모자",
+		identifiedDescriptionName = {
+			"A replica hat of monster Poison Spore.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 899,
+		costume = true
+	},
+	[70624] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monochrome Cap",
+		identifiedResourceName = "모노크롬캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1274,
+		costume = true
+	},
+	[70625] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Falling Maple Leafs",
+		identifiedResourceName = "흩날리는낙엽",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70626] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lady Feather Hat",
+		identifiedResourceName = "귀부인의깃털모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1276,
+		costume = true
+	},
+	[70627] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fan in Mouth",
+		identifiedResourceName = "입에무는부채",
+		identifiedDescriptionName = {
+			"The useful tools for refreshing in the summer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 857,
+		costume = true
+	},
+	[70628] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Fish",
+		identifiedResourceName = "생선모자",
+		identifiedDescriptionName = {
+			"A headgear that looks just like a scrumptious fish. It even has the same smell!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 149,
+		costume = true
+	},
+	[70629] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Circlet",
+		identifiedResourceName = "서클릿",
+		identifiedDescriptionName = {
+			"A jeweled, metal band worn on the head that wards off the effects of harmful magic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 18,
+		costume = true
+	},
+	[70630] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Hairband",
+		identifiedResourceName = "청색머리띠",
+		identifiedDescriptionName = {
+			"A blue colored hair band worn with a rakish slant.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 136,
+		costume = true
+	},
+	[70631] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magnolia Hat",
+		identifiedResourceName = "계란후라이",
+		identifiedDescriptionName = {
+			"What looks like a fried egg in a skillet is actually a furious Magnolia monster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 373,
+		costume = true
+	},
+	[70632] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Army Cap",
+		identifiedResourceName = "프론테라군모",
+		identifiedDescriptionName = {
+			"A squad cap issued by the Prontera Military.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 48,
+		costume = true
+	},
+	[70635] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Duneyrr Hat",
+		identifiedResourceName = "두네이르투구",
+		identifiedDescriptionName = {
+			"A hat similar to the MVP Duneyrr.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 639,
+		costume = true
+	},
+	[70636] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tendrilion Hat",
+		identifiedResourceName = "텐드릴리온모자",
+		identifiedDescriptionName = {
+			"A masterpiece of craftmanship which modeled after the monster Tendrillion.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 658,
+		costume = true
+	},
+	[70638] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Deviruchi Headphone",
+		identifiedResourceName = "데비루치헤드폰",
+		identifiedDescriptionName = {
+			"A headphone from Devil Deviruchi. It is good to block the noise from outside",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 805,
+		costume = true
+	},
+	[70640] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Tongue",
+		identifiedResourceName = "긴혓바닥",
+		identifiedDescriptionName = {
+			"Your parents forgot to tell you that sticking your tongue out at people was rude, and this is the result. Sometimes you just gotta be you!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 773,
+		costume = true
+	},
+	[70641] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Brown Deviruchi Cap",
+		identifiedResourceName = "회색새끼악마모자",
+		identifiedDescriptionName = {
+			"A cute hat shaped like a Deviruchi that brings happiness to its wearer and onlookers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 273,
+		costume = true
+	},
+	[70642] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sepia Cap",
+		identifiedResourceName = "세피아캡",
+		identifiedDescriptionName = {
+			"Costume with decoration of chocolate biscuit in sepia.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1280,
+		costume = true
+	},
+	[70643] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pumpkin Hat",
+		identifiedResourceName = "펌킨헤드",
+		identifiedDescriptionName = {
+			"A large pumpkin hat with gorgeous big ribbon on top.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1281,
+		costume = true
+	},
+	[70644] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lude Hood",
+		identifiedResourceName = "루드후드",
+		identifiedDescriptionName = {
+			"A cute unique hood from monster lude.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1282,
+		costume = true
+	},
+	[70645] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Orange Halloween Hat",
+		identifiedResourceName = "주황색할로윈햇",
+		identifiedDescriptionName = {
+			"A pumpkin hat with bright orange color, it can turn dark hallowen night into bright.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1283,
+		costume = true
+	},
+	[70646] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Diabolic Headphone",
+		identifiedResourceName = "디아볼릭헤드폰",
+		identifiedDescriptionName = {
+			"A diabolic imitating headphone costume, this suits well with bright color of clothes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1284,
+		costume = true
+	},
+	[70647] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Dorasuke",
+		identifiedResourceName = "늘어진길용이",
+		identifiedDescriptionName = {
+			"A hat with a gaping mouth and plain eyes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1290,
+		costume = true
+	},
+	[70648] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Puppy Love",
+		identifiedResourceName = "풋사랑",
+		identifiedDescriptionName = {
+			"A wreath of wildflowers made by a woman in love.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 94,
+		costume = true
+	},
+	[70649] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monkey Fur Hat",
+		identifiedResourceName = "원숭이털모자",
+		identifiedDescriptionName = {
+			"Hat that resemble monkey, one of 12 chinese zodiacs.",
+			"Everyone love monkey's friendly aspect.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 858,
+		costume = true
+	},
+	[70650] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Western Grace",
+		identifiedResourceName = "웨스턴그레이스",
+		identifiedDescriptionName = {
+			"A broad brimmed casual hat, usually worn by cowboys and ranchers, that is rustically stylish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 32,
+		costume = true
+	},
+	[70651] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mystic Rose",
+		identifiedResourceName = "미스틱로즈",
+		identifiedDescriptionName = {
+			"A hat that looks just like a white rose which enhances the beauty of its wearer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 198,
+		costume = true
+	},
+	[70652] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rainbow Eggshell",
+		identifiedResourceName = "알록달록알껍질",
+		identifiedDescriptionName = {
+			"A mysteriously colorful egg shell.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 124,
+		costume = true
+	},
+	[70654] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Party Hat",
+		identifiedResourceName = "꼬깔모자",
+		identifiedDescriptionName = {
+			"A festive hat for celebrations and any kind of party.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 144,
+		costume = true
+	},
+	[70655] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fashionable Glasses",
+		identifiedResourceName = "패션선글래스",
+		identifiedDescriptionName = {
+			"A pair of fashionable sunglasses.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 131,
+		costume = true
+	},
+	[70656] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magni's Cap",
+		identifiedResourceName = "메긴캡",
+		identifiedDescriptionName = {
+			"Once owned by Magni, son of Thor, the wearer of this cap is supposedly granted a measure of Magni's awesome might.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 250,
+		costume = true
+	},
+	[70657] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fricca's Circlet",
+		identifiedResourceName = "프리카서클릿",
+		identifiedDescriptionName = {
+			"A circlet blessed by Freya, mother of Baldur.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 251,
+		costume = true
+	},
+	[70658] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Morpheus's Hood",
+		identifiedResourceName = "모르피셔스두건",
+		identifiedDescriptionName = {
+			"A hood that is one of the three keys to the seal which binds Morpheus.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 256,
+		costume = true
+	},
+	[70659] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Goibne's Helm",
+		identifiedResourceName = "게브네이투구",
+		identifiedDescriptionName = {
+			"One of the few armors that was forged by Goibe the blacksmith.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 258,
+		costume = true
+	},
+	[70660] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chick Hat",
+		identifiedResourceName = "꼬꼬댁모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 432,
+		costume = true
+	},
+	[70661] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat Ears Beret",
+		identifiedResourceName = "검은고양이귀베레모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1071,
+		costume = true
+	},
+	[70662] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Foxtail",
+		identifiedResourceName = "녹색강아지풀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1058,
+		costume = true
+	},
+	[70663] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Puppy Grass",
+		identifiedResourceName = "강아지풀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 711,
+		costume = true
+	},
+	[70664] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lion Mask",
+		identifiedResourceName = "라이온마스크",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 202,
+		costume = true
+	},
+	[70666] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Leopard Ear Hat",
+		identifiedResourceName = "표범무늬귀모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1293,
+		costume = true
+	},
+	[70667] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Amistr Beret",
+		identifiedResourceName = "아미스트르베레모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1294,
+		costume = true
+	},
+	[70668] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Misty Ears",
+		identifiedResourceName = "갈색고양이귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1295,
+		costume = true
+	},
+	[70669] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Evil Marching Hat",
+		identifiedResourceName = "사악한마칭햇",
+		identifiedDescriptionName = {
+			"A dark marching hat worn by members of an undead band from Niffleheim.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 687,
+		costume = true
+	},
+	[70670] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rabbit Headdress",
+		identifiedResourceName = "레빗헤드드레스",
+		identifiedDescriptionName = {
+			"Hat with rabbit ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1095,
+		costume = true
+	},
+	[70671] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Banshee Master Kiss",
+		identifiedResourceName = "밴시마스터의키스",
+		identifiedDescriptionName = {
+			"Kiss of Banshee Master. It could give the powerful force.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 959,
+		costume = true
+	},
+	[70672] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Deviruchi Balloon",
+		identifiedResourceName = "데비루치풍선",
+		identifiedDescriptionName = {
+			"Hellium Ballon shaped like deviruchi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1082,
+		costume = true
+	},
+	[70673] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bandana",
+		identifiedResourceName = "두건",
+		identifiedDescriptionName = {
+			"A common, ivory colored bandana.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 6,
+		costume = true
+	},
+	[70674] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hunting Cap",
+		identifiedResourceName = "헌팅캡",
+		identifiedDescriptionName = {
+			"This hat is made especially for hunting ^6666CCBrute^000000 monsters!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 389,
+		costume = true
+	},
+	[70675] = {
+		unidentifiedDisplayName = "Flower",
+		unidentifiedResourceName = "꽃",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fancy Flower",
+		identifiedResourceName = "장식용꽃",
+		identifiedDescriptionName = {
+			"A floral decoration used to adorn the head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 4,
+		costume = true
+	},
+	[70677] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Striped Hairband",
+		identifiedResourceName = "줄무늬머리띠",
+		identifiedDescriptionName = {
+			"A striped hair band which is good for preventing hair from covering the eyes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 133,
+		costume = true
+	},
+	[70678] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Necktie",
+		identifiedResourceName = "넥타이",
+		identifiedDescriptionName = {
+			"A salaryman's necktie worn as a headband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 443,
+		costume = true
+	},
+	[70679] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mermaid Bubbles",
+		identifiedResourceName = "인어공주의그리움",
+		identifiedDescriptionName = {
+			"Mermaid bubbles of love, thoughts into colorful bubbles.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1299,
+		costume = true
+	},
+	[70682] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loki & Nidhoggur Dolls",
+		identifiedResourceName = "로키와니드호그모자",
+		identifiedDescriptionName = {
+			"A doll modelled after Loki & Nidhoggur.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1304,
+		costume = true
+	},
+	[70683] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Robo Eyes",
+		identifiedResourceName = "로보아이",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 345,
+		costume = true
+	},
+	[70684] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Evil Marcher Hat",
+		identifiedResourceName = "사악한마칭햇_J",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1002,
+		costume = true
+	},
+	[70685] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Devil Mask",
+		identifiedResourceName = "검은악마의가면",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 760,
+		costume = true
+	},
+	[70686] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rideword Hat",
+		identifiedResourceName = "라이드워드",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 890,
+		costume = true
+	},
+	[70687] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Arabian Veil",
+		identifiedResourceName = "아라비안베일",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1300,
+		costume = true
+	},
+	[70688] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spell Circuit",
+		identifiedResourceName = "스펠서킷",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1301,
+		costume = true
+	},
+	[70689] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Marcher Hat",
+		identifiedResourceName = "천사의마칭햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1302,
+		costume = true
+	},
+	[70690] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dark Night Veil",
+		identifiedResourceName = "암야의베일",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1303,
+		costume = true
+	},
+	[70691] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eyes of Ifrit",
+		identifiedResourceName = "이프리트의눈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 886,
+		costume = true
+	},
+	[70692] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Santa Hat",
+		identifiedResourceName = "파란양갈래산타모자",
+		identifiedDescriptionName = {
+			"A double-pommed Blue Christmas Cap",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 395,
+		costume = true
+	},
+	[70693] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Romantic Leaf",
+		identifiedResourceName = "풀잎",
+		identifiedDescriptionName = {
+			"A slender leaf that is placed in the mouth for a seductive look.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 57,
+		costume = true
+	},
+	[70694] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Tailed Ribbon",
+		identifiedResourceName = "빨간테일리본",
+		identifiedDescriptionName = {
+			"Pretty red ribbon. You can feel the sweetness of love.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 167,
+		costume = true
+	},
+	[70695] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pumpkin Head",
+		identifiedResourceName = "호박모자",
+		identifiedDescriptionName = {
+			"A pumpkin hat for celebrating Halloween: wear it when you go trick-or-treating!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 206,
+		costume = true
+	},
+	[70696] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Comb",
+		identifiedResourceName = "머리빗",
+		identifiedDescriptionName = {
+			"A bright red brush worn as a last-minute accessory.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 445,
+		costume = true
+	},
+	[70697] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Husky Hat",
+		identifiedResourceName = "허스키모자",
+		identifiedDescriptionName = {
+			"A hat made to look like a husky's face. Makes you want to pet it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1016,
+		costume = true
+	},
+	[70698] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piggie Bank",
+		identifiedResourceName = "돼지저금통",
+		identifiedDescriptionName = {
+			"A good place to store spare change. You never know when you might need zeny here or there for a potion.",
+			"Pig one of 12 zodiacs.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 10^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 603,
+		costume = true
+	},
+	[70699] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume New Year Hairpin",
+		identifiedResourceName = "마네키모치바나",
+		identifiedDescriptionName = {
+			"A special hairpin wear in new year event.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1155,
+		costume = true
+	},
+	[70701] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Snowman Hat",
+		identifiedResourceName = "눈사람모자",
+		identifiedDescriptionName = {
+			"A hat that is a constant reminder of the Winter season.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 616,
+		costume = true
+	},
+	[70702] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Celines Ribbon",
+		identifiedResourceName = "셀린느의리본",
+		identifiedDescriptionName = {
+			"A luxurious ribbon with golden border.",
+			"Had been abandoned by Kimi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 967,
+		costume = true
+	},
+	[70703] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gold Statue of Baby Angel",
+		identifiedResourceName = "황금천사조각상",
+		identifiedDescriptionName = {
+			"Statue of peeing baby angel.",
+			"It's a bit embarrassing to wear it",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 646,
+		costume = true
+	},
+	[70705] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Frozen Rose",
+		identifiedResourceName = "얼어붙은땅의장미",
+		identifiedDescriptionName = {
+			"An ice rose that made into costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1025,
+		costume = true
+	},
+	[70706] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Arc Angelring Hat",
+		identifiedResourceName = "파란엔젤링모자",
+		identifiedDescriptionName = {
+			"A very soft textured hat which was inspired from Arch Angeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 341,
+		costume = true
+	},
+	[70707] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pink Beanie",
+		identifiedResourceName = "분홍털모자",
+		identifiedDescriptionName = {
+			"A hat woven out of yarn that keeps the head warm, but is mostly worn because of its fashionable look.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 281,
+		costume = true
+	},
+	[70708] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Blue Cat",
+		identifiedResourceName = "파랑늘어진고양이",
+		identifiedDescriptionName = {
+			"A cat doll that you can carry on your head. If you think you hear it meow or feel it move, it's just an illusion.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 277,
+		costume = true
+	},
+	[70709] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Ribbon Muffler",
+		identifiedResourceName = "커다란리본머플러",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1312,
+		costume = true
+	},
+	[70710] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gift of Snow",
+		identifiedResourceName = "눈의선물",
+		identifiedDescriptionName = {
+			"Snow crystal shining brilianlty.",
+			"^006400Use /effect to turn effect off^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70711] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eclipse Hat",
+		identifiedResourceName = "이클립스모자",
+		identifiedDescriptionName = {
+			"Eclipse hat from lunatic leader.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 922,
+		costume = true
+	},
+	[70712] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Snownow Hat",
+		identifiedResourceName = "스노우노우모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1313,
+		costume = true
+	},
+	[70713] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Choco Mint Bonnet",
+		identifiedResourceName = "초코민트보넷",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1314,
+		costume = true
+	},
+	[70715] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat Paw Hairpin",
+		identifiedResourceName = "고양이발머리핀",
+		identifiedDescriptionName = {
+			"A hairpin which resembles the shape of a cat's paw.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 447,
+		costume = true
+	},
+	[70716] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Decoration of Time",
+		identifiedResourceName = "시간의장식",
+		identifiedDescriptionName = {
+			"I feel trapped in flow of time.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1309,
+		costume = true
+	},
+	[70717] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Hand of Fate",
+		identifiedResourceName = "운명의검은손",
+		identifiedDescriptionName = {
+			"Head seized by fate that dominated the feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1310,
+		costume = true
+	},
+	[70718] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Strong Hair",
+		identifiedResourceName = "강한자의헤어검정",
+		identifiedDescriptionName = {
+			"A hair inspired by certain race whose hair changes when they exceed their limits.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1315,
+		costume = true
+	},
+	[70719] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Strong Hair",
+		identifiedResourceName = "강한자의헤어빨강",
+		identifiedDescriptionName = {
+			"A hair inspired by certain race whose hair changes when they exceed their limits.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1316,
+		costume = true
+	},
+	[70720] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Strong Hair",
+		identifiedResourceName = "강한자의헤어하얀",
+		identifiedDescriptionName = {
+			"A hair inspired by certain race whose hair changes when they exceed their limits.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1317,
+		costume = true
+	},
+	[70721] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rose Cascade",
+		identifiedResourceName = "장미카스캐트",
+		identifiedDescriptionName = {
+			"The special hunting cap with lace.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 920,
+		costume = true
+	},
+	[70722] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mage Decoration",
+		identifiedResourceName = "도사의장식",
+		identifiedDescriptionName = {
+			"Hat wore when in undead extermination.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1150,
+		costume = true
+	},
+	[70723] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Alicel",
+		identifiedResourceName = "풀죽은엘리스모자",
+		identifiedDescriptionName = {
+			"A cute doll of a drooping Alicel from the Robot Factory.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 784,
+		costume = true
+	},
+	[70724] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Ribbon",
+		identifiedResourceName = "리본_노랑",
+		identifiedDescriptionName = {
+			"A long piece of yellow satin tied together into a neat little ribbon that wards off harmful magic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 243,
+		costume = true
+	},
+	[70725] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Love Cheeks",
+		identifiedResourceName = "러브발그레",
+		identifiedDescriptionName = {
+			"Feeling full of loves.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1318,
+		costume = true
+	},
+	[70726] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Honey Pancake",
+		identifiedResourceName = "허니팬케익",
+		identifiedDescriptionName = {
+			"A sweet smell pancake as a costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1319,
+		costume = true
+	},
+	[70727] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Rabbit Bonnet",
+		identifiedResourceName = "블랙래빗보넷",
+		identifiedDescriptionName = {
+			"Elegant fluffy rabbit ears costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1320,
+		costume = true
+	},
+	[70728] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Headdress",
+		identifiedResourceName = "블루헤드드레스",
+		identifiedDescriptionName = {
+			"Cool refreshing headdress costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1321,
+		costume = true
+	},
+	[70729] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pink Clover",
+		identifiedResourceName = "핑크클로버",
+		identifiedDescriptionName = {
+			"A very rare pink clover.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1322,
+		costume = true
+	},
+	[70730] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Stardust",
+		identifiedResourceName = "스타더스트",
+		identifiedDescriptionName = {
+			"A small, star shaped hairclip that makes a great present for ladies.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 81,
+		costume = true
+	},
+	[70731] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cross Hairband",
+		identifiedResourceName = "십자머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 121,
+		costume = true
+	},
+	[70732] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fox Ears Drop Ribbon",
+		identifiedResourceName = "여우귀방울리본",
+		identifiedDescriptionName = {
+			"A headgear that imitated the ears of fox. When you move the bell will ringing.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1070,
+		costume = true
+	},
+	[70733] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sleeping Cat Hat",
+		identifiedResourceName = "잠자는고양이모자",
+		identifiedDescriptionName = {
+			"Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 838,
+		costume = true
+	},
+	[70734] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blood Sucker",
+		identifiedResourceName = "블러드서커",
+		identifiedDescriptionName = {
+			"Cursed mask inspired by creepy vampire fang. It can drains life.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 893,
+		costume = true
+	},
+	[70735] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bird Nest Hat",
+		identifiedResourceName = "새둥지모자",
+		identifiedDescriptionName = {
+			"A bird's nest with a newly hatched baby bird. It takes certain responsibility to keep the baby bird.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 235,
+		costume = true
+	},
+	[70736] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Secret Zipper",
+		identifiedResourceName = "비밀의지퍼",
+		identifiedDescriptionName = {
+			"From the inside of zipper there is creature like a bunny.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1324,
+		costume = true
+	},
+	[70737] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Penguin Cap",
+		identifiedResourceName = "펭귄캡",
+		identifiedDescriptionName = {
+			"Costume with penguin motif.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1325,
+		costume = true
+	},
+	[70738] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sleeping Eclipse Family",
+		identifiedResourceName = "잠자는이클립스가족",
+		identifiedDescriptionName = {
+			"A sleepy Eclipse with his family, look comfortable.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1326,
+		costume = true
+	},
+	[70739] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Fox Ear Ribbon",
+		identifiedResourceName = "흰여우귀방울리본",
+		identifiedDescriptionName = {
+			"A costume that imitated the ears of white fox.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1327,
+		costume = true
+	},
+	[70740] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gryphon Wing Ears",
+		identifiedResourceName = "그리폰의날개귀",
+		identifiedDescriptionName = {
+			"A costume that imitated the ears of white fox.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1328,
+		costume = true
+	},
+	[70741] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sunflower",
+		identifiedResourceName = "장식용해바라기",
+		identifiedDescriptionName = {
+			"Peculiar headgear designed to look like a sunflower.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 37,
+		costume = true
+	},
+	[70742] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Unicorn Horn",
+		identifiedResourceName = "새하얀뿔",
+		identifiedDescriptionName = {
+			"A pristinely white horn worn on the forehead that makes one look like a unicorn.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 42,
+		costume = true
+	},
+	[70743] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Soft Sheep Hat",
+		identifiedResourceName = "부드러운양모자",
+		identifiedDescriptionName = {
+			"Cute sheep hat. Its so cute that make people's heart beat fast.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 738,
+		costume = true
+	},
+	[70744] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Polar Bear Cap",
+		identifiedResourceName = "크리스마스흰곰모자",
+		identifiedDescriptionName = {
+			"A lovely 'Bear Hat' costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 966,
+		costume = true
+	},
+	[70745] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Balloon Hat",
+		identifiedResourceName = "벌룬햇",
+		identifiedDescriptionName = {
+			"A large knitted hat that can be used to conceal long hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 385,
+		costume = true
+	},
+	[70746] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Man's Medal",
+		identifiedResourceName = "비행기모자",
+		identifiedDescriptionName = {
+			"Look like a hunk o' burnin' love with this retro hairstyle wig.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 775,
+		costume = true
+	},
+	[70747] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cheering Whistle",
+		identifiedResourceName = "응원용호루라기",
+		identifiedDescriptionName = {
+			"A whistle to cheer you up!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 952,
+		costume = true
+	},
+	[70748] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Well-Chewed Pencil",
+		identifiedResourceName = "입에무는연필",
+		identifiedDescriptionName = {
+			"A popular snack while taking tests.",
+			"It makes one look more studious but, it's days may be numbered if it stays in somebody's mouth any longer.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 555,
+		costume = true
+	},
+	[70749] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Kindergarten Hat",
+		identifiedResourceName = "유치원생의모자",
+		identifiedDescriptionName = {
+			"A hat that protect child's head from sunlight.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 977,
+		costume = true
+	},
+	[70750] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Student Cap",
+		identifiedResourceName = "하얀학생모",
+		identifiedDescriptionName = {
+			"A hat given to standout student.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 877,
+		costume = true
+	},
+	[70751] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Over Protector",
+		identifiedResourceName = "오버프로텍터",
+		identifiedDescriptionName = {
+			"Designed to protect the head tightly.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1329,
+		costume = true
+	},
+	[70752] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sakura Hat",
+		identifiedResourceName = "벚꽃모자",
+		identifiedDescriptionName = {
+			"A hat modeled after the shape of sakura petals.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1330,
+		costume = true
+	},
+	[70753] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blowing Scattered Sakura",
+		identifiedResourceName = "흩날리는벚꽃",
+		identifiedDescriptionName = {
+			"A fallen sakura petals that made into costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70754] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Under Rim Glasses(Red)",
+		identifiedResourceName = "언더림안경레드",
+		identifiedDescriptionName = {
+			"Only the bottom of glasses attached with frame, its cool and stylish.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1332,
+		costume = true
+	},
+	[70755] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Man's Medal(Gold)",
+		identifiedResourceName = "비행기모자골드",
+		identifiedDescriptionName = {
+			"A costume which mimic a man that always fighting his opponent.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1333,
+		costume = true
+	},
+	[70756] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bijou Hat",
+		identifiedResourceName = "비쥬모자",
+		identifiedDescriptionName = {
+			"A pointy hat modeled after the Bijou, Valkyrie's henchmen.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1334,
+		costume = true
+	},
+	[70757] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Wing Ears",
+		identifiedResourceName = "C수호자검은날개",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1336,
+		costume = true
+	},
+	[70759] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Ramen Hat",
+		identifiedResourceName = "라면모자_블랙",
+		identifiedDescriptionName = {
+			"A forbidden ramen found in the ruin of Juperos. Those who wish to know the receipt will be doomed.",
+			"^FF0000Warning! You aren't allowed to make noddle.^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1338,
+		costume = true
+	},
+	[70760] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sleeper Hat",
+		identifiedResourceName = "슬리퍼모자",
+		identifiedDescriptionName = {
+			"A baby Sleeper monster from the Sograt desert.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 590,
+		costume = true
+	},
+	[70761] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Savage Babe Hat",
+		identifiedResourceName = "세비지베베모자",
+		identifiedDescriptionName = {
+			"The hat made according to the shape of Savage Babe.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 553,
+		costume = true
+	},
+	[70762] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Sunglasses",
+		identifiedResourceName = "포링선글래스",
+		identifiedDescriptionName = {
+			"Cute Poring-shaped pink sunglasses. It can protect your eyes from sunshines and even look cute.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 954,
+		costume = true
+	},
+	[70763] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yoyo Hat",
+		identifiedResourceName = "요요모자",
+		identifiedDescriptionName = {
+			"A hat of a cute Yoyo that you can use to disguise yourself among the apes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 391,
+		costume = true
+	},
+	[70764] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cactus Hat",
+		identifiedResourceName = "선인장모자",
+		identifiedDescriptionName = {
+			"The friendly Potted Muka likes to encourage you by aggravating your opponents!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 615,
+		costume = true
+	},
+	[70765] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Lunatic Hanging Ear",
+		identifiedResourceName = "C행복의늘어진루나틱귀",
+		identifiedDescriptionName = {
+			"An ears that imitating the ears of Lunatic.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1340,
+		costume = true
+	},
+	[70768] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Savage Hat",
+		identifiedResourceName = "골든세비지모자",
+		identifiedDescriptionName = {
+			"Cute little doll hat Golden Savage.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 648,
+		costume = true
+	},
+	[70769] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Beelzebub Crown",
+		identifiedResourceName = "C베르제브브의왕관",
+		identifiedDescriptionName = {
+			"A crown of MPV Beelzebub from nameless island. Its give noble atmosphere.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1343,
+		costume = true
+	},
+	[70770] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mandragora Cap",
+		identifiedResourceName = "만드라고라캡",
+		identifiedDescriptionName = {
+			"A Mandragora has bloomed on this hat. Don't even think about plucking the flower!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 402,
+		costume = true
+	},
+	[70771] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Raccoon Hat",
+		identifiedResourceName = "너구리모자",
+		identifiedDescriptionName = {
+			"A hat created in the form of Smokie the Raccoon Monster.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 118,
+		costume = true
+	},
+	[70772] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nettie Heart Bubblegum",
+		identifiedResourceName = "입안의연인",
+		identifiedDescriptionName = {
+			"Now you do not need special skill to make heart shaped bubblegum.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 720,
+		costume = true
+	},
+	[70773] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Beginner Cap",
+		identifiedResourceName = "비기너마크",
+		identifiedDescriptionName = {
+			"A costume awarded to adventurer who barely start his adventure.",
+			"Hit +30",
+			"MaxHP +1000",
+			"MaxSP +200",
+			"Cast time -10%.",
+			"Increase restoration amount of Novice Potion by 50%.",
+			"Increase healing power by 150%.",
+			"Every 10 base level increment:",
+			"HIT -3",
+			"Cast time +1%",
+			"MaxHP -100, MaxSP -20",
+			"Healing power -10%,",
+			"Increase healing received and restoration items by 10%.",
+			"^FF0000Cannot be traded.^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1348,
+		costume = true
+	},
+	[70774] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magical Booster",
+		identifiedResourceName = "매지컬부스터",
+		identifiedDescriptionName = {
+			"A booster developed and discovered in Juperos ruins that raise magical power. Its made from unknown material.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 873,
+		costume = true
+	},
+	[70775] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Baron's Evil Eye",
+		identifiedResourceName = "바롤의마안",
+		identifiedDescriptionName = {
+			"Costume made based Baron's eye.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 989,
+		costume = true
+	},
+	[70776] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume CD in Mouth",
+		identifiedResourceName = "입에무는콤팩트디스크",
+		identifiedDescriptionName = {
+			"Burn away as you hold this CD in our mouth.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 815,
+		costume = true
+	},
+	[70777] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume New Wave Sunglasses",
+		identifiedResourceName = "독특한패션안경",
+		identifiedDescriptionName = {
+			"A sunglasses that give futuristic feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 856,
+		costume = true
+	},
+	[70778] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Analyze Eye",
+		identifiedResourceName = "애널라이즈아이",
+		identifiedDescriptionName = {
+			"A costume developed from unknown technology and magic in Juperos ruins.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1351,
+		costume = true
+	},
+	[70779] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Seraph Wing Helm",
+		identifiedResourceName = "지천사날개투구",
+		identifiedDescriptionName = {
+			"Feathers of angel that decorated into a costume, designed for Royal Guard.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1352,
+		costume = true
+	},
+	[70780] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nekomimi Cyber Headphone",
+		identifiedResourceName = "고양이귀사이버헤드폰",
+		identifiedDescriptionName = {
+			"A costume with design of cyber colored cat ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1353,
+		costume = true
+	},
+	[70781] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Charleston Antenna",
+		identifiedResourceName = "찰스턴안테나",
+		identifiedDescriptionName = {
+			"A costume modelled after the robot inside Charleston factory.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1354,
+		costume = true
+	},
+	[70782] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crimson Booster",
+		identifiedResourceName = "크림슨부스터",
+		identifiedDescriptionName = {
+			"An improved booster with red color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1355,
+		costume = true
+	},
+	[70783] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Bandana",
+		identifiedResourceName = "반다나",
+		identifiedDescriptionName = {
+			"A boldly red bandana that was possibly left over from the 80's.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 62,
+		costume = true
+	},
+	[70784] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pterios Fins",
+		identifiedResourceName = "프레티리오스지느러미",
+		identifiedDescriptionName = {
+			"'No one ever approaches perfection except by stealth, and unknown to themselves. - William Hazzlit'",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1009,
+		costume = true
+	},
+	[70785] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Seal Hat",
+		identifiedResourceName = "퍼씰모자",
+		identifiedDescriptionName = {
+			"Very warm hat which a monster 'Fur Seal' is wearing.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 540,
+		costume = true
+	},
+	[70786] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sparkling Sound",
+		identifiedResourceName = "음계의오오라",
+		identifiedDescriptionName = {
+			"The rhythm that stimulates your five senses. Makes you feel the melody so vividly.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1074,
+		costume = true
+	},
+	[70787] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pigeon Hat",
+		identifiedResourceName = "비둘기모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1362,
+		costume = true
+	},
+	[70788] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Little Aquarium",
+		identifiedResourceName = "리틀아쿠아리움",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1363,
+		costume = true
+	},
+	[70789] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sailor Collar",
+		identifiedResourceName = "수병의옷깃",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1364,
+		costume = true
+	},
+	[70790] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Marine Cap",
+		identifiedResourceName = "마린캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1365,
+		costume = true
+	},
+	[70791] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mackerel Pike",
+		identifiedResourceName = "입에문황금물고기",
+		identifiedDescriptionName = {
+			"Fishes that only appears once every 10 years in Izlude.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1081,
+		costume = true
+	},
+	[70792] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Very Cute Doll Hat",
+		identifiedResourceName = "늘어진여고생인형모자",
+		identifiedDescriptionName = {
+			"Nothin you need to worry in the World when wearing this on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1084,
+		costume = true
+	},
+	[70793] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sombrero",
+		identifiedResourceName = "솜브레로",
+		identifiedDescriptionName = {
+			"A traditional Mexican hat with a wide, round brim.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 151,
+		costume = true
+	},
+	[70794] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Desert Prince",
+		identifiedResourceName = "사막의왕자",
+		identifiedDescriptionName = {
+			"This hat is coming from an old soldier who used to live in the desert.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 567,
+		costume = true
+	},
+	[70795] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pure White Ribbon",
+		identifiedResourceName = "숙녀의리본",
+		identifiedDescriptionName = {
+			"A ribbon with pure white color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1175,
+		costume = true
+	},
+	[70796] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Family Hat",
+		identifiedResourceName = "패밀리모자",
+		identifiedDescriptionName = {
+			"A costume represent the figure of family.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 650,
+		costume = true
+	},
+	[70797] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Joystick Hat",
+		identifiedResourceName = "조이스틱햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1305,
+		costume = true
+	},
+	[70798] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Watery Eyes",
+		identifiedResourceName = "눈물",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 828,
+		costume = true
+	},
+	[70799] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Colorful Dancing Octopus",
+		identifiedResourceName = "무지개낙지모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1007,
+		costume = true
+	},
+	[70800] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flower Summer Hat",
+		identifiedResourceName = "C플라워섬머햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1369,
+		costume = true
+	},
+	[70801] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Black)",
+		identifiedResourceName = "스트레이트포니_검정",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1371,
+		costume = true
+	},
+	[70802] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Black)",
+		identifiedResourceName = "삐침머리_검정",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1372,
+		costume = true
+	},
+	[70803] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Black)",
+		identifiedResourceName = "루즈웨이브트윈_검정",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1373,
+		costume = true
+	},
+	[70804] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Happy Balloon",
+		identifiedResourceName = "해피벌룬",
+		identifiedDescriptionName = {
+			"Colorful balloons with poring image on it's surface. Kids love to hold these when on festival?",
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1289,
+		costume = true
+	},
+	[70805] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Seagod Protector",
+		identifiedResourceName = "해신의수호",
+		identifiedDescriptionName = {
+			"There is rumor that this protector contain a Seagod's power.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 960,
+		costume = true
+	},
+	[70806] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Permeter",
+		identifiedResourceName = "늘어진퍼머터",
+		identifiedDescriptionName = {
+			"A child doll that reproduces the appearance of a Permeter.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 694,
+		costume = true
+	},
+	[70807] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Pirate Hat",
+		identifiedResourceName = "말랑도모자",
+		identifiedDescriptionName = {
+			"A cute hat of Poring pirate.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 726,
+		costume = true
+	},
+	[70808] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sunday Hat",
+		identifiedResourceName = "나들이모자",
+		identifiedDescriptionName = {
+			"Fashionable hat with a wide brim,which is very efficient to block strong sunrays.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 117,
+		costume = true
+	},
+	[70809] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flying Galapago",
+		identifiedResourceName = "날으는갈라파고",
+		identifiedDescriptionName = {
+			"A galapago that have a dream to fly high in the sky.",
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1358,
+		costume = true
+	},
+	[70810] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Yellow)",
+		identifiedResourceName = "삐침머리_노랑",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1382,
+		costume = true
+	},
+	[70811] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Green)",
+		identifiedResourceName = "삐침머리_녹색",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1383,
+		costume = true
+	},
+	[70812] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Purple)",
+		identifiedResourceName = "삐침머리_보라",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1384,
+		costume = true
+	},
+	[70813] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Red)",
+		identifiedResourceName = "삐침머리_빨강",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1385,
+		costume = true
+	},
+	[70814] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Crimson)",
+		identifiedResourceName = "삐침머리_연갈색",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1386,
+		costume = true
+	},
+	[70815] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(Blue)",
+		identifiedResourceName = "삐침머리_파랑",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1387,
+		costume = true
+	},
+	[70816] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bouncing Hair(White)",
+		identifiedResourceName = "삐침머리_흰색",
+		identifiedDescriptionName = {
+			"A wig that always bouncing whenever you move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1388,
+		costume = true
+	},
+	[70817] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Yellow)",
+		identifiedResourceName = "스트레이트포니_노랑",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1389,
+		costume = true
+	},
+	[70818] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Green)",
+		identifiedResourceName = "스트레이트포니_녹색",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1390,
+		costume = true
+	},
+	[70819] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Purple)",
+		identifiedResourceName = "스트레이트포니_보라",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1391,
+		costume = true
+	},
+	[70820] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Red)",
+		identifiedResourceName = "스트레이트포니_빨강",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1392,
+		costume = true
+	},
+	[70821] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Crimson)",
+		identifiedResourceName = "스트레이트포니_연갈색",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1393,
+		costume = true
+	},
+	[70822] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Blue)",
+		identifiedResourceName = "스트레이트포니_파랑",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1394,
+		costume = true
+	},
+	[70823] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(White)",
+		identifiedResourceName = "스트레이트포니_흰색",
+		identifiedDescriptionName = {
+			"An extended ponytail that came with different colors.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1395,
+		costume = true
+	},
+	[70824] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Yellow)",
+		identifiedResourceName = "루즈웨이브트윈_노랑",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1396,
+		costume = true
+	},
+	[70825] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Green)",
+		identifiedResourceName = "루즈웨이브트윈_녹색",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1397,
+		costume = true
+	},
+	[70826] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Purple)",
+		identifiedResourceName = "루즈웨이브트윈_보라",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1398,
+		costume = true
+	},
+	[70827] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Red)",
+		identifiedResourceName = "루즈웨이브트윈_빨강",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1399,
+		costume = true
+	},
+	[70828] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Crimson)",
+		identifiedResourceName = "루즈웨이브트윈_연갈색",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1400,
+		costume = true
+	},
+	[70829] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Blue)",
+		identifiedResourceName = "루즈웨이브트윈_파랑",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1401,
+		costume = true
+	},
+	[70830] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(White)",
+		identifiedResourceName = "루즈웨이브트윈_흰색",
+		identifiedDescriptionName = {
+			"A hair extension that soft and looks wavy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1402,
+		costume = true
+	},
+	[70831] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Special Kafra Hat",
+		identifiedResourceName = "리리아인형모자",
+		identifiedDescriptionName = {
+			"A limited costume to celebrate RO's 13th anniversary.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 581,
+		costume = true
+	},
+	[70832] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ribbon Hat",
+		identifiedResourceName = "소녀의모자",
+		identifiedDescriptionName = {
+			"Hat to protect you from the Sun.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 956,
+		costume = true
+	},
+	[70833] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Watermelon Hat",
+		identifiedResourceName = "수박모자",
+		identifiedDescriptionName = {
+			"Leftover piece of watermelon, scraped clean.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 690,
+		costume = true
+	},
+	[70834] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mechanical Plant Hat",
+		identifiedResourceName = "기계식물모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1069,
+		costume = true
+	},
+	[70835] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ignis Cap",
+		identifiedResourceName = "이그니스캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 803,
+		costume = true
+	},
+	[70836] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Memory of Lovers",
+		identifiedResourceName = "메모리오브러버스",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1072,
+		costume = true
+	},
+	[70837] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flight Cap",
+		identifiedResourceName = "비행날개모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 820,
+		costume = true
+	},
+	[70838] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sky Met",
+		identifiedResourceName = "스카이멧",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 868,
+		costume = true
+	},
+	[70839] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pocketwatch Hair Ornament",
+		identifiedResourceName = "회중시계머리장식",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1404,
+		costume = true
+	},
+	[70840] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mechanical Feather Hairband",
+		identifiedResourceName = "기계깃털헤어밴드",
+		identifiedDescriptionName = {
+			"A hairband made of various machine parts.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1405,
+		costume = true
+	},
+	[70841] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Steampunk Hat",
+		identifiedResourceName = "스팀펑크햇",
+		identifiedDescriptionName = {
+			"A retro style steampunk hat with attached bear doll on it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1406,
+		costume = true
+	},
+	[70842] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silver Sniper Doll",
+		identifiedResourceName = "실버스나이퍼인형",
+		identifiedDescriptionName = {
+			"A doll resemble the FAW Silver Sniper.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1407,
+		costume = true
+	},
+	[70843] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magic Decoy Doll",
+		identifiedResourceName = "매직데코이인형",
+		identifiedDescriptionName = {
+			"A doll resemble the FAW Silver Sniper.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1408,
+		costume = true
+	},
+	[70844] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Douce Tiara",
+		identifiedResourceName = "보라색수정티아라",
+		identifiedDescriptionName = {
+			"A tiara that look similiar to Douce's headdress.",
+			"It's made from different material and technology from this world.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1410,
+		costume = true
+	},
+	[70845] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Victory Wing Helm",
+		identifiedResourceName = "가루다햇",
+		identifiedDescriptionName = {
+			"A helm made for honoring war veteran.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 677,
+		costume = true
+	},
+	[70846] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ayam",
+		identifiedResourceName = "아얌",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 228,
+		costume = true
+	},
+	[70847] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mosaic",
+		identifiedResourceName = "익명요청",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 229,
+		costume = true
+	},
+	[70848] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Goblin Mask",
+		identifiedResourceName = "고블린족가면",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 84,
+		costume = true
+	},
+	[70849] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Silent Executor",
+		identifiedResourceName = "침묵의집행자",
+		identifiedDescriptionName = {
+			"A mask which is designed for Guillotine Cross' costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 632,
+		costume = true
+	},
+	[70851] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Schmitz Helm",
+		identifiedResourceName = "복각슈미츠의투구",
+		identifiedDescriptionName = {
+			"A headgear which is focused on defense. It covers almost all of the face.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 634,
+		costume = true
+	},
+	[70852] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pumpkin Toque",
+		identifiedResourceName = "펌킨요리사모자",
+		identifiedDescriptionName = {
+			"A hat awarded to honorable person in black school of chef.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1411,
+		costume = true
+	},
+	[70853] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Hat",
+		identifiedResourceName = "초록이모자",
+		identifiedDescriptionName = {
+			"A cute tree spirit hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 939,
+		costume = true
+	},
+	[70855] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Niffleheim Bunny Hat",
+		identifiedResourceName = "니플헤임버니햇",
+		identifiedDescriptionName = {
+			"A hat with a motif of Hylozoist's bunny.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1285,
+		costume = true
+	},
+	[70856] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crow Tengu Mask",
+		identifiedResourceName = "까마귀천구의가면",
+		identifiedDescriptionName = {
+			"A mask of fallen shinobi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1287,
+		costume = true
+	},
+	[70857] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ichthys Rosario",
+		identifiedResourceName = "성스러운로사리오",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1028,
+		costume = true
+	},
+	[70858] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel Guidance",
+		identifiedResourceName = "천사의인도",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1188,
+		costume = true
+	},
+	[70859] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Holy Klobuk",
+		identifiedResourceName = "성스러운크로브크",
+		identifiedDescriptionName = {
+			"A hat from eastern church that only the highest Bishop allowed to wear it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 895,
+		costume = true
+	},
+	[70860] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dolor Thanatos",
+		identifiedResourceName = "고뇌의모자",
+		identifiedDescriptionName = {
+			"A Dolor of Thanatos laying on your head. It's rumored that the doll is trying to speak with his owner.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 547,
+		costume = true
+	},
+	[70861] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blessing of Angel",
+		identifiedResourceName = "천사들의축복",
+		identifiedDescriptionName = {
+			"A costume that receive blessing from angels.",
+			"It's filled with joy, warm and comfort.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1425,
+		costume = true
+	},
+	[70862] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eremes Scarf",
+		identifiedResourceName = "에레메스스카프",
+		identifiedDescriptionName = {
+			"A bright red tattered scarf.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1416,
+		costume = true
+	},
+	[70863] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chain of Commandments",
+		identifiedResourceName = "금제의사슬",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1417,
+		costume = true
+	},
+	[70864] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vicious Mind Aura(Crimson)",
+		identifiedResourceName = "사념의오오라_빨강",
+		identifiedDescriptionName = {
+			"A costume that simulate the aura of subjects of Bio Lab.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1418,
+		costume = true
+	},
+	[70865] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Requiem Crown of Light and Dark",
+		identifiedResourceName = "피의빛과어둠진홍관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1419,
+		costume = true
+	},
+	[70866] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume There is...Something...",
+		identifiedResourceName = "뭔가있어",
+		identifiedDescriptionName = {
+			"You feel something heavy over your shoulders, but there's nothing there! It gives off a creepy feeling.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1091,
+		costume = true
+	},
+	[70867] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 1 Balloon",
+		identifiedResourceName = "C1학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1426,
+		costume = true
+	},
+	[70868] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 2 Balloon",
+		identifiedResourceName = "C2학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1427,
+		costume = true
+	},
+	[70869] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 3 Balloon",
+		identifiedResourceName = "C3학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1428,
+		costume = true
+	},
+	[70870] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 4 Balloon",
+		identifiedResourceName = "C4학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1429,
+		costume = true
+	},
+	[70871] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 5 Balloon",
+		identifiedResourceName = "C5학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1430,
+		costume = true
+	},
+	[70872] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 6 Balloon",
+		identifiedResourceName = "C6학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1431,
+		costume = true
+	},
+	[70873] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 7 Balloon",
+		identifiedResourceName = "C7학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1432,
+		costume = true
+	},
+	[70874] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 8 Balloon",
+		identifiedResourceName = "C8학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1433,
+		costume = true
+	},
+	[70875] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 9 Balloon",
+		identifiedResourceName = "C9학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1434,
+		costume = true
+	},
+	[70876] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 10 Balloon",
+		identifiedResourceName = "C10학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1435,
+		costume = true
+	},
+	[70877] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 11 Balloon",
+		identifiedResourceName = "C11학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1436,
+		costume = true
+	},
+	[70878] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 12 Balloon",
+		identifiedResourceName = "C12학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1437,
+		costume = true
+	},
+	[70879] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grade 13 Balloon",
+		identifiedResourceName = "C13학년풍선",
+		identifiedDescriptionName = {
+			"A costume belong to Novice player.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1438,
+		costume = true
+	},
+	[70880] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piamette Bowtie",
+		identifiedResourceName = "소년모로크수하",
+		identifiedDescriptionName = {
+			"A costume that imitating the bowtie of Piamette.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1439,
+		costume = true
+	},
+	[70881] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loyal Servant of Devil Morocc",
+		identifiedResourceName = "소년모로크수하",
+		identifiedDescriptionName = {
+			"A costume that imitating the protection aura of Devil Morocc.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1440,
+		costume = true
+	},
+	[70882] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magician Headdress",
+		identifiedResourceName = "마기스틴헤드드레스",
+		identifiedDescriptionName = {
+			"A costume based on Magician's headdress.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1441,
+		costume = true
+	},
+	[70883] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Khalitzburg Knight Helm",
+		identifiedResourceName = "칼리츠버그기사투구",
+		identifiedDescriptionName = {
+			"A costume based on Khalitzburg Knight's helm.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1442,
+		costume = true
+	},
+	[70884] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Louise Red Hat",
+		identifiedResourceName = "루이제빨간모자",
+		identifiedDescriptionName = {
+			"A perfect costume for christmas.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1443,
+		costume = true
+	},
+	[70885] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Gunslinger",
+		identifiedResourceName = "늘어진건슬링거",
+		identifiedDescriptionName = {
+			"This gunslinger doll perches on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1444,
+		costume = true
+	},
+	[70886] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Camellia Hair Pin",
+		identifiedResourceName = "애기동백꽃비녀",
+		identifiedDescriptionName = {
+			"A colorful camelia hair pin costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1203,
+		costume = true
+	},
+	[70887] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angelring Furhat",
+		identifiedResourceName = "엔젤링털모자",
+		identifiedDescriptionName = {
+			"A knitted hat with angeling on top.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 953,
+		costume = true
+	},
+	[70888] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sakura Hairband",
+		identifiedResourceName = "사쿠라머리띠",
+		identifiedDescriptionName = {
+			"A Sakura-shaped hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 949,
+		costume = true
+	},
+	[70889] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Abacus in Mouth",
+		identifiedResourceName = "입에무는주판",
+		identifiedDescriptionName = {
+			"A marvelous abacus that can recognize worthy of things.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 825,
+		costume = true
+	},
+	[70890] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume New Year Shine",
+		identifiedResourceName = "새해의빛",
+		identifiedDescriptionName = {
+			"A costume imitate the first Sun shine of new year.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70891] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gold Tones",
+		identifiedResourceName = "금빛음색",
+		identifiedDescriptionName = {
+			"A bell costume that can create strange sounds.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1447,
+		costume = true
+	},
+	[70892] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Ribbon Muffler(Red)",
+		identifiedResourceName = "큰리본머플러_빨강",
+		identifiedDescriptionName = {
+			"A large ribbon muffler with red color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1448,
+		costume = true
+	},
+	[70893] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red and White Mochiring Hat",
+		identifiedResourceName = "홍백모치링모자",
+		identifiedDescriptionName = {
+			"A costume that imitate the rice cake.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1449,
+		costume = true
+	},
+	[70894] = {
+		unidentifiedDisplayName = "Candle",
+		unidentifiedResourceName = "촛불",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Candle",
+		identifiedResourceName = "촛불",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 113,
+		costume = true
+	},
+	[70895] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bunny Eggshell",
+		identifiedResourceName = "토끼귀알껍질",
+		identifiedDescriptionName = {
+			"An easter egg with two red bunny ears.",
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1339,
+		costume = true
+	},
+	[70896] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Small Porings Headband",
+		identifiedResourceName = "스몰포링머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 955,
+		costume = true
+	},
+	[70897] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Water Spellcaster",
+		identifiedResourceName = "C물의마스터",
+		identifiedDescriptionName = {
+			"A costume that gives calm feeling of water that.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1451,
+		costume = true
+	},
+	[70898] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White and Black Temptation",
+		identifiedResourceName = "C흑과백의유혹",
+		identifiedDescriptionName = {
+			"A black and white cat that sit comfortably on top of head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1452,
+		costume = true
+	},
+	[70899] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gram Peony",
+		identifiedResourceName = "C글램피오니",
+		identifiedDescriptionName = {
+			"A beautiful magician hat with flower on it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1453,
+		costume = true
+	},
+	[70900] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sky of Memory",
+		identifiedResourceName = "C추억의밤하늘",
+		identifiedDescriptionName = {
+			"A beautiful magician hat with flower on it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1454,
+		costume = true
+	},
+	[70901] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Strawberry Prince",
+		identifiedResourceName = "C딸기왕자의왕관",
+		identifiedDescriptionName = {
+			"A crown that worn by a prince from strawberry kingdom.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1455,
+		costume = true
+	},
+	[70902] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Republic Hat",
+		identifiedResourceName = "공화국의모자",
+		identifiedDescriptionName = {
+			"A hat that giving the feeling of being in republic of Schwartzvald.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1458,
+		costume = true
+	},
+	[70903] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Combat Vestige",
+		identifiedResourceName = "C전투의흔적",
+		identifiedDescriptionName = {
+			"A hat with vestiges from fierce battle on the battlefield.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1460,
+		costume = true
+	},
+	[70904] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wild Poring Rider",
+		identifiedResourceName = "와일드포링라이더",
+		identifiedDescriptionName = {
+			"A hat resemble the Wild Rider.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1422,
+		costume = true
+	},
+	[70905] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Valhalla Idol",
+		identifiedResourceName = "발할라아이돌",
+		identifiedDescriptionName = {
+			"An ornament wore by a girl that fighting in battlefield.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1423,
+		costume = true
+	},
+	[70906] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Thorny Hairband",
+		identifiedResourceName = "가시나무헤어밴드",
+		identifiedDescriptionName = {
+			"Hairband made with magic thorns which only grows on top floor of tower.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 921,
+		costume = true
+	},
+	[70907] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 93 Style Bloody Wings",
+		identifiedResourceName = "피묻은나비귀",
+		identifiedDescriptionName = {
+			"A costume made based of Creamy's wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1037,
+		costume = true
+	},
+	[70908] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat Ears Cape",
+		identifiedResourceName = "고양이귀케이프",
+		identifiedDescriptionName = {
+			"A cute fluffy cat ears costume.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1464,
+		costume = true
+	},
+	[70909] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Two Tone Beret",
+		identifiedResourceName = "투톤베레모",
+		identifiedDescriptionName = {
+			"A costume made of love ribbon and two tone cookies.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1465,
+		costume = true
+	},
+	[70910] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monochrome Ribbon Hat",
+		identifiedResourceName = "모노크롬리본햇",
+		identifiedDescriptionName = {
+			"A ribbon with black and white color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1466,
+		costume = true
+	},
+	[70911] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Glasses Without Lens",
+		identifiedResourceName = "렌즈없는패션안경",
+		identifiedDescriptionName = {
+			"A glasses without lens, worn for fashion purpose.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1467,
+		costume = true
+	},
+	[70912] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crimson Ribbon",
+		identifiedResourceName = "진홍색리본",
+		identifiedDescriptionName = {
+			"A ribbon with crimson color.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1468,
+		costume = true
+	},
+	[70913] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Elemental Crown",
+		identifiedResourceName = "정령의왕관",
+		identifiedDescriptionName = {
+			"A crown blessed by spirit, by wearing it you can feel the flow of nature.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1219,
+		costume = true
+	},
+	[70915] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sweet Chocolate Hat",
+		identifiedResourceName = "달콤한초콜릿모자",
+		identifiedDescriptionName = {
+			"A large chocolate shaped hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1469,
+		costume = true
+	},
+	[70916] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "[Rental] Nekomimi Cape",
+		identifiedResourceName = "고양이귀케이프",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 1464,
+		costume = true
+	},
+	[70917] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pale Yellow Ribbon",
+		identifiedResourceName = "C교황의리본",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 1474,
+		costume = true
+	},
+	[70918] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Laser of Eagle",
+		identifiedResourceName = "레이저오브이글",
+		identifiedDescriptionName = {
+			"A hat with High-performance laser shooter.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1424,
+		costume = true
+	},
+	[70919] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Quati Hat",
+		identifiedResourceName = "콰티모자",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 527,
+		costume = true
+	},
+	[70920] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Archangel Wings",
+		identifiedResourceName = "천사날개귀",
+		identifiedDescriptionName = {
+			"White wings of a holy Archangel.",
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 18^000000",
+			"Location:^6666CC Garment^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1,
+		costume = true
+	},
+	[70921] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Little Devil Wings",
+		identifiedResourceName = "소악마날개",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 12,
+		costume = true
+	},
+	[70922] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cupid's Pink Wings",
+		identifiedResourceName = "분홍큐피트날개",
+		identifiedDescriptionName = {
+			"A replica wings of naughty cupid.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Garment^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14,
+		costume = true
+	},
+	[70923] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Invisible Manteau",
+		identifiedResourceName = "인비지블망토",
+		identifiedDescriptionName = {
+			"An invisible manteau.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Garment^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70924] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Bag",
+		identifiedResourceName = "포링가방",
+		identifiedDescriptionName = {
+			"A bag made based shape of Poring.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Garment^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 16,
+		costume = true
+	},
+	[70925] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poster Girl Hat",
+		identifiedResourceName = "간판소녀모자",
+		identifiedDescriptionName = {
+			"A costume that resemble the poster girl that shows various sign.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1446,
+		costume = true
+	},
+	[70926] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wings of Uriel",
+		identifiedResourceName = "우리엘의날개",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 17,
+		costume = true
+	},
+	[70927] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wings of Sword",
+		identifiedResourceName = "검의날개",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 19,
+		costume = true
+	},
+	[70928] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Wings of Fairy",
+		identifiedResourceName = "요정의파란날개",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 21,
+		costume = true
+	},
+	[70929] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Adventurer's Backpack",
+		identifiedResourceName = "모험가배낭",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 2,
+		costume = true
+	},
+	[70930] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Thanatos Sword",
+		identifiedResourceName = "Thanatos_Sword",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 23,
+		costume = true
+	},
+	[70931] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Grim Reaper Protection",
+		identifiedResourceName = "사신님의가호",
+		identifiedDescriptionName = {
+			"A costume that resemble the grim reaper whos waiting to take someone's soul.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^009900 0^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1450,
+		costume = false
+	},
+	[70932] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pretty Bear",
+		identifiedResourceName = "C프리티베어",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1480,
+		costume = true
+	},
+	[70933] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat Hood",
+		identifiedResourceName = "C검은고양이후드",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1481,
+		costume = true
+	},
+	[70934] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pig Nose",
+		identifiedResourceName = "C돼지코",
+		identifiedDescriptionName = {
+			"A mask that modeled after the nose of Savage babe monster. It's suitable combination for various kind of hats.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1482,
+		costume = true
+	},
+	[70936] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Pope(Casual)",
+		identifiedResourceName = "타레교황사복모",
+		identifiedDescriptionName = {
+			"A doll that resemble casual figure of pope of arunafeltz.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1483,
+		costume = true
+	},
+	[70937] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Luwmin",
+		identifiedResourceName = "타레루우민",
+		identifiedDescriptionName = {
+			"A doll that resemble twin brother of pope of arunafeltz.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1484,
+		costume = true
+	},
+	[70939] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pirate's Hood",
+		identifiedResourceName = "해적두건",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 592,
+		costume = true
+	},
+	[70940] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bankruptcy of Heart",
+		identifiedResourceName = "돈잃은자의마음",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 107,
+		costume = true
+	},
+	[70941] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Used Hat",
+		identifiedResourceName = "사또모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 227,
+		costume = true
+	},
+	[70942] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Beret",
+		identifiedResourceName = "베레모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 226,
+		costume = true
+	},
+	[70943] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cheks Bandana",
+		identifiedResourceName = "체크패턴두건",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1174,
+		costume = true
+	},
+	[70944] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Old King(Red)",
+		identifiedResourceName = "고대왕의왕관_",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1491,
+		costume = true
+	},
+	[70945] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magical Feather",
+		identifiedResourceName = "매지컬페더",
+		identifiedDescriptionName = {
+			"Oh Holy Light!",
+			"Strike down my foes!",
+			"Blessings be upon me as I strike the undead and demonic with my Demon Bane!",
+			"I am a Magical Acolyte who fights against the black Porings of Satan Morroc!",
+			"Every day I struggle against the darkness, but today will be magical!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1279,
+		costume = true
+	},
+	[70946] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat Lace Hairband",
+		identifiedResourceName = "고양이레이스머리띠",
+		identifiedDescriptionName = {
+			"A hairband decorated with a cute kitten doll. The lace makes it even cuter!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 816,
+		costume = true
+	},
+	[70947] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Survival Circlet",
+		identifiedResourceName = "서바이벌서클릿",
+		identifiedDescriptionName = {
+			"A circlet worn by mage apprentice.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1220,
+		costume = true
+	},
+	[70948] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ribbon(White)",
+		identifiedResourceName = "리본_하양",
+		identifiedDescriptionName = {
+			"A beautiful ribbon worn to attract the gaze of potential lovers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 248,
+		costume = true
+	},
+	[70949] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Kitty(Pink)",
+		identifiedResourceName = "분홍늘어진고양이",
+		identifiedDescriptionName = {
+			"An adorable kitty doll that perches peacefully on your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 276,
+		costume = true
+	},
+	[70950] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Rear Ribbon",
+		identifiedResourceName = "쪽빛리어리본",
+		identifiedDescriptionName = {
+			"A beautiful blue ribbon that reminds you of the sea.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1492,
+		costume = true
+	},
+	[70951] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Rose Princess",
+		identifiedResourceName = "화이트로즈프린세스",
+		identifiedDescriptionName = {
+			"A coronet decorated with white roses. It may have been worn by royalty once upon a time.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1493,
+		costume = true
+	},
+	[70952] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume First Love Cheek",
+		identifiedResourceName = "첫사랑발그레",
+		identifiedDescriptionName = {
+			"The rosy blush of young love.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1494,
+		costume = true
+	},
+	[70953] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Lily(Black Ribbon)",
+		identifiedResourceName = "화이트릴리검정",
+		identifiedDescriptionName = {
+			"A costume accessory symbolizing the purity of the wearer. The black ribbon provides a nice contrast.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1495,
+		costume = true
+	},
+	[70954] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Marin Hat",
+		identifiedResourceName = "마린의관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 948,
+		costume = true
+	},
+	[70955] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Golden Poring Hat",
+		identifiedResourceName = "화환포링모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1236,
+		costume = true
+	},
+	[70956] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Sun Visor",
+		identifiedResourceName = "C해피섬머선바이저",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1496,
+		costume = true
+	},
+	[70957] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alchemist Mask",
+		identifiedResourceName = "연금술사마스크",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1497,
+		costume = true
+	},
+	[70958] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Eddga",
+		identifiedResourceName = "호랑이왕인형모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 495,
+		costume = true
+	},
+	[70959] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sting Hat",
+		identifiedResourceName = "스팅모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 504,
+		costume = true
+	},
+	[70960] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Soap Pipe",
+		identifiedResourceName = "C포링버블파이프",
+		identifiedDescriptionName = {
+			"A young jack's favourite pipe.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1499,
+		costume = true
+	},
+	[70961] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Exploding Crimson Wave",
+		identifiedResourceName = "C홍염의폭렬파동",
+		identifiedDescriptionName = {
+			"It is time to demonstrate your true power!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[70962] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eremes Guile's Scarf(Black)",
+		identifiedResourceName = "C에레메스스카프검정",
+		identifiedDescriptionName = {
+			"A tattered black scarf once worn by assassin cross Eremes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1501,
+		costume = true
+	},
+	[70963] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gelato Hat",
+		identifiedResourceName = "젤라또모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 777,
+		costume = true
+	},
+	[70964] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sailor Hat",
+		identifiedResourceName = "바닷사람의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 798,
+		costume = true
+	},
+	[70965] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Starfish Headband",
+		identifiedResourceName = "불가사리머리띠",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 793,
+		costume = true
+	},
+	[70966] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nipper Hairpin",
+		identifiedResourceName = "집게발머리핀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 470,
+		costume = true
+	},
+	[70967] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eleanor Wig",
+		identifiedResourceName = "엘레노아가발",
+		identifiedDescriptionName = {
+			"A wig modeled after the hair of homunculus Eleanor. It has cute ears that will move when the wearer walk.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1502,
+		costume = true
+	},
+	[70968] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Blue)",
+		identifiedResourceName = "당고머리_청",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1503,
+		costume = true
+	},
+	[70969] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Red)",
+		identifiedResourceName = "당고머리_적",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1504,
+		costume = true
+	},
+	[70970] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Yellow)",
+		identifiedResourceName = "당고머리_황",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1505,
+		costume = true
+	},
+	[70971] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Green)",
+		identifiedResourceName = "당고머리_녹",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1506,
+		costume = true
+	},
+	[70972] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Black)",
+		identifiedResourceName = "당고머리_흑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1507,
+		costume = true
+	},
+	[70973] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(White)",
+		identifiedResourceName = "당고머리_백",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1508,
+		costume = true
+	},
+	[70974] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Crimson)",
+		identifiedResourceName = "당고머리_갈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1509,
+		costume = true
+	},
+	[70975] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hair Bun(Purple)",
+		identifiedResourceName = "당고머리_자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1510,
+		costume = true
+	},
+	[70976] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Blue)",
+		identifiedResourceName = "롤트윈_청",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1511,
+		costume = true
+	},
+	[70977] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Red)",
+		identifiedResourceName = "롤트윈_적",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1512,
+		costume = true
+	},
+	[70978] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Yellow)",
+		identifiedResourceName = "롤트윈_황",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1513,
+		costume = true
+	},
+	[70979] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Green)",
+		identifiedResourceName = "롤트윈_녹",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1514,
+		costume = true
+	},
+	[70980] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Black)",
+		identifiedResourceName = "롤트윈_흑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1515,
+		costume = true
+	},
+	[70981] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(White)",
+		identifiedResourceName = "롤트윈_백",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1516,
+		costume = true
+	},
+	[70982] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Crimson)",
+		identifiedResourceName = "롤트윈_갈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1517,
+		costume = true
+	},
+	[70983] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Roll Twin(Purple)",
+		identifiedResourceName = "롤트윈_자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1518,
+		costume = true
+	},
+	[70984] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Blue)",
+		identifiedResourceName = "롱포니_청",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1519,
+		costume = true
+	},
+	[70985] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Red)",
+		identifiedResourceName = "롱포니_적",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1520,
+		costume = true
+	},
+	[70986] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Yellow)",
+		identifiedResourceName = "롱포니_황",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1521,
+		costume = true
+	},
+	[70987] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Green)",
+		identifiedResourceName = "롱포니_녹",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1522,
+		costume = true
+	},
+	[70988] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Black)",
+		identifiedResourceName = "롱포니_흑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1523,
+		costume = true
+	},
+	[70989] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(White)",
+		identifiedResourceName = "롱포니_백",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1524,
+		costume = true
+	},
+	[70990] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Crimson)",
+		identifiedResourceName = "롱포니_갈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1525,
+		costume = true
+	},
+	[70991] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Pony(Purple)",
+		identifiedResourceName = "롱포니_자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1526,
+		costume = true
+	},
+	[70992] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dwarf Beard",
+		identifiedResourceName = "드워프수염",
+		identifiedDescriptionName = {
+			"A replica of Dwarf's beard.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1349,
+		costume = true
+	},
+	[70994] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Exploding Crimson Flame",
+		identifiedResourceName = "C홍염의폭렬파동",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1500,
+		costume = true
+	},
+	[70995] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angelring Hat",
+		identifiedResourceName = "날고싶은엔젤링",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 348,
+		costume = true
+	},
+	[70996] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Show Me The Zeny",
+		identifiedResourceName = "C골드샤워",
+		identifiedDescriptionName = {
+			"Randomly gains a certain amount of Zeny each time a monster is killed.",
+			"Created to celebrate the launch of Ragnarok Clicker!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1528,
+		costume = true
+	},
+	[70997] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rabbit Ribbon",
+		identifiedResourceName = "토끼리본모자",
+		identifiedDescriptionName = {
+			"Gothic style bunny hat. Elegant and cute stylish hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 845,
+		costume = true
+	},
+	[70998] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Under Lamp",
+		identifiedResourceName = "입에문램프",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1531,
+		costume = true
+	},
+	[70999] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dice Hairband",
+		identifiedResourceName = "주사위모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 494,
+		costume = true
+	},
+	[71000] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mythical Baphomet Horns",
+		identifiedResourceName = "C_JP_EV01",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's resembles the horns of great demon Baphomet.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1532,
+		costume = true
+	},
+	[71001] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bau Alma's Dog Ears",
+		identifiedResourceName = "C_JP_EV02",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's imitate the dog ears of Bau Alma.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1533,
+		costume = true
+	},
+	[71002] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Minnie Doe Alma's Bunny Ears",
+		identifiedResourceName = "C_JP_EV03",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's imitate the bunny ears of Minnie Doe Alma.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1534,
+		costume = true
+	},
+	[71003] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tamamo Loa's Fox Ears",
+		identifiedResourceName = "C_JP_EV04",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's imitate the fox ears of Tamamo Loa.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1535,
+		costume = true
+	},
+	[71004] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ontama Aria's Headdress",
+		identifiedResourceName = "C_JP_EV05",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's imitate the headdress of Ontama Aria.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1536,
+		costume = true
+	},
+	[71005] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hat of Dumpty Alma",
+		identifiedResourceName = "C_JP_EV06",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO. It's imitate the hat of Dumpty Alma.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1537,
+		costume = true
+	},
+	[71006] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taini Hat(Blue)",
+		identifiedResourceName = "C_JP_EV07",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1538,
+		costume = true
+	},
+	[71007] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taini Hat(Orange)",
+		identifiedResourceName = "C_JP_EV08",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1539,
+		costume = true
+	},
+	[71008] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taini Hat(Green)",
+		identifiedResourceName = "C_JP_EV09",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1540,
+		costume = true
+	},
+	[71009] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taini Hat",
+		identifiedResourceName = "타이니모자",
+		identifiedDescriptionName = {
+			"A colaboration headdress of ECOxRO.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 722,
+		costume = true
+	},
+	[71010] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume RO Celebration Hat",
+		identifiedResourceName = "Ro기념모자",
+		identifiedDescriptionName = {
+			"^000088Rental item^000000",
+			"A very rare limited celebration hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1541,
+		costume = true
+	},
+	[71011] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eyepatch of Peace",
+		identifiedResourceName = "하트눈안대1",
+		identifiedDescriptionName = {
+			"An eyepatch created by legendary blacksmith.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 697,
+		costume = true
+	},
+	[71012] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eyepatch of Prosperity",
+		identifiedResourceName = "하트눈안대2",
+		identifiedDescriptionName = {
+			"An eyepatch created by legendary blacksmith.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 698,
+		costume = true
+	},
+	[71013] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Doctor Headband",
+		identifiedResourceName = "의사머리띠",
+		identifiedDescriptionName = {
+			"A headband worn by doctor to examine his patient.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 60,
+		costume = true
+	},
+	[71014] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Prop of Theater",
+		identifiedResourceName = "연극소도구",
+		identifiedDescriptionName = {
+			"A property of theater. Used by putting this on top of dying actor's head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 80,
+		costume = true
+	},
+	[71017] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Magician Hat",
+		identifiedResourceName = "파랑마법사의모자",
+		identifiedDescriptionName = {
+			"Talented Wizard's magic hat. It looks weird, but works just fine.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 285,
+		costume = true
+	},
+	[71018] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vampire's Familiar",
+		identifiedResourceName = "뱀파이어의사역마",
+		identifiedDescriptionName = {
+			"A costume the makes you look like a vampire. Perfect for halloween event.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1548,
+		costume = true
+	},
+	[71019] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bat Stole",
+		identifiedResourceName = "박쥐스톨",
+		identifiedDescriptionName = {
+			"A costume with wings of bat attached on it. Perfect for halloween event.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1549,
+		costume = true
+	},
+	[71020] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bloody Stop Bandage",
+		identifiedResourceName = "피묻은사안봉인붕대",
+		identifiedDescriptionName = {
+			"Tight bandages for wounds of the eyes. It seems that they were already used.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1550,
+		costume = true
+	},
+	[71021] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ghostring Tall Hat",
+		identifiedResourceName = "고스트링톨햇",
+		identifiedDescriptionName = {
+			"A cute tall hat with ghostring motif.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1551,
+		costume = true
+	},
+	[71022] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ribbon Chief Hat",
+		identifiedResourceName = "리본요리사모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 785,
+		costume = true
+	},
+	[71023] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Queen Anne's Revenge",
+		identifiedResourceName = "퀸안즈리벤지",
+		identifiedDescriptionName = {
+			"A big hat of legendary pirate. It's always stained in blood.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1360,
+		costume = true
+	},
+	[71024] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nestle Lemon Tea Hat",
+		identifiedResourceName = "네스티모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 756,
+		costume = true
+	},
+	[71025] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Flag Cap",
+		identifiedResourceName = "대만국기모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 482,
+		costume = true
+	},
+	[71026] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bride Mask",
+		identifiedResourceName = "각시탈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 223,
+		costume = true
+	},
+	[71028] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Indian Hairband",
+		identifiedResourceName = "원주민머리띠",
+		identifiedDescriptionName = {
+			"A hat that usually worn by Indian people.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 96,
+		costume = true
+	},
+	[71029] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Monk Hat",
+		identifiedResourceName = "성직자의모자",
+		identifiedDescriptionName = {
+			"A ceremonial hat worn by monks that contains a sacred force which offers protection from evil.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 35,
+		costume = true
+	},
+	[71030] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Christmas Wreath",
+		identifiedResourceName = "크리스마스리스",
+		identifiedDescriptionName = {
+			"A fresh wreath made of holy branches.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1554,
+		costume = true
+	},
+	[71031] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gambler Seal",
+		identifiedResourceName = "갬블러의씰",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1202,
+		costume = true
+	},
+	[71032] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Talkactive Parrot",
+		identifiedResourceName = "즐거운앵무새",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1116,
+		costume = true
+	},
+	[71033] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Luxury Mini Crown",
+		identifiedResourceName = "미니크라운1",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 707,
+		costume = true
+	},
+	[71034] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Clock Casket",
+		identifiedResourceName = "크로크카스캐트",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1555,
+		costume = true
+	},
+	[71035] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Rose Ornament",
+		identifiedResourceName = "파랑새의장미장식",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1556,
+		costume = true
+	},
+	[71036] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piamette's Red Hood",
+		identifiedResourceName = "피아멧트의붉은두건",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1557,
+		costume = true
+	},
+	[71037] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Rabbit Ears",
+		identifiedResourceName = "흰토끼의귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1558,
+		costume = true
+	},
+	[71038] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Cowboy Hat",
+		identifiedResourceName = "검은색카우보이모자",
+		identifiedDescriptionName = {
+			"A cowboy hat. It makes men look manlier, and is cute when worn by women.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1569,
+		costume = true
+	},
+	[71039] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cactus Flower Corsage",
+		identifiedResourceName = "선인장꽃코르사쥬",
+		identifiedDescriptionName = {
+			"A costume made of cactus flower.",
+			"^ff0000Can't be traded with another account.^000000",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1570,
+		costume = true
+	},
+	[71040] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Prison of Time",
+		identifiedResourceName = "시간의장식",
+		identifiedDescriptionName = {
+			"When equipped it will makes wearer trapped in time.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1309,
+		costume = true
+	},
+	[71041] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Indian Feather Headband",
+		identifiedResourceName = "인디안깃털머리띠",
+		identifiedDescriptionName = {
+			"Splendid hair accessory made of feathers of birds. Worn by women of a certain tribe.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 809,
+		costume = true
+	},
+	[71042] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alice Von Friesinger Hat 69",
+		identifiedResourceName = "아이스폰프리징어69세",
+		identifiedDescriptionName = {
+			"A figurine doll that resemble maid from A-larm House 69.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1249,
+		costume = true
+	},
+	[71043] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Kardui Ears",
+		identifiedResourceName = "카르듀이의귀",
+		identifiedDescriptionName = {
+			"An ears ornament modeled after the ears of king of Laphines.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1357,
+		costume = true
+	},
+	[71044] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Domovoi",
+		identifiedResourceName = "타레도모붜이",
+		identifiedDescriptionName = {
+			"A doll that resemble domovoi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 781,
+		costume = true
+	},
+	[71045] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping W Doll",
+		identifiedResourceName = "더블류인형모자",
+		identifiedDescriptionName = {
+			"So hot! A headgear with the figure of Kafra W!",
+			"There is a rumor that an assassin association wants to scout her, because there are so many guys who become frightened and faint when she calls them.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 359,
+		costume = true
+	},
+	[71046] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nydhoggur Wig",
+		identifiedResourceName = "니드호그의가발",
+		identifiedDescriptionName = {
+			"A wig that imitate the hair of yggdrasil guardian, Nydhoggur.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1563,
+		costume = true
+	},
+	[71047] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shalosh Headdress",
+		identifiedResourceName = "샬로시의헤드드레스",
+		identifiedDescriptionName = {
+			"A replica of Shalosh's hairband.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1564,
+		costume = true
+	},
+	[71048] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cheshire's Cat Ears",
+		identifiedResourceName = "체샤의고양이귀",
+		identifiedDescriptionName = {
+			"A replica of Cheshire's Cat Ears.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1565,
+		costume = true
+	},
+	[71049] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piamette's Red Bow Tie",
+		identifiedResourceName = "피아멧트빨간넥타이",
+		identifiedDescriptionName = {
+			"A replica of Piamette's Red Bow Tie.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1566,
+		costume = true
+	},
+	[71050] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Thief World Anniversary II Hat",
+		identifiedResourceName = "C괴도2세모자",
+		identifiedDescriptionName = {
+			"A mini silk hat created to celebrate thief world anniversary II. By wearing this you will become cute thief.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1567,
+		costume = true
+	},
+	[71051] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cap",
+		identifiedResourceName = "캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 14,
+		costume = true
+	},
+	[71052] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Squirrel Ear Hat",
+		identifiedResourceName = "다람쥐귀모자",
+		identifiedDescriptionName = {
+			"An adorable squirrel ear shaped hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1486,
+		costume = true
+	},
+	[71053] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rune Helm",
+		identifiedResourceName = "룬헬름",
+		identifiedDescriptionName = {
+			"This mysterious helm can increase the power of rune stones.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1361,
+		costume = true
+	},
+	[71055] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shaving Foam",
+		identifiedResourceName = "쉐이빙폼",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1129,
+		costume = true
+	},
+	[71056] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sheep Hat",
+		identifiedResourceName = "양모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 205,
+		costume = true
+	},
+	[71057] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Brown Stole",
+		identifiedResourceName = "브라운스톨",
+		identifiedDescriptionName = {
+			"A nice warm brown stole that is perfect for the Winter weather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1572,
+		costume = true
+	},
+	[71058] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Piggyback",
+		identifiedResourceName = "목말",
+		identifiedDescriptionName = {
+			"A cute young novice whose asked you to piggyback him.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1574,
+		costume = true
+	},
+	[71059] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Teddy Bear Hood",
+		identifiedResourceName = "테디베어후드",
+		identifiedDescriptionName = {
+			"A hat made to look like a teddy bear's face. It feels so fluffy.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1571,
+		costume = true
+	},
+	[71060] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hanging Black Lunatic Ears",
+		identifiedResourceName = "늘어진루나틱귀_검정",
+		identifiedDescriptionName = {
+			"Droopy Lunatic ears that have been cutely garnished with clover flower bouquets.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1575,
+		costume = true
+	},
+	[71061] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Mouton Life",
+		identifiedResourceName = "무통라이프_파랑",
+		identifiedDescriptionName = {
+			"A blue hairband made with lamb's wool and horn.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1573,
+		costume = true
+	},
+	[71062] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hilarious Bandit Hat",
+		identifiedResourceName = "무법자모자",
+		identifiedDescriptionName = {
+			"A costume inspired by hat created by Brazilis artist.",
+			"------------------------",
+			"When combined with Costume Santa's Beard:",
+			"Randomly transforms wearer into Sock Smokie.",
+			"------------------------",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 486,
+		costume = true
+	},
+	[71063] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wings of Wind",
+		identifiedResourceName = "뇌신지력",
+		identifiedDescriptionName = {
+			"A wing-shaped ornament that bearing the power of wind.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 493,
+		costume = true
+	},
+	[71064] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nekomimi",
+		identifiedResourceName = "고양이모자",
+		identifiedDescriptionName = {
+			"A cute cat-looking hat which enhances its wearer's look.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 182,
+		costume = true
+	},
+	[71066] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Oyster Parakeet",
+		identifiedResourceName = "왕관앵무",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 419,
+		costume = true
+	},
+	[71067] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Suspicious Bread Bag",
+		identifiedResourceName = "빵봉투1",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 429,
+		costume = true
+	},
+	[71068] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Strawberry Hat",
+		identifiedResourceName = "딸기모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 755,
+		costume = true
+	},
+	[71069] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Looking",
+		identifiedResourceName = "보고있어",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1577,
+		costume = true
+	},
+	[71070] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tail Hat",
+		identifiedResourceName = "테일햇",
+		identifiedDescriptionName = {
+			"A hat inspired by the beautiful color palette and elegant look of a simple koi.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1578,
+		costume = true
+	},
+	[71071] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fire Muffler",
+		identifiedResourceName = "심두멸각머플러",
+		identifiedDescriptionName = {
+			"Muffler made from the feathers of KASA.",
+			"Be cautious! It's very hot!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1579,
+		costume = true
+	},
+	[71072] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wolf Masquerade",
+		identifiedResourceName = "울프마스커레이드",
+		identifiedDescriptionName = {
+			"A mask shaped like a noble wolf.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1580,
+		costume = true
+	},
+	[71073] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume King Sura Headband",
+		identifiedResourceName = "수라왕의두건",
+		identifiedDescriptionName = {
+			"A headband that only the strongest sura were thought to wear. It truly leaves in impact.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1581,
+		costume = true
+	},
+	[71074] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Necklace Rosary",
+		identifiedResourceName = "로자리오목걸이",
+		identifiedDescriptionName = {
+			"A sacred rosary.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1471,
+		costume = true
+	},
+	[71075] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Cap",
+		identifiedResourceName = "사이드캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 529,
+		costume = true
+	},
+	[71076] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blessing of Fallen Angel",
+		identifiedResourceName = "타천사의축복",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1250,
+		costume = true
+	},
+	[71077] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "안대",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hawkeye",
+		identifiedResourceName = "매의눈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 609,
+		costume = true
+	},
+	[71078] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Engineer Cap",
+		identifiedResourceName = "엔지니어캡",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 608,
+		costume = true
+	},
+	[71079] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat",
+		identifiedResourceName = "C_Black_Cat",
+		identifiedDescriptionName = {
+			"Many people mistook this doll as a real cat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1582,
+		costume = true
+	},
+	[71080] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume War Princess Ribbon",
+		identifiedResourceName = "War_Princess_Ribbon",
+		identifiedDescriptionName = {
+			"A large gothic styled ribbon.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1583,
+		costume = true
+	},
+	[71081] = {
+		unidentifiedDisplayName = "Hiarband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mono Gothic Bonnet",
+		identifiedResourceName = "Mono_Gothic_Bonnet",
+		identifiedDescriptionName = {
+			"A gothic styled bonnet.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1584,
+		costume = true
+	},
+	[71082] = {
+		unidentifiedDisplayName = "Hiarband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Cat Ears Cape",
+		identifiedResourceName = "Cat_Ears_Cape_Red",
+		identifiedDescriptionName = {
+			"A pretty and fluffy red colored cape. A fashionable costume winter weather.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1585,
+		costume = true
+	},
+	[71083] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Angel Mini Silk Hat",
+		identifiedResourceName = "Angel_Mini_Silk_Hat_B",
+		identifiedDescriptionName = {
+			"A cute mini gothic styled hat with pretty feathers.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1586,
+		costume = true
+	},
+	[71084] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Vibrant Cat Ears",
+		identifiedResourceName = "휘케바인의귀_골드",
+		identifiedDescriptionName = {
+			"^ff0000Cannot be traded^000000",
+			"A super cute kitten ears!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1588,
+		costume = true
+	},
+	[71085] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Blue Cat Ears",
+		identifiedResourceName = "파란새끼고양이귀",
+		identifiedDescriptionName = {
+			"^ff0000Cannot be traded^000000",
+			"A super cute kitten ears!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1589,
+		costume = true
+	},
+	[71086] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Ahat",
+		identifiedResourceName = "늘어진아하트",
+		identifiedDescriptionName = {
+			"A doll that resemble the minister of El Dicastes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1590,
+		costume = true
+	},
+	[71087] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spinning Propeller",
+		identifiedResourceName = "프로펠라_",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 270,
+		costume = true
+	},
+	[71088] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mini Chocolate Hat",
+		identifiedResourceName = "Choco_Minihat",
+		identifiedDescriptionName = {
+			"Sweet chocolate decorated cutey hat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1592,
+		costume = true
+	},
+	[71089] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping Chuni Penguin",
+		identifiedResourceName = "JP_EV12",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1596,
+		costume = true
+	},
+	[71090] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Egg Crispinette",
+		identifiedResourceName = "Egg_Crispinette",
+		identifiedDescriptionName = {
+			"A high class hat decorated with fragile egg shells.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1598,
+		costume = true
+	},
+	[71091] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Octopus Hat",
+		identifiedResourceName = "문어모자",
+		identifiedDescriptionName = {
+			"Wear this octopus wearing a hat as a hat. Is it just me, or does it seem to be mocking you?",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 538,
+		costume = true
+	},
+	[71092] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Weird Beard",
+		identifiedResourceName = "턱수염",
+		identifiedDescriptionName = {
+			"A beard so weird, you might be feared. With this beard, you're rightly geared. To look so dandy, fine, revered. All because this beard appeared.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 21,
+		costume = true
+	},
+	[71093] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wrapping Ribbon",
+		identifiedResourceName = "Wrapping_Ribbon",
+		identifiedDescriptionName = {
+			"Make your presence a present with this giant and lovely wrapping ribbon. Watch it flow dramatically behind you as you run!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1599,
+		costume = true
+	},
+	[71094] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Royal Rabbit Crown",
+		identifiedResourceName = "Royal_Rabbit_Crown",
+		identifiedDescriptionName = {
+			"A cute little crown with big rabbit ears on either side.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1600,
+		costume = true
+	},
+	[71095] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Dog Officer",
+		identifiedResourceName = "Dog_Officer",
+		identifiedDescriptionName = {
+			"Life is ruff for a pawfficer of the law, but times never get bark for those with dogged determination.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1601,
+		costume = true
+	},
+	[71096] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Charcoal Stove",
+		identifiedResourceName = "Charcoal_Stove",
+		identifiedDescriptionName = {
+			"For all those times you ever wanted to have a grill for a head. Since it's for decorative purposes only, it does not actually cook anything.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1602,
+		costume = true
+	},
+	[71097] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Drooping White Cat",
+		identifiedResourceName = "늘어진하얀고양이",
+		identifiedDescriptionName = {
+			"얼굴 표정이 기분에 따라 바뀌는 신기한 고양이 모자.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 378,
+		costume = true
+	},
+	[71099] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Long (Yellow)",
+		identifiedResourceName = "Straight_Long_YL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1603,
+		costume = true
+	},
+	[71100] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Long (White)",
+		identifiedResourceName = "Straight_Long_WH",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1604,
+		costume = true
+	},
+	[71101] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Blue)",
+		identifiedResourceName = "Side_Pigtail_BU",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1605,
+		costume = true
+	},
+	[71102] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Red)",
+		identifiedResourceName = "Side_Pigtail_RD",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1606,
+		costume = true
+	},
+	[71103] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Yellow)",
+		identifiedResourceName = "Side_Pigtail_YL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1607,
+		costume = true
+	},
+	[71104] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Green)",
+		identifiedResourceName = "Side_Pigtail_GN",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1608,
+		costume = true
+	},
+	[71105] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Black)",
+		identifiedResourceName = "Side_Pigtail_BL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1609,
+		costume = true
+	},
+	[71106] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (White)",
+		identifiedResourceName = "Side_Pigtail_WH",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1610,
+		costume = true
+	},
+	[71107] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Brown)",
+		identifiedResourceName = "Side_Pigtail_OM",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1611,
+		costume = true
+	},
+	[71108] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Side Pigtail (Purple)",
+		identifiedResourceName = "Side_Pigtail_PP",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1612,
+		costume = true
+	},
+	[71109] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Blue)",
+		identifiedResourceName = "Low_Pony_BU",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1613,
+		costume = true
+	},
+	[71110] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Red)",
+		identifiedResourceName = "Low_Pony_RD",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1614,
+		costume = true
+	},
+	[71111] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Yellow)",
+		identifiedResourceName = "Low_Pony_YL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1615,
+		costume = true
+	},
+	[71112] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Green)",
+		identifiedResourceName = "Low_Pony_GN",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1616,
+		costume = true
+	},
+	[71113] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Black)",
+		identifiedResourceName = "Low_Pony_BL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1617,
+		costume = true
+	},
+	[71114] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (White)",
+		identifiedResourceName = "Low_Pony_WH",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1618,
+		costume = true
+	},
+	[71115] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Brown)",
+		identifiedResourceName = "Low_Pony_OM",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1619,
+		costume = true
+	},
+	[71116] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Low Pony (Purple)",
+		identifiedResourceName = "Low_Pony_PP",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1620,
+		costume = true
+	},
+	[71117] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Blue)",
+		identifiedResourceName = "Long_Twin_BU",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1621,
+		costume = true
+	},
+	[71118] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Red)",
+		identifiedResourceName = "Long_Twin_RD",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1622,
+		costume = true
+	},
+	[71119] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Yellow)",
+		identifiedResourceName = "Long_Twin_YL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1623,
+		costume = true
+	},
+	[71120] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Green)",
+		identifiedResourceName = "Long_Twin_GN",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1624,
+		costume = true
+	},
+	[71121] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Black)",
+		identifiedResourceName = "Long_Twin_BL",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1625,
+		costume = true
+	},
+	[71122] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (White)",
+		identifiedResourceName = "Long_Twin_WH",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1626,
+		costume = true
+	},
+	[71123] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Brown)",
+		identifiedResourceName = "Long_Twin_OM",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1627,
+		costume = true
+	},
+	[71124] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Long Twin (Purple)",
+		identifiedResourceName = "Long_Twin_PP",
+		identifiedDescriptionName = {
+			"You will feel and look brand new once you attach this to your hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1628,
+		costume = true
+	},
+	[71125] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Persica",
+		identifiedResourceName = "페르시카",
+		identifiedDescriptionName = {
+			"A hair accessory decorated with a spray of peach blossoms. It smells very sweet, and reminds you of Springtime.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 659,
+		costume = true
+	},
+	[71126] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Ribbon Muffler(Mid)",
+		identifiedResourceName = "커다란리본머플러",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1312,
+		costume = true
+	},
+	[71127] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vicious Mind Aura(Mid)",
+		identifiedResourceName = "사념의오오라",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1267,
+		costume = true
+	},
+	[71128] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pale Yellow Ribbon(Lower)",
+		identifiedResourceName = "C교황의리본",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1474,
+		costume = true
+	},
+	[71129] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume True Love(Upper)",
+		identifiedResourceName = "5주년기념면사포",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 489,
+		costume = true
+	},
+	[71130] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Love Rabbit Hood(Upper)",
+		identifiedResourceName = "토끼보닛",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 549,
+		costume = true
+	},
+	[71131] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Whisper Mask(Upper)",
+		identifiedResourceName = "위스퍼마스크",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 321,
+		costume = true
+	},
+	[71132] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Burning Sun(Lower)",
+		identifiedResourceName = "불타는태양",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 654,
+		costume = true
+	},
+	[71133] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Anubis Hat(Upper)",
+		identifiedResourceName = "아누비스투구",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 485,
+		costume = true
+	},
+	[71134] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tongue Mask(Mid)",
+		identifiedResourceName = "메롱가면",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 253,
+		costume = true
+	},
+	[71135] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Skymet(Upper)",
+		identifiedResourceName = "스카이멧",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 868,
+		costume = true
+	},
+	[71136] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cherry",
+		identifiedResourceName = "고향의벚꽃",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 602,
+		costume = true
+	},
+	[71137] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Humming Bird",
+		identifiedResourceName = "노래하는새",
+		identifiedDescriptionName = {
+			"A bird with the power to reflect magic spells. Sometimes the bird fails to cast the correct spells.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 702,
+		costume = true
+	},
+	[71138] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hippo Hat",
+		identifiedResourceName = "물먹는하마모자",
+		identifiedDescriptionName = {
+			"A creature which spend most of its day under water. If you dive in to the water wearing this hat, they might mistake you for a real hippo!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 859,
+		costume = true
+	},
+	[71139] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Isabella Red Ears",
+		identifiedResourceName = "이사벨라레드귀모자",
+		identifiedDescriptionName = {
+			"The red hat of Isabella which is really popular among small children.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1030,
+		costume = true
+	},
+	[71140] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hopping Rabbit",
+		identifiedResourceName = "Rabbit_Hopping",
+		identifiedDescriptionName = {
+			"A cute hat with long ears hanging off it!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1635,
+		costume = true
+	},
+	[71141] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wonderful Beast Ears",
+		identifiedResourceName = "Wonderful_Beast_Ear",
+		identifiedDescriptionName = {
+			"The fluffy ears of an unidentified beast that are constantly shifting.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1636,
+		costume = true
+	},
+	[71142] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cat's Mouth",
+		identifiedResourceName = "Cat_Mouth",
+		identifiedDescriptionName = {
+			"A wonderful accessory which imitates the nose and mouth of a cat.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1637,
+		costume = true
+	},
+	[71143] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Cat Ears Hat",
+		identifiedResourceName = "Cat_Ear_Hat_White",
+		identifiedDescriptionName = {
+			"A hat with attached white cat ears. If you want to wear a hat and cat ears, this is the perfect design for you.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1638,
+		costume = true
+	},
+	[71144] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rinzu Helmet",
+		identifiedResourceName = "광휘의격노",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 548,
+		costume = true
+	},
+	[71147] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Observer",
+		identifiedResourceName = "Observer_J",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1639,
+		costume = true
+	},
+	[71148] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Soda in Mouth",
+		identifiedResourceName = "Soda_In_Mouth",
+		identifiedDescriptionName = {
+			"시원하고 상쾌한 탄산음료. 팝콘의 좋은 친구.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1643,
+		costume = true
+	},
+	[71149] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Disposable Popcorn Hat",
+		identifiedResourceName = "팝콘모자",
+		identifiedDescriptionName = {
+			"^000088임대 아이템^000000",
+			"축제를 즐길 수 있도록 팝콘 페스타 기간동안 대여해주는 일회용 팝콘 모자. 대여기간은 1일. 의상 일회용 3D 안경과 의상 입에 무는 소다를 함께 착용하면 어쩐지 매우 기분이 들뜬다.",
+			"이벤트 기간동안 올 스테이터스 + 5.",
+			"의상 일회용 3D 안경과 의상 입에 무는 소다와 함께 착용 시 고소한 버터팝콘 회복력 200%증가",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 415,
+		costume = true
+	},
+	[71150] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wings of Protector(Lower)",
+		identifiedResourceName = "수호날개",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 990,
+		costume = true
+	},
+	[71151] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Blue)(Mid)",
+		identifiedResourceName = "스트레이트포니_파랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1394,
+		costume = true
+	},
+	[71152] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Red)(Mid)",
+		identifiedResourceName = "스트레이트포니_빨강",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1392,
+		costume = true
+	},
+	[71153] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Yellow)(Mid)",
+		identifiedResourceName = "스트레이트포니_노랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1389,
+		costume = true
+	},
+	[71154] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Green)(Mid)",
+		identifiedResourceName = "스트레이트포니_녹색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1390,
+		costume = true
+	},
+	[71155] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Black)(Mid)",
+		identifiedResourceName = "스트레이트포니_검정",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1371,
+		costume = true
+	},
+	[71156] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(White)(Mid)",
+		identifiedResourceName = "스트레이트포니_흰색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1395,
+		costume = true
+	},
+	[71157] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Crimson)(Mid)",
+		identifiedResourceName = "스트레이트포니_연갈색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1393,
+		costume = true
+	},
+	[71158] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Pony(Purple)(Mid)",
+		identifiedResourceName = "스트레이트포니_보라",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1391,
+		costume = true
+	},
+	[71159] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Blue)(Mid)",
+		identifiedResourceName = "삐침머리_파랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1387,
+		costume = true
+	},
+	[71160] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Red)(Mid)",
+		identifiedResourceName = "삐침머리_빨강",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1385,
+		costume = true
+	},
+	[71161] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Yellow)(Mid)",
+		identifiedResourceName = "삐침머리_노랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1382,
+		costume = true
+	},
+	[71162] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Green)(Mid)",
+		identifiedResourceName = "삐침머리_녹색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1383,
+		costume = true
+	},
+	[71163] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Black)(Mid)",
+		identifiedResourceName = "삐침머리_검정",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1372,
+		costume = true
+	},
+	[71164] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(White)(Mid)",
+		identifiedResourceName = "삐침머리_흰색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1388,
+		costume = true
+	},
+	[71165] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Crimson)(Mid)",
+		identifiedResourceName = "삐침머리_연갈색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1386,
+		costume = true
+	},
+	[71166] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cowlick(Purple)(Mid)",
+		identifiedResourceName = "삐침머리_보라",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1384,
+		costume = true
+	},
+	[71167] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Blue)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_파랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1401,
+		costume = true
+	},
+	[71168] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Red)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_빨강",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1399,
+		costume = true
+	},
+	[71169] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Yellow)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_노랑",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1396,
+		costume = true
+	},
+	[71170] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Green)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_녹색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1397,
+		costume = true
+	},
+	[71171] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Black)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_검정",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1373,
+		costume = true
+	},
+	[71172] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(White)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_흰색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1402,
+		costume = true
+	},
+	[71173] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Crimson)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_연갈색",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1400,
+		costume = true
+	},
+	[71174] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Loose Wave Twin(Purple)(Mid)",
+		identifiedResourceName = "루즈웨이브트윈_보라",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1398,
+		costume = true
+	},
+	[71175] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Wing Ears(Lower)",
+		identifiedResourceName = "C수호자검은날개",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1336,
+		costume = true
+	},
+	[71176] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Angel's Feather Cap",
+		identifiedResourceName = "진화된천사학생모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 929,
+		costume = true
+	},
+	[71177] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Devil's Feather Cap",
+		identifiedResourceName = "진화된악마학생모",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 930,
+		costume = true
+	},
+	[71178] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Ancient King(Purple)",
+		identifiedResourceName = "Kings_Crown_Purple",
+		identifiedDescriptionName = {
+			"An imitation of Ancient King's Crown.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1651,
+		costume = true
+	},
+	[71179] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jirant Circlet(Red)",
+		identifiedResourceName = "Jirant_Circlet_Red",
+		identifiedDescriptionName = {
+			"An imitation of Jirant's Circlet.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1652,
+		costume = true
+	},
+	[71180] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Red Wing Hat",
+		identifiedResourceName = "프리스트의모자",
+		identifiedDescriptionName = {
+			"A red driver's hat decorated with white wings.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 613,
+		costume = true
+	},
+	[71181] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Strawberry in Mouth",
+		identifiedResourceName = "입에무는딸기",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 861,
+		costume = true
+	},
+	[71182] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fruit of Love",
+		identifiedResourceName = "사랑의열매",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 140,
+		costume = true
+	},
+	[71183] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sepia Parade Hat",
+		identifiedResourceName = "낙원단모자2",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 682,
+		costume = true
+	},
+	[71184] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Rabbit",
+		identifiedResourceName = "White_Rabbit",
+		identifiedDescriptionName = {
+			"This white rabbit took a liking to you and now it won't leave you alone. Aren't you lucky!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1656,
+		costume = true
+	},
+	[71185] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Warm Cat Muffler",
+		identifiedResourceName = "Warm_Cat_Muffler",
+		identifiedDescriptionName = {
+			"A warm muffler you want to wear when the weather gets cold. The wiggling tail is just too adorable.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1657,
+		costume = true
+	},
+	[71186] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blinking Eyes",
+		identifiedResourceName = "Blinking_Eyes",
+		identifiedDescriptionName = {
+			"The world we live in... one where you must pay to blink!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1658,
+		costume = true
+	},
+	[71187] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Magenta Ribbons",
+		identifiedResourceName = "Black_Magenta_Ribbon",
+		identifiedDescriptionName = {
+			"A pair of very long, silky and dark ribbons.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1659,
+		costume = true
+	},
+	[71188] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Ramen Hat",
+		identifiedResourceName = "라면모자_블랙",
+		identifiedDescriptionName = {
+			"A forbidden ramen found in the ruin of Juperos. Those who wish to know the receipt will be doomed.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1338,
+		costume = true
+	},
+	[71189] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Summer Fan",
+		identifiedResourceName = "풍신의부채",
+		identifiedDescriptionName = {
+			"무더운 한 여름에 꼭 필요한 부채. 바람이 필요할 때, 강렬한 햇빛을 가릴때 등등 다양하게 사용할 수 있다.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1051,
+		costume = true
+	},
+	[71190] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Toucan Hat",
+		identifiedResourceName = "투칸모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 528,
+		costume = true
+	},
+	[71191] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Violet Macaw",
+		identifiedResourceName = "파란아라라모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 656,
+		costume = true
+	},
+	[71192] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Protect Feathers",
+		identifiedResourceName = "프로텍트페더",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1232,
+		costume = true
+	},
+	[71193] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pure White Marching Hat",
+		identifiedResourceName = "순백의마칭햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1470,
+		costume = true
+	},
+	[71194] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 666 Black Elven Ears",
+		identifiedResourceName = "검은요정의귀",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 498,
+		costume = true
+	},
+	[71196] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Hades Helm",
+		identifiedResourceName = "마왕의뼈투구",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 523,
+		costume = true
+	},
+	[71197] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fallen Angel Wing Ears",
+		identifiedResourceName = "C_FallenAngelWingEar",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1662,
+		costume = true
+	},
+	[71198] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ghost Holiday",
+		identifiedResourceName = "C_Ghost_Holiday",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1663,
+		costume = true
+	},
+	[71199] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Stall of Angel",
+		identifiedResourceName = "C_Stall_Of_Angel",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1664,
+		costume = true
+	},
+	[71200] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Fluttering Butterfly",
+		identifiedResourceName = "C_FlutterButterfly_BL",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1665,
+		costume = true
+	},
+	[71201] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume 15th Anniversary Wing",
+		identifiedResourceName = "15th_Anniversary_Wing",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1660,
+		costume = true
+	},
+	[71202] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gerhard Von Deviruchi 83 II",
+		identifiedResourceName = "게르하르트폰데비",
+		identifiedDescriptionName = {
+			"Inflate the body, intimidate the enemy! This Deviruchi balloon is so sinister, yet so cute!",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1092,
+		costume = true
+	},
+	[71203] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Summer Fan",
+		identifiedResourceName = "풍신의부채",
+		identifiedDescriptionName = {
+			"^000088임대 아이템^000000",
+			"7월 국수 축제 기간 동안 일정 시간 대여해서 사용할 수 있는 부채.",
+			"이벤트 기간 동안 공격 속도 증가(공격 후 딜레이 5% 감소) , 변동 캐스팅 5% 감소.",
+			"의상 바람개비와 함께 착용시 고정 캐스팅 0.2초 감소한다.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1051,
+		costume = true
+	},
+	[71204] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Pinwheel Hat",
+		identifiedResourceName = "바람개비모자",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 456,
+		costume = true
+	},
+	[71205] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shining Sunflower",
+		identifiedResourceName = "빛나는해바라기",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 681,
+		costume = true
+	},
+	[71206] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Candy Hat",
+		identifiedResourceName = "캔디모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 853,
+		costume = true
+	},
+	[71207] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Hunting Cap",
+		identifiedResourceName = "러브대디",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 484,
+		costume = true
+	},
+	[71209] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rolf Von Ziege 666 II",
+		identifiedResourceName = "랄프폰지게666세",
+		identifiedDescriptionName = {
+			"A Baphomet style costume made for special occasions.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 946,
+		costume = true
+	},
+	[71210] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wood Goblin's Nose",
+		identifiedResourceName = "늘어난코",
+		identifiedDescriptionName = {
+			"The nose of a wood goblin. It can smell special types of plants.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 737,
+		costume = true
+	},
+	[71211] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Faceworm Eggshell",
+		identifiedResourceName = "페이스웜알껍질",
+		identifiedDescriptionName = {
+			"A costume hat that looks like a Faceworm egg shell.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1356,
+		costume = true
+	},
+	[71212] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alice Wig",
+		identifiedResourceName = "Alice_Wig",
+		identifiedDescriptionName = {
+			"Costume wig made based on Alice's hairstyle.",
+			"It is said that a great effort was required to create this wig.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1673,
+		costume = true
+	},
+	[71213] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fallen Angel Valletta",
+		identifiedResourceName = "Fallen_Angel_Valletta",
+		identifiedDescriptionName = {
+			"With jet black wings and blood red coloring, this costume is sure to cut a sharp impression.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1674,
+		costume = true
+	},
+	[71214] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Chung e Shinyon Cap",
+		identifiedResourceName = "Chung_E_Shinyon_Cap",
+		identifiedDescriptionName = {
+			"A replica shinyon cap worn by Chung e.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1675,
+		costume = true
+	},
+	[71215] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Khalitzburg Knight Helm",
+		identifiedResourceName = "Khalitzburg_KN_Helm_BL",
+		identifiedDescriptionName = {
+			"A costume based on Khalitzburg Knight's helm.",
+			"It is said that the Knights of Khalitzburg are all women, and in the past they were defending the Glastheim with Heinrich.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1676,
+		costume = true
+	},
+	[71216] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Thanksgiving Memorial Hat",
+		identifiedResourceName = "Harvest_Festa_Hat",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1677,
+		costume = true
+	},
+	[71217] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Long(White)",
+		identifiedResourceName = "Straight_Long_WH",
+		identifiedDescriptionName = {
+			"If you attach it to your hair, you can feel the hair style that is always different from the costume hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1604,
+		costume = true
+	},
+	[71218] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Long(Yellow)",
+		identifiedResourceName = "Straight_Long_YL",
+		identifiedDescriptionName = {
+			"If you attach it to your hair, you can feel the hair style that is always different from the costume hair.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1603,
+		costume = true
+	},
+	[71219] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crown of Ancient king",
+		identifiedResourceName = "고대왕의왕관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1412,
+		costume = true
+	},
+	[71220] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Explosion gum",
+		identifiedResourceName = "익스플로젼껌",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1414,
+		costume = true
+	},
+	[71221] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Mystic Eye",
+		identifiedResourceName = "요마의눈",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1490,
+		costume = true
+	},
+	[71222] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ancient Dragon Coronet(Purple)",
+		identifiedResourceName = "C_Jirant_Circlet",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1680,
+		costume = true
+	},
+	[71223] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Glastheim Obeserver",
+		identifiedResourceName = "잭캐슬배트",
+		identifiedDescriptionName = {
+			"A bat that has lived in Glast Heim for a very long time, observing all the events that have taken place.",
+			"It doesn't often reveal itself to humans.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1041,
+		costume = true
+	},
+	[71224] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Catharina Von Brad 60th",
+		identifiedResourceName = "카타리나폰브레드60세",
+		identifiedDescriptionName = {
+			"A hat celebrating the 60th descendant of the Von Brad family.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1527,
+		costume = true
+	},
+	[71225] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wind-Up Key",
+		identifiedResourceName = "연극용태엽키",
+		identifiedDescriptionName = {
+			"A key designed to wind up a clock or a toy. It would seem people have seen fit to put it on their head instead.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1335,
+		costume = true
+	},
+	[71226] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Crow",
+		identifiedResourceName = "수다쟁이까마귀",
+		identifiedDescriptionName = {
+			"A crow which won't stop talking all day long.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1035,
+		costume = true
+	},
+	[71227] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Diabolic Lapel",
+		identifiedResourceName = "Diabolic_Lapel",
+		identifiedDescriptionName = {
+			"A collar wore by king of darkness.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1681,
+		costume = true
+	},
+	[71228] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Punkish Cat Ears",
+		identifiedResourceName = "Cat_Ears_Punkish",
+		identifiedDescriptionName = {
+			"A big cat hands hanging beside your head.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1682,
+		costume = true
+	},
+	[71229] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Volume Low Twin",
+		identifiedResourceName = "Volume_Low_Twin",
+		identifiedDescriptionName = {
+			"An unusual model for a wig.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1683,
+		costume = true
+	},
+	[71230] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fake Ears",
+		identifiedResourceName = "False_Ears",
+		identifiedDescriptionName = {
+			"Showing your ears is a new trend now.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1684,
+		costume = true
+	},
+	[71231] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Gothic Pumpkin Head",
+		identifiedResourceName = "Gothic_Pumpkin_Head",
+		identifiedDescriptionName = {
+			"A big ribbon with a king of pumpkin on top of it.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1685,
+		costume = true
+	},
+	[71232] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Jjakk",
+		identifiedResourceName = "Jjakk",
+		identifiedDescriptionName = {
+			"A little body of Jakk.",
+			"Because lack of nutrients, it makes imposible for Jakk to move.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1687,
+		costume = true
+	},
+	[71233] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Bird Rose",
+		identifiedResourceName = "White_Bird_Rose",
+		identifiedDescriptionName = {
+			"A pink rose decorated with feathers of white birds.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1688,
+		costume = true
+	},
+	[71234] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Let It Snow",
+		identifiedResourceName = "Let_It_Snow",
+		identifiedDescriptionName = {
+			"This hat is made with spirit of people's hope for a place which doesn't snow during winter.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1690,
+		costume = true
+	},
+	[71235] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Floating Stone of Sage",
+		identifiedResourceName = "부유하는현자의돌",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[71236] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Radio Antenna",
+		identifiedResourceName = "전파안테나",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 347,
+		costume = true
+	},
+	[71237] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Vajra",
+		identifiedResourceName = "바쥬라",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 983,
+		costume = true
+	},
+	[71238] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Magician White Hat",
+		identifiedResourceName = "흰색마법사의모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 283,
+		costume = true
+	},
+	[71239] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Book of Magic",
+		identifiedResourceName = "Book_Of_Magic",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1691,
+		costume = true
+	},
+	[71240] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sorcerer Hood",
+		identifiedResourceName = "Sorcerer_Hood",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1692,
+		costume = true
+	},
+	[71241] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sitting Pope",
+		identifiedResourceName = "앉아있는교황",
+		identifiedDescriptionName = {
+			"A doll made based of Arunafelt Pope in casual clothes.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1553,
+		costume = true
+	},
+	[71242] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blinking Thin Eyes",
+		identifiedResourceName = "Blinking_Thin_Eyes",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1693,
+		costume = true
+	},
+	[71243] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Darkness Veil",
+		identifiedResourceName = "Darkness_Veil",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1694,
+		costume = true
+	},
+	[71244] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ribbon",
+		identifiedResourceName = "리본",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 17,
+		costume = true
+	},
+	[71246] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Idun's Green Apple",
+		identifiedResourceName = "Idun_Green_Apple",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1698,
+		costume = true
+	},
+	[71247] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Wall",
+		identifiedResourceName = "Wall",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1699,
+		costume = true
+	},
+	[71248] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Poring Traffic Light",
+		identifiedResourceName = "Poring_Traffic_Light",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1700,
+		costume = true
+	},
+	[71249] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eleanor Wig(Yellow)",
+		identifiedResourceName = "Eleanor_Wig_YL",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1701,
+		costume = true
+	},
+	[71250] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Nydhoggur Wig(White)",
+		identifiedResourceName = "Nydhog_Wig_WH",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1702,
+		costume = true
+	},
+	[71251] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Alice Wig(Peach)",
+		identifiedResourceName = "Alice_Wig_PK",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1703,
+		costume = true
+	},
+	[71252] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ragnarok Rush Goat",
+		identifiedResourceName = "마제스틱고우트",
+		identifiedDescriptionName = {
+			"Celebrating the release of Ragnarok Rush with these majestic goat horns that represents great deeds.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 41,
+		costume = true
+	},
+	[71254] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume God's Helm",
+		identifiedResourceName = "신의투구",
+		identifiedDescriptionName = {
+			"A legendary helmet that was infused with life by the hand of god.",
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1678,
+		costume = true
+	},
+	[71255] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Leo Diadem",
+		identifiedResourceName = "사자궁보관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 566,
+		costume = true
+	},
+	[71256] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Virgo Crown",
+		identifiedResourceName = "쌍녀궁왕관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 573,
+		costume = true
+	},
+	[71257] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Taurus Crown",
+		identifiedResourceName = "금우궁왕관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 536,
+		costume = true
+	},
+	[71258] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cancer Diadem",
+		identifiedResourceName = "거해궁보관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 560,
+		costume = true
+	},
+	[71260] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Seraphim Coronet",
+		identifiedResourceName = "치천사의화관",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1487,
+		costume = true
+	},
+	[71261] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Rice Ball Hat",
+		identifiedResourceName = "주먹밥모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 556,
+		costume = true
+	},
+	[71262] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Green Onion in Mouth",
+		identifiedResourceName = "입에무는대파",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 824,
+		costume = true
+	},
+	[71263] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Shining Santa Poring",
+		identifiedResourceName = "발광산타포링",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 961,
+		costume = true
+	},
+	[71264] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Floating Ice",
+		identifiedResourceName = "부유하는얼음",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1562,
+		costume = true
+	},
+	[71265] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Celestial Circle",
+		identifiedResourceName = "천체서클",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1073,
+		costume = true
+	},
+	[71266] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Cloud Burst",
+		identifiedResourceName = "비구름",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 705,
+		costume = true
+	},
+	[71267] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Ghost Magician's Knit Hat",
+		identifiedResourceName = "블랙스웨터모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 854,
+		costume = true
+	},
+	[71268] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lazy Cat",
+		identifiedResourceName = "흰색늘어진고양이",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 274,
+		costume = true
+	},
+	[71269] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Baby Penguin",
+		identifiedResourceName = "C_Baby_Penguin",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1705,
+		costume = true
+	},
+	[71270] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fluffy Angel Cape",
+		identifiedResourceName = "C_Fluffy_Angel_Cape",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1706,
+		costume = true
+	},
+	[71271] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fluffy Heart Earmuffs",
+		identifiedResourceName = "C_Fluffy_Heart_Earmuffs",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1707,
+		costume = true
+	},
+	[71272] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Snow Bear Hood",
+		identifiedResourceName = "C_Snow_Bear_Hood",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1708,
+		costume = true
+	},
+	[71273] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Penguin Cap(Blue)",
+		identifiedResourceName = "C_Penguin_Cap_BU",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1709,
+		costume = true
+	},
+	[71274] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Smile Mask(Middle)",
+		identifiedResourceName = "스마일",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 65,
+		costume = true
+	},
+	[71275] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Munak Hat(Upper)",
+		identifiedResourceName = "무낙모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 51,
+		costume = true
+	},
+	[71276] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bongun Hat(Upper)",
+		identifiedResourceName = "본건모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 139,
+		costume = true
+	},
+	[71277] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Toy Syringe",
+		identifiedResourceName = "입에무는주사기",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 842,
+		costume = true
+	},
+	[71278] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Light Moonlight Hat",
+		identifiedResourceName = "나이트스패로우햇",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 913,
+		costume = true
+	},
+	[71279] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Sting's Silk Ribbon",
+		identifiedResourceName = "스팅실크리본",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1457,
+		costume = true
+	},
+	[71280] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Rose Eyepatch",
+		identifiedResourceName = "Blue_Rose_Eyepatch",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1712,
+		costume = true
+	},
+	[71281] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lolita Two Side Up",
+		identifiedResourceName = "Lolita_Two_Side_Up",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1713,
+		costume = true
+	},
+	[71282] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Blue Frill Ribbon",
+		identifiedResourceName = "Blue_Frill_Ribbon",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1714,
+		costume = true
+	},
+	[71283] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume White Cat",
+		identifiedResourceName = "White_Cat",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1715,
+		costume = true
+	},
+	[71284] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Large Ribbon Muffler(Black)",
+		identifiedResourceName = "L_RibbonMuff_Black",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1716,
+		costume = true
+	},
+	[71286] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Laughing Wonderful Wolf Hat",
+		identifiedResourceName = "허스키모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1016,
+		costume = true
+	},
+	[71287] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Costume Sweets Bonbon",
+		identifiedResourceName = "캔디모자",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 853,
+		costume = true
+	},
+	[71288] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Bloom Afro",
+		identifiedResourceName = "마이크모자",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 837,
+		costume = true
+	},
+	[71289] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Stripe Hat",
+		identifiedResourceName = "Stripe_Hat",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1728,
+		costume = true
+	},
+	[71290] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Rental Costume Eleanor Wig(Lower)",
+		identifiedResourceName = "엘레노아가발",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1502,
+		costume = true
+	},
+	[71291] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Scroll of Tengu",
+		identifiedResourceName = "천구의두루마리",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1445,
+		costume = true
+	},
+	[71292] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Celestial Flower",
+		identifiedResourceName = "선녀의꽃",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 438,
+		costume = true
+	},
+	[71293] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fairy Feathers",
+		identifiedResourceName = "Fairy_Feathers",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Middle^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1723,
+		costume = true
+	},
+	[71294] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Tipsy",
+		identifiedResourceName = "Tipsy",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1724,
+		costume = true
+	},
+	[71295] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Straight Long(Black)",
+		identifiedResourceName = "Straight_Long_BL",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1725,
+		costume = true
+	},
+	[71296] = {
+		unidentifiedDisplayName = "Hairband",
+		unidentifiedResourceName = "머리띠",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Black Fox Ears Ribbon",
+		identifiedResourceName = "Black_Fox_Ear_Ribbon",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1726,
+		costume = true
+	},
+	[71297] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Yellow Cherry Blossom Hat",
+		identifiedResourceName = "Cherry_Blossom_Hat_YL",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Upper^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1727,
+		costume = true
+	},
+	[71298] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Rental Costume Straight Long(Black)",
+		identifiedResourceName = "Straight_Long_BL",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1725,
+		costume = true
+	},
+	[71299] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Eleanor's Wig(Lower)",
+		identifiedResourceName = "엘레노아가발",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Location:^6666CC Lower^000000",
+			"Weight:^006600 0^000000",
+			"Level Requirement:^006600 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1502,
+		costume = true
+	},
+	[71300] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Volume Low Twin",
+		identifiedResourceName = "Volume_Low_Twin",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 1683,
+		costume = true
+	},
+	[71301] = {
+		unidentifiedDisplayName = "Riboon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Lolita Two Side Up",
+		identifiedResourceName = "Lolita_Two_Side_Up",
+		identifiedDescriptionName = { "..." },
+		slotCount = 0,
+		ClassNum = 1713,
+		costume = true
 	}
 }

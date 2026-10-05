@@ -37,20 +37,31 @@ prontera,183,190,4	script	Headgear Exchange#rhb	1_M_SIZ,{
 		}
 	}
 
-	if (countitem(72031) < .@price) {
+	.@max = countitem(72031) / .@price;
+	if (.@max < 1) {
 		mes "[Headgear Exchange]";
 		mes "You need " + .@price + " tickets for a ^008800" + getitemname(.@box) + "^000000 and you have " + countitem(72031) + ".";
 		close;
 	}
-	if (!checkweight(.@box, 1)) {
+	mes "[Headgear Exchange]";
+	mes "^008800" + getitemname(.@box) + "^000000 costs " + .@price + " tickets each.";
+	.@n = callfunc("F_RhbQty", .@max);
+	if (.@n < 1) close;
+	.@total = .@price * .@n;
+	if (countitem(72031) < .@total) {
+		mes "[Headgear Exchange]";
+		mes "You do not have enough tickets.";
+		close;
+	}
+	if (!checkweight(.@box, .@n)) {
 		mes "[Headgear Exchange]";
 		mes "You are carrying too much. Make some room first!";
 		close;
 	}
-	delitem 72031, .@price;
-	getitem .@box, 1;
+	delitem 72031, .@total;
+	getitem .@box, .@n;
 	mes "[Headgear Exchange]";
-	mes "Here you go: ^008800" + getitemname(.@box) + "^000000.";
+	mes "Here you go: " + .@n + " x ^008800" + getitemname(.@box) + "^000000 for " + .@total + " tickets.";
 	close;
 
 OnInit:

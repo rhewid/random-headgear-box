@@ -1,11 +1,14 @@
-// Random Headgear Box drop: every monster kill has a small chance to drop one item.
-// Chance = the "drop_chance" setting in units of 0.01% (5 = 0.05%, the default).
-// "drop_box" on: the item is the Random Headgear Box. Off: it is a Headgear Exchange Ticket, which the
-// Headgear Exchange NPC (npc/exchange.txt) turns into boxes.
-// With "ground_drop" on, the item falls on the ground where the monster died (the player's position if that
-// cannot be read) instead of going straight into the inventory. A player whose @autoloot would pick it up still
-// gets it directly: the item is on the @autolootitem list, or its drop chance is within the player's @autoloot
-// rate and its item type is allowed.
+// Monster drops: every kill rolls twice, once for the headgear item and once for the Costume Exchange Ticket.
+//
+//   headgear item   chance = "drop_chance" (units of 0.01%, 5 = 0.05%). "drop_box" on: the Random Headgear Box.
+//                   Off: a Headgear Exchange Ticket, which the Headgear Exchange NPC (npc/exchange.txt) turns into boxes.
+//   costume ticket  chance = "costume_ticket_chance" (units of 0.01%, 0 = off). The Costume Exchange Ticket is spent at the
+//                   Costume Exchange NPC (npc/costume_exchange.txt). The Ticket Swap NPC trades the two ticket kinds 1:1.
+//
+// With "ground_drop" on, the item falls on the ground where the monster died (the player's position if that cannot be
+// read) instead of going straight into the inventory. A player whose @autoloot would pick it up still gets it directly:
+// the item is on the @autolootitem list, or its drop chance is within the player's @autoloot rate and its item type is
+// allowed.
 
 -	script	RHB_BoxDrop	-1,{
 	end;
@@ -14,30 +17,39 @@ OnInit:
 	.chance = callfunc("F_ModSetting", "random-headgear-box", "drop_chance", 5);
 	.ground = callfunc("F_ModSetting", "random-headgear-box", "ground_drop", 0);
 	.id = callfunc("F_ModSetting", "random-headgear-box", "drop_box", 1) ? 72001 : 72031;
+	.cchance = callfunc("F_ModSetting", "random-headgear-box", "costume_ticket_chance", 5);
+	.cid = 72032;
 	end;
 
 OnNPCKillEvent:
-	if (.chance < 1 || rand(10000) >= .chance) end;
+	if (.chance > 0 && rand(10000) < .chance) callsub L_Give, .id, .chance, killedgid;
+	if (.cchance > 0 && rand(10000) < .cchance) callsub L_Give, .cid, .cchance, killedgid;
+	end;
 
+// L_Give(item id, drop chance, gid of the dead monster)
+L_Give:
+	.@item = getarg(0);
+	.@chance = getarg(1);
+	.@gid = getarg(2);
 	.@auto = 0;
 	if (.ground) {
 		if (AUTOLOOT_RATE > 0) {
-			.@type = getiteminfo(.id, ITEMINFO_TYPE);
-			if (.chance <= AUTOLOOT_RATE && (AUTOLOOT_TYPE == 0 || (AUTOLOOT_TYPE & (1 << .@type)))) .@auto = 1;
+			.@type = getiteminfo(.@item, ITEMINFO_TYPE);
+			if (.@chance <= AUTOLOOT_RATE && (AUTOLOOT_TYPE == 0 || (AUTOLOOT_TYPE & (1 << .@type)))) .@auto = 1;
 		}
 		if (!.@auto) {
 			.@n = getautolootitems(.@list);
 			for (.@u = 0; .@u < .@n; .@u++)
-				if (.@list[.@u] == .id) .@auto = 1;
+				if (.@list[.@u] == .@item) .@auto = 1;
 		}
 	}
 
 	if (.ground && !.@auto) {
 		// Drop it where the monster died. getmapxy cannot look up monsters, so read the dead monster
-		// with getunitdata (killedgid). Start from the player's position and only take the monster's
-		// if it is a real spot near the player, so a failed lookup falls back to the player.
+		// with getunitdata. Start from the player's position and only take the monster's if it is a
+		// real spot near the player, so a failed lookup falls back to the player. Same approach as affix-forge.
 		getmapxy(.@map$, .@x, .@y, BL_PC);
-		getunitdata(killedgid, .@mob);
+		getunitdata(.@gid, .@mob);
 		.@mx = .@mob[UMOB_X];
 		.@my = .@mob[UMOB_Y];
 		.@dx = .@mx - .@x;
@@ -48,10 +60,9 @@ OnNPCKillEvent:
 			.@x = .@mx;
 			.@y = .@my;
 		}
-		makeitem .id, 1, .@map$, .@x, .@y;
+		makeitem .@item, 1, .@map$, .@x, .@y;
 	} else {
-		getitem .id, 1;
+		getitem .@item, 1;
 	}
-	//dispbottom "A Random Headgear Box dropped!", 0x00FF88;
-	end;
+	return;
 }

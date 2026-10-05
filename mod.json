@@ -1,8 +1,8 @@
 {
   "name": "random-headgear-box",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "rhwski",
-  "description": "Every monster can drop a Random Headgear Box (0.05% by default) or, with one setting, a Headgear Exchange Ticket that a Prontera NPC trades for costume boxes, one-slot headgear boxes or the Random Headgear Box. The boxes hold headgears nothing in the stock item database drops or sells: 417 in pre-renewal (Snake Head and Skull Cap among them), 1,207 in renewal. Also includes a Costume Tailor that turns any headgear into a costume. Works in both eras.",
+  "description": "Monsters can drop a Random Headgear Box (0.05% by default) or, with one setting, a Headgear Exchange Ticket, plus a Costume Exchange Ticket. Prontera NPCs trade tickets for headgear boxes, headgear-costume boxes and boxes from a costume collection (1,203 costumes in pre-renewal, the stock costumes in renewal), swap the two ticket kinds 1:1, and a Costume Tailor turns any headgear into costumes. The headgear boxes hold headgears nothing in the stock item database drops or sells: 417 in pre-renewal, 1,207 in renewal. Works in both eras.",
   "requires": {
     "app": ">=1.4.3",
     "era": "any"
@@ -59,6 +59,33 @@
       "max": 1000,
       "label": "Tickets for the Random Headgear Box",
       "description": "Headgear Exchange Tickets for the original Random Headgear Box (one random headgear, any slot)."
+    },
+    {
+      "key": "costume_ticket_chance",
+      "type": "number",
+      "default": 5,
+      "min": 0,
+      "max": 10000,
+      "label": "Costume Exchange Ticket drop chance (units of 0.01%)",
+      "description": "Chance per monster kill to drop a Costume Exchange Ticket. 5 = 0.05%, 100 = 1%, 0 = off. Tickets are spent at the Costume Exchange NPC in Prontera (185,190)."
+    },
+    {
+      "key": "price_costume_slot_box",
+      "type": "number",
+      "default": 10,
+      "min": 1,
+      "max": 1000,
+      "label": "Costume tickets for an Upper / Middle / Lower Costume Box",
+      "description": "Costume Exchange Tickets for a one-slot costume box from the costume collection."
+    },
+    {
+      "key": "price_costume_any_box",
+      "type": "number",
+      "default": 15,
+      "min": 1,
+      "max": 1000,
+      "label": "Costume tickets for a Random Costume Box",
+      "description": "Costume Exchange Tickets for a costume box that can hold any head slot or a garment."
     },
     {
       "key": "costume_fee",

@@ -1,0 +1,38 @@
+// F_RhbQty(max): asks how many boxes to buy and returns the amount, or 0 if the player cancels. Used by the Headgear
+// Exchange and the Costume Exchange. The menu offers 1, 5 and 10 (when affordable), the maximum the player can afford,
+// and "Other amount" for any number from 1 to the maximum.
+
+function	script	F_RhbQty	{
+	.@max = getarg(0);
+	if (.@max <= 1) return (.@max < 0 ? 0 : .@max);
+	.@menu$ = "1:";
+	.@v[0] = 1;
+	.@c = 1;
+	if (.@max >= 5) {
+		.@menu$ += "5:";
+		.@v[.@c] = 5;
+		.@c++;
+	}
+	if (.@max >= 10) {
+		.@menu$ += "10:";
+		.@v[.@c] = 10;
+		.@c++;
+	}
+	if (.@max != 5 && .@max != 10) {
+		.@menu$ += "Maximum (" + .@max + "):";
+		.@v[.@c] = .@max;
+		.@c++;
+	}
+	.@menu$ += "Other amount:Cancel";
+	mes "How many do you want? You can afford up to ^0055FF" + .@max + "^000000.";
+	next;
+	.@s = select(.@menu$);
+	if (.@s <= .@c) return .@v[.@s - 1];
+	if (.@s == .@c + 1) {
+		mes "How many? (1 to " + .@max + ")";
+		next;
+		input .@n, 1, .@max;
+		return .@n;
+	}
+	return 0;
+}

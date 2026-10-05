@@ -9314,7 +9314,7 @@ Body:
       Costume_Head_Low: true
   - Id: 74025
     AegisName: HTC_Cylinder_Hairband_BR
-    Name: "Costume Futuristic Tiara    # !todo check english "
+    Name: "Costume Futuristic Tiara"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -9323,7 +9323,7 @@ Body:
       Costume_Head_Top: true
   - Id: 74026
     AegisName: HTC_MemorialD_Assistant
-    Name: "Costume Little Robot Know-It-All    # !todo check "
+    Name: "Costume Little Robot Know-It-All"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -9584,7 +9584,7 @@ Body:
       Costume_Head_Top: true
   - Id: 74055
     AegisName: HTC_Charm_Of_Flame_Heart_BR
-    Name: "Costume Flaming Heart    # !todo check english nam"
+    Name: "Costume Flaming Heart"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -16955,7 +16955,7 @@ Body:
       Costume_Head_Top: true
   - Id: 74874
     AegisName: HTC_2020RTC_Imp_TW
-    Name: "Costume 2020RTC Naughty Ghost    # !todo check eng"
+    Name: "Costume 2020RTC Naughty Ghost"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19808,7 +19808,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75191
     AegisName: HTC_Stardust_Crown_SV
-    Name: "Costume Silver Stardust Crown    # !todo check eng"
+    Name: "Costume Silver Stardust Crown"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19817,7 +19817,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75192
     AegisName: HTC_Stardust_Crown_SC
-    Name: "Costume Scarlet Stardust Crown    # !todo check en"
+    Name: "Costume Scarlet Stardust Crown"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19826,7 +19826,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75193
     AegisName: HTC_Stardust_Crown_VI
-    Name: "Costume Violet Stardust Crown    # !todo check eng"
+    Name: "Costume Violet Stardust Crown"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19835,7 +19835,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75194
     AegisName: HTC_Sky_Rune_Crown_IG
-    Name: "Costume Celestial Rune Crown (Imperial Guard)    #"
+    Name: "Costume Celestial Rune Crown (Imperial Guard)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19844,7 +19844,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75195
     AegisName: HTC_Sky_Rune_Crown_ABC
-    Name: "Costume Celestial Rune Crown (Abyss Chaser)    # !"
+    Name: "Costume Celestial Rune Crown (Abyss Chaser)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19853,7 +19853,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75196
     AegisName: HTC_Sky_Rune_Crown_SH
-    Name: "Costume Rune Crown of the Sky (Spiritualist)    # "
+    Name: "Costume Rune Crown of the Sky (Spiritualist)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19862,7 +19862,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75197
     AegisName: HTC_Sky_Rune_Crown_MS
-    Name: "Costume Sky Rune Crown (Meister)    # !todo check "
+    Name: "Costume Sky Rune Crown (Meister)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19871,7 +19871,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75198
     AegisName: HTC_Sky_Rune_Crown_WH
-    Name: "Costume Sky Rune Crown (Windhawk)    # !todo check"
+    Name: "Costume Sky Rune Crown (Windhawk)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19880,7 +19880,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75199
     AegisName: HTC_Sky_Rune_Crown_HN
-    Name: "Costume Sky Rune Crown (Hyper Novice)    # !todo c"
+    Name: "Costume Sky Rune Crown (Hyper Novice)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19889,7 +19889,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75200
     AegisName: HTC_Sky_Rune_Crown_CD
-    Name: "Costume Sky Rune Crown (Cardinal)    # !todo check"
+    Name: "Costume Sky Rune Crown (Cardinal)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19898,7 +19898,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75201
     AegisName: HTC_Sky_Rune_Crown_IQ
-    Name: "Costume Sky Rune Crown (Inquisitor)    # !todo che"
+    Name: "Costume Sky Rune Crown (Inquisitor)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -19907,7 +19907,7 @@ Body:
       Costume_Head_Top: true
   - Id: 75202
     AegisName: HTC_Sky_Rune_Crown_SKE
-    Name: "Costume Sky Rune Crown (Sky Emperor)    # !todo ch"
+    Name: "Costume Sky Rune Crown (Sky Emperor)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21023,7 +21023,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75326
     AegisName: HTC_aegis_410587
-    Name: "Costume Mermaid Headphones (Global Cooldown)    # "
+    Name: "Costume Mermaid Headphones (Global Cooldown)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21032,7 +21032,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75327
     AegisName: HTC_aegis_410588
-    Name: "Costume Mermaid Headphones (Variable Casting)    #"
+    Name: "Costume Mermaid Headphones (Variable Casting)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21041,7 +21041,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75328
     AegisName: HTC_aegis_410589
-    Name: "Costume Mermaid Headphones (MAXHP)    # !todo chec"
+    Name: "Costume Mermaid Headphones (MAXHP)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21050,7 +21050,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75329
     AegisName: HTC_26_3_MidHat1_
-    Name: "Costume Mermaid Headphones (Global Cooldown)    # "
+    Name: "Costume Mermaid Headphones (Global Cooldown)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21059,7 +21059,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75330
     AegisName: HTC_26_3_MidHat2_
-    Name: "Costume Mermaid Headphones (Variable Casting)    #"
+    Name: "Costume Mermaid Headphones (Variable Casting)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -21068,7 +21068,7 @@ Body:
       Costume_Head_Mid: true
   - Id: 75331
     AegisName: HTC_26_3_MidHat3_
-    Name: "Costume Mermaid Headphones (MAXHP)    # !todo chec"
+    Name: "Costume Mermaid Headphones (MAXHP)"
     Type: Armor
     Weight: 0
     ArmorLevel: 1
@@ -24045,3 +24045,52 @@ Body:
     View: 666
     Locations:
       Costume_Head_Low: true
+  - Id: 72032
+    AegisName: Costume_Exchange_Ticket
+    Name: Costume Exchange Ticket
+    Type: Etc
+    Weight: 10
+  - Id: 72043
+    AegisName: Lower_Costume_Box
+    Name: Lower Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostume", 3);
+  - Id: 72042
+    AegisName: Middle_Costume_Box
+    Name: Middle Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostume", 2);
+  - Id: 72041
+    AegisName: Upper_Costume_Box
+    Name: Upper Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostume", 1);
+  - Id: 72044
+    AegisName: Random_Costume_Box
+    Name: Random Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostume", 0);
