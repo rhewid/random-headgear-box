@@ -120,11 +120,16 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 ## Changelog
 
 - **1.3.0**: Headgear Exchange Ticket drop (new setting), the Headgear Exchange NPC with costume boxes, one-slot
-  headgear boxes and the Random Headgear Box, and the Costume Tailor from headgear-to-costume bundled.
+  headgear boxes and the Random Headgear Box, and the Costume Tailor from headgear-to-costume bundled. Exchange ticket idea by BlaXun, costume exchange idea by faust.layout.
 - **1.2.0**: item descriptions for the 480 renewal headgears the client has no entry for (see above), including skill bonuses and conditions.
 - **1.1.1**: fixed the box showing as "Unknown Item" in renewal. The app links one item table per mod and the renewal table replaced the box's, so the renewal table now includes the box.
 - **1.1.0**: the 480 renewal headgears the client has no item name for are named by the mod (they showed as "Unknown Item"), so the renewal pool is the full 1,207. They use generic icons.
 - **1.0.0**: first release, pre-renewal and renewal. Optional ground drop with autoloot support.
+
+## Credits
+
+- **BlaXun**: the idea of dropping an exchange ticket instead of the box itself.
+- **faust.layout**: the idea of the costume exchange (tickets for headgear costume boxes).
 
 ## License
 
