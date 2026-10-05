@@ -160,7 +160,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 80"
+			"^0000CCWeight:^000000 80",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Crusader, Knight, Merchant, Star Gladiator, Swordman, Taekwon"
 		},
 		slotCount = 0,
 		ClassNum = 41
@@ -177,7 +178,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 15"
+			"^0000CCWeight:^000000 15",
+			"^0000CCJobs:^000000 Acolyte, Monk, Priest"
 		},
 		slotCount = 0,
 		ClassNum = 205
@@ -213,7 +215,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 50",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 30"
+			"^0000CCRequirement:^000000 Level 30",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 1,
 		ClassNum = 208
@@ -267,7 +270,8 @@ tbl = {
 			"^0000CCDefense:^000000 2",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 80",
-			"^0000CCRequirement:^000000 Level 64"
+			"^0000CCRequirement:^000000 Level 64",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 0,
 		ClassNum = 272
@@ -501,7 +505,8 @@ tbl = {
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
-			"^0000CCRequirement:^000000 Level 30"
+			"^0000CCRequirement:^000000 Level 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 209
@@ -553,7 +558,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30"
+			"^0000CCWeight:^000000 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 286
@@ -571,7 +577,8 @@ tbl = {
 			"^0000CCDefense:^000000 8",
 			"^0000CCPosition:^000000 Middle, Upper",
 			"^0000CCWeight:^000000 300",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Crusader, Knight, Merchant, Swordman"
 		},
 		slotCount = 0,
 		ClassNum = 213
@@ -642,7 +649,8 @@ tbl = {
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
-			"^0000CCRequirement:^000000 Level 1"
+			"^0000CCRequirement:^000000 Level 1",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 0,
 		ClassNum = 56
@@ -660,7 +668,8 @@ tbl = {
 			"^0000CCDefense:^000000 7",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
-			"^0000CCRequirement:^000000 Level 1"
+			"^0000CCRequirement:^000000 Level 1",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 0,
 		ClassNum = 72
@@ -678,7 +687,8 @@ tbl = {
 			"^0000CCDefense:^000000 2",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
-			"^0000CCRequirement:^000000 Level 1"
+			"^0000CCRequirement:^000000 Level 1",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 0,
 		ClassNum = 73
@@ -695,7 +705,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 0"
+			"^0000CCWeight:^000000 0",
+			"^0000CCJobs:^000000 All except Novice, Super Novice"
 		},
 		slotCount = 0,
 		ClassNum = 41
@@ -782,7 +793,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30"
+			"^0000CCWeight:^000000 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 283
@@ -800,7 +812,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30"
+			"^0000CCWeight:^000000 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 285
@@ -818,7 +831,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30"
+			"^0000CCWeight:^000000 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 282
@@ -836,7 +850,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30"
+			"^0000CCWeight:^000000 30",
+			"^0000CCJobs:^000000 Mage, Sage, Soul Linker, Wizard"
 		},
 		slotCount = 0,
 		ClassNum = 286
@@ -2036,45 +2051,54 @@ tbl = {
 	},
 	[15981] = {
 		unidentifiedDisplayName = "All Above Time (Magic)",
-		unidentifiedResourceName = "A mysterious relic found in Old Glast Heim.",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Magic)",
-		identifiedResourceName = "A mysterious relic found in Old Glast Heim.",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"It seems to shimmer with the flow of time itself.",
-			"Increases magic damage against all property enemies by 10%.",
-			"^4D4DFFAll Above Time (Magic)^000000",
-			"^4D4DFFShard of Intelligence Jewel^000000",
-			"^4D4DFFShard of Vitality Jewel^000000"
+			"After Cast Delay - 10%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 60",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 1309
 	},
 	[15982] = {
 		unidentifiedDisplayName = "All Above Time (Range)",
-		unidentifiedResourceName = "^4D4DFFAll Above Time (Range)^000000",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Range)",
-		identifiedResourceName = "^4D4DFFAll Above Time (Range)^000000",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"^4D4DFFShard of Dexterity Jewel^000000",
-			"HIT + 50.",
-			"^4D4DFFShard of Fatality Jewel^000000",
-			"ATK + 80."
+			"After Cast Delay - 10%",
+			"Ranged physical damage + 10%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 60",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 1309
 	},
 	[15983] = {
 		unidentifiedDisplayName = "All Above Time (Melee)",
-		unidentifiedResourceName = "^4D4DFFAll Above Time (Melee)^000000",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Melee)",
-		identifiedResourceName = "^4D4DFFAll Above Time (Melee)^000000",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"^4D4DFFShard of Strength Jewel^000000",
-			"^4D4DFFShard of Agility Jewel^000000",
-			"CRI + 30, Critical Damage + 30%."
+			"After Cast Delay - 10%",
+			"Melee physical damage + 10%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 60",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 1309
@@ -2522,40 +2546,56 @@ tbl = {
 		ClassNum = 1747
 	},
 	[19410] = {
-		unidentifiedDisplayName = "Classic Charming Ribbon Box",
-		unidentifiedResourceName = "A Box that contains 1 Charming Ribbon",
+		unidentifiedDisplayName = "Royale Grade Mini Melon",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Classic Charming Ribbon Box",
-		identifiedResourceName = "A Box that contains 1 Charming Ribbon",
+		identifiedDisplayName = "Royale Grade Mini Melon",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 10"
 		},
 		slotCount = 1,
 		ClassNum = 1758
 	},
 	[19412] = {
-		unidentifiedDisplayName = "Classic Vacation Hat Box",
-		unidentifiedResourceName = "A Box that contains 1 Vacation Hat",
+		unidentifiedDisplayName = "Flame Bird",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Classic Vacation Hat Box",
-		identifiedResourceName = "A Box that contains 1 Vacation Hat",
+		identifiedDisplayName = "Flame Bird",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 6",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 30",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 130"
 		},
 		slotCount = 1,
 		ClassNum = 832
 	},
 	[19427] = {
-		unidentifiedDisplayName = "Rabbit Family Balloon",
-		unidentifiedResourceName = "A cute rabbit family balloon.",
+		unidentifiedDisplayName = "Lunatic Family Balloon",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Rabbit Family Balloon",
-		identifiedResourceName = "A cute rabbit family balloon.",
+		identifiedDisplayName = "Lunatic Family Balloon",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"It's a perfect companion to carry around when traveling.",
-			"For every 18 Base VIT, reduce Variable Casting Time by 1%.",
-			"When Base VIT is 120 or higher, reduce After Cast Delay by 2%.",
-			"When Base VIT is 130 or higher, reduce After Cast Delay by additional 3%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 20",
+			"^0000CCRequirement:^000000 Level 99"
 		},
 		slotCount = 0,
 		ClassNum = 1809
@@ -2672,18 +2712,18 @@ tbl = {
 	},
 	[19460] = {
 		unidentifiedDisplayName = "Black Veil",
-		unidentifiedResourceName = "A black veil once said to be worn by a lonesome lady who lost someone dear.",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Black Veil",
-		identifiedResourceName = "A black veil once said to be worn by a lonesome lady who lost someone dear.",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Increases physical and magical damage on [Illusion of Vampire] monsters by 15%.",
-			"Reduces damage taken from [Illusion of Vampire] monsters by 15%.",
-			"Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 15%",
-			"Reduces damage taken from [Illusion of Vampire] monsters by an additional 15%",
-			"Additional Hit + 30.",
-			"Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 20%",
-			"Reduces damage taken from [Illusion of Vampire] monsters by an additional 20%"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1"
 		},
 		slotCount = 1,
 		ClassNum = 1173
@@ -2708,13 +2748,20 @@ tbl = {
 		ClassNum = 1689
 	},
 	[19463] = {
-		unidentifiedDisplayName = "Melonbread Cap",
-		unidentifiedResourceName = "C_Melon_Cap",
+		unidentifiedDisplayName = "Melon Bread Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Melonbread Cap",
-		identifiedResourceName = "C_Melon_Cap",
+		identifiedDisplayName = "Melon Bread Hat",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A bread hat made by processing the softest part of the melon skin. Melon bread doesn't taste like melon but it sure smells like melon!"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 60",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 1878
@@ -2824,27 +2871,20 @@ tbl = {
 		ClassNum = 1869
 	},
 	[400006] = {
-		unidentifiedDisplayName = "Orc Successor Helm",
-		unidentifiedResourceName = "All Basic Stat + 1, MDEF + 10.",
+		unidentifiedDisplayName = "Heritage Symbol of the Orcs",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Orc Successor Helm",
-		identifiedResourceName = "All Basic Stat + 1, MDEF + 10.",
+		identifiedDisplayName = "Heritage Symbol of the Orcs",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"For every 4 refine level, reduces damage taken from all race monsters by 4% and increases MHP by 3%.",
-			"All Basic Stat + 10, ATK + 20%.",
-			"MHP + 20%.",
-			"^4D4DFFOrc Successor Helm [1]^000000",
-			"^4D4DFFOrc Hero Card^000000",
-			"MHP + 20%, Enables level 5 Maximum Power-Thrust.",
-			"MHP + 50%, immunity to Stone Curse and Frozen.",
-			"^4D4DFFOrc Lady Card^000000",
-			"Increases physical damage to Player, Doram, Human and Animal race by 10%.",
-			"Reduces damage taken from Player by 30%.",
-			"^4D4DFFOrc Archer Card^000000",
-			"Reduces After Cast Delay by 3%,",
-			"increases ASPD by 3%.",
-			"Enables Level 4 Defending Aura,",
-			"adds Occult Impaction penetration effect to the weapon."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 50",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 1,
 		ClassNum = 381
@@ -2974,40 +3014,37 @@ tbl = {
 	},
 	[400052] = {
 		unidentifiedDisplayName = "Duel Dragon Hat",
-		unidentifiedResourceName = "Damage from fire property attack -10%",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Duel Dragon Hat",
-		identifiedResourceName = "Damage from fire property attack -10%",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Damage to monster on [2nd Os Search] when physical or magical attacking +15%",
-			"Damage from monster on [2nd Os Search] - 15%",
-			"If its refine level is 7 or above, additionally",
-			"If its refine level is 9 or above, additionally",
-			"Damage from fire property attack -15%",
-			"Damage to monster on [2nd Os Search] when physical or magical attacking +20%",
-			"Damage from monster on [2nd Os Search] - 20\\%",
-			"If its refine level is 10 or above, additionally damage to [Miguel] +100%%",
-			"Prevents knock-back effect."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 130"
 		},
 		slotCount = 1,
 		ClassNum = 1149
 	},
 	[400060] = {
 		unidentifiedDisplayName = "Shiny Kitty Crown",
-		unidentifiedResourceName = "Reduce delay after skill by 10%. Increase Catnip Meteor and Silvervine Stem Spear damage by 10%. ",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Shiny Kitty Crown",
-		identifiedResourceName = "Reduce delay after skill by 10%. Increase Catnip Meteor and Silvervine Stem Spear damage by 10%. ",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Recover HP by 30 times of refine rate and SP by 3 times of refine rate when killing monsters.",
-			"If refine rate is 7 or higher, reduces casting time of Stoop and Lope by 50%, increases Catnip Meteor and Silvervine Stem Spear damage by 15%.",
-			"If refine rate is 9 or higher, reduces casting time of Stoop and Lope by 50%, increases Catnip Meteor and Silvervine Stem Spear damage by 25%.",
-			"If refine rate is 10, has a chance to reduce SP consumption of skills by 100% for 20 seconds when dealing magical damage.",
-			"If user learned Spirit of Land level 1, reduces casting time of Catnip Meteor and Silvervine Stem Spear by 4% per each level of Catnip Powdering, Catnip Meteor, Nyang Grass, Silvervine Stem Spear and Silvervine Root Twist user learned.",
-			"Attack Speed + 3% per each level of Chattering user learned.",
-			"If user learned Nyang Grass level 5, reduces delay after skill by 20%.",
-			"If user learned Meow Meow level 5, increases magical damage against boss monsters by 25%.",
-			"Type: ^777777Headgear^000000 Defense: ^77777718^000000"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 18",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 328
@@ -3050,32 +3087,20 @@ tbl = {
 		ClassNum = 1056
 	},
 	[400075] = {
-		unidentifiedDisplayName = "Astraea Helm",
-		unidentifiedResourceName = "When refined to +7 or higher, additional MHP +5%.",
+		unidentifiedDisplayName = "Asteria's Helm",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Astraea Helm",
-		identifiedResourceName = "When refined to +7 or higher, additional MHP +5%.",
+		identifiedDisplayName = "Asteria's Helm",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Reduces physical and magical damage taken from all property enemies by 5%.",
-			"Reduces physical and magical damage taken from all size enemies by 5%.",
-			"Reduces physical and magical damage taken by 5%.",
-			"Reduces physical and magical damage taken from all race by 5%.",
-			"^4D4DFFAstraea Helm [1]^000000",
-			"Perfect evasion +10",
-			"^4D4DFFAstraea Armor [1]^000000",
-			"When receiving a melee physical attack, has a 5% chance to activated the \"Muscle Fool\".",
-			"Increases healing skill recovery by 20%.",
-			"Muscle Fool effect, ",
-			"VIT +200,",
-			"reduces physical and magical damage taken by 50%,",
-			"MATK -50%,",
-			"^4D4DFFAstraea Manteau [1]^000000",
-			"Reduces damage taken from long ranged physical attack by 15%,",
-			"reduces magical and physical damage taken from all property enemies by 5%.",
-			"All basic status +3,",
-			"reduces after cast delay by 7%.",
-			"When total refine level of the set is 48 and equipped by Archbishop,",
-			"enables to use Energy Coat Lv.1"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 20",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 20",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 468
@@ -3115,7 +3140,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Soul Linker, Star Gladiator",
+			"^0000CCClasses:^000000 All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 840
@@ -3134,7 +3161,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 20",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Kagerou Oboro"
 		},
 		slotCount = 1,
 		ClassNum = 1047
@@ -3153,7 +3181,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 20",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Gunslinger, Rebellion"
 		},
 		slotCount = 1,
 		ClassNum = 236
@@ -3172,7 +3201,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 20",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Spirit Handler, Summoner"
 		},
 		slotCount = 1,
 		ClassNum = 1594
@@ -3191,7 +3221,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 20",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Novice, Super Novice"
 		},
 		slotCount = 1,
 		ClassNum = 193
@@ -3821,15 +3852,20 @@ tbl = {
 		ClassNum = 106
 	},
 	[400416] = {
-		unidentifiedDisplayName = "Squirrel Ear Hat (White)",
-		unidentifiedResourceName = "Squirrel_Ear_Hat_W",
+		unidentifiedDisplayName = "Squirrel Ear Hood (Albino)",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Squirrel Ear Hat (White)",
-		identifiedResourceName = "Squirrel_Ear_Hat_W",
+		identifiedDisplayName = "Squirrel Ear Hood (Albino)",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A squirrel hat with adorable pointed ears.",
-			"When you wear it, you'll feel like a squirrel with beautiful white fur.",
-			"Every 10 Base Level, increase damage of Petitio and Effligo by 1%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2371
@@ -3870,7 +3906,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 60",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 60"
+			"^0000CCRequirement:^000000 Level 60",
+			"^0000CCJobs:^000000 Mage, Sage, Wizard",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 566
@@ -3889,7 +3927,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 60",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 60"
+			"^0000CCRequirement:^000000 Level 60",
+			"^0000CCJobs:^000000 Mage, Sage, Wizard",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 566
@@ -3935,25 +3975,19 @@ tbl = {
 		ClassNum = 2359
 	},
 	[400433] = {
-		unidentifiedDisplayName = "Gothic Heart Hairband-LT",
-		unidentifiedResourceName = "Gothic_HW_TW_LT",
+		unidentifiedDisplayName = "Fallen Wing Hairpin-LT",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Gothic Heart Hairband-LT",
-		identifiedResourceName = "Gothic_HW_TW_LT",
+		identifiedDisplayName = "Fallen Wing Hairpin-LT",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"MaxHP+10%.",
-			"After Cast Delay -8%.",
-			"Every 2 refine level, additional After Cast Delay -2%.",
-			"Every 3 refine level, Max HP +3000.",
-			"When refined to +7 or higher, increases ASPD (delay after attack -10%) .",
-			"When refined to +9 or higher, ATK & MATK +10%.",
-			"When refined to +11 or higher, increases physical/magical damage to all race by +15%.",
-			"When refined to +13 or higher, reduce physical damage taken from all size enemy by 10%.",
-			"[Grade Bonus]",
-			"[Grade D] P.ATK, S.MATK+5.",
-			"[Grade C] MaxHP+15000, after cast delay -5%.",
-			"[Grade B] 2% chance for 10 seconds when attacking physically or magically, all attribute magic damage, melee/ranged physical damage by +20%.",
-			"[Grade A] Reduce damage taken from all property 10%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 30",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 1,
 		ClassNum = 2372
@@ -3973,15 +4007,20 @@ tbl = {
 		ClassNum = 2380
 	},
 	[400438] = {
-		unidentifiedDisplayName = "Wildcat Knit Cap (White)",
-		unidentifiedResourceName = "Wildcat_Knit_Cap_W",
+		unidentifiedDisplayName = "Bobcat Knit Hat (White)",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Wildcat Knit Cap (White)",
-		identifiedResourceName = "Wildcat_Knit_Cap_W",
+		identifiedDisplayName = "Bobcat Knit Hat (White)",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A cute hat with Wildcat design.",
-			"You can feel its fluffy tail when wearing it.",
-			"Every 10 Base Level, increase damage of Abyss Dagger, Unlucky Rush, and Deft Stab by 1%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2381
@@ -4060,28 +4099,20 @@ tbl = {
 		ClassNum = 705
 	},
 	[400447] = {
-		unidentifiedDisplayName = "Poenetentia Courage Crown",
-		unidentifiedResourceName = "Poenetentia_B_Crown",
+		unidentifiedDisplayName = "Confession Courage Crown",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Poenetentia Courage Crown",
-		identifiedResourceName = "Poenetentia_B_Crown",
+		identifiedDisplayName = "Confession Courage Crown",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A crown filled with courage.",
-			"It might resonate well with equipment from a certain tomb palace.",
-			"For every 2 refine level, ATK + 15.",
-			"For every 3 refine level, ATK + 5%.",
-			"For every 4 refine level, increase physical and magical damage against all property enemies by 3%.",
-			"When refined to +9 or higher, ASPD + 10%.",
-			"When refined to +13 or higher, increase physical damage against all race enemies by 20%, Fixed Casting Time - 0.5 seconds.",
-			"^4D4DFFPoenetentia Courage Crown [1]^000000",
-			"^4D4DFFPoenitentia Ensis [2]^000000",
-			"Melee Physical Damage + 15%.",
-			"For every 2 refine level of Weapon, increase Storm Blast and Storm Slash damage by 8%.",
-			"^4D4DFFPoenitentia Katapulta [2]^000000",
-			"For every 2 refine level of Weapon, increase Hundred Spears and Madness Crusher damage by 10%.",
-			"For every 2 refine level of Weapon, increase Overbrand and Overslash damage by 10%.",
-			"^4D4DFFPoenitentia Liber [2]^000000",
-			"For every 2 refine level of Weapon, CRI + 3, increase Petitio damage by 15%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 40",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2393
@@ -4158,30 +4189,20 @@ tbl = {
 		ClassNum = 1057
 	},
 	[400457] = {
-		unidentifiedDisplayName = "Poenetentia Ambition Crown",
-		unidentifiedResourceName = "Poenetentia_V_Crown",
+		unidentifiedDisplayName = "Confession Domineering Crown",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Poenetentia Ambition Crown",
-		identifiedResourceName = "Poenetentia_V_Crown",
+		identifiedDisplayName = "Confession Domineering Crown",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A crown filled with ambition.",
-			"For every 3 refine level, Critical Damage + 5%.",
-			"For every 4 refine level, Melee Physical Damage + 4%.",
-			"When refined to +9 or higher, CRI + 8.",
-			"^4D4DFFPoenetentia Ambition Crown [1]^000000",
-			"^4D4DFFPoenitentia Manus [2]^000000",
-			"P.ATK + 10.",
-			"For every 2 refine level of Weapon, increase Rolling Cutter and Impact Crater damage by 10%.",
-			"^4D4DFFPoenitentia Mucro [2]^000000",
-			"Critical Damage + 20%.",
-			"For every 2 refine level of Weapon, increase Cross Impact and Shadow Stab damage by 10%.",
-			"^4D4DFFPoenitentia Dilacero [2]^000000",
-			"For every 2 refine level of Weapon, increase Fatal Menace and Deft Stab damage by 10%.",
-			"^4D4DFFPoenitentia Caestus [2]^000000",
-			"For every 2 refine level of Weapon, increase Tiger Cannon and Second Faith damage by 8%.",
-			"^4D4DFFPoenitentia Ungula [2]^000000",
-			"Long Ranged Physical Damage + 15%.",
-			"For every 2 refine level of Weapon, increase Rampage Blast and Explosion Blaster damage by 8%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 40",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2394
@@ -4255,29 +4276,28 @@ tbl = {
 			"^0000CCDefense:^000000 2",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 99"
+			"^0000CCRequirement:^000000 Level 99",
+			"^0000CCJobs:^000000 All except Novice, Super Novice",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 0,
 		ClassNum = 432
 	},
 	[400469] = {
-		unidentifiedDisplayName = "Poenetentia Purity Crown",
-		unidentifiedResourceName = "Poenetentia_D_Crown",
+		unidentifiedDisplayName = "Penance Crown",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Poenetentia Purity Crown",
-		identifiedResourceName = "Poenetentia_D_Crown",
+		identifiedDisplayName = "Penance Crown",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A crown filled with purity.",
-			"For every 4 refine level, Long Ranged Physical Damage + 4%.",
-			"^4D4DFFPoenetentia Purity Crown [1]^000000",
-			"^4D4DFFPoenitentia Tenon [2]^000000",
-			"For every 2 refine level of Weapon, increase Triangle Shot and Frenzy Shot damage by 8%.",
-			"^4D4DFFPoenitentia Nervus [2]^000000",
-			"For every 2 refine level of Weapon, increase Crescive Bolt and Aimed Bolt damage by 8%.",
-			"^4D4DFFPoenitentia Attendo [2]^000000",
-			"For every 2 refine level of Weapon, increase Gale Storm and Arrow Storm damage by 8%.",
-			"^4D4DFFPoenitentia Vatia [2]^000000",
-			"For every 2 refine level of Weapon, increase Rhythm Shooting and Severe Rainstorm damage by 10%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 40",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2402
@@ -4313,7 +4333,9 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 100",
-			"^0000CCRequirement:^000000 Level 70"
+			"^0000CCRequirement:^000000 Level 70",
+			"^0000CCJobs:^000000 All except Novice, Super Novice",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 0,
 		ClassNum = 1056
@@ -4330,7 +4352,9 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 100",
-			"^0000CCRequirement:^000000 Level 70"
+			"^0000CCRequirement:^000000 Level 70",
+			"^0000CCJobs:^000000 All except Novice, Super Novice",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 0,
 		ClassNum = 1056
@@ -4434,45 +4458,39 @@ tbl = {
 		ClassNum = 559
 	},
 	[400481] = {
-		unidentifiedDisplayName = "Flash of Lightning",
-		unidentifiedResourceName = "Flash_of_Lightning",
+		unidentifiedDisplayName = "The Brandishing",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Flash of Lightning",
-		identifiedResourceName = "Flash_of_Lightning",
+		identifiedDisplayName = "The Brandishing",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A light helmet designed for absolute swiftness.",
-			"Once you wear it, you'll be fast as lightning.",
-			"CRT + 3",
-			"Every 10 Base Level, increase damage of Servant Weapon, Servant Weapon - Phantom, and Servant Weapon - Demolition by 1%.",
-			"Every refine level, CRT + 1."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2415
 	},
 	[400482] = {
-		unidentifiedDisplayName = "Poenetentia Glory Crown",
-		unidentifiedResourceName = "Poenetentia_H_Crown",
+		unidentifiedDisplayName = "Penance Glory Crown",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Poenetentia Glory Crown",
-		identifiedResourceName = "Poenetentia_H_Crown",
+		identifiedDisplayName = "Penance Glory Crown",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A crown filled with glory.",
-			"For every 2 refine level, MATK + 15.",
-			"For every 3 refine level, MATK + 5%.",
-			"For every 4 refine level, increase all property magical damage by 5%.",
-			"When refined to +9 or higher, Variable Casting Time - 10%.",
-			"When refined to +11 or higher, increase magical damage against all size enemies by 15%.",
-			"When refined to +13 or higher, increase magical damage against all race enemies by 20%, Fixed Casting Time - 0.5 seconds.",
-			"^4D4DFFPoenetentia Glory Crown [1]^000000",
-			"Reduce Ray of Genesis cooldown by 1 second.",
-			"For every 2 refine level of Weapon, increase Genesis Ray damage by 10% and Cross Rain damage by 8%.",
-			"^4D4DFFPoenitentia Crystallum [2]^000000",
-			"Reduce Adoramus cooldown by 1 second.",
-			"For every 2 refine level of Weapon, increase Adoramus damage by 10% and Flamen damage by 8%.",
-			"^4D4DFFPoenitentia Chorda [2]^000000",
-			"^4D4DFFPoenitentia Flagellum [2]^000000",
-			"S.MATK + 10.",
-			"For every 2 refine level of Weapon, increase Reverberation and Metallic Fury damage by 10%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 40",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2416
@@ -4549,7 +4567,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 55"
+			"^0000CCRequirement:^000000 Level 55",
+			"^0000CCJobs:^000000 Crusader, Knight, Swordman",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2249
@@ -4569,7 +4589,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 55"
+			"^0000CCRequirement:^000000 Level 55",
+			"^0000CCJobs:^000000 Crusader, Knight, Swordman",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2249
@@ -4588,7 +4610,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 70"
+			"^0000CCRequirement:^000000 Level 70",
+			"^0000CCJobs:^000000 Assassin",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 1127
@@ -4607,7 +4631,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 70"
+			"^0000CCRequirement:^000000 Level 70",
+			"^0000CCJobs:^000000 Assassin",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 1127
@@ -4626,7 +4652,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 50",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Merchant",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 1221
@@ -4645,48 +4673,47 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 50",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Merchant",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 1221
 	},
 	[400505] = {
-		unidentifiedDisplayName = "Upper Headgear",
-		unidentifiedResourceName = "Striped Ribbon Hat",
+		unidentifiedDisplayName = "Striped Ribbon Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Upper Headgear",
-		identifiedResourceName = "Striped Ribbon Hat",
+		identifiedDisplayName = "Striped Ribbon Hat",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"StripedRibbonHat",
-			"A hat made up of a set of white and blue ribbons.",
-			"It has a cute design and decorated with various ribbons.",
-			"Every 10 Base Level, increase damage of Arbitrium, Pneumaticus Procella, and Framen by 1%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2425
 	},
 	[400511] = {
-		unidentifiedDisplayName = "Queen Scaraba Crown",
-		unidentifiedResourceName = "ATK + 150, POW, CON, CRT + 3",
+		unidentifiedDisplayName = "Queen Scaraba Helmet",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Queen Scaraba Crown",
-		identifiedResourceName = "ATK + 150, POW, CON, CRT + 3",
+		identifiedDisplayName = "Queen Scaraba Helmet",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"For every 2 refine levels, ATK + 20, CRI + 4.",
-			"For every 3 refine levels, increase Critical Damage by 10%.",
-			"When refined to +9 or higher, reduce After-cast Delay by 10%.",
-			"When refined to +11 or higher, increase Melee and Ranged Physical Damage by 15%.",
-			"When refined to +12 or higher, increase Physical Damage against all race enemies by 15%.",
-			"When refined to +13 or higher, reduce Fixed Casting Time by 0.5 sec.",
-			"^4D4DFFQueen Scaraba Crown [1]^000000",
-			"^4D4DFFGold Queen Scaraba Card^000000",
-			"P.ATK + 20, for every 1 refine level of the helmet, increase Critical Damage by 10%.",
-			"^4D4DFFQueen Scaraba Card^000000",
-			"Increase Physical Damage against Boss monsters by 10%,",
-			"For every 2 refine levels of the armor, increase Physical Damage against Boss monsters by additional 3%",
-			"^4D4DFFSealed Q Scaraba Card^000000",
-			"Increase Physical Damage against Boss monsters by 5%,",
-			"For every 3 refine levels of the armor, Increase Physical Damage against Boss monsters by 2%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 20",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 1",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 130"
 		},
 		slotCount = 1,
 		ClassNum = 1231
@@ -4705,7 +4732,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Crusader, Knight, Swordman"
 		},
 		slotCount = 1,
 		ClassNum = 1598
@@ -4724,7 +4752,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Crusader, Knight, Swordman"
 		},
 		slotCount = 1,
 		ClassNum = 1598
@@ -4761,7 +4790,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"^0000CCRequirement:^000000 Level 130",
+			"^0000CCJobs:^000000 Star Gladiator",
+			"^0000CCClasses:^000000 All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2442
@@ -4780,7 +4811,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"^0000CCRequirement:^000000 Level 130",
+			"^0000CCJobs:^000000 Kagerou Oboro",
+			"^0000CCClasses:^000000 All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2443
@@ -4799,7 +4832,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"^0000CCRequirement:^000000 Level 130",
+			"^0000CCJobs:^000000 Rebellion"
 		},
 		slotCount = 1,
 		ClassNum = 2444
@@ -4818,7 +4852,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"^0000CCRequirement:^000000 Level 130",
+			"^0000CCJobs:^000000 Spirit Handler, Summoner"
 		},
 		slotCount = 1,
 		ClassNum = 2445
@@ -4837,7 +4872,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 10",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"^0000CCRequirement:^000000 Level 130",
+			"^0000CCJobs:^000000 Novice, Super Novice"
 		},
 		slotCount = 1,
 		ClassNum = 2446
@@ -5099,21 +5135,27 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Gunslinger, Rebellion"
 		},
 		slotCount = 1,
 		ClassNum = 1569
 	},
 	[400601] = {
 		unidentifiedDisplayName = "Steamroller",
-		unidentifiedResourceName = "A mask said to be worn by the Night Watch during their covert mission.",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Steamroller",
-		identifiedResourceName = "A mask said to be worn by the Night Watch during their covert mission.",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"For every 10 Base Level, increase Only One Bullet, Spiral Shooting, and Wild Fire by 1%.",
-			"When refined to +10 or higher, CRI + 25, reduce After Cast Delay by 20%.",
-			"Class : ^7777774th Jobs and 4th Expanded Jobs^000000"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2504
@@ -5223,7 +5265,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Crusader",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2099
@@ -5242,7 +5286,9 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Crusader",
+			"^0000CCClasses:^000000 Upper, All Third, Fourth"
 		},
 		slotCount = 1,
 		ClassNum = 2099
@@ -5286,23 +5332,20 @@ tbl = {
 		ClassNum = 1108
 	},
 	[400644] = {
-		unidentifiedDisplayName = "Spiritual Crown",
-		unidentifiedResourceName = "Soul_Mastery_Crown",
+		unidentifiedDisplayName = "Soul Mastery Crown",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Spiritual Crown",
-		identifiedResourceName = "Soul_Mastery_Crown",
+		identifiedDisplayName = "Soul Mastery Crown",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A crown said to have been worn by spiritualists who guide souls.",
-			"The long, flowing ribbon is mesmerizing.",
-			"MATK + 40%.",
-			"For every 10 Base Level, increase Talisman of Blue Dragon, ",
-			"Talisman of White Tiger, ",
-			"Talisman of Red Phoenix, ",
-			"Talisman of Black Tortoise, ",
-			"Talisman of Four Bearing God, ",
-			"and Circle of Directions and Elementals damage by 1%.",
-			"For every refine level, SPL + 1.",
-			"When refined to +10 or higher, After Cast Delay - 20%, ignore MDEF of all race enemies by 50%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2519
@@ -5413,7 +5456,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Novice, Super Novice"
 		},
 		slotCount = 1,
 		ClassNum = 1118
@@ -5432,7 +5476,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Novice, Super Novice"
 		},
 		slotCount = 1,
 		ClassNum = 1118
@@ -5458,41 +5503,38 @@ tbl = {
 	},
 	[400667] = {
 		unidentifiedDisplayName = "Peco Warrior Hat",
-		unidentifiedResourceName = "A decorated hat modeled after the legendary Peco Peco.",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Peco Warrior Hat",
-		identifiedResourceName = "A decorated hat modeled after the legendary Peco Peco.",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"It's the symbol of the Peco Peco Fan Club.",
-			"All Basic Status + 5.",
-			"When Base Level is 99 or lower,",
-			"There's a 5% chance to cast Level 10 Sonic Blow when performing melee physical attack.",
-			"There's a 5% chance to cast Level 3 Cross Impact when performing melee physical attack.",
-			"^4D4DFFPeco Warrior Hat [1]^000000",
-			"^4D4DFFPeco Peco Egg^000000",
-			"ATK + 50, ASPD + 5,",
-			"When intimacy is loyal, ",
-			"When Headgear is refined to +10 or higher, MHP + 10%, MSP + 10%.",
-			"When Headgear is refined to +11 or higher, ATK + 25%.",
-			"When Headgear is refined to +12 or higher, additional MHP + 20%, MSP + 20%.",
-			"^4D4DFFPeco Peco Card^000000",
-			"ATK + 15%, MHP + 15%.",
-			"Armor and Weapon will be indestructible."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 30",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 1,
 		ClassNum = 1049
 	},
 	[400672] = {
-		unidentifiedDisplayName = "Cute Marin Hat",
-		unidentifiedResourceName = "Marin_Pattern_Hat",
+		unidentifiedDisplayName = "Marin Pattern Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Cute Marin Hat",
-		identifiedResourceName = "Marin_Pattern_Hat",
+		identifiedDisplayName = "Marin Pattern Hat",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"A cute hat with a round shape.",
-			"When you look at it from behind, you can see a cute Marin.",
-			"For every 10 Base Level, increase Double Bowling Bash and Mega Sonic Blow damage by 1%.",
-			"When refined to +11 or higher, ATK + 150, POW + 15."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 200"
 		},
 		slotCount = 1,
 		ClassNum = 2543
@@ -5510,7 +5552,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Merchant"
 		},
 		slotCount = 1,
 		ClassNum = 1128
@@ -5528,7 +5571,8 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 30",
 			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 50"
+			"^0000CCRequirement:^000000 Level 50",
+			"^0000CCJobs:^000000 Alchemist, Blacksmith, Merchant"
 		},
 		slotCount = 1,
 		ClassNum = 1128
@@ -5620,64 +5664,39 @@ tbl = {
 		ClassNum = 1475
 	},
 	[400699] = {
-		unidentifiedDisplayName = "Astraea Helm-LT",
-		unidentifiedResourceName = "Astraea_Helm_LT",
+		unidentifiedDisplayName = "Asteria's Helm-LT",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Astraea Helm-LT",
-		identifiedResourceName = "Astraea_Helm_LT",
+		identifiedDisplayName = "Asteria's Helm-LT",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"MaxHP+5%.",
-			"Every 2 refine level, ATK & MATK +15, ",
-			"Every 4 refine level, Reduces damage taken from enemies of all class (Normal/Boss Monsters), Races, Properties by 2%.",
-			"reduces physical/magical damage taken from enemies of all sizes by 2%.",
-			"When refined to +7 or higher, MaxHP +7%, MRES +20.",
-			"When refined to +9 or higher, reduces variable casting 15%.",
-			"When refined to +11 or higher, increases ATK & MATK by 10% to all sizes enemies.",
-			"When refined to +13 or higher, reduces fixed casting by 0.3 seconds.",
-			"^4D4DFFAstraea Helm-LT^000000",
-			"^4D4DFFAstraea Shoes-LT^000000",
-			"MaxHP+7000, ",
-			"reduces fixed casting time by 0.5 seconds, ",
-			"perfect dodge +12.",
-			"^4D4DFFAstraea Cape-LT^000000",
-			"Increases melee/ranged damage by 15% and all property magic damage by 15%,",
-			"reduces damage taken from ranged physical ATK by 15%,",
-			"reduces physical/magical damage taken from all properties by 5%.",
-			"^4D4DFFAstraea Armor-LT^000000",
-			"when receiving physical ATK, there is a 3% chance to gain VIT+200 for 10 seconds, and",
-			"the effectiveness of heal and recovery items increases by 20%.",
-			"When equiped by Arch Bishop, can use 'Energy Coat' skill.",
-			"^4D4DFF[Grade D]^000000 RES+30, MRES+30.",
-			"^4D4DFF[Grade C]^000000 POW,SPL,CON +5.",
-			"^4D4DFF[Grade B]^000000 Physical/magical damage to targets of all races +15%.",
-			"^4D4DFF[Grade A]^000000 After Cast Delay -15%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 20",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 20",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 150"
 		},
 		slotCount = 1,
 		ClassNum = 2565
 	},
 	[400710] = {
 		unidentifiedDisplayName = "Snake Queen Crown",
-		unidentifiedResourceName = "POW, CON+5.",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Snake Queen Crown",
-		identifiedResourceName = "POW, CON+5.",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Every 2 refine level, ATK +20, HIT +8.",
-			"Every 3 refine level, Melee/ranged physical damage increased by 7%.",
-			"When refined to +7 or higher, ATK +10%.",
-			"When refined to +9 or higher, reduces after cast delay by 10%.",
-			"When refined to +11 or higher, increases perfect hit by 15%.",
-			"When refined to +12 or higher, increases physical damage to all races enemies by 15%.",
-			"When refined to +13 or higher, reduces fixed casting time by 0.5 seconds.",
-			"^4D4DFFSnake Queen Crown [1]^000000",
-			"Increases perfect hit by 40%.",
-			"POW, CON +5.",
-			"Every Helmet 3 refine level, increases melee and ranged physical damage by 8%",
-			"^4D4DFFEvil Nymph Card^000000",
-			"POW, CON +3.",
-			"Every Helmet 3 refine level, increases melee and ranged physical damage by 4%",
-			"Increases long-range physical damage by 15%.",
-			"^4D4DFFHermit Plant Card^000000"
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 20",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 70",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 130"
 		},
 		slotCount = 1,
 		ClassNum = 164
@@ -5819,32 +5838,37 @@ tbl = {
 		ClassNum = 1442
 	},
 	[400758] = {
-		unidentifiedDisplayName = "Cat Paw Potential Hat",
-		unidentifiedResourceName = "Every 2 refine level, ATK+15.",
+		unidentifiedDisplayName = "Meow Meow Meatball Potential Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Cat Paw Potential Hat",
-		identifiedResourceName = "Every 2 refine level, ATK+15.",
+		identifiedDisplayName = "Meow Meow Meatball Potential Hat",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"Every 3 refine level, increase EXP gained from killing monsters by 3%.",
-			"When refined to +7 or higher, CRI+10, Perfect Hit +10%.",
-			"When refined to +9 or higher, increase melee/range physical damage by 15%.",
-			"When refined to +11 or higher, increase physical damage to enemies of all sizes by 20%.",
-			"When refined to +13 or higher, fixed casting time reduced by 0.3 seconds."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 1,
 		ClassNum = 1985
 	},
 	[400759] = {
-		unidentifiedDisplayName = "Cat Paw Growth Hat",
-		unidentifiedResourceName = "Every 2 refine level, MATK+15.",
+		unidentifiedDisplayName = "Meow Meow Meatball Growth Hat",
+		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Cat Paw Growth Hat",
-		identifiedResourceName = "Every 2 refine level, MATK+15.",
+		identifiedDisplayName = "Meow Meow Meatball Growth Hat",
+		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"When refined to +7 or higher, reduce variable casting time by 15% and reduce fixed casting time by 0.2 seconds.",
-			"When refined to +9 or higher, increase magic damage of all properties by 20%..",
-			"When refined to +11 or higher, increase magic damage to enemies of all sizes by 20%.",
-			"When refined to +13 or higher, Additionally reduce fixed casting time by 0.3 seconds."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 1,
 		ClassNum = 1984
@@ -5895,7 +5919,7 @@ tbl = {
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
 			"MDEF + 8",
-			"Damage taken from ranged attacks + 5%",
+			"Reduces damage taken from ranged attacks by 5%",
 			"Melee physical damage - 10%",
 			"Ranged physical damage - 10%",
 			"all property magic damage - 10%",
@@ -6015,14 +6039,20 @@ tbl = {
 		ClassNum = 105
 	},
 	[410001] = {
-		unidentifiedDisplayName = "Reduces damage taken from all race monsters by 1%.",
-		unidentifiedResourceName = "Recovers 60 HP and 6 SP every 5 seconds.",
+		unidentifiedDisplayName = "Phalanx",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Reduces damage taken from all race monsters by 1%.",
-		identifiedResourceName = "Recovers 60 HP and 6 SP every 5 seconds.",
+		identifiedDisplayName = "Phalanx",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"If base Vit is 90 or higher, reduces damage taken from all race monsters by 1%, recovers 90 HP and 9 SP every 5 seconds.",
-			"If base Vit is 125 or higher, reduces damage taken from all race monsters by 3%, recovers 150 HP and 15 SP every 5 seconds."
+			"MDEF + 3",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 50",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 80",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 1949
@@ -6210,22 +6240,23 @@ tbl = {
 		ClassNum = 2017
 	},
 	[410023] = {
-		unidentifiedDisplayName = "Yellow and green twin ribbons said to have been given to each other by twins bound by an immortal bond.",
-		unidentifiedResourceName = "When physically attacking,",
+		unidentifiedDisplayName = "Brazil Twin Ribbon",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Yellow and green twin ribbons said to have been given to each other by twins bound by an immortal bond.",
-		identifiedResourceName = "When physically attacking,",
+		identifiedDisplayName = "Brazil Twin Ribbon",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"increase damage to small, medium, and large monsters by 10%.",
-			"Prevents sleep.",
-			"When Infinite Humming lv5,",
-			"Adds a chance to guide hit by 30%.",
-			"When Gloomy Shyness lv5,",
-			"When Music Lessons is learned, and equipped with instruments or whips,",
-			"can cast Dance Lessons which has the same skill level.",
-			"When Dance Lessons is learned, and equipped with instruments or whips,",
-			"can cast Music Lessons which has the same skill level.",
-			"Location : ^777777Middle^000000 Weight : ^77777730^000000"
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Sleep + 100%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 30",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 575
@@ -6342,18 +6373,24 @@ tbl = {
 		ClassNum = 2055
 	},
 	[410057] = {
-		unidentifiedDisplayName = "Yinyang Earring(Yellow)",
-		unidentifiedResourceName = "Only those who realize the principle of Yinyang can release true power.",
+		unidentifiedDisplayName = "Yinyang Earring (Yellow)",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Yinyang Earring(Yellow)",
-		identifiedResourceName = "Only those who realize the principle of Yinyang can release true power.",
+		identifiedDisplayName = "Yinyang Earring (Yellow)",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"If user learned Lunar Luminance level 5,",
-			"Reduces fixed casting time by 70%.",
-			"If user learned Full Moon Kick level 10,",
-			"increases physical damage against all size enemy by 15%,",
-			"recovers 150 HP and 15 SP when killing monsters with physical damage.",
-			"Def : ^7777772^000000"
+			"Max HP + 10%",
+			"Max SP + 10%",
+			"Damage taken from Doram Player - 5%",
+			"Damage taken from Human Player - 5%",
+			"Resistance to Silence + 100%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 50",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2088
@@ -6405,18 +6442,24 @@ tbl = {
 		ClassNum = 2116
 	},
 	[410067] = {
-		unidentifiedDisplayName = "Professor Mini Glasses",
-		unidentifiedResourceName = "A pair of mini glasses modeled after a girl who earned her doctorate at Juno Academy.",
+		unidentifiedDisplayName = "Professor's Mini Glasses",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Professor Mini Glasses",
-		identifiedResourceName = "A pair of mini glasses modeled after a girl who earned her doctorate at Juno Academy.",
+		identifiedDisplayName = "Professor's Mini Glasses",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"Increase magical damage against all size enemies by 10%.",
-			"Immune to Sleep.",
-			"When learned Psychic Wave Level 5,",
-			"reduce Fixed Casting Time of Psychic Wave by 100%,",
-			"reduce Earth Grave and Diamond Dust cooldown by 4 seconds.",
-			"When learned Extreme Vacuum Level 5, reduce After Cast Delay by 15%."
+			"Magic damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Sleep + 100%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2118
@@ -6558,21 +6601,22 @@ tbl = {
 	},
 	[410109] = {
 		unidentifiedDisplayName = "Fluffy Lovely Fox",
-		unidentifiedResourceName = "A proud demon fox child.",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Fluffy Lovely Fox",
-		identifiedResourceName = "A proud demon fox child.",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"[Ahh!! Don't touch me!!] It seems she is a bit shy.",
-			"Physical damage to all size enemy + 10%.",
-			"Grants immunity to confusion.",
-			"When learned Spirit of Life Lv 1,",
-			"Reduce Fix cast time of skill Lope and Stoop by 100%,",
-			"When using Scar of Tarou, active [Reckless Rush] for 15 sec.",
-			"^ff0000Reckless Rush^000000",
-			"For 15 seconds, increase Animal skill damage by 1% for every 1000 HP you own, up to 100%.",
-			"Every level of Hiss,",
-			"Increase VIT by 5."
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2178
@@ -6621,18 +6665,22 @@ tbl = {
 		ClassNum = 2212
 	},
 	[410125] = {
-		unidentifiedDisplayName = "Ghostly Ears",
-		unidentifiedResourceName = "When an evil spirit is sealed, it will reside in the person's ear.",
+		unidentifiedDisplayName = "Ears of Grisly Soul",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Ghostly Ears",
-		identifiedResourceName = "When an evil spirit is sealed, it will reside in the person's ear.",
+		identifiedDisplayName = "Ears of Grisly Soul",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"Wearing it will bring fear to those around you.",
-			"When learned Earth Shaker Lv.5, reduce Lion's Howl Fixed Casting Time by 100% and its cooldown by 9.5 seconds.",
-			"When learned Lightning Ride Lv.5, ASPD + 15%.",
-			"^4D4DFFGhostly Ears [1]^000000",
-			"^4D4DFFDevil's Hand^000000",
-			"The Lion's Howl cooldown reduction effect of Devil's Hand will not be activated."
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 30",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2212
@@ -6799,13 +6847,20 @@ tbl = {
 		ClassNum = 2316
 	},
 	[410211] = {
-		unidentifiedDisplayName = "A young dragon born from the Abyss.",
-		unidentifiedResourceName = "It grows by feeding on its master's emotions, and depending on its nature, brings either glory or destruction.",
+		unidentifiedDisplayName = "Little Abyss Dragon",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "A young dragon born from the Abyss.",
-		identifiedResourceName = "It grows by feeding on its master's emotions, and depending on its nature, brings either glory or destruction.",
+		identifiedDisplayName = "Little Abyss Dragon",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"For every Base Level, increases ATK +1 and MATK +1."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 2",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2316
@@ -6828,26 +6883,18 @@ tbl = {
 		ClassNum = 2318
 	},
 	[410235] = {
-		unidentifiedDisplayName = "Portable Telescope",
-		unidentifiedResourceName = "Handiness_Telescope",
+		unidentifiedDisplayName = "Rescue Binoculars",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Portable Telescope",
-		identifiedResourceName = "Handiness_Telescope",
+		identifiedDisplayName = "Rescue Binoculars",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A compact telescope designed for easy carrying.",
-			"Ideal for outdoor use, from survival and birdwatching to tracking escaped baboons.",
-			"For every 20 Pure STR, physical damage to Formless and Undead races + 1%.",
-			"For every 20 Pure AGI, physical damage to Brute and Plant races + 1%.",
-			"For every 20 Pure VIT, physical damage to Insect and Fish races + 1%.",
-			"For every 20 Pure INT, physical damage to Demon and Demi-Human races + 1%.",
-			"For every 20 Pure DEX, physical damage to Angel and Dragon races + 1%.",
-			"For every 20 Pure LUK, physical damage to Doram and Human Player + 1%.",
-			"If the total of all pure Base Stats is 600 or higher, physical damage to all races + 10%, HIT + 10.",
-			"^4D4DFFPortable Telescope^000000",
-			"^4D4DFFRescue Whistle^000000",
-			"Reduces After Cast Delay by 10% and Fixed Casting Time by 0.2 seconds.",
-			"Increases First Aid cooldown by 5 seconds.",
-			"When using First Aid, auto-casts Lv.5 Safety Wall on self."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2375
@@ -6911,26 +6958,18 @@ tbl = {
 	},
 	[410254] = {
 		unidentifiedDisplayName = "Ancient Morocc Noble Jewelry",
-		unidentifiedResourceName = "An old decorated headgear that was once used by nobles in Ancient Morocc.",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Ancient Morocc Noble Jewelry",
-		identifiedResourceName = "An old decorated headgear that was once used by nobles in Ancient Morocc.",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"There might be a curse embedded in it. Think twice before wearing this beautiful jewelry.",
-			"ATK + 40, MATK + 40.",
-			"For every 8 base STR, ATK + 5.",
-			"For every 8 base AGI, ATK + 3.",
-			"For every 8 base VIT, ATK + 2, MATK + 2.",
-			"For every 8 base INT, MATK + 5.",
-			"For every 8 base DEX, ATK + 2, MATK + 2.",
-			"For every 8 base LUK, MATK + 3.",
-			"^4D4DFFAncient Morocc Noble Jewelry [1]^000000",
-			"^4D4DFFMarduk Card^000000",
-			"Reduce After Cast Delay by 8%.",
-			"Increase physical and magical damage against all property enemies by 12%.",
-			"^4D4DFFPharaoh Card^000000",
-			"Enable to detect Hiding and Cloaking enemies,",
-			"Increase physical and magical damage against all property enemies by 25%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 335
@@ -7293,20 +7332,21 @@ tbl = {
 		ClassNum = 1490
 	},
 	[410313] = {
-		unidentifiedDisplayName = "C_Black_Thunder",
-		unidentifiedResourceName = "Eye of the Storm",
+		unidentifiedDisplayName = "Eye of the Storm",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "C_Black_Thunder",
-		identifiedResourceName = "Eye of the Storm",
+		identifiedDisplayName = "Eye of the Storm",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"a pitch engulfed by the force of swift lightning.",
-			"Increases physical/magical damage to Boss enemies by 10%.",
-			"For every 2 base level, Increases damage of Chain Lightning, Varetyr Spear, Lightning Ride skills by 1% (Up to 250 levels).",
-			"Increase ranged physical damage by 10%.",
-			"Reduce Variable Casting Time of Lightning Ride skill by 100%.",
-			"Reduce cooldown of Varetyr Spear skill by 1 second.",
-			"Reduce cooldown of Water Insignia skill by 55 seconds.",
-			"Enable to use the skill Water Insignia Lv. 1."
+			"Physical damage against Boss monsters + 10%",
+			"Magic damage against Boss monsters + 10%",
+			"After Cast Delay - 10%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -7452,45 +7492,41 @@ tbl = {
 	},
 	[410337] = {
 		unidentifiedDisplayName = "Cherub Coronet",
-		unidentifiedResourceName = "STR +10, ATK +140.",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Cherub Coronet",
-		identifiedResourceName = "STR +10, ATK +140.",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"Increases heal effectiveness by 30%.",
-			"Increase rate of incoming recovery skills and items by 15%",
-			"Increases resistance to Bleeding, Chaos status by 100%",
-			"When base INT is 120 or higher, additional ATK +200.",
-			"Increase physical damage against boss class enemies by 10%",
-			"Increases heal effectiveness by additional 50%.",
-			"Increase rate of incoming recovery skills and items by additional 30%",
-			"Decreases the variable casting time of the Coluseo Heal skill by 100%."
+			"STR + 10",
+			"ATK + 140",
+			"Heal power + 30%",
+			"Resistance to Bleeding + 100%",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2250
 	},
 	[410339] = {
-		unidentifiedDisplayName = "Portable Telescope-LT",
-		unidentifiedResourceName = "Handiness_Telescope_LT",
+		unidentifiedDisplayName = "Lightweight Telescope-LT",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Portable Telescope-LT",
-		identifiedResourceName = "Handiness_Telescope_LT",
+		identifiedDisplayName = "Lightweight Telescope-LT",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"A compact telescope designed for easy carrying. Ideal for outdoor use, from survival and birdwatching to tracking escaped baboons.",
-			"For every 20 pure STR, increases physical damage against Formless and Undead monsters by 2%.",
-			"For every 20 pure AGI, increases physical damage against Animal and Plant monsters by 2%.",
-			"For every 20 pure VIT, increases physical damage against Insect and Fish monsters by 2%.",
-			"For every 20 pure INT, increases physical damage against Demon and Demi-human by 2%.",
-			"For every 20 pure DEX, increases physical damage against Angel and Dragon by 2%.",
-			"For every 20 pure LUK, increases physical damage against Doram and Human player by 2%.",
-			"If the total of 6 basic stats is 600 or higher, increases physical damage against all race enemies by 10%, HIT + 10, Res + 10.",
-			"If the total of 6 talent stats is 160 or higher, increases POW + 5, P.Atk + 5.",
-			"^4D4DFFPortable Telescope-LT [1]^000000",
-			"^4D4DFFRescue Whistle-LT^000000",
-			"Reduces after-cast delay by 15%, reduces fixed casting time by 0.2 seconds.",
-			"Increases 'First Aid' cooldown by 5 seconds.",
-			"When using 'First Aid' skill:",
-			"Casts Level 5 Safety Wall on self."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2544
@@ -7598,22 +7634,25 @@ tbl = {
 	},
 	[410348] = {
 		unidentifiedDisplayName = "Divine Protect Shield",
-		unidentifiedResourceName = "A flying shield designed to provide absolute protection to the wearer.",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Divine Protect Shield",
-		identifiedResourceName = "A flying shield designed to provide absolute protection to the wearer.",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"It is said to be fueled by the purest form of magical energy.",
-			"Immune to Confusion and Hallucination.",
-			"DEF + 100, MDEF + 20",
-			"Enables to use ^00CC00Lv.3 Shield Spell^000000.",
-			"Reduce damage taken from Player by 10%.",
-			"When ^4D4DFFBase VIT is 60 or higher^000000,",
-			"Every 5 seconds, restore 300 HP and 30 SP.",
-			"Reduce Variable Casting Time by 30%.",
-			"When ^4D4DFFBase VIT is 90 or higher^000000,",
-			"Every 5 seconds, restore additional 300 HP and 30 SP.]",
-			"DEF + 200, MDEF + 40."
+			"Max HP + 10%",
+			"Max SP + 10%",
+			"Resistance to Confusion + 100%",
+			"Resistance to Hallucination + 100%",
+			"DEF + 100",
+			"MDEF + 20",
+			"Damage taken from Doram Player - 10%",
+			"Damage taken from Human Player - 10%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 0,
 		ClassNum = 1949
@@ -7638,24 +7677,23 @@ tbl = {
 	},
 	[410362] = {
 		unidentifiedDisplayName = "Exiled Ninja's Eyes",
-		unidentifiedResourceName = "Scarce eyes from the exiled ninja clan.",
+		unidentifiedResourceName = "글래스",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Exiled Ninja's Eyes",
-		identifiedResourceName = "Scarce eyes from the exiled ninja clan.",
+		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"All talent status +5.",
-			"Increases physical & magical damage to boss monsters by 5%.",
-			"When base STR is 120 or higher,",
-			"ATK +30%,",
-			"increases physical damage to boss monsters by additional 15%.",
-			"When equipped by Ninja class,",
-			"enable to use Cross Impact Lv. 5,",
-			"All talent status +10.",
-			"When Base INT is 120 or higher,",
-			"MATK +30%,",
-			"Increases magical damage to boss monsters by additional 15%.",
-			"enable to use Crimson Rock Lv. 5,",
-			"Armor lv: ^7777771^000000"
+			"ATK + 20%",
+			"MATK + 20%",
+			"Physical damage against Boss monsters + 5%",
+			"Magic damage against Boss monsters + 5%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 10",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 10",
+			"^0000CCSlots:^000000 1",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 1,
 		ClassNum = 2156
@@ -7863,16 +7901,19 @@ tbl = {
 		ClassNum = 2056
 	},
 	[420032] = {
-		unidentifiedDisplayName = "Twin Cannon",
-		unidentifiedResourceName = "A pair of twin cannon equipped on your shoulder.",
+		unidentifiedDisplayName = "Double Barrel Cannon",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Twin Cannon",
-		identifiedResourceName = "A pair of twin cannon equipped on your shoulder.",
+		identifiedDisplayName = "Double Barrel Cannon",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"It's believed to be just a decoration, but it looks menacing enough.",
-			"^4D4DFFTwin Cannon^000000",
-			"^4D4DFFShadow Booster [1]^000000",
-			"Reduce After Cast Delay by 4%."
+			"After Cast Delay - 3%",
+			"ASPD + 1",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 0,
 		ClassNum = 1865
@@ -7916,12 +7957,17 @@ tbl = {
 	},
 	[420068] = {
 		unidentifiedDisplayName = "Lord of Royals",
-		unidentifiedResourceName = "Replica of the insignia used by the king who commanded the Royal Guard in the old days.",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Lord of Royals",
-		identifiedResourceName = "Replica of the insignia used by the king who commanded the Royal Guard in the old days.",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"Increase damage to all size monsters by 4% per 50 base STR and INT combined."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2128
@@ -7977,33 +8023,35 @@ tbl = {
 		ClassNum = 2020
 	},
 	[420106] = {
-		unidentifiedDisplayName = "Exotic Temporal Sprout",
-		unidentifiedResourceName = "A mysterious leaf said to be acquired from the different dimensions.",
+		unidentifiedDisplayName = "Exotic Temporal Young Leaf",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Exotic Temporal Sprout",
-		identifiedResourceName = "A mysterious leaf said to be acquired from the different dimensions.",
+		identifiedDisplayName = "Exotic Temporal Young Leaf",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"^4D4DFFExotic Temporal Sprout^000000",
-			"^4D4DFFExotic Temporal Manteau [1]^000000",
-			"^4D4DFFExotic Temporal Armor [1]^000000",
-			"Increase physical and magic damage against all class enemies by 10%.",
-			"When total refine level of set is 18 or higher, ATK + 80, MATK + 80.",
-			"When total refine level of set is 20 or higher, ATK + 10%, MATK + 10%.",
-			"When total refine level of set is 26 or higher, increase physical and magic damage against all property enemies by 10%.",
-			"Increase all property magic damage by 8%.",
-			"When total refine level of set is 39 or higher, ignore physical and magic defense of all race enemies (including players) by 100%."
+			"After Cast Delay - 3%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 5",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 848
 	},
 	[420110] = {
 		unidentifiedDisplayName = "Old Camouflage Scarf",
-		unidentifiedResourceName = "A camouflage scarf containing the grudges of forgotten people in a certain laboratory.",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Old Camouflage Scarf",
-		identifiedResourceName = "A camouflage scarf containing the grudges of forgotten people in a certain laboratory.",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"For every 10 base level, increases physical and magical damage to all size monsters by 1%."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 1882
@@ -8050,7 +8098,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Max HP + 5%",
 			"Max SP + 5%",
-			"Damage taken from ranged attacks + 5%",
+			"Reduces damage taken from ranged attacks by 5%",
 			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
@@ -8071,7 +8119,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Max HP + 5%",
 			"Max SP + 5%",
-			"Damage taken from ranged attacks + 5%",
+			"Reduces damage taken from ranged attacks by 5%",
 			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
@@ -8278,37 +8326,38 @@ tbl = {
 		ClassNum = 2005
 	},
 	[420194] = {
-		unidentifiedDisplayName = "Rescue Whistle",
-		unidentifiedResourceName = "A high-volume whistle that carries sound over long distances.",
+		unidentifiedDisplayName = "Survival Whistle",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Rescue Whistle",
-		identifiedResourceName = "A high-volume whistle that carries sound over long distances.",
+		identifiedDisplayName = "Survival Whistle",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"Indispensable in critical moments.",
-			"For every 20 Pure STR, physical damage to all property enemies + 1%.",
-			"For every 20 Pure AGI, physical damage to Neutral property enemies + 1%.",
-			"For every 20 Pure VIT, physical damage to Water property enemies + 1%.",
-			"For every 20 Pure INT, physical damage to Earth property enemies + 1%.",
-			"For every 20 Pure DEX, physical damage to Fire property enemies + 1%.",
-			"For every 20 Pure LUK, physical damage to Wind property enemies + 1%.",
-			"If the total of all pure Base Stats is 600 or higher, physical damage to all property enemies + 10%, FLEE + 10."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 952
 	},
 	[420198] = {
 		unidentifiedDisplayName = "Sanctus",
-		unidentifiedResourceName = "A mysterious cloak filled with holy energy.",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Sanctus",
-		identifiedResourceName = "A mysterious cloak filled with holy energy.",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"It is said to have been torn by a saint who took pity on a man on a cold day.",
-			"When learned Knuckle Arrow Lv 10,",
-			"Reduce the cooldown of Rampage Blast by 0.2 seconds.",
-			"When learned Rising Dragon Lv 10,",
-			"Increase Physical damage to all size enemy by 15%.",
-			"Class : ^777777Sura Class^000000"
+			"Max HP + 15%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Monk",
+			"^0000CCClasses:^000000 All Third, Fourth"
 		},
 		slotCount = 0,
 		ClassNum = 2351
@@ -8350,15 +8399,19 @@ tbl = {
 		ClassNum = 369
 	},
 	[420223] = {
-		unidentifiedDisplayName = "Lower Headgear",
-		unidentifiedResourceName = "Consecrate Fides Aureola",
+		unidentifiedDisplayName = "Consecrate Fides Aureola",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Lower Headgear",
-		identifiedResourceName = "Consecrate Fides Aureola",
+		identifiedDisplayName = "Consecrate Fides Aureola",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"C_Consecrate_F_Aureola",
-			"A sacred symbol materialized by the power of true faith.",
-			"It provides divine power and protection to the user."
+			"Physical damage against all size monsters + 15%",
+			"Magic damage against all size monsters + 15%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2396
@@ -8609,7 +8662,8 @@ tbl = {
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"^0000CCRequirement:^000000 Level 100",
+			"^0000CCJobs:^000000 Spirit Handler, Summoner"
 		},
 		slotCount = 0,
 		ClassNum = 2483
@@ -8742,43 +8796,35 @@ tbl = {
 	},
 	[420342] = {
 		unidentifiedDisplayName = "Wireless Security Drone",
-		unidentifiedResourceName = "When performing physical attack, there is a 2% chance to absorb 2% of damage as HP.",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Wireless Security Drone",
-		identifiedResourceName = "When performing physical attack, there is a 2% chance to absorb 2% of damage as HP.",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"When performing physical attack, there is a 1% chance to absorb 1% of damage as SP.",
-			"Reduces After Cast Delay by 3%.",
-			"Increases EXP received from monsters by 8%.",
-			"When defeating monsters with magic attack,",
-			"recover 300 HP and 5 SP",
-			"^4D4DFFWireless Security Drone^000000",
-			"^4D4DFFAutomatic Engine Wing Type C^000000",
-			"Increases EXP received from monsters by 4%.",
-			"For every 2 refine level of Automatic Engine Wing Type C, increases EXP received from monsters by 1%.",
-			"Increases physical/magical damage against all race monsters (except players) by 8%.",
-			"For every 2 refine level of Automatic Armor Type A/B, reduces after dast delay by 1%."
+			"After Cast Delay - 3%",
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 45",
+			"^0000CCRequirement:^000000 Level 1"
 		},
 		slotCount = 0,
 		ClassNum = 1788
 	},
 	[420343] = {
-		unidentifiedDisplayName = "Rescue Whistle-LT",
-		unidentifiedResourceName = "Rescue_whistle_LT",
+		unidentifiedDisplayName = "Survival Whistle-LT",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Rescue Whistle-LT",
-		identifiedResourceName = "Rescue_whistle_LT",
+		identifiedDisplayName = "Survival Whistle-LT",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"A high-volume whistle that carries sound over long distances. Indispensable in critical moments.",
-			"Flee + 20.",
-			"For every 20 pure STR, increases physical damage against enemies of all property by 2%.",
-			"For every 20 pure AGI, increases physical damage against Neutral property enemies by 2%.",
-			"For every 20 pure VIT, increases physical damage against Water property enemies by 2%.",
-			"For every 20 pure INT, increases physical damage against Earth property enemies by 2%.",
-			"For every 20 pure DEX, increases physical damage against Fire property enemies by 2%.",
-			"For every 20 pure LUK, increases physical damage against Wind property enemies by 2%.",
-			"If the total of all pure basic stats is 600 or higher, increases physical damage against enemies of all property by 10%, Flee + 10, Mres + 10.",
-			"If the total of all pure talent stats is 160 or higher, increases CON + 5, P.Atk + 5."
+			"Has additional effects that are not listed here.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 100"
 		},
 		slotCount = 0,
 		ClassNum = 2545
@@ -8876,49 +8922,62 @@ tbl = {
 		ClassNum = 2594
 	},
 	[420389] = {
-		unidentifiedDisplayName = "Kankrai (Scissors)",
-		unidentifiedResourceName = "Show me your scissors!",
+		unidentifiedDisplayName = "Kankrai",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Kankrai (Scissors)",
-		identifiedResourceName = "Show me your scissors!",
+		identifiedDisplayName = "Kankrai",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"Next time, that guy's definitely going to throw paper!",
-			"Increases physical and magic damage to all class enemies by 5%.",
-			"Ignores 60% of physical and magical defense of all monster races (excluding players).",
-			"^4D4DFFKankrai (Scissors)^000000",
-			"Ignores 40% of physical and magical defense of all monster races (excluding players).",
-			"MATK + 15%, Critical Damage + 15%."
+			"After Cast Delay - 15%",
+			"Physical damage against all class monsters + 5%",
+			"Magic damage against all class monsters + 5%",
+			"Ignores 60% of the DEF of all race monsters",
+			"Ignores 60% of the MDEF of all race monsters",
+			"Ignores -60% of the DEF of Doram Player",
+			"Ignores -60% of the DEF of Human Player",
+			"Ignores -60% of the MDEF of Doram Player",
+			"Ignores -60% of the MDEF of Human Player",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 170"
 		},
 		slotCount = 0,
 		ClassNum = 795
 	},
 	[420390] = {
-		unidentifiedDisplayName = "Khon (Rock)",
-		unidentifiedResourceName = "Throw your rock!",
+		unidentifiedDisplayName = "Khon",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Khon (Rock)",
-		identifiedResourceName = "Throw your rock!",
+		identifiedDisplayName = "Khon",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"Next round, that guy's definitely going to play scissors!",
-			"Reduces After Cast Delay by 7%.",
-			"Increases physical damage to all class enemies by 15%.",
-			"^4D4DFFKhon (Rock)^000000",
-			"ATK + 120."
+			"After Cast Delay - 7%",
+			"Physical damage against all class monsters + 15%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 170"
 		},
 		slotCount = 0,
 		ClassNum = 796
 	},
 	[420391] = {
-		unidentifiedDisplayName = "Kradat (Paper)",
-		unidentifiedResourceName = "Throw your paper!",
+		unidentifiedDisplayName = "Kradat",
+		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Kradat (Paper)",
-		identifiedResourceName = "Throw your paper!",
+		identifiedDisplayName = "Kradat",
+		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"Next round, that guy's definitely going to play rock!",
-			"Increases magic damage to all class enemies by 15%.",
-			"^4D4DFFKradat (Paper)^000000",
-			"After Cast Delay - 15%, MHP + 5000."
+			"After Cast Delay - 7%",
+			"Magic damage against all class monsters + 15%",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 10",
+			"^0000CCRequirement:^000000 Level 170"
 		},
 		slotCount = 0,
 		ClassNum = 797

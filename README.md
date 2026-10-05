@@ -30,12 +30,12 @@ not part of the stock database.
   `Solo_Play_Box1/2`, `Spare_Card`, `Wit_Pumpkin_Hat`, `Mosquito_Coil_1Use`) = 417.
 - **Renewal:** 2,465 headgears, 1,225 with no source, minus 18 leftovers (the `RTC` trophies,
   `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207.
-  480 of them have no entry in the client's item table, so `renewal/System/itemInfo.lua` names and describes them. 89 use the name, icon and
-  description of the iRO client table. The other 391 take their name, defense, weight and slots from the server
-  database and list the simple bonuses of their item script (stats, ATK/MATK, HP/SP, cast and delay, damage against
-  race/size/element). 279 of them also carry a line that they have additional effects not listed, because their
-  scripts have skills, refine bonuses or conditions that are not translated. They use a generic icon per slot. Worn
-  sprites are not affected.
+  480 of them have no entry in the client's item table, so `renewal/System/itemInfo.lua` names and describes them. 33 use the name, icon and
+  description of the iRO client table (only where its record matches the server's item name exactly). The other 447 take their name, defense, weight, slots,
+  level, job and class restrictions from the server database and list the simple bonuses of their item script (stats,
+  ATK/MATK, HP/SP, cast and delay, damage against race/size/element, resistances). 327 of them also carry a line that they have
+  additional effects not listed, because their scripts have skill bonuses, refine bonuses or conditions that are not translated.
+  They use a generic icon per slot. Worn sprites are not affected.
   Snake Head and Skull Cap sit in a stock renewal item group, so they are not in this pool.
 
 ## Layout
