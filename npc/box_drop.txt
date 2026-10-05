@@ -1,17 +1,19 @@
-// Random Headgear Box drop: every monster kill has a small chance to drop one box.
+// Random Headgear Box drop: every monster kill has a small chance to drop one item.
 // Chance = the "drop_chance" setting in units of 0.01% (5 = 0.05%, the default).
-// With "ground_drop" on, the box falls on the ground where the monster died (the player's position if
-// that cannot be read) instead of going straight into the inventory. A player whose @autoloot would pick it up still gets it directly, the same
-// test as extended-arpg-eq-mod: the box is on the @autolootitem list, or its drop chance is within
-// the player's @autoloot rate and its item type is allowed.
+// "drop_box" on: the item is the Random Headgear Box. Off: it is a Headgear Exchange Ticket, which the
+// Headgear Exchange NPC (npc/exchange.txt) turns into boxes.
+// With "ground_drop" on, the item falls on the ground where the monster died (the player's position if that
+// cannot be read) instead of going straight into the inventory. A player whose @autoloot would pick it up still
+// gets it directly: the item is on the @autolootitem list, or its drop chance is within the player's @autoloot
+// rate and its item type is allowed.
 
 -	script	RHB_BoxDrop	-1,{
 	end;
 
 OnInit:
-	.id = 72001;
 	.chance = callfunc("F_ModSetting", "random-headgear-box", "drop_chance", 5);
 	.ground = callfunc("F_ModSetting", "random-headgear-box", "ground_drop", 0);
+	.id = callfunc("F_ModSetting", "random-headgear-box", "drop_box", 1) ? 72001 : 72031;
 	end;
 
 OnNPCKillEvent:
@@ -34,7 +36,6 @@ OnNPCKillEvent:
 		// Drop it where the monster died. getmapxy cannot look up monsters, so read the dead monster
 		// with getunitdata (killedgid). Start from the player's position and only take the monster's
 		// if it is a real spot near the player, so a failed lookup falls back to the player.
-		// Same approach as affix-forge.
 		getmapxy(.@map$, .@x, .@y, BL_PC);
 		getunitdata(killedgid, .@mob);
 		.@mx = .@mob[UMOB_X];

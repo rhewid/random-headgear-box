@@ -1,0 +1,6256 @@
+# Random Headgear Box items (boxes and ticket, ids 72001-72031) and the costume twins of every headgear (ids 73000+),
+# see README.md for the id blocks.
+Header:
+  Type: ITEM_DB
+  Version: 3
+
+Body:
+  - Id: 72001
+    AegisName: Random_Headgear_Box
+    Name: Random Headgear Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndHeadgearBox", 0);
+  - Id: 72023
+    AegisName: Lower_Headgear_Box
+    Name: Lower Headgear Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndHeadgearBox", 3);
+  - Id: 72022
+    AegisName: Middle_Headgear_Box
+    Name: Middle Headgear Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndHeadgearBox", 2);
+  - Id: 72021
+    AegisName: Upper_Headgear_Box
+    Name: Upper Headgear Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndHeadgearBox", 1);
+  - Id: 72013
+    AegisName: Lower_Headgear_Costume_Box
+    Name: Lower Headgear Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostumeBox", 3);
+  - Id: 72012
+    AegisName: Middle_Headgear_Costume_Box
+    Name: Middle Headgear Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostumeBox", 2);
+  - Id: 72011
+    AegisName: Upper_Headgear_Costume_Box
+    Name: Upper Headgear Costume Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndCostumeBox", 1);
+  - Id: 72031
+    AegisName: Headgear_Exchange_Ticket
+    Name: Headgear Exchange Ticket
+    Type: Etc
+    Weight: 10
+  - Id: 73000
+    AegisName: HTC_Sunglasses
+    Name: "Costume Sunglasses"
+    Type: Armor
+    Weight: 0
+    View: 12
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73001
+    AegisName: HTC_Sunglasses_
+    Name: "Costume Sunglasses"
+    Type: Armor
+    Weight: 0
+    View: 12
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73002
+    AegisName: HTC_Glasses
+    Name: "Costume Glasses"
+    Type: Armor
+    Weight: 0
+    View: 3
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73003
+    AegisName: HTC_Glasses_
+    Name: "Costume Glasses"
+    Type: Armor
+    Weight: 0
+    View: 3
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73004
+    AegisName: HTC_Diver's_Goggles
+    Name: "Costume Diver Goggles"
+    Type: Armor
+    Weight: 0
+    View: 10
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73005
+    AegisName: HTC_Wedding_Veil
+    Name: "Costume Wedding Veil"
+    Type: Armor
+    Weight: 0
+    View: 44
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73006
+    AegisName: HTC_Fancy_Flower
+    Name: "Costume Fancy Flower"
+    Type: Armor
+    Weight: 0
+    View: 4
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73007
+    AegisName: HTC_Ribbon
+    Name: "Costume Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 17
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73008
+    AegisName: HTC_Ribbon_
+    Name: "Costume Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 17
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73009
+    AegisName: HTC_Hair_Band
+    Name: "Costume Hairband"
+    Type: Armor
+    Weight: 0
+    View: 9
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73010
+    AegisName: HTC_Bandana
+    Name: "Costume Bandana"
+    Type: Armor
+    Weight: 0
+    View: 6
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73011
+    AegisName: HTC_Eye_Bandage
+    Name: "Costume Eye Patch"
+    Type: Armor
+    Weight: 0
+    View: 13
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73012
+    AegisName: HTC_Cat_Hairband
+    Name: "Costume Kitty Band"
+    Type: Armor
+    Weight: 0
+    View: 2
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73013
+    AegisName: HTC_Bunny_Band
+    Name: "Costume Bunny Band"
+    Type: Armor
+    Weight: 0
+    View: 15
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73014
+    AegisName: HTC_Flower_Hairband
+    Name: "Costume Flower Band"
+    Type: Armor
+    Weight: 0
+    View: 5
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73015
+    AegisName: HTC_Biretta
+    Name: "Costume Biretta"
+    Type: Armor
+    Weight: 0
+    View: 11
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73016
+    AegisName: HTC_Biretta_
+    Name: "Costume Biretta"
+    Type: Armor
+    Weight: 0
+    View: 11
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73017
+    AegisName: HTC_Flu_Mask
+    Name: "Costume Flu Mask"
+    Type: Armor
+    Weight: 0
+    View: 8
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73018
+    AegisName: HTC_Flu_Mask_
+    Name: "Costume Flu Mask"
+    Type: Armor
+    Weight: 0
+    View: 8
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73019
+    AegisName: HTC_Hat
+    Name: "Costume Hat"
+    Type: Armor
+    Weight: 0
+    View: 16
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73020
+    AegisName: HTC_Hat_
+    Name: "Costume Hat"
+    Type: Armor
+    Weight: 0
+    View: 16
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73021
+    AegisName: HTC_Turban
+    Name: "Costume Turban"
+    Type: Armor
+    Weight: 0
+    View: 7
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73022
+    AegisName: HTC_Turban_
+    Name: "Costume Turban"
+    Type: Armor
+    Weight: 0
+    View: 7
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73023
+    AegisName: HTC_Goggle
+    Name: "Costume Goggles"
+    Type: Armor
+    Weight: 0
+    View: 1
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73024
+    AegisName: HTC_Goggle_
+    Name: "Costume Goggles"
+    Type: Armor
+    Weight: 0
+    View: 1
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73025
+    AegisName: HTC_Cap
+    Name: "Costume Cap"
+    Type: Armor
+    Weight: 0
+    View: 14
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73026
+    AegisName: HTC_Cap_
+    Name: "Costume Cap"
+    Type: Armor
+    Weight: 0
+    View: 14
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73027
+    AegisName: HTC_Helm
+    Name: "Costume Helm"
+    Type: Armor
+    Weight: 0
+    View: 40
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73028
+    AegisName: HTC_Helm_
+    Name: "Costume Helm"
+    Type: Armor
+    Weight: 0
+    View: 40
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73029
+    AegisName: HTC_Circlet
+    Name: "Costume Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73030
+    AegisName: HTC_Circlet_
+    Name: "Costume Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73031
+    AegisName: HTC_Tiara
+    Name: "Costume Tiara"
+    Type: Armor
+    Weight: 0
+    View: 19
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73032
+    AegisName: HTC_Crown
+    Name: "Costume Crown"
+    Type: Armor
+    Weight: 0
+    View: 45
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73033
+    AegisName: HTC_Santa's_Hat
+    Name: "Costume Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 20
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73034
+    AegisName: HTC_Weird_Goatee
+    Name: "Costume Bandit Beard"
+    Type: Armor
+    Weight: 0
+    View: 21
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73035
+    AegisName: HTC_One_Eyed_Glass
+    Name: "Costume Monocle"
+    Type: Armor
+    Weight: 0
+    View: 23
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73036
+    AegisName: HTC_Beard
+    Name: "Costume Beard"
+    Type: Armor
+    Weight: 0
+    View: 24
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73037
+    AegisName: HTC_Granpa_Beard
+    Name: "Costume Grampa Beard"
+    Type: Armor
+    Weight: 0
+    View: 25
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73038
+    AegisName: HTC_Luxury_Sunglasses
+    Name: "Costume Purple Glasses"
+    Type: Armor
+    Weight: 0
+    View: 26
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73039
+    AegisName: HTC_Spinning_Eyes
+    Name: "Costume Geek Glasses"
+    Type: Armor
+    Weight: 0
+    View: 27
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73040
+    AegisName: HTC_Big_Sis'_Ribbon
+    Name: "Costume Big Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 28
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73041
+    AegisName: HTC_Sweet_Gents
+    Name: "Costume Sweet Gent"
+    Type: Armor
+    Weight: 0
+    View: 29
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73042
+    AegisName: HTC_Golden_Gear
+    Name: "Costume Golden Gear"
+    Type: Armor
+    Weight: 0
+    View: 30
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73043
+    AegisName: HTC_Oldman's_Romance
+    Name: "Costume Romantic Gent"
+    Type: Armor
+    Weight: 0
+    View: 31
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73044
+    AegisName: HTC_Western_Grace
+    Name: "Costume Western Grace"
+    Type: Armor
+    Weight: 0
+    View: 32
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73045
+    AegisName: HTC_Coronet
+    Name: "Costume Coronet"
+    Type: Armor
+    Weight: 0
+    View: 33
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73046
+    AegisName: HTC_Fillet
+    Name: "Costume Cute Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 34
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73047
+    AegisName: HTC_Holy_Bonnet
+    Name: "Costume Monk Hat"
+    Type: Armor
+    Weight: 0
+    View: 35
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73048
+    AegisName: HTC_Star_Sparkling
+    Name: "Costume Wizard Hat"
+    Type: Armor
+    Weight: 0
+    View: 36
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73049
+    AegisName: HTC_Sunflower
+    Name: "Costume Sunflower"
+    Type: Armor
+    Weight: 0
+    View: 37
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73050
+    AegisName: HTC_Angelic_Chain
+    Name: "Costume Angel Wings"
+    Type: Armor
+    Weight: 0
+    View: 38
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73051
+    AegisName: HTC_Satanic_Chain
+    Name: "Costume Evil Wings"
+    Type: Armor
+    Weight: 0
+    View: 39
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73052
+    AegisName: HTC_Magestic_Goat
+    Name: "Costume Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 41
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73053
+    AegisName: HTC_Snowy_Horn
+    Name: "Costume Unicorn Horn"
+    Type: Armor
+    Weight: 0
+    View: 42
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73054
+    AegisName: HTC_Sharp_Gear
+    Name: "Costume Spiky Band"
+    Type: Armor
+    Weight: 0
+    View: 43
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73055
+    AegisName: HTC_Mini_Propeller
+    Name: "Costume Mini Propeller"
+    Type: Armor
+    Weight: 0
+    View: 46
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73056
+    AegisName: HTC_Mini_Glasses
+    Name: "Costume Mini Glasses"
+    Type: Armor
+    Weight: 0
+    View: 47
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73057
+    AegisName: HTC_Prontera_Army_Cap
+    Name: "Costume Army Cap"
+    Type: Armor
+    Weight: 0
+    View: 48
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73058
+    AegisName: HTC_Pierrot_Nose
+    Name: "Costume Clown Nose"
+    Type: Armor
+    Weight: 0
+    View: 49
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73059
+    AegisName: HTC_Gangster_Patch
+    Name: "Costume Zorro Mask"
+    Type: Armor
+    Weight: 0
+    View: 50
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73060
+    AegisName: HTC_Munak_Turban
+    Name: "Costume Munak Hat"
+    Type: Armor
+    Weight: 0
+    View: 51
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73061
+    AegisName: HTC_Ganster_Mask
+    Name: "Costume Gangster Mask"
+    Type: Armor
+    Weight: 0
+    View: 52
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73062
+    AegisName: HTC_Iron_Cane
+    Name: "Costume Iron Cain"
+    Type: Armor
+    Weight: 0
+    View: 53
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73063
+    AegisName: HTC_Cigar
+    Name: "Costume Cigarette"
+    Type: Armor
+    Weight: 0
+    View: 54
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73064
+    AegisName: HTC_Smoking_Pipe
+    Name: "Costume Pipe"
+    Type: Armor
+    Weight: 0
+    View: 55
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73065
+    AegisName: HTC_Centimental_Flower
+    Name: "Costume Romantic Flower"
+    Type: Armor
+    Weight: 0
+    View: 56
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73066
+    AegisName: HTC_Centimental_Leaf
+    Name: "Costume Romantic Leaf"
+    Type: Armor
+    Weight: 0
+    View: 57
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73067
+    AegisName: HTC_Jack_A_Dandy
+    Name: "Costume Jack be Dandy"
+    Type: Armor
+    Weight: 0
+    View: 58
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73068
+    AegisName: HTC_Stop_Post
+    Name: "Costume Stop Post"
+    Type: Armor
+    Weight: 0
+    View: 59
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73069
+    AegisName: HTC_Doctor_Cap
+    Name: "Costume Doctor Band"
+    Type: Armor
+    Weight: 0
+    View: 60
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73070
+    AegisName: HTC_Ghost_Bandana
+    Name: "Costume Ghost Bandana"
+    Type: Armor
+    Weight: 0
+    View: 61
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73071
+    AegisName: HTC_Red_Bandana
+    Name: "Costume Red Bandana"
+    Type: Armor
+    Weight: 0
+    View: 62
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73072
+    AegisName: HTC_Eagle_Eyes
+    Name: "Costume Eagle Eyes"
+    Type: Armor
+    Weight: 0
+    View: 63
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73073
+    AegisName: HTC_Nurse_Cap
+    Name: "Costume Nurse Cap"
+    Type: Armor
+    Weight: 0
+    View: 64
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73074
+    AegisName: HTC_Mr_Smile
+    Name: "Costume Mr. Smile"
+    Type: Armor
+    Weight: 0
+    View: 65
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73075
+    AegisName: HTC_Bomb_Wick
+    Name: "Costume Bomb Wick"
+    Type: Armor
+    Weight: 0
+    View: 66
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73076
+    AegisName: HTC_Sahkkat
+    Name: "Costume Sakkat"
+    Type: Armor
+    Weight: 0
+    View: 67
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73077
+    AegisName: HTC_Phantom_Of_Opera
+    Name: "Costume Opera Mask"
+    Type: Armor
+    Weight: 0
+    View: 68
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73078
+    AegisName: HTC_Spirit_Chain
+    Name: "Costume Halo"
+    Type: Armor
+    Weight: 0
+    View: 69
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73079
+    AegisName: HTC_Ear_Mufs
+    Name: "Costume Ear Muffs"
+    Type: Armor
+    Weight: 0
+    View: 70
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73080
+    AegisName: HTC_Antler
+    Name: "Costume Antlers"
+    Type: Armor
+    Weight: 0
+    View: 71
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73081
+    AegisName: HTC_Apple_Of_Archer
+    Name: "Costume Apple of Archer"
+    Type: Armor
+    Weight: 0
+    View: 72
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73082
+    AegisName: HTC_Elven_Ears
+    Name: "Costume Elven Ears"
+    Type: Armor
+    Weight: 0
+    View: 73
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73083
+    AegisName: HTC_Pirate_Bandana
+    Name: "Costume Pirate Bandana"
+    Type: Armor
+    Weight: 0
+    View: 74
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73084
+    AegisName: HTC_Mr_Scream
+    Name: "Costume Mr. Scream"
+    Type: Armor
+    Weight: 0
+    View: 75
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73085
+    AegisName: HTC_Poo_Poo_Hat
+    Name: "Costume Poo Poo Hat"
+    Type: Armor
+    Weight: 0
+    View: 76
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73086
+    AegisName: HTC_Funeral_Costume
+    Name: "Costume Funeral Hat"
+    Type: Armor
+    Weight: 0
+    View: 77
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73087
+    AegisName: HTC_Masquerade
+    Name: "Costume Butterfly Mask"
+    Type: Armor
+    Weight: 0
+    View: 78
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73088
+    AegisName: HTC_Welding_Mask
+    Name: "Costume Welding Mask"
+    Type: Armor
+    Weight: 0
+    View: 79
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73089
+    AegisName: HTC_Pretend_Murdered
+    Name: "Costume Pretend Murdered"
+    Type: Armor
+    Weight: 0
+    View: 80
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73090
+    AegisName: HTC_Star_Dust
+    Name: "Costume Stellar"
+    Type: Armor
+    Weight: 0
+    View: 81
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73091
+    AegisName: HTC_Blinker
+    Name: "Costume Blinkers"
+    Type: Armor
+    Weight: 0
+    View: 82
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73092
+    AegisName: HTC_Binoculars
+    Name: "Costume Binoculars"
+    Type: Armor
+    Weight: 0
+    View: 83
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73093
+    AegisName: HTC_Goblini_Mask
+    Name: "Costume Goblin Mask"
+    Type: Armor
+    Weight: 0
+    View: 84
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73094
+    AegisName: HTC_Green_Feeler
+    Name: "Costume Green Feeler"
+    Type: Armor
+    Weight: 0
+    View: 85
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73095
+    AegisName: HTC_Viking_Helm
+    Name: "Costume Orc Helm"
+    Type: Armor
+    Weight: 0
+    View: 86
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73096
+    AegisName: HTC_Elven_Ears_C
+    Name: "Costume Elven Ears"
+    Type: Armor
+    Weight: 0
+    View: 73
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73097
+    AegisName: HTC_Steel_Flower_C
+    Name: "Costume Steel Flower"
+    Type: Armor
+    Weight: 0
+    View: 56
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73098
+    AegisName: HTC_Headset
+    Name: "Costume Headset"
+    Type: Armor
+    Weight: 0
+    View: 87
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73099
+    AegisName: HTC_Gemmed_Crown
+    Name: "Costume Jewel Crown"
+    Type: Armor
+    Weight: 0
+    View: 88
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73100
+    AegisName: HTC_Joker_Jester
+    Name: "Costume Joker Jester"
+    Type: Armor
+    Weight: 0
+    View: 89
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73101
+    AegisName: HTC_Oxygen_Mask
+    Name: "Costume Oxygen Mask"
+    Type: Armor
+    Weight: 0
+    View: 90
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73102
+    AegisName: HTC_Gas_Mask
+    Name: "Costume Gas Mask"
+    Type: Armor
+    Weight: 0
+    View: 91
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73103
+    AegisName: HTC_Machoman_Glasses
+    Name: "Costume Machoman's Glasses"
+    Type: Armor
+    Weight: 0
+    View: 92
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73104
+    AegisName: HTC_Loard_Circlet
+    Name: "Costume Grand Circlet"
+    Type: Armor
+    Weight: 0
+    View: 93
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73105
+    AegisName: HTC_Puppy_Love
+    Name: "Costume Puppy Love"
+    Type: Armor
+    Weight: 0
+    View: 94
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73106
+    AegisName: HTC_Safety_Helmet
+    Name: "Costume Safety Helmet"
+    Type: Armor
+    Weight: 0
+    View: 95
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73107
+    AegisName: HTC_Indian_Hair_Piece
+    Name: "Costume Indian Fillet"
+    Type: Armor
+    Weight: 0
+    View: 96
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73108
+    AegisName: HTC_Antenna
+    Name: "Costume Antenna"
+    Type: Armor
+    Weight: 0
+    View: 97
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73109
+    AegisName: HTC_Ph.D_Hat
+    Name: "Costume Ph.D Hat"
+    Type: Armor
+    Weight: 0
+    View: 98
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73110
+    AegisName: HTC_Horn_Of_Lord_Kaho
+    Name: "Costume Lord Kaho's Horn"
+    Type: Armor
+    Weight: 0
+    View: 99
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73111
+    AegisName: HTC_Fin_Helm
+    Name: "Costume Fin Helm"
+    Type: Armor
+    Weight: 0
+    View: 100
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73112
+    AegisName: HTC_Egg_Shell
+    Name: "Costume Egg Shell"
+    Type: Armor
+    Weight: 0
+    View: 101
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73113
+    AegisName: HTC_Boy's_Cap
+    Name: "Costume Boy's Cap"
+    Type: Armor
+    Weight: 0
+    View: 102
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73114
+    AegisName: HTC_Bone_Helm
+    Name: "Costume Bone Helm"
+    Type: Armor
+    Weight: 0
+    View: 103
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73115
+    AegisName: HTC_Feather_Bonnet
+    Name: "Costume Feather Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 104
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73116
+    AegisName: HTC_Corsair
+    Name: "Costume Corsair"
+    Type: Armor
+    Weight: 0
+    View: 105
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73117
+    AegisName: HTC_Kafra_Band
+    Name: "Costume Kafra Headband"
+    Type: Armor
+    Weight: 0
+    View: 106
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73118
+    AegisName: HTC_Bankruptcy_Of_Heart
+    Name: "Costume Bankruptcy of Heart"
+    Type: Armor
+    Weight: 0
+    View: 107
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73119
+    AegisName: HTC_Helm_Of_Sun
+    Name: "Costume Hat of the Sun God"
+    Type: Armor
+    Weight: 0
+    View: 138
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73120
+    AegisName: HTC_Hat_Of_Bundle
+    Name: "Costume Parcel Hat"
+    Type: Armor
+    Weight: 0
+    View: 108
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73121
+    AegisName: HTC_Hat_Of_Cake
+    Name: "Costume Cake Hat"
+    Type: Armor
+    Weight: 0
+    View: 109
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73122
+    AegisName: HTC_Helm_Of_Angel
+    Name: "Costume Helm of Angel"
+    Type: Armor
+    Weight: 0
+    View: 110
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73123
+    AegisName: HTC_Hat_Of_Cook
+    Name: "Costume Chef Hat"
+    Type: Armor
+    Weight: 0
+    View: 111
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73124
+    AegisName: HTC_Wizardry_Hat
+    Name: "Costume Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 112
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73125
+    AegisName: HTC_Candle
+    Name: "Costume Candle"
+    Type: Armor
+    Weight: 0
+    View: 113
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73126
+    AegisName: HTC_Spore_Hat
+    Name: "Costume Spore Hat"
+    Type: Armor
+    Weight: 0
+    View: 114
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73127
+    AegisName: HTC_Panda_Cap
+    Name: "Costume Panda Hat"
+    Type: Armor
+    Weight: 0
+    View: 115
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73128
+    AegisName: HTC_Mine_Helm
+    Name: "Costume Mine Helmet"
+    Type: Armor
+    Weight: 0
+    View: 116
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73129
+    AegisName: HTC_Picnic_Hat
+    Name: "Costume Sunday Hat"
+    Type: Armor
+    Weight: 0
+    View: 117
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73130
+    AegisName: HTC_Smokie_Hat
+    Name: "Costume Raccoon Hat"
+    Type: Armor
+    Weight: 0
+    View: 118
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73131
+    AegisName: HTC_Light_Bulb_Band
+    Name: "Costume Bulb Headband"
+    Type: Armor
+    Weight: 0
+    View: 119
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73132
+    AegisName: HTC_Poring_Hat
+    Name: "Costume Poring Hat"
+    Type: Armor
+    Weight: 0
+    View: 120
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73133
+    AegisName: HTC_Cross_Band
+    Name: "Costume Cross Hat"
+    Type: Armor
+    Weight: 0
+    View: 121
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73134
+    AegisName: HTC_Fruit_Shell
+    Name: "Costume Nut Shell"
+    Type: Armor
+    Weight: 0
+    View: 122
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73135
+    AegisName: HTC_Deviruchi_Cap
+    Name: "Costume Deviruchi Hat"
+    Type: Armor
+    Weight: 0
+    View: 123
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73136
+    AegisName: HTC_Mottled_Egg_Shell
+    Name: "Costume Rainbow Eggshell"
+    Type: Armor
+    Weight: 0
+    View: 124
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73137
+    AegisName: HTC_Blush
+    Name: "Costume Blush"
+    Type: Armor
+    Weight: 0
+    View: 125
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73138
+    AegisName: HTC_Heart_Hair_Pin
+    Name: "Costume Heart Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 126
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73139
+    AegisName: HTC_Hair_Protector
+    Name: "Costume Bao Bao"
+    Type: Armor
+    Weight: 0
+    View: 127
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73140
+    AegisName: HTC_Opera_Ghost_Mask
+    Name: "Costume Opera Phantom Mask"
+    Type: Armor
+    Weight: 0
+    View: 128
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73141
+    AegisName: HTC_Devil's_Wing
+    Name: "Costume Evil Wing Ears"
+    Type: Armor
+    Weight: 0
+    View: 129
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73142
+    AegisName: HTC_Magician_Hat
+    Name: "Costume Magician Hat"
+    Type: Armor
+    Weight: 0
+    View: 130
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73143
+    AegisName: HTC_Bongun_Hat
+    Name: "Costume Bongun Hat"
+    Type: Armor
+    Weight: 0
+    View: 139
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73144
+    AegisName: HTC_Fashion_Sunglass
+    Name: "Costume Fashionable Glasses"
+    Type: Armor
+    Weight: 0
+    View: 131
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73145
+    AegisName: HTC_First_Moon_Hair_Pin
+    Name: "Costume Cresent Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 132
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73146
+    AegisName: HTC_Stripe_Band
+    Name: "Costume Striped Hairband"
+    Type: Armor
+    Weight: 0
+    View: 133
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73147
+    AegisName: HTC_Mystery_Fruit_Shell
+    Name: "Costume Wonder Nutshell"
+    Type: Armor
+    Weight: 0
+    View: 134
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73148
+    AegisName: HTC_Kitty_Bell
+    Name: "Costume Pussy Cat Bell"
+    Type: Armor
+    Weight: 0
+    View: 135
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73149
+    AegisName: HTC_Blue_Hair_Band
+    Name: "Costume Blue Hairband"
+    Type: Armor
+    Weight: 0
+    View: 136
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73150
+    AegisName: HTC_Spinx_Helm
+    Name: "Costume Sphinx Hat"
+    Type: Armor
+    Weight: 0
+    View: 137
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Top: true
+  - Id: 73151
+    AegisName: HTC_Assassin_Mask
+    Name: "Costume Assassin Mask"
+    Type: Armor
+    Weight: 0
+    View: 180
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73152
+    AegisName: HTC_Novice_Egg_Cap
+    Name: "Costume Novice False Eggshell"
+    Type: Armor
+    Weight: 0
+    View: 101
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73153
+    AegisName: HTC_Love_Berry
+    Name: "Costume Fruit of Love"
+    Type: Armor
+    Weight: 0
+    View: 140
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73154
+    AegisName: HTC_Ear_Of_Black_Cat
+    Name: "Costume Black Cat Ears"
+    Type: Armor
+    Weight: 0
+    View: 141
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73155
+    AegisName: HTC_Drooping_Kitty
+    Name: "Costume Drooping Cat"
+    Type: Armor
+    Weight: 0
+    View: 142
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73156
+    AegisName: HTC_Brown_Bear_Cap
+    Name: "Costume Teddybear Hat"
+    Type: Armor
+    Weight: 0
+    View: 143
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73157
+    AegisName: HTC_Party_Hat
+    Name: "Costume Party Hat"
+    Type: Armor
+    Weight: 0
+    View: 144
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73158
+    AegisName: HTC_Flower_Hairpin
+    Name: "Costume Flower Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 145
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73159
+    AegisName: HTC_Straw_Hat
+    Name: "Costume Straw Hat"
+    Type: Armor
+    Weight: 0
+    View: 146
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73160
+    AegisName: HTC_Plaster
+    Name: "Costume Bandage"
+    Type: Armor
+    Weight: 0
+    View: 147
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73161
+    AegisName: HTC_Leaf_Headgear
+    Name: "Costume Smokie Leaf"
+    Type: Armor
+    Weight: 0
+    View: 148
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73162
+    AegisName: HTC_Fish_On_Head
+    Name: "Costume Blue Fish"
+    Type: Armor
+    Weight: 0
+    View: 149
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73163
+    AegisName: HTC_Horn_Of_Succubus
+    Name: "Costume Succubus Horn"
+    Type: Armor
+    Weight: 0
+    View: 150
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73164
+    AegisName: HTC_Sombrero
+    Name: "Costume Sombrero"
+    Type: Armor
+    Weight: 0
+    View: 151
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73165
+    AegisName: HTC_Ear_Of_Devil's_Wing
+    Name: "Costume Evil Wing Ears"
+    Type: Armor
+    Weight: 0
+    View: 152
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73166
+    AegisName: HTC_Mask_Of_Fox
+    Name: "Costume Kitsune Mask"
+    Type: Armor
+    Weight: 0
+    View: 153
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73167
+    AegisName: HTC_Headband_Of_Power
+    Name: "Costume Hot-blooded Headband"
+    Type: Armor
+    Weight: 0
+    View: 154
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73168
+    AegisName: HTC_Indian_Headband
+    Name: "Costume Indian Headband"
+    Type: Armor
+    Weight: 0
+    View: 155
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73169
+    AegisName: HTC_Inccubus_Horn
+    Name: "Costume Incubus Horn"
+    Type: Armor
+    Weight: 0
+    View: 156
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73170
+    AegisName: HTC_Cap_Of_Concentration
+    Name: "Costume Model Training Hat"
+    Type: Armor
+    Weight: 0
+    View: 157
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73171
+    AegisName: HTC_Ear_Of_Angel's_Wing
+    Name: "Costume Angel Wing Ears"
+    Type: Armor
+    Weight: 0
+    View: 158
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73172
+    AegisName: HTC_Cowboy_Hat
+    Name: "Costume Cowboy Hat"
+    Type: Armor
+    Weight: 0
+    View: 159
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73173
+    AegisName: HTC_Fur_Hat
+    Name: "Costume Beanie"
+    Type: Armor
+    Weight: 0
+    View: 160
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73174
+    AegisName: HTC_Tulip_Hairpin
+    Name: "Costume Tulip Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 161
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73175
+    AegisName: HTC_Sea_Otter_Cap
+    Name: "Costume Sea-Otter Hat"
+    Type: Armor
+    Weight: 0
+    View: 162
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73176
+    AegisName: HTC_Crossed_Hair_Band
+    Name: "Costume X Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 163
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73177
+    AegisName: HTC_Headgear_Of_Queen
+    Name: "Costume Crown of Ancient Queen"
+    Type: Armor
+    Weight: 0
+    View: 164
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73178
+    AegisName: HTC_Mistress_Crown
+    Name: "Costume Crown of Mistress"
+    Type: Armor
+    Weight: 0
+    View: 165
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73179
+    AegisName: HTC_Mushroom_Band
+    Name: "Costume Decorative Mushroom"
+    Type: Armor
+    Weight: 0
+    View: 166
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73180
+    AegisName: HTC_Red_Tailed_Ribbon
+    Name: "Costume Red Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 167
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73181
+    AegisName: HTC_Lazy_Raccoon
+    Name: "Costume Lazy Smokie"
+    Type: Armor
+    Weight: 0
+    View: 168
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73182
+    AegisName: HTC_Pair_Of_Red_Ribbon
+    Name: "Costume Small Ribbons"
+    Type: Armor
+    Weight: 0
+    View: 169
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73183
+    AegisName: HTC_Alarm_Mask
+    Name: "Costume Alarm Mask"
+    Type: Armor
+    Weight: 0
+    View: 170
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73184
+    AegisName: HTC_Goblin_Mask_01
+    Name: "Costume Poker Face"
+    Type: Armor
+    Weight: 0
+    View: 171
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73185
+    AegisName: HTC_Goblin_Mask_02
+    Name: "Costume Surprised Mask"
+    Type: Armor
+    Weight: 0
+    View: 172
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73186
+    AegisName: HTC_Goblin_Mask_03
+    Name: "Costume Annoyed Mask"
+    Type: Armor
+    Weight: 0
+    View: 173
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73187
+    AegisName: HTC_Goblin_Mask_04
+    Name: "Costume Goblin Leader Mask"
+    Type: Armor
+    Weight: 0
+    View: 174
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73188
+    AegisName: HTC_Big_Golden_Bell
+    Name: "Costume Decorative Golden Bell"
+    Type: Armor
+    Weight: 0
+    View: 175
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73189
+    AegisName: HTC_Blue_Coif
+    Name: "Costume Coif"
+    Type: Armor
+    Weight: 0
+    View: 176
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73190
+    AegisName: HTC_Blue_Coif_
+    Name: "Costume Coif"
+    Type: Armor
+    Weight: 0
+    View: 177
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73191
+    AegisName: HTC_Orc_Hero_Helm
+    Name: "Costume Helmet of Orc Hero"
+    Type: Armor
+    Weight: 0
+    View: 178
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73192
+    AegisName: HTC_Assassin_Mask_
+    Name: "Costume Assassin Mask"
+    Type: Armor
+    Weight: 0
+    View: 180
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73193
+    AegisName: HTC_Cone_Hat_
+    Name: "Costume Holiday Hat"
+    Type: Armor
+    Weight: 0
+    View: 144
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73194
+    AegisName: HTC_Tiger_Mask
+    Name: "Costume Tiger Mask"
+    Type: Armor
+    Weight: 0
+    View: 181
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73195
+    AegisName: HTC_Cat_Hat
+    Name: "Costume Neko Mimi"
+    Type: Armor
+    Weight: 0
+    View: 182
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73196
+    AegisName: HTC_Sales_Signboard
+    Name: "Costume Sales Banner"
+    Type: Armor
+    Weight: 0
+    View: 183
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73197
+    AegisName: HTC_Takius_Blindfold
+    Name: "Costume Takius Blindfold"
+    Type: Armor
+    Weight: 0
+    View: 184
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73198
+    AegisName: HTC_Round_Eyes
+    Name: "Costume Blank Eyes"
+    Type: Armor
+    Weight: 0
+    View: 185
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73199
+    AegisName: HTC_Sunflower_Hairpin
+    Name: "Costume Sunflower Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 186
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73200
+    AegisName: HTC_Dark_Blindfold
+    Name: "Costume Dark Blinkers"
+    Type: Armor
+    Weight: 0
+    View: 187
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73201
+    AegisName: HTC_Hat_Of_Cake_
+    Name: "Costume 2nd Anniversary Hat"
+    Type: Armor
+    Weight: 0
+    View: 109
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73202
+    AegisName: HTC_Cone_Hat_INA
+    Name: "Costume G10 Anniversary Hat"
+    Type: Armor
+    Weight: 0
+    View: 144
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73203
+    AegisName: HTC_Well_Baked_Toast
+    Name: "Costume Crunch Toast"
+    Type: Armor
+    Weight: 0
+    View: 188
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73204
+    AegisName: HTC_Detective_Hat
+    Name: "Costume Renown Detective's Cap"
+    Type: Armor
+    Weight: 0
+    View: 189
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73205
+    AegisName: HTC_Red_Bonnet
+    Name: "Costume Red Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 190
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73206
+    AegisName: HTC_Baby_Pacifier
+    Name: "Costume Baby Pacifier"
+    Type: Armor
+    Weight: 0
+    View: 191
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73207
+    AegisName: HTC_Galapago_Cap
+    Name: "Costume Galapago Cap"
+    Type: Armor
+    Weight: 0
+    View: 192
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73208
+    AegisName: HTC_Super_Novice_Hat
+    Name: "Costume Super Novice Hat"
+    Type: Armor
+    Weight: 0
+    View: 193
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73209
+    AegisName: HTC_Angry_Mouth
+    Name: "Costume Angry Snarl"
+    Type: Armor
+    Weight: 0
+    View: 194
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73210
+    AegisName: HTC_Fedora
+    Name: "Costume Bucket Hat"
+    Type: Armor
+    Weight: 0
+    View: 195
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73211
+    AegisName: HTC_Winter_Hat
+    Name: "Costume Winter Hat"
+    Type: Armor
+    Weight: 0
+    View: 196
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73212
+    AegisName: HTC_Banana_Hat
+    Name: "Costume Banana Hat"
+    Type: Armor
+    Weight: 0
+    View: 197
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73213
+    AegisName: HTC_Mistic_Rose
+    Name: "Costume Mystic Rose"
+    Type: Armor
+    Weight: 0
+    View: 198
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73214
+    AegisName: HTC_Ear_Of_Puppy
+    Name: "Costume Puppy Headband"
+    Type: Armor
+    Weight: 0
+    View: 199
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73215
+    AegisName: HTC_Super_Novice_Hat_
+    Name: "Costume Super Novice Hat"
+    Type: Armor
+    Weight: 0
+    View: 193
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73216
+    AegisName: HTC_Fedora_
+    Name: "Costume Bucket Hat"
+    Type: Armor
+    Weight: 0
+    View: 195
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73217
+    AegisName: HTC_Zherlthsh_Mask
+    Name: "Costume Zealotus Mask"
+    Type: Armor
+    Weight: 0
+    View: 200
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73218
+    AegisName: HTC_Magni_Cap
+    Name: "Costume Magni's Cap"
+    Type: Armor
+    Weight: 0
+    View: 250
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73219
+    AegisName: HTC_Ulle_Cap
+    Name: "Costume Ulle's Cap"
+    Type: Armor
+    Weight: 0
+    View: 254
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73220
+    AegisName: HTC_Fricca_Circlet
+    Name: "Costume Fricca's Circlet"
+    Type: Armor
+    Weight: 0
+    View: 251
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73221
+    AegisName: HTC_Kiss_Of_Angel
+    Name: "Costume Angel's Kiss"
+    Type: Armor
+    Weight: 0
+    View: 255
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73222
+    AegisName: HTC_Morpheus's_Hood
+    Name: "Costume Morpheus's Hood"
+    Type: Armor
+    Weight: 0
+    View: 256
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73223
+    AegisName: HTC_Morrigane's_Helm
+    Name: "Costume Morrigane's Helm"
+    Type: Armor
+    Weight: 0
+    View: 257
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73224
+    AegisName: HTC_Goibne's_Helmet
+    Name: "Costume Goibne's Helm"
+    Type: Armor
+    Weight: 0
+    View: 258
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73225
+    AegisName: HTC_Bird_Nest
+    Name: "Costume Bird Nest"
+    Type: Armor
+    Weight: 0
+    View: 201
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73226
+    AegisName: HTC_Lion_Mask
+    Name: "Costume Lion Mask"
+    Type: Armor
+    Weight: 0
+    View: 202
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73227
+    AegisName: HTC_Close_Helmet
+    Name: "Costume Close Helmet"
+    Type: Armor
+    Weight: 0
+    View: 203
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73228
+    AegisName: HTC_Angeling_Hat
+    Name: "Costume Angelring Hat"
+    Type: Armor
+    Weight: 0
+    View: 204
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73229
+    AegisName: HTC_Sheep_Hat
+    Name: "Costume Sheep Hat"
+    Type: Armor
+    Weight: 0
+    View: 205
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73230
+    AegisName: HTC_Pumpkin_Hat
+    Name: "Costume Pumpkin-Head"
+    Type: Armor
+    Weight: 0
+    View: 206
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73231
+    AegisName: HTC_Cyclops_Visor
+    Name: "Costume Cyclop's Eye"
+    Type: Armor
+    Weight: 0
+    View: 207
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73232
+    AegisName: HTC_Santa's_Hat_
+    Name: "Costume Antonio's Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 20
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73233
+    AegisName: HTC_Alice_Doll
+    Name: "Costume Alice Doll"
+    Type: Armor
+    Weight: 0
+    View: 208
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73234
+    AegisName: HTC_Magic_Eyes
+    Name: "Costume Magic Eyes"
+    Type: Armor
+    Weight: 0
+    View: 209
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73235
+    AegisName: HTC_Hibiscus
+    Name: "Costume Hibiscus"
+    Type: Armor
+    Weight: 0
+    View: 210
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73236
+    AegisName: HTC_Charming_Ribbon
+    Name: "Costume Charming Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 211
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73237
+    AegisName: HTC_Marionette_Doll
+    Name: "Costume Marionette Doll"
+    Type: Armor
+    Weight: 0
+    View: 212
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73238
+    AegisName: HTC_Crescent_Helm
+    Name: "Costume Crescent Helm"
+    Type: Armor
+    Weight: 0
+    View: 213
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73239
+    AegisName: HTC_Kabuki_Mask
+    Name: "Costume Kabuki Mask"
+    Type: Armor
+    Weight: 0
+    View: 214
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73240
+    AegisName: HTC_Gambler_Hat
+    Name: "Costume Gambler Hat"
+    Type: Armor
+    Weight: 0
+    View: 16
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73241
+    AegisName: HTC_Carnival_Joker_Jester
+    Name: "Costume Carnival Joker Jester"
+    Type: Armor
+    Weight: 0
+    View: 89
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73242
+    AegisName: HTC_Elephant_Hat
+    Name: "Costume Elephant Hat"
+    Type: Armor
+    Weight: 0
+    View: 215
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73243
+    AegisName: HTC_Baseball_Cap
+    Name: "Costume Baseball Cap"
+    Type: Armor
+    Weight: 0
+    View: 216
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73244
+    AegisName: HTC_Phrygian_Cap
+    Name: "Costume Phrygian Cap"
+    Type: Armor
+    Weight: 0
+    View: 217
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73245
+    AegisName: HTC_Silver_Tiara
+    Name: "Costume Silver Tiara"
+    Type: Armor
+    Weight: 0
+    View: 218
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73246
+    AegisName: HTC_Joker_Jester_
+    Name: "Costume Joker Jester"
+    Type: Armor
+    Weight: 0
+    View: 219
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73247
+    AegisName: HTC_Headset_OST
+    Name: "Costume Note Headphone"
+    Type: Armor
+    Weight: 0
+    View: 220
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73248
+    AegisName: HTC_Chinese_Crown
+    Name: "Costume Chinese Crown"
+    Type: Armor
+    Weight: 0
+    View: 221
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73249
+    AegisName: HTC_Angeling_Hairpin
+    Name: "Costume Angelring Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 222
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73250
+    AegisName: HTC_Sunglasses_F
+    Name: "Costume Father's Sunglasses"
+    Type: Armor
+    Weight: 0
+    View: 12
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73251
+    AegisName: HTC_Granpa_Beard_F
+    Name: "Costume Father's White Moustache"
+    Type: Armor
+    Weight: 0
+    View: 25
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73252
+    AegisName: HTC_Flu_Mask_F
+    Name: "Costume Father's Mask"
+    Type: Armor
+    Weight: 0
+    View: 8
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73253
+    AegisName: HTC_Viking_Helm_
+    Name: "Costume Orc Helm"
+    Type: Armor
+    Weight: 0
+    View: 86
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73254
+    AegisName: HTC_Holy_Bonnet_
+    Name: "Costume Monk Hat"
+    Type: Armor
+    Weight: 0
+    View: 35
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73255
+    AegisName: HTC_Golden_Gear_
+    Name: "Costume Golden Gear"
+    Type: Armor
+    Weight: 0
+    View: 30
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73256
+    AegisName: HTC_Magestic_Goat_
+    Name: "Costume Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 41
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73257
+    AegisName: HTC_Sharp_Gear_
+    Name: "Costume Spiky Band"
+    Type: Armor
+    Weight: 0
+    View: 43
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73258
+    AegisName: HTC_Bone_Helm_
+    Name: "Costume Bone Helm"
+    Type: Armor
+    Weight: 0
+    View: 103
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73259
+    AegisName: HTC_Corsair_
+    Name: "Costume Corsair"
+    Type: Armor
+    Weight: 0
+    View: 105
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73260
+    AegisName: HTC_Tiara_
+    Name: "Costume Tiara"
+    Type: Armor
+    Weight: 0
+    View: 19
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73261
+    AegisName: HTC_Crown_
+    Name: "Costume Crown"
+    Type: Armor
+    Weight: 0
+    View: 45
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73262
+    AegisName: HTC_Spinx_Helm_
+    Name: "Costume Sphinx Hat"
+    Type: Armor
+    Weight: 0
+    View: 137
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Top: true
+  - Id: 73263
+    AegisName: HTC_Munak_Turban_
+    Name: "Costume Munak Hat"
+    Type: Armor
+    Weight: 0
+    View: 51
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73264
+    AegisName: HTC_Bongun_Hat_
+    Name: "Costume Bongun Hat"
+    Type: Armor
+    Weight: 0
+    View: 139
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73265
+    AegisName: HTC_Bride_Mask
+    Name: "Costume Bride Mask"
+    Type: Armor
+    Weight: 0
+    View: 223
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73266
+    AegisName: HTC_Feather_Beret
+    Name: "Costume Feather Beret"
+    Type: Armor
+    Weight: 0
+    View: 224
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73267
+    AegisName: HTC_Valkyrie_Helm
+    Name: "Costume Valkyrie Helm"
+    Type: Armor
+    Weight: 0
+    View: 225
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73268
+    AegisName: HTC_Beret
+    Name: "Costume Beret"
+    Type: Armor
+    Weight: 0
+    View: 226
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73269
+    AegisName: HTC_Satto_Hat
+    Name: "Costume Magistrate Hat"
+    Type: Armor
+    Weight: 0
+    View: 227
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73270
+    AegisName: HTC_Ayam
+    Name: "Costume Ayam"
+    Type: Armor
+    Weight: 0
+    View: 228
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73271
+    AegisName: HTC_Censor_Bar
+    Name: "Costume Censor Bar"
+    Type: Armor
+    Weight: 0
+    View: 229
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73272
+    AegisName: HTC_Hahoe_Mask
+    Name: "Costume Hahoe Mask"
+    Type: Armor
+    Weight: 0
+    View: 230
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73273
+    AegisName: HTC_Guardian_Lion_Mask
+    Name: "Costume Mythical Lion Mask"
+    Type: Armor
+    Weight: 0
+    View: 231
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73274
+    AegisName: HTC_Candle_
+    Name: "Costume Candle"
+    Type: Armor
+    Weight: 0
+    View: 113
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73275
+    AegisName: HTC_Gold_Tiara
+    Name: "Costume Golden Tiara"
+    Type: Armor
+    Weight: 0
+    View: 232
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73276
+    AegisName: HTC_Phrygian_Cap_
+    Name: "Costume Holiday Hat"
+    Type: Armor
+    Weight: 0
+    View: 217
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73277
+    AegisName: HTC_Helm_Of_Darkness
+    Name: "Costume Helm of Darkness"
+    Type: Armor
+    Weight: 0
+    View: 233
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73278
+    AegisName: HTC_Puppy_Hat
+    Name: "Costume Puppy Hat"
+    Type: Armor
+    Weight: 0
+    View: 234
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73279
+    AegisName: HTC_Bird_Nest_Hat
+    Name: "Costume Bird Nest Hat"
+    Type: Armor
+    Weight: 0
+    View: 235
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73280
+    AegisName: HTC_Captain_Hat
+    Name: "Costume Captain's Hat"
+    Type: Armor
+    Weight: 0
+    View: 236
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73281
+    AegisName: HTC_Laurel_Wreath
+    Name: "Costume Laurel Wreath"
+    Type: Armor
+    Weight: 0
+    View: 237
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73282
+    AegisName: HTC_Geographer_Band
+    Name: "Costume Geographer Band"
+    Type: Armor
+    Weight: 0
+    View: 238
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73283
+    AegisName: HTC_Twin_Ribbon
+    Name: "Costume Twin Red Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 239
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73284
+    AegisName: HTC_Minstrel_Hat
+    Name: "Costume Creative Convention Hat"
+    Type: Armor
+    Weight: 0
+    View: 240
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73285
+    AegisName: HTC_Fallen_Leaves
+    Name: "Costume Autumn Leaves"
+    Type: Armor
+    Weight: 0
+    View: 241
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73286
+    AegisName: HTC_Baseball_Cap_
+    Name: "Costume Independence Memorial Hat"
+    Type: Armor
+    Weight: 0
+    View: 216
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73287
+    AegisName: HTC_Ribbon_Black
+    Name: "Costume Black Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 242
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73288
+    AegisName: HTC_Ribbon_Yellow
+    Name: "Costume Yellow Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 243
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73289
+    AegisName: HTC_Ribbon_Green
+    Name: "Costume Green Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 244
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73290
+    AegisName: HTC_Ribbon_Pink
+    Name: "Costume Pink Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 245
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73291
+    AegisName: HTC_Ribbon_Red
+    Name: "Costume Red Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 246
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73292
+    AegisName: HTC_Ribbon_Orange
+    Name: "Costume Orange Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 247
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73293
+    AegisName: HTC_Ribbon_White
+    Name: "Costume White Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 248
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73294
+    AegisName: HTC_Drooping_Bunny
+    Name: "Costume Evolved Drooping Bunny"
+    Type: Armor
+    Weight: 0
+    View: 249
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73295
+    AegisName: HTC_Baseball_Cap_I
+    Name: "Costume Baseball Cap"
+    Type: Armor
+    Weight: 0
+    View: 216
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73296
+    AegisName: HTC_Coppola
+    Name: "Costume Coppola"
+    Type: Armor
+    Weight: 0
+    View: 252
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73297
+    AegisName: HTC_Party_Hat_B
+    Name: "Costume Party Hat"
+    Type: Armor
+    Weight: 0
+    View: 144
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73298
+    AegisName: HTC_Pumpkin_Hat_
+    Name: "Costume Fantastic Pumpkin-Head"
+    Type: Armor
+    Weight: 0
+    View: 206
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73299
+    AegisName: HTC_Tongue_Mask
+    Name: "Costume Smiling Mask"
+    Type: Armor
+    Weight: 0
+    View: 253
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73300
+    AegisName: HTC_Event_Pierrot_Nose
+    Name: "Costume Rudolph's Nose"
+    Type: Armor
+    Weight: 0
+    View: 49
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73301
+    AegisName: HTC_Wreath
+    Name: "Costume Emperor's Laurel Crown"
+    Type: Armor
+    Weight: 0
+    View: 261
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73302
+    AegisName: HTC_Romantic_White_Flower
+    Name: "Costume Romantic White Flower"
+    Type: Armor
+    Weight: 0
+    View: 259
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73303
+    AegisName: HTC_Gold_Spirit_Chain
+    Name: "Costume Angel Blessing"
+    Type: Armor
+    Weight: 0
+    View: 260
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73304
+    AegisName: HTC_Rideword_Hat
+    Name: "Costume Rideword Hat"
+    Type: Armor
+    Weight: 0
+    View: 262
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73305
+    AegisName: HTC_Yellow_Baseball_Cap
+    Name: "Costume Yellow Baseball Cap"
+    Type: Armor
+    Weight: 0
+    View: 263
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73306
+    AegisName: HTC_Flying_Angel
+    Name: "Costume Flapping Angel Wings"
+    Type: Armor
+    Weight: 0
+    View: 264
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73307
+    AegisName: HTC_Dress_Hat
+    Name: "Costume Dress Hat"
+    Type: Armor
+    Weight: 0
+    View: 265
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73308
+    AegisName: HTC_Satellite_Hairband
+    Name: "Costume Satellite Hairband"
+    Type: Armor
+    Weight: 0
+    View: 266
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73309
+    AegisName: HTC_Black_Bunny_Band
+    Name: "Costume Black Bunny Band"
+    Type: Armor
+    Weight: 0
+    View: 267
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73310
+    AegisName: HTC_Moonlight_Flower_Hat
+    Name: "Costume Moonlight Flower Hat"
+    Type: Armor
+    Weight: 0
+    View: 268
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73311
+    AegisName: HTC_Angelic_Chain_
+    Name: "Costume Evolved Angel Wings"
+    Type: Armor
+    Weight: 0
+    View: 38
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73312
+    AegisName: HTC_Satanic_Chain_
+    Name: "Costume Evolved Evil Wings"
+    Type: Armor
+    Weight: 0
+    View: 39
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73313
+    AegisName: HTC_Magestic_Goat_TW
+    Name: "Costume Evolved Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 41
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73314
+    AegisName: HTC_Bunny_Band_
+    Name: "Costume Evolved Bunny Band"
+    Type: Armor
+    Weight: 0
+    View: 15
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73315
+    AegisName: HTC_Drooping_Kitty_
+    Name: "Costume Evolved Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 142
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73316
+    AegisName: HTC_Smoking_Pipe_
+    Name: "Costume Evolved Pipe"
+    Type: Armor
+    Weight: 0
+    View: 55
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73317
+    AegisName: HTC_Pair_Of_Red_Ribbon_
+    Name: "Costume Evolved Pair of Red Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 169
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73318
+    AegisName: HTC_Fish_On_Head_
+    Name: "Costume Evolved Blue Fish"
+    Type: Armor
+    Weight: 0
+    View: 149
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73319
+    AegisName: HTC_Big_Golden_Bell_
+    Name: "Costume Evolved Big Golden Bell"
+    Type: Armor
+    Weight: 0
+    View: 175
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73320
+    AegisName: HTC_Orc_Hero_Helm_TW
+    Name: "Costume Evolved Orc Hero Helm"
+    Type: Armor
+    Weight: 0
+    View: 178
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73321
+    AegisName: HTC_Marcher_Hat
+    Name: "Costume Holy Marcher Hat"
+    Type: Armor
+    Weight: 0
+    View: 269
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73322
+    AegisName: HTC_Mini_Propeller_
+    Name: "Costume Mini Propeller"
+    Type: Armor
+    Weight: 0
+    View: 270
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73323
+    AegisName: HTC_Red_Deviruchi_Cap
+    Name: "Costume Red Deviruchi Hat"
+    Type: Armor
+    Weight: 0
+    View: 271
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73324
+    AegisName: HTC_White_Deviruchi_Cap
+    Name: "Costume Gray Deviruchi Hat"
+    Type: Armor
+    Weight: 0
+    View: 272
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73325
+    AegisName: HTC_Gray_Deviruchi_Cap
+    Name: "Costume Brown Deviruchi Hat"
+    Type: Armor
+    Weight: 0
+    View: 273
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73326
+    AegisName: HTC_White_Drooping_Kitty
+    Name: "Costume Gray Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 274
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73327
+    AegisName: HTC_Gray_Drooping_Kitty
+    Name: "Costume Brown Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 275
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73328
+    AegisName: HTC_Pink_Drooping_Kitty
+    Name: "Costume Pink Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 276
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73329
+    AegisName: HTC_Blue_Drooping_Kitty
+    Name: "Costume Blue Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 277
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73330
+    AegisName: HTC_Yellow_Drooping_Kitty
+    Name: "Costume Yellow Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 278
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73331
+    AegisName: HTC_Gray_Fur_Hat
+    Name: "Costume Brown Beanie"
+    Type: Armor
+    Weight: 0
+    View: 279
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73332
+    AegisName: HTC_Blue_Fur_Hat
+    Name: "Costume Blue Beanie"
+    Type: Armor
+    Weight: 0
+    View: 280
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73333
+    AegisName: HTC_Pink_Fur_Hat
+    Name: "Costume Pink Beanie"
+    Type: Armor
+    Weight: 0
+    View: 281
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73334
+    AegisName: HTC_Red_Wizardry_Hat
+    Name: "Costume Red Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 282
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73335
+    AegisName: HTC_White_Wizardry_Hat
+    Name: "Costume Gray Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 283
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73336
+    AegisName: HTC_Gray_Wizardry_Hat
+    Name: "Costume Brown Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 284
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73337
+    AegisName: HTC_Blue_Wizardry_Hat
+    Name: "Costume Blue Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 285
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73338
+    AegisName: HTC_Yellow_Wizardry_Hat
+    Name: "Costume Yellow Mage Hat"
+    Type: Armor
+    Weight: 0
+    View: 286
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73339
+    AegisName: HTC_Chullos
+    Name: "Costume Shafka"
+    Type: Armor
+    Weight: 0
+    View: 287
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73340
+    AegisName: HTC_Elven_Blindfold
+    Name: "Costume Elven Blindfold"
+    Type: Armor
+    Weight: 0
+    View: 288
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73341
+    AegisName: HTC_Elven_Sunglasses
+    Name: "Costume Elven Sunglasses"
+    Type: Armor
+    Weight: 0
+    View: 289
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73342
+    AegisName: HTC_Angelic_Helm
+    Name: "Costume Angelic Helm"
+    Type: Armor
+    Weight: 0
+    View: 290
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73343
+    AegisName: HTC_Satanic_Helm
+    Name: "Costume Satanic Helm"
+    Type: Armor
+    Weight: 0
+    View: 291
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73344
+    AegisName: HTC_Robotic_Blindfold
+    Name: "Costume Robotic Blindfold"
+    Type: Armor
+    Weight: 0
+    View: 292
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73345
+    AegisName: HTC_Human_Blindfold
+    Name: "Costume Human Blindfold"
+    Type: Armor
+    Weight: 0
+    View: 293
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73346
+    AegisName: HTC_Robotic_Ears
+    Name: "Costume Robotic Ears"
+    Type: Armor
+    Weight: 0
+    View: 294
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73347
+    AegisName: HTC_Round_Ears
+    Name: "Costume Round Ears"
+    Type: Armor
+    Weight: 0
+    View: 295
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73348
+    AegisName: HTC_Drooping_Nine_Tail
+    Name: "Costume Drooping Ninetail"
+    Type: Armor
+    Weight: 0
+    View: 296
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73349
+    AegisName: HTC_Lif_Doll_Hat
+    Name: "Costume Lif Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 297
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73350
+    AegisName: HTC_Deviling_Hat
+    Name: "Costume Devilring Hat"
+    Type: Armor
+    Weight: 0
+    View: 298
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73351
+    AegisName: HTC_Triple_Poring_Hat
+    Name: "Costume Triple Poring Hat"
+    Type: Armor
+    Weight: 0
+    View: 299
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73352
+    AegisName: HTC_Valkyrie_Feather_Band
+    Name: "Costume Valkyrie Feather Band"
+    Type: Armor
+    Weight: 0
+    View: 300
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73353
+    AegisName: HTC_Soulless_Wing
+    Name: "Costume Soulless Ring"
+    Type: Armor
+    Weight: 0
+    View: 301
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73354
+    AegisName: HTC_Afro_Wig
+    Name: "Costume Afro Wig"
+    Type: Armor
+    Weight: 0
+    View: 302
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73355
+    AegisName: HTC_Elephant_Hat_
+    Name: "Costume Elephant Hat"
+    Type: Armor
+    Weight: 0
+    View: 215
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73356
+    AegisName: HTC_Cookie_Hat
+    Name: "Costume Cookie Hat"
+    Type: Armor
+    Weight: 0
+    View: 217
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73357
+    AegisName: HTC_Silver_Tiara_
+    Name: "Costume Silver Tiara"
+    Type: Armor
+    Weight: 0
+    View: 218
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73358
+    AegisName: HTC_Gold_Tiara_
+    Name: "Costume Golden Tiara"
+    Type: Armor
+    Weight: 0
+    View: 232
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73359
+    AegisName: HTC_Ati_Atihan_Hat
+    Name: "Costume Pagdayaw"
+    Type: Armor
+    Weight: 0
+    View: 303
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73360
+    AegisName: HTC_Aussie_Flag_Hat
+    Name: "Costume Australian Flag Hat"
+    Type: Armor
+    Weight: 0
+    View: 304
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73361
+    AegisName: HTC_Apple_Of_Archer_C
+    Name: "Costume Apple of Archer"
+    Type: Armor
+    Weight: 0
+    View: 72
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73362
+    AegisName: HTC_Bunny_Band_C
+    Name: "Costume Bunny Band"
+    Type: Armor
+    Weight: 0
+    View: 15
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73363
+    AegisName: HTC_Sahkkat_C
+    Name: "Costume Sakkat"
+    Type: Armor
+    Weight: 0
+    View: 67
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73364
+    AegisName: HTC_Lord_Circlet_C
+    Name: "Costume Grand Circlet"
+    Type: Armor
+    Weight: 0
+    View: 93
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73365
+    AegisName: HTC_Flying_Angel_
+    Name: "Costume Flapping Angel Wings"
+    Type: Armor
+    Weight: 0
+    View: 264
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73366
+    AegisName: HTC_Fallen_Leaves_
+    Name: "Costume Autumn Leaves"
+    Type: Armor
+    Weight: 0
+    View: 241
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73367
+    AegisName: HTC_Chinese_Crown_
+    Name: "Costume Phoenix Crown"
+    Type: Armor
+    Weight: 0
+    View: 221
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73368
+    AegisName: HTC_Tongue_Mask_
+    Name: "Costume Tongue Mask"
+    Type: Armor
+    Weight: 0
+    View: 253
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73369
+    AegisName: HTC_Happy_Wig
+    Name: "Costume Happy Wig"
+    Type: Armor
+    Weight: 0
+    View: 305
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73370
+    AegisName: HTC_Shiny_Wig
+    Name: "Costume Shiny Wig"
+    Type: Armor
+    Weight: 0
+    View: 306
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73371
+    AegisName: HTC_Marvelous_Wig
+    Name: "Costume Marvelous Wig"
+    Type: Armor
+    Weight: 0
+    View: 307
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73372
+    AegisName: HTC_Fantastic_Wig
+    Name: "Costume Fantastic Wig"
+    Type: Armor
+    Weight: 0
+    View: 308
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73373
+    AegisName: HTC_Yellow_Bandana
+    Name: "Costume Yellow Bandana"
+    Type: Armor
+    Weight: 0
+    View: 309
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73374
+    AegisName: HTC_Yellow_Ribbon
+    Name: "Costume Yellow Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 310
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73375
+    AegisName: HTC_Drooping_Kitty_C
+    Name: "Costume Refined Drooping Cat"
+    Type: Armor
+    Weight: 0
+    View: 142
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73376
+    AegisName: HTC_Magestic_Goat_C
+    Name: "Costume Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 41
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73377
+    AegisName: HTC_Deviruchi_Cap_C
+    Name: "Costume Refined Deviruchi Hat"
+    Type: Armor
+    Weight: 0
+    View: 123
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73378
+    AegisName: HTC_euRO_Baseball_Cap
+    Name: "Costume Baseball Cap"
+    Type: Armor
+    Weight: 0
+    View: 216
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73379
+    AegisName: HTC_Chick_Hat
+    Name: "Costume Chick Hat"
+    Type: Armor
+    Weight: 0
+    View: 311
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73380
+    AegisName: HTC_Water_Lily_Crown
+    Name: "Costume Water Lily Crown"
+    Type: Armor
+    Weight: 0
+    View: 312
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73381
+    AegisName: HTC_Vane_Hairpin
+    Name: "Costume Vane Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 313
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73382
+    AegisName: HTC_Pecopeco_Hairband
+    Name: "Costume Pecopeco Hairband"
+    Type: Armor
+    Weight: 0
+    View: 314
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73383
+    AegisName: HTC_Vacation_Hat
+    Name: "Costume Vacation Hat"
+    Type: Armor
+    Weight: 0
+    View: 315
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73384
+    AegisName: HTC_Red_Glasses
+    Name: "Costume Red Glasses"
+    Type: Armor
+    Weight: 0
+    View: 316
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73385
+    AegisName: HTC_Vanilmirth_Hat
+    Name: "Costume Vanilmirth Hat"
+    Type: Armor
+    Weight: 0
+    View: 317
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73386
+    AegisName: HTC_Drooping_Bunny_
+    Name: "Costume Drooping Bunny"
+    Type: Armor
+    Weight: 0
+    View: 249
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73387
+    AegisName: HTC_Kettle_Hat
+    Name: "Costume Kettle Hat"
+    Type: Armor
+    Weight: 0
+    View: 318
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73388
+    AegisName: HTC_Dragon_Skull
+    Name: "Costume Dragon Skull"
+    Type: Armor
+    Weight: 0
+    View: 319
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73389
+    AegisName: HTC_Ramen_Hat
+    Name: "Costume Ramen Hat"
+    Type: Armor
+    Weight: 0
+    View: 320
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73390
+    AegisName: HTC_Whisper_Mask
+    Name: "Costume Whisper Mask"
+    Type: Armor
+    Weight: 0
+    View: 321
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73391
+    AegisName: HTC_Golden_Bandana
+    Name: "Costume Golden Bandana"
+    Type: Armor
+    Weight: 0
+    View: 138
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73392
+    AegisName: HTC_Drooping_Nine_Tail_
+    Name: "Costume Drooping Nine Tail"
+    Type: Armor
+    Weight: 0
+    View: 296
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73393
+    AegisName: HTC_Soulless_Wing_
+    Name: "Costume Soul Wing"
+    Type: Armor
+    Weight: 0
+    View: 301
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73394
+    AegisName: HTC_Marvelous_Wig_
+    Name: "Costume Dokkaebi's Wig"
+    Type: Armor
+    Weight: 0
+    View: 307
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73395
+    AegisName: HTC_Ati_Atihan_Hat_
+    Name: "Costume Pagdayaw"
+    Type: Armor
+    Weight: 0
+    View: 303
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73396
+    AegisName: HTC_Bullock_Helm
+    Name: "Costume Bullock Helm"
+    Type: Armor
+    Weight: 0
+    View: 322
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73397
+    AegisName: HTC_Russian_Ribbon
+    Name: "Costume Victory Hairband"
+    Type: Armor
+    Weight: 0
+    View: 323
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73398
+    AegisName: HTC_Lotus_Flower_Hat
+    Name: "Costume Water Lily Hat"
+    Type: Armor
+    Weight: 0
+    View: 324
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73399
+    AegisName: HTC_Flower_Coronet
+    Name: "Costume Flower Crown"
+    Type: Armor
+    Weight: 0
+    View: 325
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73400
+    AegisName: HTC_Cap_Of_Blindness
+    Name: "Costume Cap of Blindness"
+    Type: Armor
+    Weight: 0
+    View: 326
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73401
+    AegisName: HTC_Pirate_Dagger
+    Name: "Costume Pirate Dagger"
+    Type: Armor
+    Weight: 0
+    View: 327
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73402
+    AegisName: HTC_Freyja_Crown
+    Name: "Costume Freya Crown"
+    Type: Armor
+    Weight: 0
+    View: 328
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73403
+    AegisName: HTC_Carmen_Miranda's_Hat
+    Name: "Costume Tropical Fruit Hat"
+    Type: Armor
+    Weight: 0
+    View: 329
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73404
+    AegisName: HTC_Brazilian_Flag_Hat
+    Name: "Costume Brazilian Flag Hat"
+    Type: Armor
+    Weight: 0
+    View: 330
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73405
+    AegisName: HTC_Mahican
+    Name: "Costume Mohawk Mask"
+    Type: Armor
+    Weight: 0
+    View: 331
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73406
+    AegisName: HTC_Bulb_Hairband
+    Name: "Costume Shining Electric Bulb Hairband"
+    Type: Armor
+    Weight: 0
+    View: 332
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73407
+    AegisName: HTC_Large_Hibiscus
+    Name: "Costume Large Hisbiscus"
+    Type: Armor
+    Weight: 0
+    View: 333
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73408
+    AegisName: HTC_Ayothaya_Hat
+    Name: "Costume Ayothaya King's Hat"
+    Type: Armor
+    Weight: 0
+    View: 334
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73409
+    AegisName: HTC_Diadem
+    Name: "Costume Diadem"
+    Type: Armor
+    Weight: 0
+    View: 335
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73410
+    AegisName: HTC_Hockey_Mask
+    Name: "Costume Hockey Mask"
+    Type: Armor
+    Weight: 0
+    View: 336
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73411
+    AegisName: HTC_Observer
+    Name: "Costume Observer"
+    Type: Armor
+    Weight: 0
+    View: 337
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73412
+    AegisName: HTC_Umbrella_Hat
+    Name: "Costume Umbrella Hat"
+    Type: Armor
+    Weight: 0
+    View: 338
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73413
+    AegisName: HTC_Fisherman_Hat
+    Name: "Costume Fisherman Hat"
+    Type: Armor
+    Weight: 0
+    View: 339
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73414
+    AegisName: HTC_Poring_Party_Hat
+    Name: "Costume Poring Party Hat"
+    Type: Armor
+    Weight: 0
+    View: 340
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73415
+    AegisName: HTC_Hellomother_Hat
+    Name: "Costume Arc Angelring Hat"
+    Type: Armor
+    Weight: 0
+    View: 341
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73416
+    AegisName: HTC_Champion_Wreath
+    Name: "Costume Champion Wreath"
+    Type: Armor
+    Weight: 0
+    View: 261
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73417
+    AegisName: HTC_Indonesian_Bandana
+    Name: "Costume Indonesian Bandana"
+    Type: Armor
+    Weight: 0
+    View: 342
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73418
+    AegisName: HTC_Scarf
+    Name: "Costume Scarf"
+    Type: Armor
+    Weight: 0
+    View: 343
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73419
+    AegisName: HTC_Misstrance_Crown
+    Name: "Costume Mistress Crown"
+    Type: Armor
+    Weight: 0
+    View: 165
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73420
+    AegisName: HTC_Little_Angel_Doll
+    Name: "Costume Little Angel Doll"
+    Type: Armor
+    Weight: 0
+    View: 344
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73421
+    AegisName: HTC_Robo_Eye
+    Name: "Costume Robo Eyes"
+    Type: Armor
+    Weight: 0
+    View: 345
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73422
+    AegisName: HTC_Masquerade_C
+    Name: "Costume Butterfly Mask"
+    Type: Armor
+    Weight: 0
+    View: 78
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73423
+    AegisName: HTC_Orc_Hero_Helm_C
+    Name: "Costume Refined Helmet of Orc Hero"
+    Type: Armor
+    Weight: 0
+    View: 178
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73424
+    AegisName: HTC_Evil_Wing_Ears_C
+    Name: "Costume Evil Wing Ears"
+    Type: Armor
+    Weight: 0
+    View: 152
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73425
+    AegisName: HTC_Dark_Blindfold_C
+    Name: "Costume Dark Blinkers"
+    Type: Armor
+    Weight: 0
+    View: 187
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73426
+    AegisName: HTC_kRO_Drooping_Kitty_C
+    Name: "Costume Drooping Kitty"
+    Type: Armor
+    Weight: 0
+    View: 142
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73427
+    AegisName: HTC_Corsair_C
+    Name: "Costume Corsair"
+    Type: Armor
+    Weight: 0
+    View: 105
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73428
+    AegisName: HTC_Loki_Mask
+    Name: "Costume Loki Mask"
+    Type: Armor
+    Weight: 0
+    View: 346
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73429
+    AegisName: HTC_Radio_Antenna
+    Name: "Costume Radio Antenna"
+    Type: Armor
+    Weight: 0
+    View: 347
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73430
+    AegisName: HTC_Angeling_Wanna_Fly
+    Name: "Costume Flapping Angelring"
+    Type: Armor
+    Weight: 0
+    View: 348
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73431
+    AegisName: HTC_Jumping_Poring
+    Name: "Costume Jumping Poring"
+    Type: Armor
+    Weight: 0
+    View: 349
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73432
+    AegisName: HTC_Guildsman_Recruiter
+    Name: "Costume Guildsman Recruiter Hat"
+    Type: Armor
+    Weight: 0
+    View: 350
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73433
+    AegisName: HTC_Party_Recruiter_Hat
+    Name: "Costume Party Recruiter Hat"
+    Type: Armor
+    Weight: 0
+    View: 351
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73434
+    AegisName: HTC_Bf_Recruiter_Hat
+    Name: "Costume Battlefield Recruiter Hat"
+    Type: Armor
+    Weight: 0
+    View: 352
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73435
+    AegisName: HTC_Friend_Recruiter_Hat
+    Name: "Costume Friend Recruiter Hat"
+    Type: Armor
+    Weight: 0
+    View: 353
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73436
+    AegisName: HTC_Deprotai_Doll_Hat
+    Name: "Costume Defolty Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 354
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73437
+    AegisName: HTC_Claris_Doll_Hat
+    Name: "Costume Glaris Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 355
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73438
+    AegisName: HTC_Sorin_Doll_Hat
+    Name: "Costume Sorin Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 356
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73439
+    AegisName: HTC_Tayelin_Doll_Hat
+    Name: "Costume Telling Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 357
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73440
+    AegisName: HTC_Binit_Doll_Hat
+    Name: "Costume Bennit Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 358
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73441
+    AegisName: HTC_Debril_Doll_Hat
+    Name: "Costume W Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 359
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73442
+    AegisName: HTC_Gf_Recruiter_Hat
+    Name: "Costume Gf Recruiter Hat"
+    Type: Armor
+    Weight: 0
+    View: 360
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73443
+    AegisName: HTC_Ph.D_Hat_
+    Name: "Costume Ph.D Hat"
+    Type: Armor
+    Weight: 0
+    View: 98
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73444
+    AegisName: HTC_Big_Sis'_Ribbon_
+    Name: "Costume Big Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 28
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73445
+    AegisName: HTC_Boy's_Cap_
+    Name: "Costume Boy's Cap"
+    Type: Armor
+    Weight: 0
+    View: 102
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73446
+    AegisName: HTC_Pirate_Bandana_
+    Name: "Costume Pirate Bandana"
+    Type: Armor
+    Weight: 0
+    View: 74
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73447
+    AegisName: HTC_Sunflower_
+    Name: "Costume Sunflower"
+    Type: Armor
+    Weight: 0
+    View: 37
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73448
+    AegisName: HTC_Poporing_Cap
+    Name: "Costume Poporing Hat"
+    Type: Armor
+    Weight: 0
+    View: 361
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73449
+    AegisName: HTC_Helm_Of_Sun_
+    Name: "Costume Hat of The Sun God"
+    Type: Armor
+    Weight: 0
+    View: 138
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73450
+    AegisName: HTC_Muslim_Hat_M
+    Name: "Costume Songkok"
+    Type: Armor
+    Weight: 0
+    View: 362
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73451
+    AegisName: HTC_Muslim_Hat_F
+    Name: "Costume Selendang"
+    Type: Armor
+    Weight: 0
+    View: 363
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73452
+    AegisName: HTC_Pumpkin_Hat_H
+    Name: "Costume Festival Pumpkin Hat"
+    Type: Armor
+    Weight: 0
+    View: 206
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73453
+    AegisName: HTC_Wings_Of_Victory
+    Name: "Costume Wings of Victory"
+    Type: Armor
+    Weight: 0
+    View: 365
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73454
+    AegisName: HTC_Pecopeco_Wing_Ears
+    Name: "Costume Pecopeco Wing Ears"
+    Type: Armor
+    Weight: 0
+    View: 366
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73455
+    AegisName: HTC_J_Captain_Hat
+    Name: "Costume Captain's Hat"
+    Type: Armor
+    Weight: 0
+    View: 367
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73456
+    AegisName: HTC_Whikebain_Ears
+    Name: "Costume Wickebine's Black Cat Ears"
+    Type: Armor
+    Weight: 0
+    View: 368
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73457
+    AegisName: HTC_Gang_Scarf
+    Name: "Costume Gangster Scarf"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73458
+    AegisName: HTC_Ninja_Scroll
+    Name: "Costume Ninja Scroll"
+    Type: Armor
+    Weight: 0
+    View: 370
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73459
+    AegisName: HTC_Helm_Of_Abyss
+    Name: "Costume Helm of Abyss"
+    Type: Armor
+    Weight: 0
+    View: 371
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73460
+    AegisName: HTC_Dark_Snake_Lord_Hat
+    Name: "Costume Evil Snake Lord Hat"
+    Type: Armor
+    Weight: 0
+    View: 372
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73461
+    AegisName: HTC_Fried_Egg
+    Name: "Costume Magnolia Hat"
+    Type: Armor
+    Weight: 0
+    View: 373
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73462
+    AegisName: HTC_Hat_0f_King
+    Name: "Costume King's Hat"
+    Type: Armor
+    Weight: 0
+    View: 374
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73463
+    AegisName: HTC_Hyegun_Hat
+    Name: "Costume Yao Jun Hat"
+    Type: Armor
+    Weight: 0
+    View: 375
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73464
+    AegisName: HTC_White_Wing
+    Name: "Costume Wings of Light"
+    Type: Armor
+    Weight: 0
+    View: 38
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73465
+    AegisName: HTC_Dark_Wing
+    Name: "Costume Wings of Darkness"
+    Type: Armor
+    Weight: 0
+    View: 39
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73466
+    AegisName: HTC_Orchid_Hairband
+    Name: "Costume Orchid Hairband"
+    Type: Armor
+    Weight: 0
+    View: 376
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73467
+    AegisName: HTC_Hat_Of_Judge
+    Name: "Costume Judge Hat"
+    Type: Armor
+    Weight: 0
+    View: 377
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73468
+    AegisName: HTC_Drooping_White_Kitty
+    Name: "Costume Koneko Hat"
+    Type: Armor
+    Weight: 0
+    View: 378
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73469
+    AegisName: HTC_Darkness_Helm
+    Name: "Costume Dark Randgris Helm"
+    Type: Armor
+    Weight: 0
+    View: 379
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73470
+    AegisName: HTC_L_Magestic_Goat
+    Name: "Costume Gigantic Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 380
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73471
+    AegisName: HTC_L_Orc_Hero_Helm
+    Name: "Costume Large Orc Hero Helm"
+    Type: Armor
+    Weight: 0
+    View: 381
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73472
+    AegisName: HTC_Satanic_Chain_P
+    Name: "Costume Satanic Chain"
+    Type: Armor
+    Weight: 0
+    View: 382
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73473
+    AegisName: HTC_Antique_Pipe
+    Name: "Costume Antique Smoking Pipe"
+    Type: Armor
+    Weight: 0
+    View: 383
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73474
+    AegisName: HTC_Rabbit_Ear_Hat
+    Name: "Costume Bunny Ears Hat"
+    Type: Armor
+    Weight: 0
+    View: 384
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73475
+    AegisName: HTC_Balloon_Hat
+    Name: "Costume Balloon Hat"
+    Type: Armor
+    Weight: 0
+    View: 385
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73476
+    AegisName: HTC_Fish_Head_Hat
+    Name: "Costume Fish Head Hat"
+    Type: Armor
+    Weight: 0
+    View: 386
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73477
+    AegisName: HTC_Santa_Poring_Hat
+    Name: "Costume Santa Poring Hat"
+    Type: Armor
+    Weight: 0
+    View: 387
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73478
+    AegisName: HTC_Bell_Ribbon
+    Name: "Costume Bell Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 388
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73479
+    AegisName: HTC_Hunting_Cap
+    Name: "Costume Hunting Cap"
+    Type: Armor
+    Weight: 0
+    View: 389
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73480
+    AegisName: HTC_Santa_Hat_1
+    Name: "Costume Twin Pom Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 390
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73481
+    AegisName: HTC_Yoyo_Hat
+    Name: "Costume Yoyo Hat"
+    Type: Armor
+    Weight: 0
+    View: 391
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73482
+    AegisName: HTC_Ayam_
+    Name: "Costume New Year's Hat"
+    Type: Armor
+    Weight: 0
+    View: 228
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73483
+    AegisName: HTC_Neko_Mimi_Kafra
+    Name: "Costume Neko Mimi Kafra"
+    Type: Armor
+    Weight: 0
+    View: 392
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73484
+    AegisName: HTC_Snake_Head
+    Name: "Costume Snake Head"
+    Type: Armor
+    Weight: 0
+    View: 393
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73485
+    AegisName: HTC_Angel_Spirit
+    Name: "Costume Angel Spirit"
+    Type: Armor
+    Weight: 0
+    View: 394
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73486
+    AegisName: HTC_Santa_Hat_2
+    Name: "Costume Twin Pom Blue Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 395
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73487
+    AegisName: HTC_Toast_C
+    Name: "Costume Crunch Toast"
+    Type: Armor
+    Weight: 0
+    View: 188
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73488
+    AegisName: HTC_Louyang_Cap
+    Name: "Costume Louyang NewYear Hat"
+    Type: Armor
+    Weight: 0
+    View: 396
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73489
+    AegisName: HTC_Valentine_Hat
+    Name: "Costume Valentine Hat"
+    Type: Armor
+    Weight: 0
+    View: 397
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73490
+    AegisName: HTC_Tiraya_Bonnet
+    Name: "Costume Tiraya Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 398
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73491
+    AegisName: HTC_Jasper_Crest
+    Name: "Costume Jasper Crest"
+    Type: Armor
+    Weight: 0
+    View: 399
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73492
+    AegisName: HTC_Scuba_Mask
+    Name: "Costume Scuba Mask"
+    Type: Armor
+    Weight: 0
+    View: 400
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73493
+    AegisName: HTC_Bone_Head
+    Name: "Costume Bone Head"
+    Type: Armor
+    Weight: 0
+    View: 401
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73494
+    AegisName: HTC_Mandragora_Cap
+    Name: "Costume Mandragora Cap"
+    Type: Armor
+    Weight: 0
+    View: 402
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73495
+    AegisName: HTC_Fox_Hat
+    Name: "Costume Fox Hat"
+    Type: Armor
+    Weight: 0
+    View: 403
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73496
+    AegisName: HTC_Black_Glasses
+    Name: "Costume Black Frame Glasses"
+    Type: Armor
+    Weight: 0
+    View: 404
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73497
+    AegisName: HTC_Mischievous_Fairy
+    Name: "Costume Mischievous Fairy"
+    Type: Armor
+    Weight: 0
+    View: 405
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73498
+    AegisName: HTC_Fish_In_Mouth
+    Name: "Costume Fish in Mouth"
+    Type: Armor
+    Weight: 0
+    View: 406
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73499
+    AegisName: HTC_Blue_Ribbon
+    Name: "Costume Blue Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 407
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73500
+    AegisName: HTC_Filir_Hat
+    Name: "Costume Filir Hat"
+    Type: Armor
+    Weight: 0
+    View: 408
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73501
+    AegisName: HTC_Academy_Freshman_Hat
+    Name: "Costume Academy Freshman Hat"
+    Type: Armor
+    Weight: 0
+    View: 409
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73502
+    AegisName: HTC_Academy_Graduating_Cap
+    Name: "Costume Academy Completion Hat"
+    Type: Armor
+    Weight: 0
+    View: 410
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73503
+    AegisName: HTC_Old_Bandanna
+    Name: "Costume Old Bandana"
+    Type: Armor
+    Weight: 0
+    View: 6
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73504
+    AegisName: HTC_New_Cowboy_Hat
+    Name: "Costume Purple Cowboy Hat"
+    Type: Armor
+    Weight: 0
+    View: 411
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73505
+    AegisName: HTC_Bread_Bag2
+    Name: "Costume Brown Paperbag Hat"
+    Type: Armor
+    Weight: 0
+    View: 412
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73506
+    AegisName: HTC_White_Snake_Hat
+    Name: "Costume White Snake Hat"
+    Type: Armor
+    Weight: 0
+    View: 413
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73507
+    AegisName: HTC_Sweet_Candy
+    Name: "Costume Lollipop"
+    Type: Armor
+    Weight: 0
+    View: 414
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73508
+    AegisName: HTC_Popcorn_Hat
+    Name: "Costume Popcorn Hat"
+    Type: Armor
+    Weight: 0
+    View: 415
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73509
+    AegisName: HTC_Campfire_Hat
+    Name: "Costume Campfire Hat"
+    Type: Armor
+    Weight: 0
+    View: 416
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73510
+    AegisName: HTC_Poring_Cake_Cap
+    Name: "Costume Poring Cake Hat"
+    Type: Armor
+    Weight: 0
+    View: 417
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73511
+    AegisName: HTC_Beer_Cap
+    Name: "Costume Beer Hat"
+    Type: Armor
+    Weight: 0
+    View: 418
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73512
+    AegisName: HTC_Crown_Parrot
+    Name: "Costume Crown Parrot"
+    Type: Armor
+    Weight: 0
+    View: 419
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73513
+    AegisName: HTC_Soldier_Hat
+    Name: "Costume Soldier Hat"
+    Type: Armor
+    Weight: 0
+    View: 420
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73514
+    AegisName: HTC_Evolved_Leaf
+    Name: "Costume Evolved Leaf"
+    Type: Armor
+    Weight: 0
+    View: 57
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73515
+    AegisName: HTC_Mask_Of_Ifrit
+    Name: "Costume Mask of Ifrit"
+    Type: Armor
+    Weight: 0
+    View: 421
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73516
+    AegisName: HTC_Ifrit's_Ear
+    Name: "Costume Ears of Ifrit"
+    Type: Armor
+    Weight: 0
+    View: 422
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73517
+    AegisName: HTC_Linguistic_Book_Cap
+    Name: "Costume Linguistic Book Hat"
+    Type: Armor
+    Weight: 0
+    View: 423
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73518
+    AegisName: HTC_Lovecap_China
+    Name: "Costume I LOVE CHINA"
+    Type: Armor
+    Weight: 0
+    View: 424
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73519
+    AegisName: HTC_Fanta_Orange_Can
+    Name: "Costume Fanta Orange Can Hat"
+    Type: Armor
+    Weight: 0
+    View: 425
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73520
+    AegisName: HTC_Fanta_Grape_Can
+    Name: "Costume Fanta Grape Can Hat"
+    Type: Armor
+    Weight: 0
+    View: 426
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73521
+    AegisName: HTC_Karada_Meguri_Tea_Hat
+    Name: "Costume Karada Meguricha Hat"
+    Type: Armor
+    Weight: 0
+    View: 427
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73522
+    AegisName: HTC_Royal_Milk_Tea_Hat
+    Name: "Costume Black Tea Kochakaden Hat"
+    Type: Armor
+    Weight: 0
+    View: 428
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73523
+    AegisName: HTC_Bread_Bag1
+    Name: "Costume RWC Anniversary Bread Envelope"
+    Type: Armor
+    Weight: 0
+    View: 429
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73524
+    AegisName: HTC_Bogy_Cap
+    Name: "Costume Dokkaebi Hat"
+    Type: Armor
+    Weight: 0
+    View: 430
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73525
+    AegisName: HTC_Sacred_Torch_Coronet
+    Name: "Costume Flame Crown"
+    Type: Armor
+    Weight: 0
+    View: 431
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73526
+    AegisName: HTC_Chicken_Hat
+    Name: "Costume Chicken Hat"
+    Type: Armor
+    Weight: 0
+    View: 432
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73527
+    AegisName: HTC_Brazil_Baseball_Cap
+    Name: "Costume bRO 4th Anniversary Hat"
+    Type: Armor
+    Weight: 0
+    View: 433
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73528
+    AegisName: HTC_Golden_Wreath
+    Name: "Costume Golden Laurel"
+    Type: Armor
+    Weight: 0
+    View: 434
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73529
+    AegisName: HTC_Coke_Hat
+    Name: "Costume Red Sombrero Hat"
+    Type: Armor
+    Weight: 0
+    View: 436
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73530
+    AegisName: HTC_Bride's_Corolla
+    Name: "Costume Bride's Corolla"
+    Type: Armor
+    Weight: 0
+    View: 437
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73531
+    AegisName: HTC_Flower_Of_Fairy
+    Name: "Costume Fairy Flower"
+    Type: Armor
+    Weight: 0
+    View: 438
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73532
+    AegisName: HTC_Fillet_Green
+    Name: "Costume Cute Green Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 439
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73533
+    AegisName: HTC_Fillet_Red
+    Name: "Costume Cute Red Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 440
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73534
+    AegisName: HTC_Fillet_Blue
+    Name: "Costume Cute Blue Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 441
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73535
+    AegisName: HTC_Fillet_White
+    Name: "Costume Cute White Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 442
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73536
+    AegisName: HTC_Necktie
+    Name: "Costume Necktie"
+    Type: Armor
+    Weight: 0
+    View: 443
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73537
+    AegisName: HTC_Status_Of_Baby_Angel
+    Name: "Costume Statue of Baby Angel"
+    Type: Armor
+    Weight: 0
+    View: 444
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73538
+    AegisName: HTC_Hair_Brush
+    Name: "Costume Hair Brush"
+    Type: Armor
+    Weight: 0
+    View: 445
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73539
+    AegisName: HTC_Candy_Cane_In_The_Mouth
+    Name: "Costume Candy Cane in Mouth"
+    Type: Armor
+    Weight: 0
+    View: 446
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73540
+    AegisName: HTC_Cat_Foot_Hairpin
+    Name: "Costume Cat Paw Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 447
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73541
+    AegisName: HTC_Frog_Cap
+    Name: "Costume Frog Hat"
+    Type: Armor
+    Weight: 0
+    View: 448
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73542
+    AegisName: HTC_Solo_Play_Box1
+    Name: "Costume Indifferent Solo Hat"
+    Type: Armor
+    Weight: 0
+    View: 449
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73543
+    AegisName: HTC_Solo_Play_Box2
+    Name: "Costume Angry Solo Hat"
+    Type: Armor
+    Weight: 0
+    View: 450
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73544
+    AegisName: HTC_Sun_Cap
+    Name: "Costume Solar Hat"
+    Type: Armor
+    Weight: 0
+    View: 451
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73545
+    AegisName: HTC_Dragonhelm_Gold
+    Name: "Costume Gold Dragon Helm"
+    Type: Armor
+    Weight: 0
+    View: 452
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73546
+    AegisName: HTC_Dragonhelm_Silver
+    Name: "Costume Silver Dragon Helm"
+    Type: Armor
+    Weight: 0
+    View: 453
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73547
+    AegisName: HTC_Dragonhelm_Copper
+    Name: "Costume Copper Dragon Helm"
+    Type: Armor
+    Weight: 0
+    View: 454
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73548
+    AegisName: HTC_Dog_Cap_
+    Name: "Costume Puppy Hat"
+    Type: Armor
+    Weight: 0
+    View: 234
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73549
+    AegisName: HTC_Geographer_Band_
+    Name: "Costume Decorative Geographer"
+    Type: Armor
+    Weight: 0
+    View: 238
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73550
+    AegisName: HTC_Vacation_Hat_
+    Name: "Costume Summer Hat"
+    Type: Armor
+    Weight: 0
+    View: 315
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73551
+    AegisName: HTC_Spring_Rabbit_Hat
+    Name: "Costume Moon Rabbit Hat"
+    Type: Armor
+    Weight: 0
+    View: 455
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73552
+    AegisName: HTC_Pinwheel_Cap
+    Name: "Costume Pinwheel Hat"
+    Type: Armor
+    Weight: 0
+    View: 456
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73553
+    AegisName: HTC_Drooping_Bunny_Chusuk
+    Name: "Costume Drooping Bunny"
+    Type: Armor
+    Weight: 0
+    View: 249
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73554
+    AegisName: HTC_Adv_Dragon_Skull
+    Name: "Costume Evolved Dragon Skull Hat"
+    Type: Armor
+    Weight: 0
+    View: 457
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73555
+    AegisName: HTC_Adv_Whisper_Mask
+    Name: "Costume Evolved Whisper Mask"
+    Type: Armor
+    Weight: 0
+    View: 458
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73556
+    AegisName: HTC_Spiked_Scarf
+    Name: "Costume Spiked Scarf"
+    Type: Armor
+    Weight: 0
+    View: 459
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73557
+    AegisName: HTC_Rainbow_Scarf
+    Name: "Costume Rainbow Scarf"
+    Type: Armor
+    Weight: 0
+    View: 460
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73558
+    AegisName: HTC_Zaha_Doll_Hat
+    Name: "Costume Bacsojin Hat"
+    Type: Armor
+    Weight: 0
+    View: 461
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73559
+    AegisName: HTC_Hairband_Of_Grandpeco
+    Name: "Costume Grand Peco Headdress"
+    Type: Armor
+    Weight: 0
+    View: 473
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73560
+    AegisName: HTC_Bro_Flag
+    Name: "Costume Brazilian Flag Hat"
+    Type: Armor
+    Weight: 0
+    View: 474
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73561
+    AegisName: HTC_Classic_Hat
+    Name: "Costume Classic Hat"
+    Type: Armor
+    Weight: 0
+    View: 475
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73562
+    AegisName: HTC_Shaman's_Hair_Ornament
+    Name: "Costume Shaman's Hair Decoration"
+    Type: Armor
+    Weight: 0
+    View: 476
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73563
+    AegisName: HTC_Bizofnil_Wing_Deco
+    Name: "Costume Bijofnil Wings"
+    Type: Armor
+    Weight: 0
+    View: 477
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73564
+    AegisName: HTC_Hermose_Cap
+    Name: "Costume Hermode Cap"
+    Type: Armor
+    Weight: 0
+    View: 478
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73565
+    AegisName: HTC_Dark_Knight_Mask
+    Name: "Costume Dark Knight Mask"
+    Type: Armor
+    Weight: 0
+    View: 479
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73566
+    AegisName: HTC_Odin_Mask
+    Name: "Costume Odin's Mask"
+    Type: Armor
+    Weight: 0
+    View: 480
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73567
+    AegisName: HTC_Tiger_Face
+    Name: "Costume Tiger Face"
+    Type: Armor
+    Weight: 0
+    View: 483
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73568
+    AegisName: HTC_J_Anniversary_Hat
+    Name: "Costume Anniversary Hat"
+    Type: Armor
+    Weight: 0
+    View: 395
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73569
+    AegisName: HTC_J_Poringcake_Hat
+    Name: "Costume Poring Cake Hat"
+    Type: Armor
+    Weight: 0
+    View: 417
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73570
+    AegisName: HTC_J_Twin_Santahat
+    Name: "Costume Twin Pom Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 390
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73571
+    AegisName: HTC_Love_Daddy
+    Name: "Costume Love Daddy Hat"
+    Type: Armor
+    Weight: 0
+    View: 484
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73572
+    AegisName: HTC_Anubis_Helm
+    Name: "Costume Anubis Helm"
+    Type: Armor
+    Weight: 0
+    View: 485
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73573
+    AegisName: HTC_Hat_Of_Outlaw
+    Name: "Costume Bandit Hat"
+    Type: Armor
+    Weight: 0
+    View: 486
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73574
+    AegisName: HTC_Boy's_Cap_I
+    Name: "Costume Student Cap"
+    Type: Armor
+    Weight: 0
+    View: 102
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73575
+    AegisName: HTC_Ulle_Cap_I
+    Name: "Costume Ulle's Cap"
+    Type: Armor
+    Weight: 0
+    View: 254
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73576
+    AegisName: HTC_Spinx_Helm_I
+    Name: "Costume Sphinx Hat"
+    Type: Armor
+    Weight: 0
+    View: 137
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Top: true
+  - Id: 73577
+    AegisName: HTC_Power_Of_Thor
+    Name: "Costume Power of Thor"
+    Type: Armor
+    Weight: 0
+    View: 493
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73578
+    AegisName: HTC_Dice_Hat
+    Name: "Costume Dice Hat"
+    Type: Armor
+    Weight: 0
+    View: 494
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73579
+    AegisName: HTC_King_Tiger_Doll_Hat
+    Name: "Costume King Tiger Doll Hat"
+    Type: Armor
+    Weight: 0
+    View: 495
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73580
+    AegisName: HTC_Wondering_Wolf_Helm
+    Name: "Costume Wandering Wolf King Helmet"
+    Type: Armor
+    Weight: 0
+    View: 490
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73581
+    AegisName: HTC_Pizza_Hat
+    Name: "Costume Pizza Hat"
+    Type: Armor
+    Weight: 0
+    View: 487
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73582
+    AegisName: HTC_Icecream_Hat
+    Name: "Costume Ice Cream Hat"
+    Type: Armor
+    Weight: 0
+    View: 488
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73583
+    AegisName: HTC_Pirate's_Pride
+    Name: "Costume Pirate's Pride"
+    Type: Armor
+    Weight: 0
+    View: 496
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73584
+    AegisName: HTC_Necromencer's_Hood
+    Name: "Costume Necromancer's Hood"
+    Type: Armor
+    Weight: 0
+    View: 491
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73585
+    AegisName: HTC_Rabbit_Magic_Hat
+    Name: "Costume Rabbit Magic Hat"
+    Type: Armor
+    Weight: 0
+    View: 497
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73586
+    AegisName: HTC_China_Wedding_Veil
+    Name: "Costume RO 5th Wedding Anniversary"
+    Type: Armor
+    Weight: 0
+    View: 489
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73587
+    AegisName: HTC_Asara_Fairy_Hat
+    Name: "Costume Ashura Fairy Hat"
+    Type: Armor
+    Weight: 0
+    View: 492
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73588
+    AegisName: HTC_Blue_Pajamas_Hat
+    Name: "Costume Blue Pajamas Hat"
+    Type: Armor
+    Weight: 0
+    View: 501
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73589
+    AegisName: HTC_Pink_Pajamas_Hat
+    Name: "Costume Pink Pajamas Hat"
+    Type: Armor
+    Weight: 0
+    View: 502
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73590
+    AegisName: HTC_Shark_Hat
+    Name: "Costume Shark Hat"
+    Type: Armor
+    Weight: 0
+    View: 503
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73591
+    AegisName: HTC_Sting_Hat
+    Name: "Costume Sting Hat"
+    Type: Armor
+    Weight: 0
+    View: 504
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73592
+    AegisName: HTC_Shower_Cap
+    Name: "Costume Shower Cap"
+    Type: Armor
+    Weight: 0
+    View: 507
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73593
+    AegisName: HTC_Samambaia
+    Name: "Costume Samambaia"
+    Type: Armor
+    Weight: 0
+    View: 508
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73594
+    AegisName: HTC_Aquarius_Diadem
+    Name: "Costume Aquarius Diadem"
+    Type: Armor
+    Weight: 0
+    View: 509
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73595
+    AegisName: HTC_Aquarius_Crown
+    Name: "Costume Aquarius Crown"
+    Type: Armor
+    Weight: 0
+    View: 510
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73596
+    AegisName: HTC_Pisces_Diadem
+    Name: "Costume Pisces Diadem"
+    Type: Armor
+    Weight: 0
+    View: 511
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73597
+    AegisName: HTC_Pisces_Crown
+    Name: "Costume Pisces Crown"
+    Type: Armor
+    Weight: 0
+    View: 512
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73598
+    AegisName: HTC_Hawk_Eyes01
+    Name: "Costume Hawk Eyes"
+    Type: Armor
+    Weight: 0
+    View: 23
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73599
+    AegisName: HTC_Hawk_Eyes02
+    Name: "Costume Hawk Eyes"
+    Type: Armor
+    Weight: 0
+    View: 23
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73600
+    AegisName: HTC_L_Magestic_Goat2
+    Name: "Costume Gigantic Majestic Goat"
+    Type: Armor
+    Weight: 0
+    View: 513
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73601
+    AegisName: HTC_Peacock_Feather
+    Name: "Costume Peacock Feather"
+    Type: Armor
+    Weight: 0
+    View: 514
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73602
+    AegisName: HTC_Rabbit_Earplug
+    Name: "Costume Rabbit Earmuffs"
+    Type: Armor
+    Weight: 0
+    View: 515
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73603
+    AegisName: HTC_Angry_Mouth_C
+    Name: "Costume Angry Mouth"
+    Type: Armor
+    Weight: 0
+    View: 194
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73604
+    AegisName: HTC_Fanta_Zero_Lemon_Hat
+    Name: "Costume Fanta Zero Lemon Hat"
+    Type: Armor
+    Weight: 0
+    View: 516
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73605
+    AegisName: HTC_Sakura_Mist_Hat
+    Name: "Costume Sakura Mist Hat"
+    Type: Armor
+    Weight: 0
+    View: 517
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73606
+    AegisName: HTC_Sakura_Milk_Tea_Hat
+    Name: "Costume Sakura Milk Tea Hat"
+    Type: Armor
+    Weight: 0
+    View: 518
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73607
+    AegisName: HTC_First_Leaf_Tea_Hat
+    Name: "Costume First Leaf Tea Hat"
+    Type: Armor
+    Weight: 0
+    View: 519
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73608
+    AegisName: HTC_Lady_Tanee_Doll
+    Name: "Costume Lady Tanee Doll"
+    Type: Armor
+    Weight: 0
+    View: 520
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73609
+    AegisName: HTC_Lunatic_Hat
+    Name: "Costume Lunatic Hat"
+    Type: Armor
+    Weight: 0
+    View: 521
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73610
+    AegisName: HTC_King_Frog_Hat
+    Name: "Costume Frog Prince Hat"
+    Type: Armor
+    Weight: 0
+    View: 522
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73611
+    AegisName: HTC_Evil's_Bone_Hat
+    Name: "Costume Devil's Bone Helm"
+    Type: Armor
+    Weight: 0
+    View: 523
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73612
+    AegisName: HTC_Raven_Cap
+    Name: "Costume Raven Cap"
+    Type: Armor
+    Weight: 0
+    View: 524
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73613
+    AegisName: HTC_B_Dragon_Hat
+    Name: "Costume Baby Dragon Hat"
+    Type: Armor
+    Weight: 0
+    View: 525
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73614
+    AegisName: HTC_Pirate_Dagger_J
+    Name: "Costume Pirate Dagger"
+    Type: Armor
+    Weight: 0
+    View: 327
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73615
+    AegisName: HTC_Emperor_Wreath_J
+    Name: "Costume Emperor Wreath"
+    Type: Armor
+    Weight: 0
+    View: 261
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73616
+    AegisName: HTC_Side_Cap
+    Name: "Costume Side Cap"
+    Type: Armor
+    Weight: 0
+    View: 529
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73617
+    AegisName: HTC_Spare_Card
+    Name: "Costume Spare Card"
+    Type: Armor
+    Weight: 0
+    View: 526
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73618
+    AegisName: HTC_Quati_Hat
+    Name: "Costume Coati Hat"
+    Type: Armor
+    Weight: 0
+    View: 527
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73619
+    AegisName: HTC_Tucan_Hat
+    Name: "Costume Tucan Hat"
+    Type: Armor
+    Weight: 0
+    View: 528
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73620
+    AegisName: HTC_Jaguar_Hat
+    Name: "Costume Jaguar Hat"
+    Type: Armor
+    Weight: 0
+    View: 530
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73621
+    AegisName: HTC_Freyja_SCirclet7
+    Name: "Costume Freya's Spiritual Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73622
+    AegisName: HTC_Freyja_SCirclet30
+    Name: "Costume Freya's Spiritual Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73623
+    AegisName: HTC_Freyja_SCirclet60
+    Name: "Costume Freya's Spiritual Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73624
+    AegisName: HTC_Freyja_SCirclet90
+    Name: "Costume Freya's Spiritual Circlet"
+    Type: Armor
+    Weight: 0
+    View: 18
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73625
+    AegisName: HTC_Time_Keeper_Hat
+    Name: "Costume Time Guardian Hat"
+    Type: Armor
+    Weight: 0
+    View: 240
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73626
+    AegisName: HTC_Aries_Diadem
+    Name: "Costume Aries Diadem"
+    Type: Armor
+    Weight: 0
+    View: 531
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73627
+    AegisName: HTC_Aries_Crown
+    Name: "Costume Aries Crown"
+    Type: Armor
+    Weight: 0
+    View: 532
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73628
+    AegisName: HTC_RJC_Katusa
+    Name: "Costume RJC Flower Hairband"
+    Type: Armor
+    Weight: 0
+    View: 533
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73629
+    AegisName: HTC_Scarlet_Rose
+    Name: "Costume Crimson Rose"
+    Type: Armor
+    Weight: 0
+    View: 534
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73630
+    AegisName: HTC_Taurus_Diadem
+    Name: "Costume Taurus Diadem"
+    Type: Armor
+    Weight: 0
+    View: 535
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73631
+    AegisName: HTC_Taurus_Crown
+    Name: "Costume Taurus Crown"
+    Type: Armor
+    Weight: 0
+    View: 536
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73632
+    AegisName: HTC_Fest_Lord_Circlet
+    Name: "Costume Festival Grand Circlet"
+    Type: Armor
+    Weight: 0
+    View: 93
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73633
+    AegisName: HTC_Fest_Bunny_Band
+    Name: "Costume Festival Bunny Band"
+    Type: Armor
+    Weight: 0
+    View: 15
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73634
+    AegisName: HTC_Octopus_Hat
+    Name: "Costume Octopus Hat"
+    Type: Armor
+    Weight: 0
+    View: 538
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73635
+    AegisName: HTC_Leaf_Cat_Hat
+    Name: "Costume Leaf Cat Hat"
+    Type: Armor
+    Weight: 0
+    View: 539
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73636
+    AegisName: HTC_Fur_Seal_Hat
+    Name: "Costume Fur Seal Hat"
+    Type: Armor
+    Weight: 0
+    View: 540
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73637
+    AegisName: HTC_Wild_Rose_Hat
+    Name: "Costume Wild Rose Hat"
+    Type: Armor
+    Weight: 0
+    View: 541
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73638
+    AegisName: HTC_Saci_Hat
+    Name: "Costume Luxury Hat"
+    Type: Armor
+    Weight: 0
+    View: 542
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73639
+    AegisName: HTC_Piece_Of_White_Cloth_E
+    Name: "Costume Pure White Cloth"
+    Type: Armor
+    Weight: 0
+    View: 543
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73640
+    AegisName: HTC_Bullock_Helm_J
+    Name: "Costume Horned Helm"
+    Type: Armor
+    Weight: 0
+    View: 322
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73641
+    AegisName: HTC_Rabbit_Magic_Hat_J
+    Name: "Costume Rabbit Magic Hat"
+    Type: Armor
+    Weight: 0
+    View: 497
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73642
+    AegisName: HTC_Good_Wedding_Veil_J
+    Name: "Costume Love of Truth"
+    Type: Armor
+    Weight: 0
+    View: 489
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73643
+    AegisName: HTC_Crown_Of_Deceit
+    Name: "Costume Crown of Deceit"
+    Type: Armor
+    Weight: 0
+    View: 544
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73644
+    AegisName: HTC_Dragon_Arhat_Mask
+    Name: "Costume Dragon Arhat Mask"
+    Type: Armor
+    Weight: 0
+    View: 545
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73645
+    AegisName: HTC_Tiger_Arhat_Mask
+    Name: "Costume Tiger Arhat Mask"
+    Type: Armor
+    Weight: 0
+    View: 546
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+  - Id: 73646
+    AegisName: HTC_Bright_Fury
+    Name: "Costume Rage of Luster"
+    Type: Armor
+    Weight: 0
+    View: 548
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73647
+    AegisName: HTC_Rabbit_Bonnet
+    Name: "Costume Rabbit Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 549
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73648
+    AegisName: HTC_Gemini_Diadem
+    Name: "Costume Gemini Diadem"
+    Type: Armor
+    Weight: 0
+    View: 550
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73649
+    AegisName: HTC_Gemini_Crown
+    Name: "Costume Gemini Crown"
+    Type: Armor
+    Weight: 0
+    View: 551
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73650
+    AegisName: HTC_Savage_Baby_Hat
+    Name: "Costume Savage Babe Hat"
+    Type: Armor
+    Weight: 0
+    View: 553
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73651
+    AegisName: HTC_Bogy_Horn
+    Name: "Costume Dokkaebi Horn"
+    Type: Armor
+    Weight: 0
+    View: 554
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73652
+    AegisName: HTC_Pencil_In_Mouth
+    Name: "Costume Well-Chewed Pencil"
+    Type: Armor
+    Weight: 0
+    View: 555
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73653
+    AegisName: HTC_Onigiri_Hat
+    Name: "Costume Rice Ball Hat"
+    Type: Armor
+    Weight: 0
+    View: 556
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73654
+    AegisName: HTC_Dark_Knight_MaskB
+    Name: "Costume Dark Knight Mask"
+    Type: Armor
+    Weight: 0
+    View: 479
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73655
+    AegisName: HTC_Voyage_Hat
+    Name: "Costume Voyage Hat"
+    Type: Armor
+    Weight: 0
+    View: 236
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73656
+    AegisName: HTC_Wanderer's_Sakkat
+    Name: "Costume Wanderer's Sakkat"
+    Type: Armor
+    Weight: 0
+    View: 558
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73657
+    AegisName: HTC_Cancer_Diadem
+    Name: "Costume Cancer Diadem"
+    Type: Armor
+    Weight: 0
+    View: 560
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73658
+    AegisName: HTC_Cancer_Crown
+    Name: "Costume Cancer Crown"
+    Type: Armor
+    Weight: 0
+    View: 561
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73659
+    AegisName: HTC_Para_Team_Hat
+    Name: "Costume Paradise Group Hat"
+    Type: Armor
+    Weight: 0
+    View: 465
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73660
+    AegisName: HTC_Majestic_Evil_Horn
+    Name: "Costume Majestic Devil Horns"
+    Type: Armor
+    Weight: 0
+    View: 562
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73661
+    AegisName: HTC_Rune_Hairband
+    Name: "Costume Rune Hairband"
+    Type: Armor
+    Weight: 0
+    View: 564
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73662
+    AegisName: HTC_Mosquito_Coil
+    Name: "Costume Mosquito Coil"
+    Type: Armor
+    Weight: 0
+    View: 563
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73663
+    AegisName: HTC_Mosquito_Coil_1Use
+    Name: "Costume Mosquito Coil For 1 Use"
+    Type: Armor
+    Weight: 0
+    View: 563
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73664
+    AegisName: HTC_K_Poring_Cake_Cap
+    Name: "Costume Poring Cake Hat"
+    Type: Armor
+    Weight: 0
+    View: 417
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73665
+    AegisName: HTC_Sigrun's_Wing
+    Name: "Costume Sigrun's Wings"
+    Type: Armor
+    Weight: 0
+    View: 568
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73666
+    AegisName: HTC_K_Rabbit_Bonnet
+    Name: "Costume Rabbit Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 549
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73667
+    AegisName: HTC_Donut_In_Mouth
+    Name: "Costume Donut in Mouth"
+    Type: Armor
+    Weight: 0
+    View: 569
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73668
+    AegisName: HTC_4Leaf_Clover_In_Mouth
+    Name: "Costume Four Leaf Clover"
+    Type: Armor
+    Weight: 0
+    View: 571
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73669
+    AegisName: HTC_Bubble_Gum_In_Mouth
+    Name: "Costume Chewing Gum"
+    Type: Armor
+    Weight: 0
+    View: 572
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73670
+    AegisName: HTC_Br_Twin_Ribbon
+    Name: "Costume Brazil Twin Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 575
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73671
+    AegisName: HTC_RTC_Winner_Only
+    Name: "Costume RWC Statue(Winner)"
+    Type: Armor
+    Weight: 0
+    View: 577
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73672
+    AegisName: HTC_RTC_Second_Best
+    Name: "Costume RWC Statue(Second)"
+    Type: Armor
+    Weight: 0
+    View: 578
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73673
+    AegisName: HTC_RTC_Third_Best
+    Name: "Costume RWC Statue(3rd)"
+    Type: Armor
+    Weight: 0
+    View: 579
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73674
+    AegisName: HTC_Darkness_Helm_J
+    Name: "Costume Darkness Helm"
+    Type: Armor
+    Weight: 0
+    View: 586
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73675
+    AegisName: HTC_Holy_Marching_Hat_J
+    Name: "Costume Red Marching Hat"
+    Type: Armor
+    Weight: 0
+    View: 587
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73676
+    AegisName: HTC_Imp_Hat
+    Name: "Costume Imp Hat"
+    Type: Armor
+    Weight: 0
+    View: 589
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73677
+    AegisName: HTC_Sleepr_Hat
+    Name: "Costume Sleeper Hat"
+    Type: Armor
+    Weight: 0
+    View: 590
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73678
+    AegisName: HTC_Gryphon_Hat
+    Name: "Costume Gryphon Hat"
+    Type: Armor
+    Weight: 0
+    View: 591
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73679
+    AegisName: HTC_Filir_Wing
+    Name: "Costume Filir's Pinions"
+    Type: Armor
+    Weight: 0
+    View: 595
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73680
+    AegisName: HTC_Shaman_Hat
+    Name: "Costume Shaman Hat"
+    Type: Armor
+    Weight: 0
+    View: 596
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73681
+    AegisName: HTC_Golden_Crown
+    Name: "Costume Crown Cap"
+    Type: Armor
+    Weight: 0
+    View: 597
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73682
+    AegisName: HTC_Skull_Hood
+    Name: "Costume Skull Hood"
+    Type: Armor
+    Weight: 0
+    View: 598
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73683
+    AegisName: HTC_Weird_Pumpkin_Hat
+    Name: "Costume Mysterious Pumpkin Hat"
+    Type: Armor
+    Weight: 0
+    View: 206
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73684
+    AegisName: HTC_Drooping_Morocc_Minion
+    Name: "Costume Drooping Incarnation of Morocc"
+    Type: Armor
+    Weight: 0
+    View: 600
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73685
+    AegisName: HTC_F_Ribbon_Green
+    Name: "Costume Green Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 244
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73686
+    AegisName: HTC_Triangle_Rune_Cap
+    Name: "Costume Triangle Rune Cap"
+    Type: Armor
+    Weight: 0
+    View: 610
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73687
+    AegisName: HTC_Majestic_Goat_Repl
+    Name: "Costume Majestic Goat Model"
+    Type: Armor
+    Weight: 0
+    View: 41
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73688
+    AegisName: HTC_Jewel_Crown_Repl
+    Name: "Costume Jewel Crown"
+    Type: Armor
+    Weight: 0
+    View: 88
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73689
+    AegisName: HTC_Prontera_Army_Cap_Repl
+    Name: "Costume Knight's Army Cap"
+    Type: Armor
+    Weight: 0
+    View: 48
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73690
+    AegisName: HTC_Feather_Bonnet_Repl
+    Name: "Costume Feather Bonnet"
+    Type: Armor
+    Weight: 0
+    View: 104
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73691
+    AegisName: HTC_Viking_Helm_Repl
+    Name: "Costume Orc Helm"
+    Type: Armor
+    Weight: 0
+    View: 86
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73692
+    AegisName: HTC_Red_Wing_Hat
+    Name: "Costume Red Wing Hat"
+    Type: Armor
+    Weight: 0
+    View: 613
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73693
+    AegisName: HTC_Catain_Bandanna
+    Name: "Costume Sailor's Bandana"
+    Type: Armor
+    Weight: 0
+    View: 542
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73694
+    AegisName: HTC_Sea_Cat_Hat
+    Name: "Costume Sea Cat Hat"
+    Type: Armor
+    Weight: 0
+    View: 539
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73695
+    AegisName: HTC_Snowman_Hat
+    Name: "Costume Snowman Hat"
+    Type: Armor
+    Weight: 0
+    View: 616
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73696
+    AegisName: HTC_Im_Egg_Shell_Hat
+    Name: "Costume Eternal Egg Skin Hat"
+    Type: Armor
+    Weight: 0
+    View: 101
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73697
+    AegisName: HTC_Rudolf_Santa_Hat
+    Name: "Costume Rudolf Santa Hat"
+    Type: Armor
+    Weight: 0
+    View: 619
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73698
+    AegisName: HTC_Splash_Hat
+    Name: "Costume Splash Hat"
+    Type: Armor
+    Weight: 0
+    View: 349
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73699
+    AegisName: HTC_Family_Hat
+    Name: "Costume Family Hat"
+    Type: Armor
+    Weight: 0
+    View: 109
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73700
+    AegisName: HTC_Choco_Donut_In_Mouth
+    Name: "Costume Chocolate Donut"
+    Type: Armor
+    Weight: 0
+    View: 653
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73701
+    AegisName: HTC_Persika
+    Name: "Costume Persica"
+    Type: Armor
+    Weight: 0
+    View: 659
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73702
+    AegisName: HTC_Ancient_Elven_Ear
+    Name: "Costume Ancient Elven Ears"
+    Type: Armor
+    Weight: 0
+    View: 665
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73703
+    AegisName: HTC_3D_Glasses
+    Name: "Costume 3D Glasses"
+    Type: Armor
+    Weight: 0
+    View: 661
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73704
+    AegisName: HTC_Fish_Pin
+    Name: "Costume Fish Pin"
+    Type: Armor
+    Weight: 0
+    View: 669
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73705
+    AegisName: HTC_Ribbon_Of_Life
+    Name: "Costume Life Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 575
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73706
+    AegisName: HTC_3D_Glasses_
+    Name: "Costume 3D Glasses"
+    Type: Armor
+    Weight: 0
+    View: 661
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73707
+    AegisName: HTC_Cheer_Scarf
+    Name: "Costume Cheering scarf"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73708
+    AegisName: HTC_Cheer_Scarf2
+    Name: "Costume Cheering scarf II"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73709
+    AegisName: HTC_Cheer_Scarf3
+    Name: "Costume Cheering scarf III"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73710
+    AegisName: HTC_Cheer_Scarf4
+    Name: "Costume Cheering scarf IV"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73711
+    AegisName: HTC_Blush_Of_Groom
+    Name: "Costume Blush of Groom"
+    Type: Armor
+    Weight: 0
+    View: 125
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73712
+    AegisName: HTC_Ribbon_Of_Bride
+    Name: "Costume Red Tailed Ribbon"
+    Type: Armor
+    Weight: 0
+    View: 167
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73713
+    AegisName: HTC_Upgrade_Elephant_Hat
+    Name: "Costume Upgrade Elephant Hat"
+    Type: Armor
+    Weight: 0
+    View: 215
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73714
+    AegisName: HTC_Flower_Love_Hat
+    Name: "Costume Love Flower Hat"
+    Type: Armor
+    Weight: 0
+    View: 5
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73715
+    AegisName: HTC_Pirate_Eyepatch
+    Name: "Costume Pirate Eye Bandage"
+    Type: Armor
+    Weight: 0
+    View: 13
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73716
+    AegisName: HTC_Victorious_Coronet
+    Name: "Costume Victorious Coronet"
+    Type: Armor
+    Weight: 0
+    View: 43
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73717
+    AegisName: HTC_Poem_Natalia_Hat
+    Name: "Costume Poet Natalia's Hat"
+    Type: Armor
+    Weight: 0
+    View: 67
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73718
+    AegisName: HTC_October_Fest_Cap
+    Name: "Costume Octoberfest Cap"
+    Type: Armor
+    Weight: 0
+    View: 104
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73719
+    AegisName: HTC_Diabolus_Helmet
+    Name: "Costume Dark Basilium"
+    Type: Armor
+    Weight: 0
+    View: 364
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73720
+    AegisName: HTC_Boom_Boom_Hat
+    Name: "Costume Boom Boom Hat"
+    Type: Armor
+    Weight: 0
+    View: 216
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73721
+    AegisName: HTC_Ph.D_Hat_V
+    Name: "Costume Ph.D Hat"
+    Type: Armor
+    Weight: 0
+    View: 98
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73722
+    AegisName: HTC_Santa_Beard
+    Name: "Costume Santa's Beard"
+    Type: Armor
+    Weight: 0
+    View: 25
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73723
+    AegisName: HTC_Hat_Of_Expert
+    Name: "Costume Hat of Water Expert"
+    Type: Armor
+    Weight: 0
+    View: 16
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73724
+    AegisName: HTC_Classic_Hat_J
+    Name: "Costume Classic Hat"
+    Type: Armor
+    Weight: 0
+    View: 475
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73725
+    AegisName: HTC_Cowboy_Hat_J
+    Name: "Costume Purple Cowboy Hat"
+    Type: Armor
+    Weight: 0
+    View: 411
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73726
+    AegisName: HTC_Carnival_Hat
+    Name: "Costume Carnival Hat"
+    Type: Armor
+    Weight: 0
+    View: 505
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73727
+    AegisName: HTC_Carnival_Circlet
+    Name: "Costume Carnival Circlet"
+    Type: Armor
+    Weight: 0
+    View: 506
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73728
+    AegisName: HTC_Gold_Tulip_Hairpin
+    Name: "Costume Golden Tulip Hairpin"
+    Type: Armor
+    Weight: 0
+    View: 499
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73729
+    AegisName: HTC_Love_Chick_Hat
+    Name: "Costume Love Chick Hat"
+    Type: Armor
+    Weight: 0
+    View: 500
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73730
+    AegisName: HTC_Fools_Day_Hat
+    Name: "Costume April Fool's Hat"
+    Type: Armor
+    Weight: 0
+    View: 265
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73731
+    AegisName: HTC_Valkyrie_Helmet
+    Name: "Costume Valkyrie Helm"
+    Type: Armor
+    Weight: 0
+    View: 225
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73732
+    AegisName: HTC_Book_File_Hat
+    Name: "Costume Book Pile Hat"
+    Type: Armor
+    Weight: 0
+    View: 423
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73733
+    AegisName: HTC_Buzzy_Ball_Gum
+    Name: "Costume Buzzy BOL Gum"
+    Type: Armor
+    Weight: 0
+    View: 572
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73734
+    AegisName: HTC_Summer_Knight
+    Name: "Costume Crown of Summer"
+    Type: Armor
+    Weight: 0
+    View: 138
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73735
+    AegisName: HTC_Passion_FB_Hat
+    Name: "Costume Passion Football Hat"
+    Type: Armor
+    Weight: 0
+    View: 671
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73736
+    AegisName: HTC_Cool_FB_Hat
+    Name: "Costume Cool Soccerball Hat"
+    Type: Armor
+    Weight: 0
+    View: 672
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73737
+    AegisName: HTC_Victory_FB_Hat
+    Name: "Costume Soccerball Hat"
+    Type: Armor
+    Weight: 0
+    View: 673
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73738
+    AegisName: HTC_Glory_FB_Hat
+    Name: "Costume Glorious Soccerball Hat"
+    Type: Armor
+    Weight: 0
+    View: 674
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73739
+    AegisName: HTC_Cheer_Scarf6
+    Name: "Costume Cheering scarf VI"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73740
+    AegisName: HTC_Cheer_Scarf8
+    Name: "Costume Cheering scarf VIII"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73741
+    AegisName: HTC_Cheer_Scarf10
+    Name: "Costume Cheering Scarf X"
+    Type: Armor
+    Weight: 0
+    View: 369
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73742
+    AegisName: HTC_Small_Horn_Of_Devil
+    Name: "Costume Small Devil Horns"
+    Type: Armor
+    Weight: 0
+    View: 562
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73743
+    AegisName: HTC_Umbala_Spirit
+    Name: "Costume Umbala Spirit"
+    Type: Armor
+    Weight: 0
+    View: 675
+    Locations:
+      Costume_Head_Low: true
+  - Id: 73744
+    AegisName: HTC_Hattah_Black
+    Name: "Costume Hatta Black"
+    Type: Armor
+    Weight: 0
+    View: 676
+    Locations:
+      Costume_Head_Low: true
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+  - Id: 73745
+    AegisName: HTC_Elven_Ears_
+    Name: "Costume Elven Ears"
+    Type: Armor
+    Weight: 0
+    View: 73
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73746
+    AegisName: HTC_Skull_Cap
+    Name: "Costume Skull Cap"
+    Type: Armor
+    Weight: 0
+    View: 713
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73747
+    AegisName: HTC_Horn_Of_Ancient
+    Name: "Costume Ancient Horns"
+    Type: Armor
+    Weight: 0
+    View: 757
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73748
+    AegisName: HTC_Sprout_Hat
+    Name: "Costume Sprout Hat"
+    Type: Armor
+    Weight: 0
+    View: 758
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73749
+    AegisName: HTC_Mercury_Helm
+    Name: "Costume Mercury Riser"
+    Type: Armor
+    Weight: 0
+    View: 759
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73750
+    AegisName: HTC_Cat_Ears_Beret
+    Name: "Costume Cat Ear Beret"
+    Type: Armor
+    Weight: 0
+    View: 761
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73751
+    AegisName: HTC_White_Musang_Hat
+    Name: "Costume White Musang Hat"
+    Type: Armor
+    Weight: 0
+    View: 770
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73752
+    AegisName: HTC_Black_Musang_Hat
+    Name: "Costume Black Musang Hat"
+    Type: Armor
+    Weight: 0
+    View: 771
+    Locations:
+      Costume_Head_Top: true
+  - Id: 73753
+    AegisName: HTC_Heart_Eyepatch
+    Name: "Costume Heart Eyepatch"
+    Type: Armor
+    Weight: 0
+    View: 779
+    Locations:
+      Costume_Head_Mid: true
+  - Id: 73754
+    AegisName: HTC_Wit_Pumpkin_Hat
+    Name: "Costume Witch's Pumpkin Hat"
+    Type: Armor
+    Weight: 0
+    View: 717
+    Locations:
+      Costume_Head_Top: true

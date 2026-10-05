@@ -1,0 +1,61 @@
+// Headgear Exchange -- turns Headgear Exchange Tickets (item 72031) into boxes.
+//
+//   Headgear Costume Box (lower / middle / upper)   "price_costume_box" tickets  (default 10)
+//       one random costume from the Costume Tailor's list, in that slot
+//   Headgear Box (lower / middle / upper)           "price_slot_box" tickets     (default 20)
+//       one random headgear from the Random Headgear Box pool, in that slot
+//   Random Headgear Box (any slot)                  "price_any_box" tickets      (default 30)
+//       the original box: one random headgear from the pool, any slot
+//
+// The tickets drop from monsters when the "drop_box" setting is off.
+
+prontera,183,190,4	script	Headgear Exchange#rhb	1_M_SIZ,{
+	mes "[Headgear Exchange]";
+	mes "Bring me Headgear Exchange Tickets and I will trade them for boxes.";
+	mes "You have ^0055FF" + countitem(72031) + "^000000 tickets.";
+	mes "^008800Costume box^000000: " + .p_costume + " tickets";
+	mes "^008800Headgear box^000000 (one slot): " + .p_slot + " tickets";
+	mes "^008800Random Headgear Box^000000 (any slot): " + .p_any + " tickets";
+	next;
+	.@kind = select("Headgear Costume Box (" + .p_costume + "):Headgear Box, one slot (" + .p_slot + "):Random Headgear Box, any slot (" + .p_any + "):Cancel");
+	if (.@kind == 4) close;
+
+	if (.@kind == 3) {
+		.@box = 72001;
+		.@price = .p_any;
+	} else {
+		.@s = select("Lower:Middle:Upper:Cancel");
+		if (.@s == 4) close;
+		// menu order is lower, middle, upper; slot numbers are 1 = upper, 2 = middle, 3 = lower
+		.@slot = 4 - .@s;
+		if (.@kind == 1) {
+			.@box = 72010 + .@slot;
+			.@price = .p_costume;
+		} else {
+			.@box = 72020 + .@slot;
+			.@price = .p_slot;
+		}
+	}
+
+	if (countitem(72031) < .@price) {
+		mes "[Headgear Exchange]";
+		mes "You need " + .@price + " tickets for a ^008800" + getitemname(.@box) + "^000000 and you have " + countitem(72031) + ".";
+		close;
+	}
+	if (!checkweight(.@box, 1)) {
+		mes "[Headgear Exchange]";
+		mes "You are carrying too much. Make some room first!";
+		close;
+	}
+	delitem 72031, .@price;
+	getitem .@box, 1;
+	mes "[Headgear Exchange]";
+	mes "Here you go: ^008800" + getitemname(.@box) + "^000000.";
+	close;
+
+OnInit:
+	.p_costume = callfunc("F_ModSetting", "random-headgear-box", "price_costume_box", 10);
+	.p_slot = callfunc("F_ModSetting", "random-headgear-box", "price_slot_box", 20);
+	.p_any = callfunc("F_ModSetting", "random-headgear-box", "price_any_box", 30);
+	end;
+}
