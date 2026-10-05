@@ -30,15 +30,22 @@ not part of the stock database.
   `Solo_Play_Box1/2`, `Spare_Card`, `Wit_Pumpkin_Hat`, `Mosquito_Coil_1Use`) = 417.
 - **Renewal:** 2,465 headgears, 1,225 with no source, minus 18 leftovers (the `RTC` trophies,
   `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207.
-  480 of them have no entry in the client's item table, so `renewal/System/itemInfo.lua` names and describes them. 33 use the name, icon and
-  description of the iRO client table (only where its record matches the server's item name exactly). The other 447 take their name, defense, weight, slots,
-  level, job and class restrictions from the server database and describe the item script in plain words: stat and
-  percentage bonuses, damage against race/size/element, resistances, skill damage / cooldown / cast time bonuses,
-  autocasts and auto-bonus chances, refine-level, skill-level, stat and base-level conditions, and per-refine or per-level
-  scaling. 116 of them still end with a line that they have additional effects not listed, because their scripts use
-  things that are not translated (for example item-dependent effects, class conditions on some items, or special
-  status effects). They use a generic icon per slot. Worn sprites are not affected.
   Snake Head and Skull Cap sit in a stock renewal item group, so they are not in this pool.
+
+## Item names and descriptions (renewal)
+
+The renewal client has no item name for 480 of the 1,207 headgears, so they would show as "Unknown Item"
+(the worn sprite is fine). `renewal/System/itemInfo.lua` names and describes them:
+
+- **33** use the name, icon and description of the iRO client table, only where its record matches the
+  server's item name.
+- **447** are generated. Name, defense, weight, slots, level, job and class limits come from the server item
+  database. The item script is turned into plain text: stat and percent bonuses, damage against race, size and
+  element, resistances, skill damage / cooldown / cast bonuses, autocasts and chance effects, refine, skill-level,
+  stat and base-level conditions, and per-refine or per-level scaling. Checked against the 1,958 headgears that
+  do have a real description: 94.8% of the generated lines carry numbers that also appear in the real text.
+  116 items still end with "Has additional effects that are not listed here", where the script uses something
+  not translated. They use a generic icon per slot.
 
 ## Layout
 
