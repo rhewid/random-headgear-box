@@ -1,0 +1,18 @@
+// Random Headgear Box drop: every monster kill has a small chance to drop one box.
+// Chance = the "drop_chance" setting in units of 0.01% (5 = 0.05%, the default).
+
+-	script	RHB_BoxDrop	-1,{
+	end;
+
+OnInit:
+	.id = 72001;
+	.chance = callfunc("F_ModSetting", "random-headgear-box", "drop_chance", 5);
+	end;
+
+OnNPCKillEvent:
+	if (.chance > 0 && rand(10000) < .chance) {
+		getitem .id, 1;
+		dispbottom "A Random Headgear Box dropped!", 0x00FF88;
+	}
+	end;
+}

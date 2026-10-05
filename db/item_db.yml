@@ -1,0 +1,19 @@
+# Random Headgear Box. The pick happens in npc/headgear_box_pool.txt (F_RndHeadgearBox).
+# Modelled on the container chests of ARPG Equipments Mod (Type Usable + Container flag).
+
+Header:
+  Type: ITEM_DB
+  Version: 3
+
+Body:
+  - Id: 72001
+    AegisName: Random_Headgear_Box
+    Name: Random Headgear Box
+    Type: Usable
+    Buy: 20
+    Weight: 10
+    View: 13634
+    Flags:
+      Container: true
+    Script: |
+      callfunc("F_RndHeadgearBox");
