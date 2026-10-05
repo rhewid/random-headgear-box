@@ -1,8 +1,9 @@
--- Client names for the Random Headgear Box (72001) and for the renewal headgears the translation has no item
--- table entry for. This file replaces System/itemInfo.lua in renewal (the app links one table per mod), so it
--- carries the box too.
--- Name, view (ClassNum), defense, weight and slots come from the server's item database. The client has no
--- icon for these, so each uses a generic one for its slot. The worn sprite is unaffected (it comes from the view id).
+-- Client names and descriptions for the Random Headgear Box (72001) and for the renewal headgears the
+-- translation has no item table entry for. This file replaces System/itemInfo.lua in renewal (the app links one
+-- table per mod), so it carries the box too.
+-- Items the iRO client table knows use its name, icon and description. The rest take name, view (ClassNum), defense,
+-- weight and slots from the server's item database and list the simple bonuses of their item script; effects
+-- that are conditional or too complex to describe are summarised in one line. Those use a generic icon per slot.
 tbl = {
 	[5695] = {
 		unidentifiedDisplayName = "E Blue Drooping Kitty",
@@ -11,7 +12,7 @@ tbl = {
 		identifiedDisplayName = "E Blue Drooping Kitty",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 15",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -28,7 +29,8 @@ tbl = {
 		identifiedDisplayName = "E Flying Angel",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 1",
+			"AGI + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -46,7 +48,7 @@ tbl = {
 		identifiedDisplayName = "E Smoking Pipe",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -80,7 +82,8 @@ tbl = {
 		identifiedDisplayName = "E Fish On Head",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 1",
+			"AGI + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -98,7 +101,9 @@ tbl = {
 		identifiedDisplayName = "E Hibiscus",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 1",
+			"DEX + 1",
+			"MDEF + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -115,7 +120,8 @@ tbl = {
 		identifiedDisplayName = "E Cat Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 2",
+			"MDEF + 10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -132,7 +138,7 @@ tbl = {
 		identifiedDisplayName = "E Bunny Band",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -149,7 +155,7 @@ tbl = {
 		identifiedDisplayName = "E Magestic Goat TW",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -183,7 +189,8 @@ tbl = {
 		identifiedDisplayName = "E Mini Propeller",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 1",
+			"AGI + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -200,7 +207,7 @@ tbl = {
 		identifiedDisplayName = "E Alice Doll",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -218,7 +225,7 @@ tbl = {
 		identifiedDisplayName = "E Red Glasses",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -235,7 +242,7 @@ tbl = {
 		identifiedDisplayName = "E Chick Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -253,7 +260,8 @@ tbl = {
 		identifiedDisplayName = "E White Deviruchi Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 1",
+			"INT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -271,7 +279,7 @@ tbl = {
 		identifiedDisplayName = "E Vane Hairpin",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -307,7 +315,7 @@ tbl = {
 		identifiedDisplayName = "E Vacation Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -345,7 +353,9 @@ tbl = {
 		identifiedDisplayName = "E Water Lily Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 1",
+			"AGI + 1",
+			"MDEF + 3",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -363,7 +373,7 @@ tbl = {
 		identifiedDisplayName = "E Vanilmirth Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -380,7 +390,7 @@ tbl = {
 		identifiedDisplayName = "E Drooping Bunny",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -433,7 +443,7 @@ tbl = {
 		identifiedDisplayName = "E Ramen Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 4",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -450,7 +460,7 @@ tbl = {
 		identifiedDisplayName = "E Pink Fur Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -467,7 +477,7 @@ tbl = {
 		identifiedDisplayName = "E Puppy Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -485,7 +495,7 @@ tbl = {
 		identifiedDisplayName = "E Magic Eyes",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -503,7 +513,7 @@ tbl = {
 		identifiedDisplayName = "E Jumping Poring",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -520,7 +530,7 @@ tbl = {
 		identifiedDisplayName = "E Robo Eye",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -538,7 +548,7 @@ tbl = {
 		identifiedDisplayName = "E Yellow Wizardry Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -555,7 +565,7 @@ tbl = {
 		identifiedDisplayName = "E Crescent Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 8",
@@ -573,7 +583,7 @@ tbl = {
 		identifiedDisplayName = "E Tiger Mask",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 3",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -608,7 +618,7 @@ tbl = {
 		identifiedDisplayName = "E Bunny Band C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -644,7 +654,7 @@ tbl = {
 		identifiedDisplayName = "E Apple OE Archer C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"DEX + 4",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 7",
@@ -662,7 +672,7 @@ tbl = {
 		identifiedDisplayName = "E Elven Ears C",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -680,7 +690,7 @@ tbl = {
 		identifiedDisplayName = "E Magestic Goat C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -697,7 +707,7 @@ tbl = {
 		identifiedDisplayName = "Green Ribbon",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 3",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -714,7 +724,8 @@ tbl = {
 		identifiedDisplayName = "Whisper Mask",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 3",
+			"Damage taken from Ghost property attacks + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower, Middle, Upper",
@@ -730,7 +741,7 @@ tbl = {
 		identifiedDisplayName = "Thanatos's Maero Mask",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 2",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower, Middle",
@@ -747,7 +758,7 @@ tbl = {
 		identifiedDisplayName = "IdRO Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -765,7 +776,8 @@ tbl = {
 		identifiedDisplayName = "White Mage Hat C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
+			"Max SP + 150",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -782,7 +794,8 @@ tbl = {
 		identifiedDisplayName = "Blue Mage Hat C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
+			"Max SP + 150",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -799,7 +812,8 @@ tbl = {
 		identifiedDisplayName = "Red Mage Hat C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
+			"Max SP + 150",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -816,7 +830,8 @@ tbl = {
 		identifiedDisplayName = "Yellow Mage Hat C",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
+			"Max SP + 150",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 1",
@@ -833,7 +848,8 @@ tbl = {
 		identifiedDisplayName = "Half L Majestic Goat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against Human Player + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -850,7 +866,10 @@ tbl = {
 		identifiedDisplayName = "RCC2013 1st Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 5",
+			"MDEF + 5",
+			"Movement speed + 25%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -868,7 +887,7 @@ tbl = {
 		identifiedDisplayName = "Futuristic Tiara    # !todo check english name",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -886,7 +905,7 @@ tbl = {
 		identifiedDisplayName = "Little Robot Know-It-All    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -903,7 +922,7 @@ tbl = {
 		identifiedDisplayName = "Meta Angel Figure (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 15",
@@ -922,7 +941,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Diabolus Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -941,7 +960,7 @@ tbl = {
 		identifiedDisplayName = "Magaleta's Ribbon",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -960,7 +979,7 @@ tbl = {
 		identifiedDisplayName = "Pollux Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -977,7 +996,7 @@ tbl = {
 		identifiedDisplayName = "Procyon Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -994,7 +1013,7 @@ tbl = {
 		identifiedDisplayName = "Seyrandel's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1013,7 +1032,7 @@ tbl = {
 		identifiedDisplayName = "Ceryne's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1032,7 +1051,7 @@ tbl = {
 		identifiedDisplayName = "Cetio's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1051,7 +1070,7 @@ tbl = {
 		identifiedDisplayName = "Flaward's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1070,7 +1089,7 @@ tbl = {
 		identifiedDisplayName = "Germes's Horn",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1089,7 +1108,7 @@ tbl = {
 		identifiedDisplayName = "Kuken's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1108,7 +1127,7 @@ tbl = {
 		identifiedDisplayName = "Cetrion Circlet (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1127,7 +1146,7 @@ tbl = {
 		identifiedDisplayName = "Dark Raiden's Sakkat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1146,7 +1165,7 @@ tbl = {
 		identifiedDisplayName = "Shao Kahn's Helmet (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1165,7 +1184,11 @@ tbl = {
 		identifiedDisplayName = "Motaro's Horn (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 3",
+			"LUK + 3",
+			"ATK + 10",
+			"MDEF + 10",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1184,7 +1207,7 @@ tbl = {
 		identifiedDisplayName = "Ermac's Veil (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1203,7 +1226,10 @@ tbl = {
 		identifiedDisplayName = "Shang Tsung's Rainbow (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 3",
+			"AGI + 3",
+			"MDEF + 10",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1221,7 +1247,8 @@ tbl = {
 		identifiedDisplayName = "Joker's Card (OSM)",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"CRIT + 5",
+			"Critical damage + 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1238,7 +1265,7 @@ tbl = {
 		identifiedDisplayName = "Kung Jin's Headpiece (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1257,7 +1284,8 @@ tbl = {
 		identifiedDisplayName = "Joker's Face (OSM)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"CRIT + 5",
+			"Critical damage + 3%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1274,7 +1302,7 @@ tbl = {
 		identifiedDisplayName = "Nezuko's Eyes (OSM)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1291,7 +1319,10 @@ tbl = {
 		identifiedDisplayName = "Nezuko's Bamboo (OSM)",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 2",
+			"Damage taken from Doram Player - 5%",
+			"Damage taken from Human Player - 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1308,7 +1339,7 @@ tbl = {
 		identifiedDisplayName = "Erron's Hat (OSM)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -1322,37 +1353,40 @@ tbl = {
 	},
 	[15891] = {
 		unidentifiedDisplayName = "Mountain Helmet",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Mountain_Helmet",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Mountain Helmet",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Mountain_Helmet",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Helmet to protect the head from falling rocks.",
+			"Increase damage of Axe Tornado, Power Swing by 30%",
+			"When FAW Silver Sniper Lv.5, guide hit + 50%.",
+			"When Axe Boomerang Lv.5, reduce cooltime of Axe Tornado by 0.5s.",
+			"When Magma Eruption Lv.5, when performing a physical attack, adds 3% chance to increase Power Swing damage by 10% per base VIT 10.",
+			"Per 1 refine level, Reduce incoming fire and earth property damage by 3%.",
+			"When refined to +7 or higher, additional Axe Tornado, Power Swing damage + 50%.",
+			"When refined to +9 or higher, additional Axe Tornado, Power Swing damage + 70%.",
+			"Type : ^777777Helmet^000000 Defense : ^7777770^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2098
 	},
 	[15892] = {
 		unidentifiedDisplayName = "Themis Helm",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Themis_Helm",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Themis Helm",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Themis_Helm",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Only loyal knights that emphasize law and order are allowed to wear this helm.",
+			"Increase damage of Grand Cross and Genesis Ray by 20%.",
+			"When Inspiration Lv.5, INT + 20, immunity from stoned.",
+			"When Devotion Lv.5, healing + 20%.",
+			"Increase magical damage to earth, neutral, undead, ghost property monsters per 1 skill level of Hesperus Lit.",
+			"Per 1 refine level, DEF + 30.",
+			"When refined to +7 or higher, increase damage of Grand Cross and Ray of Genesis by additional 30%.",
+			"When refined to +9 or higher, increase damage of Grand Cross and Ray of Genesis by additional 50%.",
+			"Type : ^777777Headgear^000000 Defense : ^77777710^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2099
@@ -1364,7 +1398,7 @@ tbl = {
 		identifiedDisplayName = "Awakened Old King's Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -1378,19 +1412,20 @@ tbl = {
 	},
 	[15906] = {
 		unidentifiedDisplayName = "Northern Cross",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Northern_Cross",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Northern Cross",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Northern_Cross",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A hairband made of magical fabric with a beautiful red jewel.",
+			"Reduce after cast delay by 10%, MATK + 25%.",
+			"MaxHP + 2% per 1 refine rate.",
+			"When refined to +7 or higher, increase damage of Earth Strain, Hell Inferno by 30%.",
+			"When refined to +9 or higher, increase damage of Earth Strain, Hell Inferno by 70%.",
+			"When Earth Strain lv5, reduce its SP consumption by SP 60, reduce its cooltime by 3 sec.",
+			"When Tetra Vortex lv10, reduce after cast delay by 15%, ",
+			"When using Hell Inferno, adds 1% chance to increase Dark property magic damage by 50% for 5 sec.",
+			"When Hell Inferno lv5, increase attack speed by 10%, variable casting by 15%."
 		},
 		slotCount = 1,
 		ClassNum = 2132
@@ -1402,7 +1437,7 @@ tbl = {
 		identifiedDisplayName = "Flaming Heart    # !todo check english name",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1419,7 +1454,7 @@ tbl = {
 		identifiedDisplayName = "Charm Of Great Nature",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1436,7 +1471,7 @@ tbl = {
 		identifiedDisplayName = "Charm Of Mistic Frozen",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1453,7 +1488,7 @@ tbl = {
 		identifiedDisplayName = "Charm of Leafwind",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1470,7 +1505,8 @@ tbl = {
 		identifiedDisplayName = "Tattoo Brush",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1487,7 +1523,9 @@ tbl = {
 		identifiedDisplayName = "[Rental] Happy Turtle Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 30",
+			"MATK + 30",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 15",
@@ -1505,7 +1543,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Cookie Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 1",
+			"Critical damage + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 4",
@@ -1522,7 +1562,7 @@ tbl = {
 		identifiedDisplayName = "Vassalage Necklace",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1539,7 +1579,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Indigo Rear Ribbon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 8",
@@ -1556,7 +1596,9 @@ tbl = {
 		identifiedDisplayName = "Eye Patch Of Power",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Bleeding + 100%",
+			"ATK + 60",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1573,7 +1615,9 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Eye Patch Of Power",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Bleeding + 100%",
+			"ATK + 60",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1590,7 +1634,9 @@ tbl = {
 		identifiedDisplayName = "Eye Patch Of Power",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Bleeding + 50%",
+			"ATK + 40",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1608,7 +1654,9 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Eye Patch Of Power",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Bleeding + 50%",
+			"ATK + 40",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1626,7 +1674,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Kafra Employee Band",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1644,7 +1692,7 @@ tbl = {
 		identifiedDisplayName = "Helmet Of Siegfried TH",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -1663,7 +1711,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Helmet Of Siegfried TH",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -1682,7 +1730,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Giant Snake Breath",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Fire property magic damage + 1%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -1699,7 +1747,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Phantom of Masquerade",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1717,7 +1765,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Scorpio Celestial Coronet K",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1735,7 +1783,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Red Clock Casquette",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1753,7 +1801,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Great Sorcerer Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1771,7 +1819,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Ignis Cap K",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1789,7 +1837,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Sagittarius Celestial Coronet K",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1807,7 +1855,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Stripe Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -1825,7 +1873,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Sigrun's Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -1843,7 +1891,8 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Pink Angeling Bubble",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 1",
+			"Max HP + 200",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -1861,7 +1910,10 @@ tbl = {
 		identifiedDisplayName = "Orange Rabbit",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 5%",
+			"ASPD + 5%",
+			"Physical damage against all race monsters + 6%",
+			"Magic damage against all race monsters + 6%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -1879,7 +1931,7 @@ tbl = {
 		identifiedDisplayName = "Twin Cannon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"After Cast Delay - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1896,7 +1948,8 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] CD in Mouth K",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"all property magic damage + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1913,7 +1966,10 @@ tbl = {
 		identifiedDisplayName = "Adam's Apple In Mouth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF - 5",
+			"Damage taken from Angel monsters + 15%",
+			"Damage taken from Holy property attacks + 15%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -1930,7 +1986,7 @@ tbl = {
 		identifiedDisplayName = "Shrine Maiden Ribbon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -1948,7 +2004,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Shrine Maiden Ribbon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -1966,7 +2022,9 @@ tbl = {
 		identifiedDisplayName = "Wonder Egg Basket",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 5%",
+			"Magic damage against all size monsters + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -1978,51 +2036,45 @@ tbl = {
 	},
 	[15981] = {
 		unidentifiedDisplayName = "All Above Time (Magic)",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "A mysterious relic found in Old Glast Heim.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Magic)",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "A mysterious relic found in Old Glast Heim.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 60",
-			"^0000CCRequirement:^000000 Level 100"
+			"It seems to shimmer with the flow of time itself.",
+			"Increases magic damage against all property enemies by 10%.",
+			"^4D4DFFAll Above Time (Magic)^000000",
+			"^4D4DFFShard of Intelligence Jewel^000000",
+			"^4D4DFFShard of Vitality Jewel^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1309
 	},
 	[15982] = {
 		unidentifiedDisplayName = "All Above Time (Range)",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "^4D4DFFAll Above Time (Range)^000000",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Range)",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "^4D4DFFAll Above Time (Range)^000000",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 60",
-			"^0000CCRequirement:^000000 Level 100"
+			"^4D4DFFShard of Dexterity Jewel^000000",
+			"HIT + 50.",
+			"^4D4DFFShard of Fatality Jewel^000000",
+			"ATK + 80."
 		},
 		slotCount = 0,
 		ClassNum = 1309
 	},
 	[15983] = {
 		unidentifiedDisplayName = "All Above Time (Melee)",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "^4D4DFFAll Above Time (Melee)^000000",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "All Above Time (Melee)",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "^4D4DFFAll Above Time (Melee)^000000",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 60",
-			"^0000CCRequirement:^000000 Level 100"
+			"^4D4DFFShard of Strength Jewel^000000",
+			"^4D4DFFShard of Agility Jewel^000000",
+			"CRI + 30, Critical Damage + 30%."
 		},
 		slotCount = 0,
 		ClassNum = 1309
@@ -2034,7 +2086,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Heavenly Order",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -2052,7 +2104,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Little Garden",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 40",
+			"Critical damage + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -2105,7 +2159,8 @@ tbl = {
 		identifiedDisplayName = "2011 RMSC 1",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"All Stats + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -2124,7 +2179,8 @@ tbl = {
 		identifiedDisplayName = "2011 RMSC 2",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"All Stats + 3",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -2143,7 +2199,8 @@ tbl = {
 		identifiedDisplayName = "2011 RMSC 3",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"All Stats + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -2162,7 +2219,7 @@ tbl = {
 		identifiedDisplayName = "2011 RMSC 4",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -2179,7 +2236,8 @@ tbl = {
 		identifiedDisplayName = "Shovel Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 3",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -2196,7 +2254,7 @@ tbl = {
 		identifiedDisplayName = "Love Daddy 2013",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -2214,7 +2272,7 @@ tbl = {
 		identifiedDisplayName = "Cock Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -2233,7 +2291,7 @@ tbl = {
 		identifiedDisplayName = "Kardui Ears",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -2250,7 +2308,7 @@ tbl = {
 		identifiedDisplayName = "1st Anniversary Commemorative Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -2286,7 +2344,7 @@ tbl = {
 		identifiedDisplayName = "Red Baby Dragon",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -2304,7 +2362,7 @@ tbl = {
 		identifiedDisplayName = "Sealed Tatenasi Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 15",
@@ -2323,7 +2381,7 @@ tbl = {
 		identifiedDisplayName = "Aeschylus's Hood",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -2342,7 +2400,7 @@ tbl = {
 		identifiedDisplayName = "Royal Guard Rosary",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2359,7 +2417,7 @@ tbl = {
 		identifiedDisplayName = "Beelzebub's Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -2378,7 +2436,8 @@ tbl = {
 		identifiedDisplayName = "Dwarf's Mustache",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Damage taken from Water property attacks - 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2395,7 +2454,8 @@ tbl = {
 		identifiedDisplayName = "Mysterious Pigeon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 1",
+			"After Cast Delay - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2412,7 +2472,9 @@ tbl = {
 		identifiedDisplayName = "Bear Catches Balloon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 2%",
+			"Max SP + 2%",
+			"All Stats + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2429,7 +2491,8 @@ tbl = {
 		identifiedDisplayName = "Little Buffet Parachute",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 1",
+			"After Cast Delay - 1%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2446,7 +2509,9 @@ tbl = {
 		identifiedDisplayName = "Sparkler Stick",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against Undead monsters + 20%",
+			"Magic damage against Undead monsters + 20%",
+			"Resistance to Poison + 100%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2457,56 +2522,40 @@ tbl = {
 		ClassNum = 1747
 	},
 	[19410] = {
-		unidentifiedDisplayName = "Royale Grade Mini Melon",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Classic Charming Ribbon Box",
+		unidentifiedResourceName = "A Box that contains 1 Charming Ribbon",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Royale Grade Mini Melon",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Classic Charming Ribbon Box",
+		identifiedResourceName = "A Box that contains 1 Charming Ribbon",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 10"
+			
 		},
 		slotCount = 1,
 		ClassNum = 1758
 	},
 	[19412] = {
-		unidentifiedDisplayName = "Flame Bird",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Classic Vacation Hat Box",
+		unidentifiedResourceName = "A Box that contains 1 Vacation Hat",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Flame Bird",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Classic Vacation Hat Box",
+		identifiedResourceName = "A Box that contains 1 Vacation Hat",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 6",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			
 		},
 		slotCount = 1,
 		ClassNum = 832
 	},
 	[19427] = {
-		unidentifiedDisplayName = "Lunatic Family Balloon",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Rabbit Family Balloon",
+		unidentifiedResourceName = "A cute rabbit family balloon.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Lunatic Family Balloon",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Rabbit Family Balloon",
+		identifiedResourceName = "A cute rabbit family balloon.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 20",
-			"^0000CCRequirement:^000000 Level 99"
+			"It's a perfect companion to carry around when traveling.",
+			"For every 18 Base VIT, reduce Variable Casting Time by 1%.",
+			"When Base VIT is 120 or higher, reduce After Cast Delay by 2%.",
+			"When Base VIT is 130 or higher, reduce After Cast Delay by additional 3%."
 		},
 		slotCount = 0,
 		ClassNum = 1809
@@ -2518,7 +2567,9 @@ tbl = {
 		identifiedDisplayName = "Poring Beret",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Damage taken from Human Player - 10%",
+			"Damage taken from Doram Player - 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -2536,7 +2587,8 @@ tbl = {
 		identifiedDisplayName = "Flame Thunder Witch's Necklace",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Movement speed + 25%",
+			"After Cast Delay - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2553,7 +2605,8 @@ tbl = {
 		identifiedDisplayName = "Star Eyepatch",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 3",
+			"Resistance to Stun + 30%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 200",
@@ -2571,7 +2624,9 @@ tbl = {
 		identifiedDisplayName = "Injured Eyepatch",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 10",
+			"ASPD + 15%",
+			"Max HP + 15%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -2588,7 +2643,7 @@ tbl = {
 		identifiedDisplayName = "Leo Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2605,7 +2660,7 @@ tbl = {
 		identifiedDisplayName = "Cancer Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2617,18 +2672,18 @@ tbl = {
 	},
 	[19460] = {
 		unidentifiedDisplayName = "Black Veil",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "A black veil once said to be worn by a lonesome lady who lost someone dear.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Black Veil",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "A black veil once said to be worn by a lonesome lady who lost someone dear.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1"
+			"Increases physical and magical damage on [Illusion of Vampire] monsters by 15%.",
+			"Reduces damage taken from [Illusion of Vampire] monsters by 15%.",
+			"Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 15%",
+			"Reduces damage taken from [Illusion of Vampire] monsters by an additional 15%",
+			"Additional Hit + 30.",
+			"Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 20%",
+			"Reduces damage taken from [Illusion of Vampire] monsters by an additional 20%"
 		},
 		slotCount = 1,
 		ClassNum = 1173
@@ -2640,7 +2695,9 @@ tbl = {
 		identifiedDisplayName = "Siam Cat in mouth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against Brute monsters + 20%",
+			"Magic damage against Brute monsters + 20%",
+			"Resistance to Bleeding + 100%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2651,20 +2708,13 @@ tbl = {
 		ClassNum = 1689
 	},
 	[19463] = {
-		unidentifiedDisplayName = "Melon Bread Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Melonbread Cap",
+		unidentifiedResourceName = "C_Melon_Cap",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Melon Bread Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Melonbread Cap",
+		identifiedResourceName = "C_Melon_Cap",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 12",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 60",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A bread hat made by processing the softest part of the melon skin. Melon bread doesn't taste like melon but it sure smells like melon!"
 		},
 		slotCount = 1,
 		ClassNum = 1878
@@ -2676,7 +2726,7 @@ tbl = {
 		identifiedDisplayName = "Libra Diadem",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2693,7 +2743,7 @@ tbl = {
 		identifiedDisplayName = "Scorpio Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2710,7 +2760,7 @@ tbl = {
 		identifiedDisplayName = "Taurus Diadem",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2727,7 +2777,7 @@ tbl = {
 		identifiedDisplayName = "Aquarius Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2744,7 +2794,7 @@ tbl = {
 		identifiedDisplayName = "Phantom of Masquerade",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2774,20 +2824,27 @@ tbl = {
 		ClassNum = 1869
 	},
 	[400006] = {
-		unidentifiedDisplayName = "Heritage Symbol of the Orcs",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Orc Successor Helm",
+		unidentifiedResourceName = "All Basic Stat + 1, MDEF + 10.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Heritage Symbol of the Orcs",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Orc Successor Helm",
+		identifiedResourceName = "All Basic Stat + 1, MDEF + 10.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 50",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 1"
+			"For every 4 refine level, reduces damage taken from all race monsters by 4% and increases MHP by 3%.",
+			"All Basic Stat + 10, ATK + 20%.",
+			"MHP + 20%.",
+			"^4D4DFFOrc Successor Helm [1]^000000",
+			"^4D4DFFOrc Hero Card^000000",
+			"MHP + 20%, Enables level 5 Maximum Power-Thrust.",
+			"MHP + 50%, immunity to Stone Curse and Frozen.",
+			"^4D4DFFOrc Lady Card^000000",
+			"Increases physical damage to Player, Doram, Human and Animal race by 10%.",
+			"Reduces damage taken from Player by 30%.",
+			"^4D4DFFOrc Archer Card^000000",
+			"Reduces After Cast Delay by 3%,",
+			"increases ASPD by 3%.",
+			"Enables Level 4 Defending Aura,",
+			"adds Occult Impaction penetration effect to the weapon."
 		},
 		slotCount = 1,
 		ClassNum = 381
@@ -2799,7 +2856,7 @@ tbl = {
 		identifiedDisplayName = "Capricon Diadem",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -2816,7 +2873,7 @@ tbl = {
 		identifiedDisplayName = "Kukulkan Skull",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 50",
@@ -2835,7 +2892,7 @@ tbl = {
 		identifiedDisplayName = "Love Bubble Gum",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -2852,7 +2909,7 @@ tbl = {
 		identifiedDisplayName = "Fallen Angel Hairband",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -2865,19 +2922,16 @@ tbl = {
 	},
 	[400047] = {
 		unidentifiedDisplayName = "Runaway Accelerator",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Runaway_Accelerator",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Runaway Accelerator",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Runaway_Accelerator",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 20",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 70",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Increase physical, magical damage to all monsters by 1%. Restores 250HP and 30SP every 5 seconds. Reduce physical damage from Boss and Normal monsters by 10% per 1 refine rate.",
+			"When refined to +7 or higher, ignores physical, magical defense of all monsters by 25%. Reduce incoming physical damage from Boss and Normal monsters by additional 5%.",
+			"When refined to +9 or higher, ignores physical, magical defense of all monsters by additional 25%. Reduce incoming physical damage from Boss and Normal monsters by additional 5%.",
+			"Type: ^777777Helm^000000 Defense: ^77777720^000000",
+			"Location: ^777777Upper ^000000 Weight: ^77777770^000000"
 		},
 		slotCount = 1,
 		ClassNum = 1947
@@ -2889,7 +2943,7 @@ tbl = {
 		identifiedDisplayName = "Gothic Skull Ribbon",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -2907,7 +2961,7 @@ tbl = {
 		identifiedDisplayName = "Golden Violet",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -2920,37 +2974,40 @@ tbl = {
 	},
 	[400052] = {
 		unidentifiedDisplayName = "Duel Dragon Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Damage from fire property attack -10%",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Duel Dragon Hat",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Damage from fire property attack -10%",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"Damage to monster on [2nd Os Search] when physical or magical attacking +15%",
+			"Damage from monster on [2nd Os Search] - 15%",
+			"If its refine level is 7 or above, additionally",
+			"If its refine level is 9 or above, additionally",
+			"Damage from fire property attack -15%",
+			"Damage to monster on [2nd Os Search] when physical or magical attacking +20%",
+			"Damage from monster on [2nd Os Search] - 20\\%",
+			"If its refine level is 10 or above, additionally damage to [Miguel] +100%%",
+			"Prevents knock-back effect."
 		},
 		slotCount = 1,
 		ClassNum = 1149
 	},
 	[400060] = {
 		unidentifiedDisplayName = "Shiny Kitty Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Reduce delay after skill by 10%. Increase Catnip Meteor and Silvervine Stem Spear damage by 10%. ",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Shiny Kitty Crown",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Reduce delay after skill by 10%. Increase Catnip Meteor and Silvervine Stem Spear damage by 10%. ",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 18",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 100",
-			"^0000CCRequirement:^000000 Level 100"
+			"Recover HP by 30 times of refine rate and SP by 3 times of refine rate when killing monsters.",
+			"If refine rate is 7 or higher, reduces casting time of Stoop and Lope by 50%, increases Catnip Meteor and Silvervine Stem Spear damage by 15%.",
+			"If refine rate is 9 or higher, reduces casting time of Stoop and Lope by 50%, increases Catnip Meteor and Silvervine Stem Spear damage by 25%.",
+			"If refine rate is 10, has a chance to reduce SP consumption of skills by 100% for 20 seconds when dealing magical damage.",
+			"If user learned Spirit of Land level 1, reduces casting time of Catnip Meteor and Silvervine Stem Spear by 4% per each level of Catnip Powdering, Catnip Meteor, Nyang Grass, Silvervine Stem Spear and Silvervine Root Twist user learned.",
+			"Attack Speed + 3% per each level of Chattering user learned.",
+			"If user learned Nyang Grass level 5, reduces delay after skill by 20%.",
+			"If user learned Meow Meow level 5, increases magical damage against boss monsters by 25%.",
+			"Type: ^777777Headgear^000000 Defense: ^77777718^000000"
 		},
 		slotCount = 0,
 		ClassNum = 328
@@ -2962,7 +3019,7 @@ tbl = {
 		identifiedDisplayName = "Rental Owl Viscount Silk Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 15",
@@ -2980,7 +3037,7 @@ tbl = {
 		identifiedDisplayName = "Rental Crown of the Phoenix",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 18",
@@ -2993,38 +3050,53 @@ tbl = {
 		ClassNum = 1056
 	},
 	[400075] = {
-		unidentifiedDisplayName = "Asteria's Helm",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Astraea Helm",
+		unidentifiedResourceName = "When refined to +7 or higher, additional MHP +5%.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Asteria's Helm",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Astraea Helm",
+		identifiedResourceName = "When refined to +7 or higher, additional MHP +5%.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 20",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 20",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Reduces physical and magical damage taken from all property enemies by 5%.",
+			"Reduces physical and magical damage taken from all size enemies by 5%.",
+			"Reduces physical and magical damage taken by 5%.",
+			"Reduces physical and magical damage taken from all race by 5%.",
+			"^4D4DFFAstraea Helm [1]^000000",
+			"Perfect evasion +10",
+			"^4D4DFFAstraea Armor [1]^000000",
+			"When receiving a melee physical attack, has a 5% chance to activated the \"Muscle Fool\".",
+			"Increases healing skill recovery by 20%.",
+			"Muscle Fool effect, ",
+			"VIT +200,",
+			"reduces physical and magical damage taken by 50%,",
+			"MATK -50%,",
+			"^4D4DFFAstraea Manteau [1]^000000",
+			"Reduces damage taken from long ranged physical attack by 15%,",
+			"reduces magical and physical damage taken from all property enemies by 5%.",
+			"All basic status +3,",
+			"reduces after cast delay by 7%.",
+			"When total refine level of the set is 48 and equipped by Archbishop,",
+			"enables to use Energy Coat Lv.1"
 		},
 		slotCount = 1,
 		ClassNum = 468
 	},
 	[400077] = {
 		unidentifiedDisplayName = "Splash Cat Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "샤워캡",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Splash Cat Hat",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "샤워캡",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 18",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 100",
-			"^0000CCRequirement:^000000 Level 100"
+			"MaxHP + 20% , MaxSP + 20%",
+			"DEF +50 per every refine level.",
+			"If its refine level is 7 or above, Skill Delay -10%, Variable Casting Time of [Stoop], [Lope] -50%.",
+			"Physical damage from Boss monster -10%.",
+			"If its refine level is 9 or above, Skill Delay -10%, Variable Casting Time of [Stoop], [Lope] -50%.",
+			"If its refine level is 10 or above, Perfect Dodge +100 for 3 sec when using [Tuna Party].",
+			"If player learned [Spirit of Sea] 1Lv, [Pneuma] 1Lv available",
+			"If player learned [Tasty Shrimp Party] 5Lv, MaxHP + 30% , MaxSP + 30%",
+			"If player learned [Grooming] 5Lv, Gain immunity to the Confusion, Silence status..",
+			"Heal Amount +20% per every [Purring] level."
 		},
 		slotCount = 0,
 		ClassNum = 507
@@ -3036,7 +3108,7 @@ tbl = {
 		identifiedDisplayName = "The Truth of Creation and Soul",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -3055,7 +3127,7 @@ tbl = {
 		identifiedDisplayName = "Genlin Heirs",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -3074,7 +3146,7 @@ tbl = {
 		identifiedDisplayName = "Elite Force Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -3093,7 +3165,7 @@ tbl = {
 		identifiedDisplayName = "The Meow Family's Paycheck",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -3112,7 +3184,7 @@ tbl = {
 		identifiedDisplayName = "Potential to Inspire Adventure Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -3126,18 +3198,27 @@ tbl = {
 	},
 	[400101] = {
 		unidentifiedDisplayName = "Gate of Netherworld",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "GatesofNetherworld",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Gate of Netherworld",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "GatesofNetherworld",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 12",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"Climbing up the door of the world.",
+			"A hat filled with the power of the dark army.",
+			"That power destroys and drives the world crazy.",
+			"Agi + 5, Int + 5",
+			"Def + 3, MDEF + 10.",
+			"Increase physical and magical damage against all property monsters by 10%.",
+			"When refined to +7 or higher, ",
+			"increase physical and magical damage against all property type monsters by additional 15%.",
+			"reduce fixed casting time by 50%.",
+			"ASPD +15%.",
+			"reduce fixed casting time by additional 70%.",
+			"When equipped with Fenrir Card,",
+			"Int + 30, Dex + 30",
+			"reduce fixed casting time of Tetra Vortex by 100%.",
+			"Type: ^777777Helm^000000Defense: ^77777712^000000",
+			"Location: ^777777Upper ^000000Weight: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2016
@@ -3149,7 +3230,11 @@ tbl = {
 		identifiedDisplayName = "Victory Wing Ear",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 10%",
+			"Max SP + 10%",
+			"Resistance to Confusion + 100%",
+			"Magic damage against all size monsters + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -3168,7 +3253,7 @@ tbl = {
 		identifiedDisplayName = "Booster Power Hat (Physical)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3186,7 +3271,7 @@ tbl = {
 		identifiedDisplayName = "Booster Power Hat (Magical)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3204,7 +3289,7 @@ tbl = {
 		identifiedDisplayName = "Hat of Ancient Kings",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 15",
@@ -3218,38 +3303,41 @@ tbl = {
 	},
 	[400187] = {
 		unidentifiedDisplayName = "Cat Ears Beret",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Purple_Cat_Ears_Beret",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Cat Ears Beret",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Purple_Cat_Ears_Beret",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A hat made by a witch who likes cute things. It seems that the soul of life dwells in the production process.",
+			"Increase physical damage to all enemies by 10%",
+			"Reduce cooldown of Hiss by 9 sec per 1 skill level.",
+			"When Power of Flock Lv. 5 is learned, stones enemies in 17x17 cell.",
+			"Increase physical and magic damage by 5% to all property type monsters per 1 skill level of Spirit of Savage that player has learned.",
+			"When Spirit Of Life Lv. 1 is learned, adds Occult Impaction penetration effect.",
+			"Reduce after cast delay by 2% per 1 refine rate.",
+			"When refined to +7 or higher, increase physical damage to all monsters by additional 10%,",
+			"Increase damage of Scratch and Bite by 2% per 1 Base level.",
+			"When refined to +9 or higher, increase physical damage to all monsters by additional 15%,",
+			"Increase damage of Scratch and Bite by additional 2% per 1 Base level."
 		},
 		slotCount = 1,
 		ClassNum = 2153
 	},
 	[400213] = {
-		unidentifiedDisplayName = "Faith of Yggdrasil",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Faith Of Yggdrasil",
+		unidentifiedResourceName = "Faith_Of_Yggdrasil",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Faith of Yggdrasil",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Faith Of Yggdrasil",
+		identifiedResourceName = "Faith_Of_Yggdrasil",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 5",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A hat worn by a believer in the Yggdrasil.",
+			"It was made using Alfheim tech, which can withstand the power of the world tree.",
+			"All Basic Status + 3",
+			"Increase physical and magic damage against all size enemies by 10%.",
+			"Increase physical and magic damage against all size enemies by 15%.",
+			"Reduce After Cast Delay by 20%.",
+			"^4D4DFFFaith Of Yggdrasil [1]^000000",
+			"^4D4DFFMajesty of Yggdrasil [1]^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2198
@@ -3295,7 +3383,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Smokie Transformation Leaf",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 7",
@@ -3313,7 +3401,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Vanargandr Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3332,7 +3420,8 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Skull Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MATK + 2%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -3351,7 +3440,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Sinulog Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -3370,7 +3459,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Silk Hat of Earth",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"Damage taken from Earth property attacks - 5%",
+			"Damage taken from Fire property attacks + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3388,7 +3480,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Hunting Cap of Gust",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"Damage taken from Wind property attacks - 5%",
+			"Damage taken from Earth property attacks + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3401,19 +3496,16 @@ tbl = {
 	},
 	[400287] = {
 		unidentifiedDisplayName = "Legacy of Wise One",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Legacy_of_Wise_One_J",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Legacy of Wise One",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Legacy_of_Wise_One_J",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A crystal of wisdom left behind by a great sage.",
+			"The past and the present meet, and the adventurers advance into the future.",
+			"MDEF + 10.",
+			"Increase physical and magic damage against all race monsters (except players) by 30%.",
+			"When refined to +12 or higher, MHP + 30%, MSP + 30%."
 		},
 		slotCount = 1,
 		ClassNum = 2260
@@ -3425,7 +3517,8 @@ tbl = {
 		identifiedDisplayName = "Wing of Bless",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Fixed Cast Time - 0.1 sec",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -3442,7 +3535,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Knit Cap Of Water",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"Damage taken from Water property attacks - 5%",
+			"Damage taken from Wind property attacks + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3455,19 +3551,29 @@ tbl = {
 	},
 	[400307] = {
 		unidentifiedDisplayName = "Ally of the Demons",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Ally_of_the_Demons",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Ally of the Demons",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Ally_of_the_Demons",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A headband owned by Sura as proof of making a pact with the demon.",
+			"MDEF +10.",
+			"While equipped, allows the user to see hidden enemies.",
+			"This effect is disabled during WOE TE.",
+			"For every refine level, DEX +3.",
+			"Increases Lion's Howl damage by 50%.",
+			"When refined to 7, increases Lion's Howl damage by 75%.",
+			"When refined to 9, increases Lion's Howl damage by 100%.",
+			"If Gentle Touch-Cure is level 5, recovers 5 SP when dealing damage.",
+			"If Knuckle Arrow is level 10, increases damage against boss monsters by 25%.",
+			"If Rising Dragon is level 10, increases physical damage against all property monsters by 25%.",
+			"If Gentle Touch-Convert is level 5, negates size penalty.",
+			"There is a mysterious power that interferes with the mind.",
+			"Increases magical damage to all size monsters by 10%.",
+			"Increases resistance to players by 5%.",
+			"If Intensification is level 5 or higher",
+			"Reduces fixed casting time of Jack Frost by 100%.",
+			"Reduces cooldown of Intensification by 80 seconds."
 		},
 		slotCount = 1,
 		ClassNum = 2268
@@ -3479,7 +3585,7 @@ tbl = {
 		identifiedDisplayName = "Angel Of Happiness",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3498,7 +3604,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Angel Of Happiness",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3517,7 +3623,7 @@ tbl = {
 		identifiedDisplayName = "RO 20th Anniversary Limited Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3535,7 +3641,7 @@ tbl = {
 		identifiedDisplayName = "ROC 1st Anniversary Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3552,7 +3658,10 @@ tbl = {
 		identifiedDisplayName = "Bronze Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 5",
+			"MDEF + 5",
+			"Movement speed + 25%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -3571,7 +3680,7 @@ tbl = {
 		identifiedDisplayName = "Faith of Yggdrasil",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3584,18 +3693,50 @@ tbl = {
 	},
 	[400409] = {
 		unidentifiedDisplayName = "Wild Beast",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Wild_Beast",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Wild Beast",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Wild_Beast",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"Reduces damage from normal and boss monsters by 20%.",
+			"Increases physical and magical damage for all attribute monsters by 3%.",
+			"When using ^FF0000Gray Wolf Suit, Gray Wolf Manteau, and Gray Wolf Boots.^000000",
+			"reduces damage taken from Ghost property by 20%.",
+			"Immune to Freeze.",
+			"When using ^FF0000Gray Wolf Robe, Gray Wolf Muffler, and Gray Wolf Shoes,^000000",
+			"When using ^FF0000Gray Wolf Pendant,^000000 ATK +15%.",
+			"When using ^FF0000Gray Wolf Ring,^000000 ATK +15%.",
+			"When using ^FF0000Gray Wolf Earring,^000000 MATK +15%.",
+			"When using ^FF0000Gray Wolf Necklace,^000000 MATK +15%.",
+			"When using ^FF0000Wolf Orb (STR) Level 1,^000000 STR +15.",
+			"When using ^FF0000Wolf Orb (AGI) Level 1,^000000 AGI +15.",
+			"When using ^FF0000Wolf Orb (VIT) Level 1,^000000 VIT +15.",
+			"When using ^FF0000Wolf Orb (INT) Level 1,^000000 INT +15.",
+			"When using ^FF0000Wolf Orb (DEX) Level 1,^000000 DEX +15.",
+			"When using ^FF0000Wolf Orb (STR) Level 2,^000000 POW +15.",
+			"When using ^FF0000Wolf Orb (VIT) Level 2,^000000 STA +15.",
+			"When using ^FF0000Wolf Orb (AGI) Level 2,^000000 WIS +15.",
+			"When using ^FF0000Wolf Orb (INT) Level 2,^000000 SPL +15.",
+			"When using ^FF0000Wolf Orb (DEX) Level 2,^000000 CON +15.",
+			"When using ^FF0000Wolf Orb (DEF) Level 1,^000000 DEF +300.",
+			"When using ^FF0000Wolf Orb (MDEF) Level 1,^000000 MDEF +30.",
+			"When using ^FF0000Wolf Orb (Speed) Level 2,^000000 MHP and MSP +10%.",
+			"When using ^FF0000Wolf Orb (Speed) Level 1,^000000 ASPD +10%.",
+			"When using ^FF0000Wolf Orb (Caster) Level 1,^000000",
+			"reduces variable casting time by 15%.",
+			"When using ^FF0000Wolf Orb (After Cast Delay),^000000",
+			"reduces global cooldown by 15%.",
+			"When using ^FF0000Wolf Orb (Robust) Level 1,^000000",
+			"for every base level, ATK +1.(Up to level 250)",
+			"When using ^FF0000Wolf Orb (Robust) Level 2,^000000",
+			"for every base level, MATK +1.(Up to level 250)",
+			"When using ^FF0000Wolf Orb (Warrior) Level 2,^000000",
+			"Ignore physical defense of all races enemies (including players) by 50%.",
+			"When using ^FF0000Wolf Orb (Mage) Level 2,^000000",
+			"Ignore magical defense of all races enemies (including players) by 50%.",
+			"When using ^FF0000Wolf Orb (Caster) Level 2,^000000 MHP and MSP +10%.",
+			"When using ^FF0000Wolf Orb (Fixed Casting) Level 1,^000000",
+			"reduce fixed casting time by 70%."
 		},
 		slotCount = 1,
 		ClassNum = 2352
@@ -3607,7 +3748,9 @@ tbl = {
 		identifiedDisplayName = "Heaven Cage",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 5",
+			"CRIT + 5",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -3626,7 +3769,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Heaven Cage",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"LUK + 5",
+			"CRIT + 5",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -3645,7 +3790,9 @@ tbl = {
 		identifiedDisplayName = "Pink Poo Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"Damage taken from Doram Player - 13%",
+			"Damage taken from Human Player - 13%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3663,7 +3810,7 @@ tbl = {
 		identifiedDisplayName = "Kafra Employee Band",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3674,20 +3821,15 @@ tbl = {
 		ClassNum = 106
 	},
 	[400416] = {
-		unidentifiedDisplayName = "Squirrel Ear Hood (Albino)",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Squirrel Ear Hat (White)",
+		unidentifiedResourceName = "Squirrel_Ear_Hat_W",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Squirrel Ear Hood (Albino)",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Squirrel Ear Hat (White)",
+		identifiedResourceName = "Squirrel_Ear_Hat_W",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A squirrel hat with adorable pointed ears.",
+			"When you wear it, you'll feel like a squirrel with beautiful white fur.",
+			"Every 10 Base Level, increase damage of Petitio and Effligo by 1%."
 		},
 		slotCount = 1,
 		ClassNum = 2371
@@ -3699,7 +3841,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Deep Blue Angel Hairband",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 1",
+			"LUK + 1",
+			"MDEF + 3",
+			"Damage taken from Demon monsters - 3%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 4",
@@ -3718,7 +3863,7 @@ tbl = {
 		identifiedDisplayName = "Nymph Green Sapphire",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -3737,7 +3882,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Nymph Green Sapphire",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -3756,7 +3901,7 @@ tbl = {
 		identifiedDisplayName = "Dragon Circlet",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -3770,75 +3915,73 @@ tbl = {
 	},
 	[400421] = {
 		unidentifiedDisplayName = "Two Tone Cap",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Two_tone_Cap",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Two Tone Cap",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Two_tone_Cap",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A small and cute two-tone color cap.",
+			"Anyone will look good wearing it, thanks to its cool design.",
+			"POW + 3",
+			"Reduce damage taken from Players by 13%.",
+			"Reduce damage taken from normal and boss monsters by 20%.",
+			"ATK + 40%",
+			"Every 10 Base Level, increase damage of Acidified Zone (Fire), Acidified Zone (Earth), Acidified Zone (Water), and Acidified Zone (Wind) by 1%.",
+			"Every refine level, POW + 1.",
+			"Required Level : ^777777200^000000",
+			"Class : ^7777774th Job^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2359
 	},
 	[400433] = {
-		unidentifiedDisplayName = "Fallen Wing Hairpin-LT",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Gothic Heart Hairband-LT",
+		unidentifiedResourceName = "Gothic_HW_TW_LT",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Fallen Wing Hairpin-LT",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Gothic Heart Hairband-LT",
+		identifiedResourceName = "Gothic_HW_TW_LT",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 1"
+			"MaxHP+10%.",
+			"After Cast Delay -8%.",
+			"Every 2 refine level, additional After Cast Delay -2%.",
+			"Every 3 refine level, Max HP +3000.",
+			"When refined to +7 or higher, increases ASPD (delay after attack -10%) .",
+			"When refined to +9 or higher, ATK & MATK +10%.",
+			"When refined to +11 or higher, increases physical/magical damage to all race by +15%.",
+			"When refined to +13 or higher, reduce physical damage taken from all size enemy by 10%.",
+			"[Grade Bonus]",
+			"[Grade D] P.ATK, S.MATK+5.",
+			"[Grade C] MaxHP+15000, after cast delay -5%.",
+			"[Grade B] 2% chance for 10 seconds when attacking physically or magically, all attribute magic damage, melee/ranged physical damage by +20%.",
+			"[Grade A] Reduce damage taken from all property 10%."
 		},
 		slotCount = 1,
 		ClassNum = 2372
 	},
 	[400437] = {
 		unidentifiedDisplayName = "Chic Peony",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Chic_Peony",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Chic Peony",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Chic_Peony",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"An elegant hat with an impressively bold silhouette.",
+			"You will be enchanted by its beautiful and alluring design.",
+			"Every 10 Base Level, increase damage of Shadow Stab and Eternal Slash by 1%."
 		},
 		slotCount = 1,
 		ClassNum = 2380
 	},
 	[400438] = {
-		unidentifiedDisplayName = "Bobcat Knit Hat (White)",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Wildcat Knit Cap (White)",
+		unidentifiedResourceName = "Wildcat_Knit_Cap_W",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Bobcat Knit Hat (White)",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Wildcat Knit Cap (White)",
+		identifiedResourceName = "Wildcat_Knit_Cap_W",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A cute hat with Wildcat design.",
+			"You can feel its fluffy tail when wearing it.",
+			"Every 10 Base Level, increase damage of Abyss Dagger, Unlucky Rush, and Deft Stab by 1%."
 		},
 		slotCount = 1,
 		ClassNum = 2381
@@ -3850,7 +3993,7 @@ tbl = {
 		identifiedDisplayName = "Penance Charm Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 40",
@@ -3869,7 +4012,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Fox Ears Bell Ribbon",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"AGI + 2",
+			"ASPD + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 4",
@@ -3887,7 +4032,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Super Scell",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3904,7 +4049,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Cloud Buster",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -3915,58 +4060,61 @@ tbl = {
 		ClassNum = 705
 	},
 	[400447] = {
-		unidentifiedDisplayName = "Confession Courage Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Poenetentia Courage Crown",
+		unidentifiedResourceName = "Poenetentia_B_Crown",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Confession Courage Crown",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Poenetentia Courage Crown",
+		identifiedResourceName = "Poenetentia_B_Crown",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 40",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A crown filled with courage.",
+			"It might resonate well with equipment from a certain tomb palace.",
+			"For every 2 refine level, ATK + 15.",
+			"For every 3 refine level, ATK + 5%.",
+			"For every 4 refine level, increase physical and magical damage against all property enemies by 3%.",
+			"When refined to +9 or higher, ASPD + 10%.",
+			"When refined to +13 or higher, increase physical damage against all race enemies by 20%, Fixed Casting Time - 0.5 seconds.",
+			"^4D4DFFPoenetentia Courage Crown [1]^000000",
+			"^4D4DFFPoenitentia Ensis [2]^000000",
+			"Melee Physical Damage + 15%.",
+			"For every 2 refine level of Weapon, increase Storm Blast and Storm Slash damage by 8%.",
+			"^4D4DFFPoenitentia Katapulta [2]^000000",
+			"For every 2 refine level of Weapon, increase Hundred Spears and Madness Crusher damage by 10%.",
+			"For every 2 refine level of Weapon, increase Overbrand and Overslash damage by 10%.",
+			"^4D4DFFPoenitentia Liber [2]^000000",
+			"For every 2 refine level of Weapon, CRI + 3, increase Petitio damage by 15%."
 		},
 		slotCount = 1,
 		ClassNum = 2393
 	},
 	[400453] = {
-		unidentifiedDisplayName = "Invincible Crest Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Invicible Crest Hat",
+		unidentifiedResourceName = "Striking_hat_A",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Invincible Crest Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Invicible Crest Hat",
+		identifiedResourceName = "Striking_hat_A",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A hat embroidered with historic family crest.",
+			"It was once used by a legendary bow user known as the Invicible.",
+			"CON + 3",
+			"Every 10 Base Level, increase damage of Crescive Bolt and Gale Storm by 1%.",
+			"Every refine level, CON + 1."
 		},
 		slotCount = 1,
 		ClassNum = 2391
 	},
 	[400454] = {
 		unidentifiedDisplayName = "Khalitzburg Knight White Helm",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Khalitzburg_KN_Helm_W",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Khalitzburg Knight White Helm",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Khalitzburg_KN_Helm_W",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A helm worn by the Knights of Khalitzburg.",
+			"It seems to have been purified during the dimension investigation.",
+			"SPL + 3",
+			"MATK + 40%",
+			"Every 10 Base Level, increase damage of Cross Rain and Judgement Cross by 1%.",
+			"Every refine level, SPL + 1."
 		},
 		slotCount = 1,
 		ClassNum = 2392
@@ -3978,7 +4126,7 @@ tbl = {
 		identifiedDisplayName = "Diadem Of Bruenhild",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -3997,7 +4145,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Diadem Of Bruenhild",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -4010,20 +4158,30 @@ tbl = {
 		ClassNum = 1057
 	},
 	[400457] = {
-		unidentifiedDisplayName = "Confession Domineering Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Poenetentia Ambition Crown",
+		unidentifiedResourceName = "Poenetentia_V_Crown",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Confession Domineering Crown",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Poenetentia Ambition Crown",
+		identifiedResourceName = "Poenetentia_V_Crown",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 40",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A crown filled with ambition.",
+			"For every 3 refine level, Critical Damage + 5%.",
+			"For every 4 refine level, Melee Physical Damage + 4%.",
+			"When refined to +9 or higher, CRI + 8.",
+			"^4D4DFFPoenetentia Ambition Crown [1]^000000",
+			"^4D4DFFPoenitentia Manus [2]^000000",
+			"P.ATK + 10.",
+			"For every 2 refine level of Weapon, increase Rolling Cutter and Impact Crater damage by 10%.",
+			"^4D4DFFPoenitentia Mucro [2]^000000",
+			"Critical Damage + 20%.",
+			"For every 2 refine level of Weapon, increase Cross Impact and Shadow Stab damage by 10%.",
+			"^4D4DFFPoenitentia Dilacero [2]^000000",
+			"For every 2 refine level of Weapon, increase Fatal Menace and Deft Stab damage by 10%.",
+			"^4D4DFFPoenitentia Caestus [2]^000000",
+			"For every 2 refine level of Weapon, increase Tiger Cannon and Second Faith damage by 8%.",
+			"^4D4DFFPoenitentia Ungula [2]^000000",
+			"Long Ranged Physical Damage + 15%.",
+			"For every 2 refine level of Weapon, increase Rampage Blast and Explosion Blaster damage by 8%."
 		},
 		slotCount = 1,
 		ClassNum = 2394
@@ -4035,7 +4193,7 @@ tbl = {
 		identifiedDisplayName = "Opened Illusion Apple of Archer",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4054,7 +4212,7 @@ tbl = {
 		identifiedDisplayName = "Opened Illusion Nursing Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 24",
@@ -4073,7 +4231,7 @@ tbl = {
 		identifiedDisplayName = "Northern Tiara",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4091,7 +4249,7 @@ tbl = {
 		identifiedDisplayName = "Mom Chicken Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -4103,20 +4261,23 @@ tbl = {
 		ClassNum = 432
 	},
 	[400469] = {
-		unidentifiedDisplayName = "Penance Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Poenetentia Purity Crown",
+		unidentifiedResourceName = "Poenetentia_D_Crown",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Penance Crown",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Poenetentia Purity Crown",
+		identifiedResourceName = "Poenetentia_D_Crown",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 40",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A crown filled with purity.",
+			"For every 4 refine level, Long Ranged Physical Damage + 4%.",
+			"^4D4DFFPoenetentia Purity Crown [1]^000000",
+			"^4D4DFFPoenitentia Tenon [2]^000000",
+			"For every 2 refine level of Weapon, increase Triangle Shot and Frenzy Shot damage by 8%.",
+			"^4D4DFFPoenitentia Nervus [2]^000000",
+			"For every 2 refine level of Weapon, increase Crescive Bolt and Aimed Bolt damage by 8%.",
+			"^4D4DFFPoenitentia Attendo [2]^000000",
+			"For every 2 refine level of Weapon, increase Gale Storm and Arrow Storm damage by 8%.",
+			"^4D4DFFPoenitentia Vatia [2]^000000",
+			"For every 2 refine level of Weapon, increase Rhythm Shooting and Severe Rainstorm damage by 10%."
 		},
 		slotCount = 1,
 		ClassNum = 2402
@@ -4128,7 +4289,7 @@ tbl = {
 		identifiedDisplayName = "Southern Tiara",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 35",
@@ -4147,7 +4308,7 @@ tbl = {
 		identifiedDisplayName = "Circlet Of Phoenix",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4164,7 +4325,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Circlet Of Phoenix",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4181,7 +4342,7 @@ tbl = {
 		identifiedDisplayName = "Remorse Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 40",
@@ -4200,7 +4361,7 @@ tbl = {
 		identifiedDisplayName = "Sustained Beret",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4218,7 +4379,8 @@ tbl = {
 		identifiedDisplayName = "Agricultural Tools",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Cannot be broken",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4236,7 +4398,9 @@ tbl = {
 		identifiedDisplayName = "Red Commando Beret",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 15",
+			"HIT + 30",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -4255,7 +4419,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Red Commando Beret",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 15",
+			"HIT + 30",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -4268,39 +4434,45 @@ tbl = {
 		ClassNum = 559
 	},
 	[400481] = {
-		unidentifiedDisplayName = "The Brandishing",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Flash of Lightning",
+		unidentifiedResourceName = "Flash_of_Lightning",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "The Brandishing",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Flash of Lightning",
+		identifiedResourceName = "Flash_of_Lightning",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A light helmet designed for absolute swiftness.",
+			"Once you wear it, you'll be fast as lightning.",
+			"CRT + 3",
+			"Every 10 Base Level, increase damage of Servant Weapon, Servant Weapon - Phantom, and Servant Weapon - Demolition by 1%.",
+			"Every refine level, CRT + 1."
 		},
 		slotCount = 1,
 		ClassNum = 2415
 	},
 	[400482] = {
-		unidentifiedDisplayName = "Penance Glory Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Poenetentia Glory Crown",
+		unidentifiedResourceName = "Poenetentia_H_Crown",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Penance Glory Crown",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Poenetentia Glory Crown",
+		identifiedResourceName = "Poenetentia_H_Crown",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 40",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A crown filled with glory.",
+			"For every 2 refine level, MATK + 15.",
+			"For every 3 refine level, MATK + 5%.",
+			"For every 4 refine level, increase all property magical damage by 5%.",
+			"When refined to +9 or higher, Variable Casting Time - 10%.",
+			"When refined to +11 or higher, increase magical damage against all size enemies by 15%.",
+			"When refined to +13 or higher, increase magical damage against all race enemies by 20%, Fixed Casting Time - 0.5 seconds.",
+			"^4D4DFFPoenetentia Glory Crown [1]^000000",
+			"Reduce Ray of Genesis cooldown by 1 second.",
+			"For every 2 refine level of Weapon, increase Genesis Ray damage by 10% and Cross Rain damage by 8%.",
+			"^4D4DFFPoenitentia Crystallum [2]^000000",
+			"Reduce Adoramus cooldown by 1 second.",
+			"For every 2 refine level of Weapon, increase Adoramus damage by 10% and Flamen damage by 8%.",
+			"^4D4DFFPoenitentia Chorda [2]^000000",
+			"^4D4DFFPoenitentia Flagellum [2]^000000",
+			"S.MATK + 10.",
+			"For every 2 refine level of Weapon, increase Reverberation and Metallic Fury damage by 10%."
 		},
 		slotCount = 1,
 		ClassNum = 2416
@@ -4312,7 +4484,7 @@ tbl = {
 		identifiedDisplayName = "Opened Illusion Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 40",
@@ -4331,7 +4503,7 @@ tbl = {
 		identifiedDisplayName = "Monarch's Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -4350,7 +4522,7 @@ tbl = {
 		identifiedDisplayName = "Opened Illusion Fancy Flower",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 18",
@@ -4369,7 +4541,8 @@ tbl = {
 		identifiedDisplayName = "Hairband Of Asmodeus",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -4388,7 +4561,8 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Hairband Of Asmodeus",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -4407,7 +4581,7 @@ tbl = {
 		identifiedDisplayName = "Germes Horn",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4426,7 +4600,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Germes Horn",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4445,7 +4619,7 @@ tbl = {
 		identifiedDisplayName = "Gigant Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -4464,7 +4638,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Gigant Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -4477,39 +4651,42 @@ tbl = {
 		ClassNum = 1221
 	},
 	[400505] = {
-		unidentifiedDisplayName = "Striped Ribbon Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Upper Headgear",
+		unidentifiedResourceName = "Striped Ribbon Hat",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Striped Ribbon Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Upper Headgear",
+		identifiedResourceName = "Striped Ribbon Hat",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"StripedRibbonHat",
+			"A hat made up of a set of white and blue ribbons.",
+			"It has a cute design and decorated with various ribbons.",
+			"Every 10 Base Level, increase damage of Arbitrium, Pneumaticus Procella, and Framen by 1%."
 		},
 		slotCount = 1,
 		ClassNum = 2425
 	},
 	[400511] = {
-		unidentifiedDisplayName = "Queen Scaraba Helmet",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Queen Scaraba Crown",
+		unidentifiedResourceName = "ATK + 150, POW, CON, CRT + 3",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Queen Scaraba Helmet",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Queen Scaraba Crown",
+		identifiedResourceName = "ATK + 150, POW, CON, CRT + 3",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 20",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 1",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"For every 2 refine levels, ATK + 20, CRI + 4.",
+			"For every 3 refine levels, increase Critical Damage by 10%.",
+			"When refined to +9 or higher, reduce After-cast Delay by 10%.",
+			"When refined to +11 or higher, increase Melee and Ranged Physical Damage by 15%.",
+			"When refined to +12 or higher, increase Physical Damage against all race enemies by 15%.",
+			"When refined to +13 or higher, reduce Fixed Casting Time by 0.5 sec.",
+			"^4D4DFFQueen Scaraba Crown [1]^000000",
+			"^4D4DFFGold Queen Scaraba Card^000000",
+			"P.ATK + 20, for every 1 refine level of the helmet, increase Critical Damage by 10%.",
+			"^4D4DFFQueen Scaraba Card^000000",
+			"Increase Physical Damage against Boss monsters by 10%,",
+			"For every 2 refine levels of the armor, increase Physical Damage against Boss monsters by additional 3%",
+			"^4D4DFFSealed Q Scaraba Card^000000",
+			"Increase Physical Damage against Boss monsters by 5%,",
+			"For every 3 refine levels of the armor, Increase Physical Damage against Boss monsters by 2%."
 		},
 		slotCount = 1,
 		ClassNum = 1231
@@ -4521,7 +4698,7 @@ tbl = {
 		identifiedDisplayName = "Hat of Desert",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4540,7 +4717,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Hat of Desert",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4559,7 +4736,7 @@ tbl = {
 		identifiedDisplayName = "Scarlet Beret",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4577,7 +4754,7 @@ tbl = {
 		identifiedDisplayName = "The Truth of Creation and Soul-LT",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4596,7 +4773,7 @@ tbl = {
 		identifiedDisplayName = "Genlin Heirs-LT",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4615,7 +4792,7 @@ tbl = {
 		identifiedDisplayName = "Elite Force Cap-LT",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4634,7 +4811,7 @@ tbl = {
 		identifiedDisplayName = "The Meow Family's Paycheck-LT",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4653,7 +4830,7 @@ tbl = {
 		identifiedDisplayName = "Potential to Inspire Adventure Cap-LT",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -4666,39 +4843,36 @@ tbl = {
 		ClassNum = 2446
 	},
 	[400556] = {
-		unidentifiedDisplayName = "Inquisitor's Veil",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Inquisitor Veil",
+		unidentifiedResourceName = "Inquisitor_Veil",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Inquisitor's Veil",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Inquisitor Veil",
+		identifiedResourceName = "Inquisitor_Veil",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A veil that can only be worn by those who have subdued the demonic power that dwells within the horns.",
+			"Reduce damage taken from Human and Doram Player by 13%.",
+			"Reduce damage taken from Normal and Boss enemies by 20%.",
+			"Increase physical damage against all class enemies by 40%.",
+			"For every 10 Base Level, increase Oleum Sanctum, Massive Flame Blaster, and Explosion Blaster damage by 1%.",
+			"For every refine level of Inquisitor Veil, POW + 1.",
+			"When refined to +10 or higher, CRI + 25, After Cast Delay -20%."
 		},
 		slotCount = 1,
 		ClassNum = 2447
 	},
 	[400566] = {
 		unidentifiedDisplayName = "Awaking Bloom",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Awaking_Bloom",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Awaking Bloom",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Awaking_Bloom",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A hat that remembers the skills left behind by various great people.",
+			"Awakening from a long slumber, hidden talents will blossom.",
+			"Reduce damage taken from Doram and Human Player by 13%.",
+			"For every refine level, reduce After Cast Delay by 2%.",
+			"Increase physical and magic damage against all property enemies by 15%.",
+			"Increase physical and magic damage against all property enemies by additional 25%."
 		},
 		slotCount = 1,
 		ClassNum = 2449
@@ -4710,7 +4884,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Strength)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4729,7 +4903,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Agility)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4748,7 +4922,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Vitality)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4767,7 +4941,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Intelligence)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4786,7 +4960,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Dexterity)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4805,7 +4979,7 @@ tbl = {
 		identifiedDisplayName = "Bijou's Hat (Lucky)",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 9",
@@ -4824,7 +4998,7 @@ tbl = {
 		identifiedDisplayName = "Rabbit Ribbon of Overflowing Passion",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -4838,19 +5012,15 @@ tbl = {
 	},
 	[400582] = {
 		unidentifiedDisplayName = "Wolf Rayet",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "Wolf_Rayet",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Wolf Rayet",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "Wolf_Rayet",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A helmet named after a star.",
+			"It is said that it bestows the wearer with the power of a war god.",
+			"For every 10 Base Level, increase Overslash, Grand Judgement, and Shield Shooting damage by 1%.",
+			"When refined to +10 or higher, Perfect Hit + 25, After Cast Delay - 20%."
 		},
 		slotCount = 1,
 		ClassNum = 2487
@@ -4862,7 +5032,11 @@ tbl = {
 		identifiedDisplayName = "Boosting Headband",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 25",
+			"MATK + 25",
+			"ASPD + 5%",
+			"Variable Cast Time - 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -4881,7 +5055,7 @@ tbl = {
 		identifiedDisplayName = "Yellow Kitty Headphone",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -4900,7 +5074,7 @@ tbl = {
 		identifiedDisplayName = "Squishy Tootsy Stomphoot",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -4919,7 +5093,7 @@ tbl = {
 		identifiedDisplayName = "Kiwawa Cowboy",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -4932,38 +5106,30 @@ tbl = {
 	},
 	[400601] = {
 		unidentifiedDisplayName = "Steamroller",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "A mask said to be worn by the Night Watch during their covert mission.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Steamroller",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "A mask said to be worn by the Night Watch during their covert mission.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"For every 10 Base Level, increase Only One Bullet, Spiral Shooting, and Wild Fire by 1%.",
+			"When refined to +10 or higher, CRI + 25, reduce After Cast Delay by 20%.",
+			"Class : ^7777774th Jobs and 4th Expanded Jobs^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2504
 	},
 	[400602] = {
 		unidentifiedDisplayName = "White Fox Bamboo Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "White_Fox_Bamboo_Hat",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "White Fox Bamboo Hat",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "White_Fox_Bamboo_Hat",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A hat decorated with white fox ears.",
+			"Increase damage against all class enemies by 40%.",
+			"For every 10 Base Level, increase damage of Shadow Hunting, Shadow Dance, Shadow Flash, and Shadow - Nightmare by 1%.",
+			"For every refine level, POW + 1.",
+			"When refined to +10 or higher, Perfect Hit + 25,  reduce global cooltime by 20%."
 		},
 		slotCount = 1,
 		ClassNum = 2505
@@ -4975,7 +5141,7 @@ tbl = {
 		identifiedDisplayName = "Helm of the Sands",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -4993,7 +5159,7 @@ tbl = {
 		identifiedDisplayName = "Knight's Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -5012,7 +5178,7 @@ tbl = {
 		identifiedDisplayName = "Tiger Glasses",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -5031,7 +5197,7 @@ tbl = {
 		identifiedDisplayName = "White Neko Witch Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5050,7 +5216,7 @@ tbl = {
 		identifiedDisplayName = "Themis Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -5069,7 +5235,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Themis Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 30",
@@ -5088,7 +5254,7 @@ tbl = {
 		identifiedDisplayName = "[NFS] Crown of Unyielding Force",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5107,7 +5273,7 @@ tbl = {
 		identifiedDisplayName = "[NFS] Crown of Arcane Supremacy",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5120,20 +5286,23 @@ tbl = {
 		ClassNum = 1108
 	},
 	[400644] = {
-		unidentifiedDisplayName = "Soul Mastery Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Spiritual Crown",
+		unidentifiedResourceName = "Soul_Mastery_Crown",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Soul Mastery Crown",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Spiritual Crown",
+		identifiedResourceName = "Soul_Mastery_Crown",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A crown said to have been worn by spiritualists who guide souls.",
+			"The long, flowing ribbon is mesmerizing.",
+			"MATK + 40%.",
+			"For every 10 Base Level, increase Talisman of Blue Dragon, ",
+			"Talisman of White Tiger, ",
+			"Talisman of Red Phoenix, ",
+			"Talisman of Black Tortoise, ",
+			"Talisman of Four Bearing God, ",
+			"and Circle of Directions and Elementals damage by 1%.",
+			"For every refine level, SPL + 1.",
+			"When refined to +10 or higher, After Cast Delay - 20%, ignore MDEF of all race enemies by 50%."
 		},
 		slotCount = 1,
 		ClassNum = 2519
@@ -5145,7 +5314,7 @@ tbl = {
 		identifiedDisplayName = "Garden of Heaven",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5164,7 +5333,7 @@ tbl = {
 		identifiedDisplayName = "Magic Crown of Ashes",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -5182,7 +5351,7 @@ tbl = {
 		identifiedDisplayName = "Mighty Crown of Ashes",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -5200,7 +5369,7 @@ tbl = {
 		identifiedDisplayName = "Crown of Ashes",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -5218,7 +5387,7 @@ tbl = {
 		identifiedDisplayName = "Satanic Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5237,7 +5406,7 @@ tbl = {
 		identifiedDisplayName = "Fairy's Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -5256,7 +5425,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Fairy's Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -5275,7 +5444,7 @@ tbl = {
 		identifiedDisplayName = "Ultra Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -5289,38 +5458,41 @@ tbl = {
 	},
 	[400667] = {
 		unidentifiedDisplayName = "Peco Warrior Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "A decorated hat modeled after the legendary Peco Peco.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Peco Warrior Hat",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "A decorated hat modeled after the legendary Peco Peco.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 30",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 1"
+			"It's the symbol of the Peco Peco Fan Club.",
+			"All Basic Status + 5.",
+			"When Base Level is 99 or lower,",
+			"There's a 5% chance to cast Level 10 Sonic Blow when performing melee physical attack.",
+			"There's a 5% chance to cast Level 3 Cross Impact when performing melee physical attack.",
+			"^4D4DFFPeco Warrior Hat [1]^000000",
+			"^4D4DFFPeco Peco Egg^000000",
+			"ATK + 50, ASPD + 5,",
+			"When intimacy is loyal, ",
+			"When Headgear is refined to +10 or higher, MHP + 10%, MSP + 10%.",
+			"When Headgear is refined to +11 or higher, ATK + 25%.",
+			"When Headgear is refined to +12 or higher, additional MHP + 20%, MSP + 20%.",
+			"^4D4DFFPeco Peco Card^000000",
+			"ATK + 15%, MHP + 15%.",
+			"Armor and Weapon will be indestructible."
 		},
 		slotCount = 1,
 		ClassNum = 1049
 	},
 	[400672] = {
-		unidentifiedDisplayName = "Marin Pattern Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Cute Marin Hat",
+		unidentifiedResourceName = "Marin_Pattern_Hat",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Marin Pattern Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Cute Marin Hat",
+		identifiedResourceName = "Marin_Pattern_Hat",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A cute hat with a round shape.",
+			"When you look at it from behind, you can see a cute Marin.",
+			"For every 10 Base Level, increase Double Bowling Bash and Mega Sonic Blow damage by 1%.",
+			"When refined to +11 or higher, ATK + 150, POW + 15."
 		},
 		slotCount = 1,
 		ClassNum = 2543
@@ -5332,7 +5504,7 @@ tbl = {
 		identifiedDisplayName = "Flaward Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -5350,7 +5522,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Flaward Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -5368,7 +5540,7 @@ tbl = {
 		identifiedDisplayName = "Pink Shampoo Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 18",
@@ -5387,7 +5559,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Pink Shampoo Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 18",
@@ -5406,7 +5578,7 @@ tbl = {
 		identifiedDisplayName = "Magma Ignis Cap",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5420,57 +5592,92 @@ tbl = {
 	},
 	[400697] = {
 		unidentifiedDisplayName = "Full Faith Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "C교황의관",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Full Faith Crown",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "C교황의관",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 70",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 70",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"A headgear modeled after the crown worn by Arunafeltz Pope, who is said to be the incarnation of Freyja.",
+			"For every 2 refine level, MATK + 20.",
+			"For every 3 refine level, increase all property magic damage by 7%.",
+			"When refined to +7 or higher, MATK + 10%.",
+			"When refined to +9 or higher, reduce After Cast Delay by 10%.",
+			"When refined to +11 or higher, increase magic damage against all race monsters by 15%.",
+			"When refined to +12 or higher, increase magic damage against all property monsters by 15%.",
+			"When refined to +13 or higher, reduce Fixed Casting Time by 0.5 seconds.",
+			"When refined to +14 or higher, SPL + 15, MATK + 30%.",
+			"^4D4DFFFull Faith Crown [1]^000000",
+			"^4D4DFFFenrir Card^000000",
+			"Reduce Fixed Casting Time by additional 0.2 seconds, S.MATK + 20.",
+			"For every 2 refine level of headgear, increase Comet damage by 7%.",
+			"When equipped by ^4D4DFFSorcerer classes^000000,",
+			"Enables to use ^FF0000Comet Level 3^000000.",
+			"Increase SP consumption by 30% when using skills.",
+			"When equipped by ^4D4DFFWarlock classes^000000,",
+			"Reduce Comet cooldown by 20 seconds."
 		},
 		slotCount = 1,
 		ClassNum = 1475
 	},
 	[400699] = {
-		unidentifiedDisplayName = "Asteria's Helm-LT",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Astraea Helm-LT",
+		unidentifiedResourceName = "Astraea_Helm_LT",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Asteria's Helm-LT",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Astraea Helm-LT",
+		identifiedResourceName = "Astraea_Helm_LT",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 20",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 20",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 150"
+			"MaxHP+5%.",
+			"Every 2 refine level, ATK & MATK +15, ",
+			"Every 4 refine level, Reduces damage taken from enemies of all class (Normal/Boss Monsters), Races, Properties by 2%.",
+			"reduces physical/magical damage taken from enemies of all sizes by 2%.",
+			"When refined to +7 or higher, MaxHP +7%, MRES +20.",
+			"When refined to +9 or higher, reduces variable casting 15%.",
+			"When refined to +11 or higher, increases ATK & MATK by 10% to all sizes enemies.",
+			"When refined to +13 or higher, reduces fixed casting by 0.3 seconds.",
+			"^4D4DFFAstraea Helm-LT^000000",
+			"^4D4DFFAstraea Shoes-LT^000000",
+			"MaxHP+7000, ",
+			"reduces fixed casting time by 0.5 seconds, ",
+			"perfect dodge +12.",
+			"^4D4DFFAstraea Cape-LT^000000",
+			"Increases melee/ranged damage by 15% and all property magic damage by 15%,",
+			"reduces damage taken from ranged physical ATK by 15%,",
+			"reduces physical/magical damage taken from all properties by 5%.",
+			"^4D4DFFAstraea Armor-LT^000000",
+			"when receiving physical ATK, there is a 3% chance to gain VIT+200 for 10 seconds, and",
+			"the effectiveness of heal and recovery items increases by 20%.",
+			"When equiped by Arch Bishop, can use 'Energy Coat' skill.",
+			"^4D4DFF[Grade D]^000000 RES+30, MRES+30.",
+			"^4D4DFF[Grade C]^000000 POW,SPL,CON +5.",
+			"^4D4DFF[Grade B]^000000 Physical/magical damage to targets of all races +15%.",
+			"^4D4DFF[Grade A]^000000 After Cast Delay -15%."
 		},
 		slotCount = 1,
 		ClassNum = 2565
 	},
 	[400710] = {
 		unidentifiedDisplayName = "Snake Queen Crown",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "POW, CON+5.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Snake Queen Crown",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "POW, CON+5.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 20",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 70",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 130"
+			"Every 2 refine level, ATK +20, HIT +8.",
+			"Every 3 refine level, Melee/ranged physical damage increased by 7%.",
+			"When refined to +7 or higher, ATK +10%.",
+			"When refined to +9 or higher, reduces after cast delay by 10%.",
+			"When refined to +11 or higher, increases perfect hit by 15%.",
+			"When refined to +12 or higher, increases physical damage to all races enemies by 15%.",
+			"When refined to +13 or higher, reduces fixed casting time by 0.5 seconds.",
+			"^4D4DFFSnake Queen Crown [1]^000000",
+			"Increases perfect hit by 40%.",
+			"POW, CON +5.",
+			"Every Helmet 3 refine level, increases melee and ranged physical damage by 8%",
+			"^4D4DFFEvil Nymph Card^000000",
+			"POW, CON +3.",
+			"Every Helmet 3 refine level, increases melee and ranged physical damage by 4%",
+			"Increases long-range physical damage by 15%.",
+			"^4D4DFFHermit Plant Card^000000"
 		},
 		slotCount = 1,
 		ClassNum = 164
@@ -5482,7 +5689,7 @@ tbl = {
 		identifiedDisplayName = "Many Flowers Love",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5501,7 +5708,7 @@ tbl = {
 		identifiedDisplayName = "Sakura White Witch Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5515,19 +5722,22 @@ tbl = {
 	},
 	[400722] = {
 		unidentifiedDisplayName = "White Mechanical Plant Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "M_Plant_Hat_W",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "White Mechanical Plant Hat",
-		identifiedResourceName = "캡",
+		identifiedResourceName = "M_Plant_Hat_W",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 50",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 200"
+			"A white hat adorned with decorations entangled with machinery and plants.",
+			"POW +3",
+			"Increases resistance to players by 13%.",
+			"Increases resistance to Normal/Boss monsters by 20%.",
+			"Increases physical damage to all class enemies by 40%.",
+			"For every 10 Base Lv,",
+			"Increases Explosive Powder skill Damage by 1%.",
+			"For every refine level, POW +1.",
+			"Perfect Hit +25%,",
+			"reduces global cooldown by 20%.",
+			"Usable by : ^7777774th Jobs and 2nd Advanced Expanded Class^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2583
@@ -5539,7 +5749,7 @@ tbl = {
 		identifiedDisplayName = "thRO 3rd Anniversary Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -5558,7 +5768,7 @@ tbl = {
 		identifiedDisplayName = "Leviathan Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5577,7 +5787,7 @@ tbl = {
 		identifiedDisplayName = "Khalitzburg Knight Blue Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -5596,7 +5806,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Khalitzburg Knight Blue Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -5609,37 +5819,32 @@ tbl = {
 		ClassNum = 1442
 	},
 	[400758] = {
-		unidentifiedDisplayName = "Meow Meow Meatball Potential Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Cat Paw Potential Hat",
+		unidentifiedResourceName = "Every 2 refine level, ATK+15.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Meow Meow Meatball Potential Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Cat Paw Potential Hat",
+		identifiedResourceName = "Every 2 refine level, ATK+15.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 1"
+			"Every 3 refine level, increase EXP gained from killing monsters by 3%.",
+			"When refined to +7 or higher, CRI+10, Perfect Hit +10%.",
+			"When refined to +9 or higher, increase melee/range physical damage by 15%.",
+			"When refined to +11 or higher, increase physical damage to enemies of all sizes by 20%.",
+			"When refined to +13 or higher, fixed casting time reduced by 0.3 seconds."
 		},
 		slotCount = 1,
 		ClassNum = 1985
 	},
 	[400759] = {
-		unidentifiedDisplayName = "Meow Meow Meatball Growth Hat",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Cat Paw Growth Hat",
+		unidentifiedResourceName = "Every 2 refine level, MATK+15.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Meow Meow Meatball Growth Hat",
-		identifiedResourceName = "캡",
+		identifiedDisplayName = "Cat Paw Growth Hat",
+		identifiedResourceName = "Every 2 refine level, MATK+15.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 1"
+			"When refined to +7 or higher, reduce variable casting time by 15% and reduce fixed casting time by 0.2 seconds.",
+			"When refined to +9 or higher, increase magic damage of all properties by 20%..",
+			"When refined to +11 or higher, increase magic damage to enemies of all sizes by 20%.",
+			"When refined to +13 or higher, Additionally reduce fixed casting time by 0.3 seconds."
 		},
 		slotCount = 1,
 		ClassNum = 1984
@@ -5651,7 +5856,7 @@ tbl = {
 		identifiedDisplayName = "Mecha Feather Blue Hairband",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5670,7 +5875,7 @@ tbl = {
 		identifiedDisplayName = "Astrologer Triangle Hat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -5689,7 +5894,18 @@ tbl = {
 		identifiedDisplayName = "Herosria Hat of Sun God",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 8",
+			"Damage taken from ranged attacks + 5%",
+			"Melee physical damage - 10%",
+			"Ranged physical damage - 10%",
+			"all property magic damage - 10%",
+			"Damage taken from Human Player - 10%",
+			"Damage taken from Doram Player - 10%",
+			"Physical damage against Human Player - 10%",
+			"Physical damage against Doram Player - 10%",
+			"Magic damage against Human Player - 10%",
+			"Magic damage against Doram Player - 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 120",
@@ -5707,7 +5923,13 @@ tbl = {
 		identifiedDisplayName = "Herosria Grand Circlet",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 2",
+			"Melee physical damage + 5%",
+			"all property magic damage - 10%",
+			"Physical damage against Human Player + 10%",
+			"Physical damage against Doram Player + 10%",
+			"Damage taken from Human Player + 10%",
+			"Damage taken from Doram Player + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 90",
@@ -5725,7 +5947,14 @@ tbl = {
 		identifiedDisplayName = "Herosria Crown",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 10",
+			"all property magic damage + 5%",
+			"Melee physical damage - 10%",
+			"Ranged physical damage - 10%",
+			"Magic damage against Human Player + 10%",
+			"Magic damage against Doram Player + 10%",
+			"Damage taken from Human Player + 5%",
+			"Damage taken from Doram Player + 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -5743,7 +5972,14 @@ tbl = {
 		identifiedDisplayName = "Herosria Majestic Goat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 7",
+			"Heal power + 5%",
+			"After Cast Delay - 5%",
+			"Physical damage against Human Player - 10%",
+			"Physical damage against Doram Player - 10%",
+			"Magic damage against Human Player - 10%",
+			"Magic damage against Doram Player - 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 60",
@@ -5761,7 +5997,13 @@ tbl = {
 		identifiedDisplayName = "Herosria Corsair",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
+			"Ranged physical damage + 5%",
+			"all property magic damage - 10%",
+			"Physical damage against Human Player + 10%",
+			"Physical damage against Doram Player + 10%",
+			"Damage taken from Human Player + 5%",
+			"Damage taken from Doram Player + 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 40",
@@ -5773,19 +6015,14 @@ tbl = {
 		ClassNum = 105
 	},
 	[410001] = {
-		unidentifiedDisplayName = "Phalanx",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Reduces damage taken from all race monsters by 1%.",
+		unidentifiedResourceName = "Recovers 60 HP and 6 SP every 5 seconds.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Phalanx",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Reduces damage taken from all race monsters by 1%.",
+		identifiedResourceName = "Recovers 60 HP and 6 SP every 5 seconds.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 50",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 80",
-			"^0000CCRequirement:^000000 Level 100"
+			"If base Vit is 90 or higher, reduces damage taken from all race monsters by 1%, recovers 90 HP and 9 SP every 5 seconds.",
+			"If base Vit is 125 or higher, reduces damage taken from all race monsters by 3%, recovers 150 HP and 15 SP every 5 seconds."
 		},
 		slotCount = 0,
 		ClassNum = 1949
@@ -5797,7 +6034,8 @@ tbl = {
 		identifiedDisplayName = "7-Eleven Headphones",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 11",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 7",
@@ -5815,7 +6053,8 @@ tbl = {
 		identifiedDisplayName = "7-Eleven Headphones",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 11",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 7",
@@ -5834,7 +6073,7 @@ tbl = {
 		identifiedDisplayName = "Gambler's Seal",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -5852,7 +6091,9 @@ tbl = {
 		identifiedDisplayName = "[Rental] Citrus Ribbon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 3",
+			"Physical damage against Boss monsters + 7%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -5870,7 +6111,8 @@ tbl = {
 		identifiedDisplayName = "[Rental] Phalanx",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 3",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 50",
@@ -5888,7 +6130,11 @@ tbl = {
 		identifiedDisplayName = "Rainbow Star",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Silence + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -5907,7 +6153,12 @@ tbl = {
 		identifiedDisplayName = "Eyes of Illusion",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 10%",
+			"Max SP + 10%",
+			"Damage taken from Doram Player - 5%",
+			"Damage taken from Human Player - 5%",
+			"Resistance to Blind + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -5926,7 +6177,8 @@ tbl = {
 		identifiedDisplayName = "Cor Core Headphone",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 3",
+			"After Cast Delay - 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -5944,7 +6196,8 @@ tbl = {
 		identifiedDisplayName = "Cor Core Headphone",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 3",
+			"After Cast Delay - 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -5957,19 +6210,22 @@ tbl = {
 		ClassNum = 2017
 	},
 	[410023] = {
-		unidentifiedDisplayName = "Brazil Twin Ribbon",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Yellow and green twin ribbons said to have been given to each other by twins bound by an immortal bond.",
+		unidentifiedResourceName = "When physically attacking,",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Brazil Twin Ribbon",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Yellow and green twin ribbons said to have been given to each other by twins bound by an immortal bond.",
+		identifiedResourceName = "When physically attacking,",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 30",
-			"^0000CCRequirement:^000000 Level 100"
+			"increase damage to small, medium, and large monsters by 10%.",
+			"Prevents sleep.",
+			"When Infinite Humming lv5,",
+			"Adds a chance to guide hit by 30%.",
+			"When Gloomy Shyness lv5,",
+			"When Music Lessons is learned, and equipped with instruments or whips,",
+			"can cast Dance Lessons which has the same skill level.",
+			"When Dance Lessons is learned, and equipped with instruments or whips,",
+			"can cast Music Lessons which has the same skill level.",
+			"Location : ^777777Middle^000000 Weight : ^77777730^000000"
 		},
 		slotCount = 0,
 		ClassNum = 575
@@ -5981,7 +6237,11 @@ tbl = {
 		identifiedDisplayName = "Twin Ribbon of Gemini",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Sleep + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6000,7 +6260,8 @@ tbl = {
 		identifiedDisplayName = "Floating Artifacts",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -6018,7 +6279,8 @@ tbl = {
 		identifiedDisplayName = "Floating Artifacts",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -6032,17 +6294,30 @@ tbl = {
 	},
 	[410027] = {
 		unidentifiedDisplayName = "Wonder Egg Basket",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "Wonder_Egg_Basket",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Wonder Egg Basket",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "Wonder_Egg_Basket",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 0",
-			"^0000CCRequirement:^000000 Level 100"
+			"A basket full of Cupet's eggs. Let's go outside with a great partner ",
+			"Increase damage dealt to small, medium, and large monsters by 10% when physical or magical attack. ",
+			"When equipped with Moonlight pet,",
+			"Additional 4% chance to drain HP by 4% of the damage dealt.",
+			"When equipped with Angeling, ",
+			"additional ATK + 1 , MATK + 1 per 1 base Luk",
+			"Increase exp by 5% when all monsters are killed.",
+			"When equipped with Cat Oh Ninetail,",
+			"Increase damage dealt to devil type monsters by 30% when physical or magical attack. ",
+			"Decrease incoming damage from devil type monsters by 5% when physical or magical attack.",
+			"When equipped with High Orc pet,",
+			"Increase damage dealt to brute type monsters by 30% when physical or magical attack. ",
+			"Decrease incoming damage from brute type monsters by 5% when physical or magical attack.",
+			"When equipped with Master Ring pet,",
+			"Increase damage dealt to plant type monsters by 30% when physical or magical attack. ",
+			"Decrease incoming damage from plant type monsters by 5% when physical or magical attack.",
+			"When equipped with Metaller pet,",
+			"Adds 15% chance to autocast Metalic Sound Lv5 when physical attack hits.",
+			"Type : ^777777Helm^000000 Defense : ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2055
@@ -6054,7 +6329,8 @@ tbl = {
 		identifiedDisplayName = "Wonder Egg Basket",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6066,19 +6342,18 @@ tbl = {
 		ClassNum = 2055
 	},
 	[410057] = {
-		unidentifiedDisplayName = "Yinyang Earring (Yellow)",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Yinyang Earring(Yellow)",
+		unidentifiedResourceName = "Only those who realize the principle of Yinyang can release true power.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Yinyang Earring (Yellow)",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Yinyang Earring(Yellow)",
+		identifiedResourceName = "Only those who realize the principle of Yinyang can release true power.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 50",
-			"^0000CCRequirement:^000000 Level 100"
+			"If user learned Lunar Luminance level 5,",
+			"Reduces fixed casting time by 70%.",
+			"If user learned Full Moon Kick level 10,",
+			"increases physical damage against all size enemy by 15%,",
+			"recovers 150 HP and 15 SP when killing monsters with physical damage.",
+			"Def : ^7777772^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2088
@@ -6090,7 +6365,12 @@ tbl = {
 		identifiedDisplayName = "Yinyang Earring (Yellow)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 10%",
+			"Max SP + 10%",
+			"Damage taken from Doram Player - 5%",
+			"Damage taken from Human Player - 5%",
+			"Resistance to Silence + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6109,7 +6389,11 @@ tbl = {
 		identifiedDisplayName = "Diving Goggles",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 15%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Heal power + 25%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6121,20 +6405,18 @@ tbl = {
 		ClassNum = 2116
 	},
 	[410067] = {
-		unidentifiedDisplayName = "Professor's Mini Glasses",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Professor Mini Glasses",
+		unidentifiedResourceName = "A pair of mini glasses modeled after a girl who earned her doctorate at Juno Academy.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Professor's Mini Glasses",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Professor Mini Glasses",
+		identifiedResourceName = "A pair of mini glasses modeled after a girl who earned her doctorate at Juno Academy.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Increase magical damage against all size enemies by 10%.",
+			"Immune to Sleep.",
+			"When learned Psychic Wave Level 5,",
+			"reduce Fixed Casting Time of Psychic Wave by 100%,",
+			"reduce Earth Grave and Diamond Dust cooldown by 4 seconds.",
+			"When learned Extreme Vacuum Level 5, reduce After Cast Delay by 15%."
 		},
 		slotCount = 1,
 		ClassNum = 2118
@@ -6146,7 +6428,7 @@ tbl = {
 		identifiedDisplayName = "Demon's Familiar",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6164,7 +6446,9 @@ tbl = {
 		identifiedDisplayName = "Premium Melon Headphones",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 10",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -6183,7 +6467,9 @@ tbl = {
 		identifiedDisplayName = "Premium Melon Headphones",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 10",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 6",
@@ -6201,7 +6487,11 @@ tbl = {
 		identifiedDisplayName = "Powered Income",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Blind + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6232,18 +6522,15 @@ tbl = {
 	},
 	[410096] = {
 		unidentifiedDisplayName = "Red Pope Ribbon",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "Pope_Ribbon_R",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Red Pope Ribbon",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "Pope_Ribbon_R",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A red ribbon that feels the power of the soul. The length of the ribbon is very long, so you can feel the mysterious atmosphere.",
+			"Reduce incoming damage from human type enemies by 5%.",
+			"When Eswhoo lv.10 is learned, reduce fixed casting of Espa and Eswhoo by 100%.",
+			"When Soul Bind lv.7 is learned, ASPD + 2."
 		},
 		slotCount = 0,
 		ClassNum = 2152
@@ -6255,7 +6542,9 @@ tbl = {
 		identifiedDisplayName = "Red Pope Ribbon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Magic damage against all size monsters + 10%",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6269,18 +6558,21 @@ tbl = {
 	},
 	[410109] = {
 		unidentifiedDisplayName = "Fluffy Lovely Fox",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "A proud demon fox child.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Fluffy Lovely Fox",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "A proud demon fox child.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"[Ahh!! Don't touch me!!] It seems she is a bit shy.",
+			"Physical damage to all size enemy + 10%.",
+			"Grants immunity to confusion.",
+			"When learned Spirit of Life Lv 1,",
+			"Reduce Fix cast time of skill Lope and Stoop by 100%,",
+			"When using Scar of Tarou, active [Reckless Rush] for 15 sec.",
+			"^ff0000Reckless Rush^000000",
+			"For 15 seconds, increase Animal skill damage by 1% for every 1000 HP you own, up to 100%.",
+			"Every level of Hiss,",
+			"Increase VIT by 5."
 		},
 		slotCount = 0,
 		ClassNum = 2178
@@ -6292,7 +6584,11 @@ tbl = {
 		identifiedDisplayName = "Fluffy Lovely Fox",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Damage taken from Doram Player - 5%",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6311,7 +6607,9 @@ tbl = {
 		identifiedDisplayName = "Ears of Grisly Soul",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6323,20 +6621,18 @@ tbl = {
 		ClassNum = 2212
 	},
 	[410125] = {
-		unidentifiedDisplayName = "Ears of Grisly Soul",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Ghostly Ears",
+		unidentifiedResourceName = "When an evil spirit is sealed, it will reside in the person's ear.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Ears of Grisly Soul",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Ghostly Ears",
+		identifiedResourceName = "When an evil spirit is sealed, it will reside in the person's ear.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 30",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Wearing it will bring fear to those around you.",
+			"When learned Earth Shaker Lv.5, reduce Lion's Howl Fixed Casting Time by 100% and its cooldown by 9.5 seconds.",
+			"When learned Lightning Ride Lv.5, ASPD + 15%.",
+			"^4D4DFFGhostly Ears [1]^000000",
+			"^4D4DFFDevil's Hand^000000",
+			"The Lion's Howl cooldown reduction effect of Devil's Hand will not be activated."
 		},
 		slotCount = 1,
 		ClassNum = 2212
@@ -6348,7 +6644,7 @@ tbl = {
 		identifiedDisplayName = "Raven Of Tomb",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -6366,7 +6662,7 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Raven Of Tomb",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",
@@ -6379,18 +6675,15 @@ tbl = {
 	},
 	[410141] = {
 		unidentifiedDisplayName = "Gorgon Coronet",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "GorgonCoronet",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Gorgon Coronet",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "GorgonCoronet",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 30",
-			"^0000CCRequirement:^000000 Level 100"
+			"When worn on the body, it exerts surprising power, but it is said that when that power runs out, it will eventually turn into an ugly monster and be decapitated by the hero.",
+			"MaxHP + 15%, increases resistance against all race monsters by 5%.",
+			"When equipped with Aegis System, increase movement speed and resistance against players by 5%.",
+			"Location : ^777777Upper^000000 Weight : ^77777730^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2250
@@ -6402,7 +6695,8 @@ tbl = {
 		identifiedDisplayName = "Gorgon Coronet",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 15%",
+			"Damage taken from all race monsters - 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6421,7 +6715,7 @@ tbl = {
 		identifiedDisplayName = "Magic Celestial Globe",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6439,7 +6733,7 @@ tbl = {
 		identifiedDisplayName = "Magic Celestial Globe",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6458,7 +6752,10 @@ tbl = {
 		identifiedDisplayName = "Rebellion Pocket Watch",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Damage taken from Human Player - 5%",
+			"Resistance to Silence + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6489,37 +6786,26 @@ tbl = {
 	},
 	[410210] = {
 		unidentifiedDisplayName = "Little Abyss Dragon",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "C_Little_Abyss_Dragon",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Little Abyss Dragon",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "C_Little_Abyss_Dragon",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A small dragon born from the abyss.",
+			"It grows based on its owner's emotions, which can bring either glory or destruction.",
+			"Every 2 Base Level, ATK + 1, MATK + 1, up to level 240."
 		},
 		slotCount = 0,
 		ClassNum = 2316
 	},
 	[410211] = {
-		unidentifiedDisplayName = "Little Abyss Dragon",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "A young dragon born from the Abyss.",
+		unidentifiedResourceName = "It grows by feeding on its master's emotions, and depending on its nature, brings either glory or destruction.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Little Abyss Dragon",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "A young dragon born from the Abyss.",
+		identifiedResourceName = "It grows by feeding on its master's emotions, and depending on its nature, brings either glory or destruction.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"For every Base Level, increases ATK +1 and MATK +1."
 		},
 		slotCount = 1,
 		ClassNum = 2316
@@ -6531,7 +6817,7 @@ tbl = {
 		identifiedDisplayName = "Bloody Ears",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6542,18 +6828,26 @@ tbl = {
 		ClassNum = 2318
 	},
 	[410235] = {
-		unidentifiedDisplayName = "Rescue Binoculars",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Portable Telescope",
+		unidentifiedResourceName = "Handiness_Telescope",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Rescue Binoculars",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Portable Telescope",
+		identifiedResourceName = "Handiness_Telescope",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A compact telescope designed for easy carrying.",
+			"Ideal for outdoor use, from survival and birdwatching to tracking escaped baboons.",
+			"For every 20 Pure STR, physical damage to Formless and Undead races + 1%.",
+			"For every 20 Pure AGI, physical damage to Brute and Plant races + 1%.",
+			"For every 20 Pure VIT, physical damage to Insect and Fish races + 1%.",
+			"For every 20 Pure INT, physical damage to Demon and Demi-Human races + 1%.",
+			"For every 20 Pure DEX, physical damage to Angel and Dragon races + 1%.",
+			"For every 20 Pure LUK, physical damage to Doram and Human Player + 1%.",
+			"If the total of all pure Base Stats is 600 or higher, physical damage to all races + 10%, HIT + 10.",
+			"^4D4DFFPortable Telescope^000000",
+			"^4D4DFFRescue Whistle^000000",
+			"Reduces After Cast Delay by 10% and Fixed Casting Time by 0.2 seconds.",
+			"Increases First Aid cooldown by 5 seconds.",
+			"When using First Aid, auto-casts Lv.5 Safety Wall on self."
 		},
 		slotCount = 0,
 		ClassNum = 2375
@@ -6565,7 +6859,8 @@ tbl = {
 		identifiedDisplayName = "Wanderer Grim Reaper",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Magic damage against all size monsters + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6583,7 +6878,8 @@ tbl = {
 		identifiedDisplayName = "Wanderer Grim Reaper",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 10%",
+			"Magic damage against all size monsters + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6602,7 +6898,7 @@ tbl = {
 		identifiedDisplayName = "Lightning Savage",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6615,18 +6911,26 @@ tbl = {
 	},
 	[410254] = {
 		unidentifiedDisplayName = "Ancient Morocc Noble Jewelry",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "An old decorated headgear that was once used by nobles in Ancient Morocc.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Ancient Morocc Noble Jewelry",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "An old decorated headgear that was once used by nobles in Ancient Morocc.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"There might be a curse embedded in it. Think twice before wearing this beautiful jewelry.",
+			"ATK + 40, MATK + 40.",
+			"For every 8 base STR, ATK + 5.",
+			"For every 8 base AGI, ATK + 3.",
+			"For every 8 base VIT, ATK + 2, MATK + 2.",
+			"For every 8 base INT, MATK + 5.",
+			"For every 8 base DEX, ATK + 2, MATK + 2.",
+			"For every 8 base LUK, MATK + 3.",
+			"^4D4DFFAncient Morocc Noble Jewelry [1]^000000",
+			"^4D4DFFMarduk Card^000000",
+			"Reduce After Cast Delay by 8%.",
+			"Increase physical and magical damage against all property enemies by 12%.",
+			"^4D4DFFPharaoh Card^000000",
+			"Enable to detect Hiding and Cloaking enemies,",
+			"Increase physical and magical damage against all property enemies by 25%."
 		},
 		slotCount = 1,
 		ClassNum = 335
@@ -6638,7 +6942,7 @@ tbl = {
 		identifiedDisplayName = "Magic Star-LT",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6656,7 +6960,9 @@ tbl = {
 		identifiedDisplayName = "[NFS] Crow Tengu Mask",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 1%",
+			"Ranged physical damage + 2%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6673,7 +6979,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Strength)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6692,7 +6998,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Agility)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6711,7 +7017,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Vitality)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6730,7 +7036,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Intelligence)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6749,7 +7055,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Dexterity)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6768,7 +7074,7 @@ tbl = {
 		identifiedDisplayName = "Cultist's Circlet (Lucky)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 12",
@@ -6787,7 +7093,7 @@ tbl = {
 		identifiedDisplayName = "Evil Eyes of False God",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6804,7 +7110,7 @@ tbl = {
 		identifiedDisplayName = "Evil Eyes of False God",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6822,7 +7128,7 @@ tbl = {
 		identifiedDisplayName = "Little Abyss Dragon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -6840,7 +7146,12 @@ tbl = {
 		identifiedDisplayName = "Little Abyss Dragon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"After Cast Delay - 3%",
+			"ATK + 24",
+			"MATK + 24",
+			"Damage taken from Dragon monsters - 15%",
+			"Physical damage against Dragon monsters + 15%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6858,7 +7169,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Floating Ball",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MATK + 35",
+			"Magic damage against Boss monsters + 2%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6892,7 +7205,7 @@ tbl = {
 		identifiedDisplayName = "Wisdom Core Headphones",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6910,7 +7223,12 @@ tbl = {
 		identifiedDisplayName = "[NFS] Little Abyss Dragon",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"After Cast Delay - 1%",
+			"ATK + 15",
+			"MATK + 15",
+			"Damage taken from Dragon monsters - 5%",
+			"Physical damage against Dragon monsters + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6927,7 +7245,7 @@ tbl = {
 		identifiedDisplayName = "Diabolus Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6945,7 +7263,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Diabolus Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 5",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -6963,7 +7281,7 @@ tbl = {
 		identifiedDisplayName = "Illusionary Lens",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Blind + 100%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -6975,18 +7293,20 @@ tbl = {
 		ClassNum = 1490
 	},
 	[410313] = {
-		unidentifiedDisplayName = "Eye of the Storm",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "C_Black_Thunder",
+		unidentifiedResourceName = "Eye of the Storm",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Eye of the Storm",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "C_Black_Thunder",
+		identifiedResourceName = "Eye of the Storm",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"a pitch engulfed by the force of swift lightning.",
+			"Increases physical/magical damage to Boss enemies by 10%.",
+			"For every 2 base level, Increases damage of Chain Lightning, Varetyr Spear, Lightning Ride skills by 1% (Up to 250 levels).",
+			"Increase ranged physical damage by 10%.",
+			"Reduce Variable Casting Time of Lightning Ride skill by 100%.",
+			"Reduce cooldown of Varetyr Spear skill by 1 second.",
+			"Reduce cooldown of Water Insignia skill by 55 seconds.",
+			"Enable to use the skill Water Insignia Lv. 1."
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -6998,7 +7318,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Eye of the Storm",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against Boss monsters + 10%",
+			"Magic damage against Boss monsters + 10%",
+			"After Cast Delay - 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7015,7 +7338,7 @@ tbl = {
 		identifiedDisplayName = "Interdimensional Rift",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -7033,7 +7356,7 @@ tbl = {
 		identifiedDisplayName = "Interdimensional Rift",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -7052,7 +7375,9 @@ tbl = {
 		identifiedDisplayName = "Karasu Tengu Mask",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 40",
+			"After Cast Delay - 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7069,7 +7394,10 @@ tbl = {
 		identifiedDisplayName = "Wishing Tree",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 10",
+			"MATK + 100",
+			"Variable Cast Time - 15%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7086,7 +7414,10 @@ tbl = {
 		identifiedDisplayName = "Wishing Tree",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"INT + 10",
+			"MATK + 100",
+			"Variable Cast Time - 15%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7104,7 +7435,12 @@ tbl = {
 		identifiedDisplayName = "Cherub Coronet",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 10",
+			"ATK + 140",
+			"Heal power + 30%",
+			"Resistance to Bleeding + 100%",
+			"Resistance to Confusion + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7116,36 +7452,45 @@ tbl = {
 	},
 	[410337] = {
 		unidentifiedDisplayName = "Cherub Coronet",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "STR +10, ATK +140.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Cherub Coronet",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "STR +10, ATK +140.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"Increases heal effectiveness by 30%.",
+			"Increase rate of incoming recovery skills and items by 15%",
+			"Increases resistance to Bleeding, Chaos status by 100%",
+			"When base INT is 120 or higher, additional ATK +200.",
+			"Increase physical damage against boss class enemies by 10%",
+			"Increases heal effectiveness by additional 50%.",
+			"Increase rate of incoming recovery skills and items by additional 30%",
+			"Decreases the variable casting time of the Coluseo Heal skill by 100%."
 		},
 		slotCount = 1,
 		ClassNum = 2250
 	},
 	[410339] = {
-		unidentifiedDisplayName = "Lightweight Telescope-LT",
-		unidentifiedResourceName = "글래스",
+		unidentifiedDisplayName = "Portable Telescope-LT",
+		unidentifiedResourceName = "Handiness_Telescope_LT",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Lightweight Telescope-LT",
-		identifiedResourceName = "글래스",
+		identifiedDisplayName = "Portable Telescope-LT",
+		identifiedResourceName = "Handiness_Telescope_LT",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"A compact telescope designed for easy carrying. Ideal for outdoor use, from survival and birdwatching to tracking escaped baboons.",
+			"For every 20 pure STR, increases physical damage against Formless and Undead monsters by 2%.",
+			"For every 20 pure AGI, increases physical damage against Animal and Plant monsters by 2%.",
+			"For every 20 pure VIT, increases physical damage against Insect and Fish monsters by 2%.",
+			"For every 20 pure INT, increases physical damage against Demon and Demi-human by 2%.",
+			"For every 20 pure DEX, increases physical damage against Angel and Dragon by 2%.",
+			"For every 20 pure LUK, increases physical damage against Doram and Human player by 2%.",
+			"If the total of 6 basic stats is 600 or higher, increases physical damage against all race enemies by 10%, HIT + 10, Res + 10.",
+			"If the total of 6 talent stats is 160 or higher, increases POW + 5, P.Atk + 5.",
+			"^4D4DFFPortable Telescope-LT [1]^000000",
+			"^4D4DFFRescue Whistle-LT^000000",
+			"Reduces after-cast delay by 15%, reduces fixed casting time by 0.2 seconds.",
+			"Increases 'First Aid' cooldown by 5 seconds.",
+			"When using 'First Aid' skill:",
+			"Casts Level 5 Safety Wall on self."
 		},
 		slotCount = 1,
 		ClassNum = 2544
@@ -7157,7 +7502,7 @@ tbl = {
 		identifiedDisplayName = "Interdimensional Rift (Effect Off)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -7175,7 +7520,7 @@ tbl = {
 		identifiedDisplayName = "Interdimensional Rift (Effect Off)",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -7194,7 +7539,11 @@ tbl = {
 		identifiedDisplayName = "Clown Smiling",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"CRIT + 10",
+			"Critical damage + 20%",
+			"Physical damage against Boss monsters + 10%",
+			"ASPD + 2",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7211,7 +7560,11 @@ tbl = {
 		identifiedDisplayName = "Imperial Ear Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 100",
+			"Resistance to Blind + 100%",
+			"Resistance to Silence + 100%",
+			"After Cast Delay - 6%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7228,7 +7581,11 @@ tbl = {
 		identifiedDisplayName = "Imperial Ear Wing",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 100",
+			"Resistance to Blind + 100%",
+			"Resistance to Silence + 100%",
+			"After Cast Delay - 6%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7241,17 +7598,22 @@ tbl = {
 	},
 	[410348] = {
 		unidentifiedDisplayName = "Divine Protect Shield",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "A flying shield designed to provide absolute protection to the wearer.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Divine Protect Shield",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "A flying shield designed to provide absolute protection to the wearer.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 1"
+			"It is said to be fueled by the purest form of magical energy.",
+			"Immune to Confusion and Hallucination.",
+			"DEF + 100, MDEF + 20",
+			"Enables to use ^00CC00Lv.3 Shield Spell^000000.",
+			"Reduce damage taken from Player by 10%.",
+			"When ^4D4DFFBase VIT is 60 or higher^000000,",
+			"Every 5 seconds, restore 300 HP and 30 SP.",
+			"Reduce Variable Casting Time by 30%.",
+			"When ^4D4DFFBase VIT is 90 or higher^000000,",
+			"Every 5 seconds, restore additional 300 HP and 30 SP.]",
+			"DEF + 200, MDEF + 40."
 		},
 		slotCount = 0,
 		ClassNum = 1949
@@ -7263,7 +7625,7 @@ tbl = {
 		identifiedDisplayName = "Adventurous Poring",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -7276,19 +7638,24 @@ tbl = {
 	},
 	[410362] = {
 		unidentifiedDisplayName = "Exiled Ninja's Eyes",
-		unidentifiedResourceName = "글래스",
+		unidentifiedResourceName = "Scarce eyes from the exiled ninja clan.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Exiled Ninja's Eyes",
-		identifiedResourceName = "글래스",
+		identifiedResourceName = "Scarce eyes from the exiled ninja clan.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 10",
-			"^0000CCSlots:^000000 1",
-			"^0000CCRequirement:^000000 Level 100"
+			"All talent status +5.",
+			"Increases physical & magical damage to boss monsters by 5%.",
+			"When base STR is 120 or higher,",
+			"ATK +30%,",
+			"increases physical damage to boss monsters by additional 15%.",
+			"When equipped by Ninja class,",
+			"enable to use Cross Impact Lv. 5,",
+			"All talent status +10.",
+			"When Base INT is 120 or higher,",
+			"MATK +30%,",
+			"Increases magical damage to boss monsters by additional 15%.",
+			"enable to use Crimson Rock Lv. 5,",
+			"Armor lv: ^7777771^000000"
 		},
 		slotCount = 1,
 		ClassNum = 2156
@@ -7300,7 +7667,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"After Cast Delay - 8%",
+			"ATK + 20",
+			"MATK + 20",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7316,7 +7685,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Variable Cast Time - 8%",
+			"ATK + 20",
+			"MATK + 20",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7332,7 +7703,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 8%",
+			"ATK + 20",
+			"MATK + 20",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7348,7 +7721,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (Global Cooldown)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"After Cast Delay - 4%",
+			"ATK + 10",
+			"MATK + 10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7365,7 +7740,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (Variable Casting)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Variable Cast Time - 4%",
+			"ATK + 10",
+			"MATK + 10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7382,7 +7759,9 @@ tbl = {
 		identifiedDisplayName = "Mermaid Headphones (MAXHP)    # !todo check english name",
 		identifiedResourceName = "글래스",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 4%",
+			"ATK + 10",
+			"MATK + 10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Middle",
@@ -7399,7 +7778,9 @@ tbl = {
 		identifiedDisplayName = "Isabella Carrot",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 1",
+			"DEX + 1",
+			"INT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7416,7 +7797,9 @@ tbl = {
 		identifiedDisplayName = "Fox Hair",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against Demon monsters + 20%",
+			"Magic damage against Demon monsters + 20%",
+			"Resistance to Blind + 100%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7433,7 +7816,7 @@ tbl = {
 		identifiedDisplayName = "Feeling of Love",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7450,7 +7833,9 @@ tbl = {
 		identifiedDisplayName = "Spirit of Chun Yi",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 30",
+			"MATK + 30",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7462,35 +7847,32 @@ tbl = {
 	},
 	[420028] = {
 		unidentifiedDisplayName = "Imperial Glory",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Imperial_Glory",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Imperial Glory",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Imperial_Glory",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 70",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 30",
-			"^0000CCRequirement:^000000 Level 70"
+			"The replica worn by the legendary guard.",
+			"When sum of base AGI and VIT is higher than 50,",
+			"DEF + 4 per 50 base points of AGI and VIT",
+			"Reduce after cast delay by 3% per 50 base points of AGI and VIT",
+			"Location : ^777777Lower^000000 Weight : ^77777730^000000",
+			"Required level : ^77777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2056
 	},
 	[420032] = {
-		unidentifiedDisplayName = "Double Barrel Cannon",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Twin Cannon",
+		unidentifiedResourceName = "A pair of twin cannon equipped on your shoulder.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Double Barrel Cannon",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Twin Cannon",
+		identifiedResourceName = "A pair of twin cannon equipped on your shoulder.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 1"
+			"It's believed to be just a decoration, but it looks menacing enough.",
+			"^4D4DFFTwin Cannon^000000",
+			"^4D4DFFShadow Booster [1]^000000",
+			"Reduce After Cast Delay by 4%."
 		},
 		slotCount = 0,
 		ClassNum = 1865
@@ -7502,7 +7884,10 @@ tbl = {
 		identifiedDisplayName = "Noble Handkerchief",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"all property magic damage + 2%",
+			"Damage taken from Human Player - 2%",
+			"Damage taken from Doram Player - 2%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7519,7 +7904,7 @@ tbl = {
 		identifiedDisplayName = "Eternal Poring Balloon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Damage taken from all race monsters - 2%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7531,17 +7916,12 @@ tbl = {
 	},
 	[420068] = {
 		unidentifiedDisplayName = "Lord of Royals",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Replica of the insignia used by the king who commanded the Royal Guard in the old days.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Lord of Royals",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Replica of the insignia used by the king who commanded the Royal Guard in the old days.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"Increase damage to all size monsters by 4% per 50 base STR and INT combined."
 		},
 		slotCount = 0,
 		ClassNum = 2128
@@ -7553,7 +7933,8 @@ tbl = {
 		identifiedDisplayName = "Magic Star Array",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Fixed Cast Time - 0.2 sec",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7570,7 +7951,7 @@ tbl = {
 		identifiedDisplayName = "[Rental] Sealed Mob Scarf",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7582,69 +7963,62 @@ tbl = {
 	},
 	[420105] = {
 		unidentifiedDisplayName = "World-erosive Curse",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Cons_Of_Darkness",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "World-erosive Curse",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Cons_Of_Darkness",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A curse created by the abyss begins to eat away at the world.",
+			"Increase damage dealt to Demi-Human by 20% (Include Player).",
+			"Increase damage dealt to Doram Player by 20%.",
+			"Grants immunity to curse."
 		},
 		slotCount = 0,
 		ClassNum = 2020
 	},
 	[420106] = {
-		unidentifiedDisplayName = "Exotic Temporal Young Leaf",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Exotic Temporal Sprout",
+		unidentifiedResourceName = "A mysterious leaf said to be acquired from the different dimensions.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Exotic Temporal Young Leaf",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Exotic Temporal Sprout",
+		identifiedResourceName = "A mysterious leaf said to be acquired from the different dimensions.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 5",
-			"^0000CCRequirement:^000000 Level 100"
+			"^4D4DFFExotic Temporal Sprout^000000",
+			"^4D4DFFExotic Temporal Manteau [1]^000000",
+			"^4D4DFFExotic Temporal Armor [1]^000000",
+			"Increase physical and magic damage against all class enemies by 10%.",
+			"When total refine level of set is 18 or higher, ATK + 80, MATK + 80.",
+			"When total refine level of set is 20 or higher, ATK + 10%, MATK + 10%.",
+			"When total refine level of set is 26 or higher, increase physical and magic damage against all property enemies by 10%.",
+			"Increase all property magic damage by 8%.",
+			"When total refine level of set is 39 or higher, ignore physical and magic defense of all race enemies (including players) by 100%."
 		},
 		slotCount = 0,
 		ClassNum = 848
 	},
 	[420110] = {
 		unidentifiedDisplayName = "Old Camouflage Scarf",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "A camouflage scarf containing the grudges of forgotten people in a certain laboratory.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Old Camouflage Scarf",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "A camouflage scarf containing the grudges of forgotten people in a certain laboratory.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"For every 10 base level, increases physical and magical damage to all size monsters by 1%."
 		},
 		slotCount = 0,
 		ClassNum = 1882
 	},
 	[420112] = {
 		unidentifiedDisplayName = "Guardian Claus",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Guardian_Claus",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Guardian Claus",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Guardian_Claus",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 2",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A avant-garde shoulder guard that combines excellent protection and mobility.",
+			"MaxHP + 15%",
+			"Increases resistance to humanoid monsters by 3%.",
+			"Location : ^777777Lower^000000 Weight : ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2227
@@ -7656,7 +8030,8 @@ tbl = {
 		identifiedDisplayName = "Wei Brush Tattoo",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Resistance to Hallucination + 100%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7673,7 +8048,10 @@ tbl = {
 		identifiedDisplayName = "Fumi Fan",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 5%",
+			"Max SP + 5%",
+			"Damage taken from ranged attacks + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -7691,7 +8069,10 @@ tbl = {
 		identifiedDisplayName = "[Not for Sale] Fumi Fan",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 5%",
+			"Max SP + 5%",
+			"Damage taken from ranged attacks + 5%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 20",
@@ -7709,7 +8090,7 @@ tbl = {
 		identifiedDisplayName = "The Spirit Of World",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7726,7 +8107,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Isabella Carrot",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"VIT + 1",
+			"DEX + 1",
+			"INT + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7743,7 +8126,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] The Spirit Of World",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7760,7 +8143,7 @@ tbl = {
 		identifiedDisplayName = "Frenzy Galapago",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7777,7 +8160,7 @@ tbl = {
 		identifiedDisplayName = "Poker Card In Mouth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7794,7 +8177,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale]Frenzy Galapago",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7811,7 +8194,8 @@ tbl = {
 		identifiedDisplayName = "Flutter Butterfly",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 1",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7828,7 +8212,8 @@ tbl = {
 		identifiedDisplayName = "Yesterday Once More",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MDEF + 5",
+			"ASPD + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7845,7 +8230,7 @@ tbl = {
 		identifiedDisplayName = "Raging Tempest",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7863,7 +8248,8 @@ tbl = {
 		identifiedDisplayName = "Eispinne",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Damage taken from Human Player - 3%",
+			"After Cast Delay - 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7880,7 +8266,8 @@ tbl = {
 		identifiedDisplayName = "20th Anniversary Balloon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Fixed Cast Time - 0.1 sec",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7891,35 +8278,37 @@ tbl = {
 		ClassNum = 2005
 	},
 	[420194] = {
-		unidentifiedDisplayName = "Survival Whistle",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Rescue Whistle",
+		unidentifiedResourceName = "A high-volume whistle that carries sound over long distances.",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Survival Whistle",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Rescue Whistle",
+		identifiedResourceName = "A high-volume whistle that carries sound over long distances.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"Indispensable in critical moments.",
+			"For every 20 Pure STR, physical damage to all property enemies + 1%.",
+			"For every 20 Pure AGI, physical damage to Neutral property enemies + 1%.",
+			"For every 20 Pure VIT, physical damage to Water property enemies + 1%.",
+			"For every 20 Pure INT, physical damage to Earth property enemies + 1%.",
+			"For every 20 Pure DEX, physical damage to Fire property enemies + 1%.",
+			"For every 20 Pure LUK, physical damage to Wind property enemies + 1%.",
+			"If the total of all pure Base Stats is 600 or higher, physical damage to all property enemies + 10%, FLEE + 10."
 		},
 		slotCount = 0,
 		ClassNum = 952
 	},
 	[420198] = {
 		unidentifiedDisplayName = "Sanctus",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "A mysterious cloak filled with holy energy.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Sanctus",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "A mysterious cloak filled with holy energy.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"It is said to have been torn by a saint who took pity on a man on a cold day.",
+			"When learned Knuckle Arrow Lv 10,",
+			"Reduce the cooldown of Rampage Blast by 0.2 seconds.",
+			"When learned Rising Dragon Lv 10,",
+			"Increase Physical damage to all size enemy by 15%.",
+			"Class : ^777777Sura Class^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2351
@@ -7931,7 +8320,8 @@ tbl = {
 		identifiedDisplayName = "Gang Scarf",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 5",
+			"Fixed Cast Time - 0.1 sec",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7948,7 +8338,8 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Gang Scarf",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 5",
+			"Fixed Cast Time - 0.1 sec",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -7959,35 +8350,34 @@ tbl = {
 		ClassNum = 369
 	},
 	[420223] = {
-		unidentifiedDisplayName = "Consecrate Fides Aureola",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Lower Headgear",
+		unidentifiedResourceName = "Consecrate Fides Aureola",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Consecrate Fides Aureola",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Lower Headgear",
+		identifiedResourceName = "Consecrate Fides Aureola",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"C_Consecrate_F_Aureola",
+			"A sacred symbol materialized by the power of true faith.",
+			"It provides divine power and protection to the user."
 		},
 		slotCount = 0,
 		ClassNum = 2396
 	},
 	[420235] = {
 		unidentifiedDisplayName = "Portable Support System",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Mobile_Support_Systems",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Portable Support System",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Mobile_Support_Systems",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A portable support system that floats around.",
+			"It provides various supports according to the wearer's movements.",
+			"Increase long ranged physical damage by 10%.",
+			"When learned Neutral Barrier Lv 3,",
+			"Increase physical damage against all size enemies by 15%.",
+			"When learned Fire Earth Research Lv 5,",
+			"Using skills does not consume Madogear Fuel",
+			"Class : ^777777Mechanic Class^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2414
@@ -7999,7 +8389,7 @@ tbl = {
 		identifiedDisplayName = "Illusionary Bat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Upper",
@@ -8016,7 +8406,7 @@ tbl = {
 		identifiedDisplayName = "[NFS] Tengu Scroll",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8033,7 +8423,9 @@ tbl = {
 		identifiedDisplayName = "Third Eye God",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 1",
+			"Fixed Cast Time - 0.1 sec",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -8051,7 +8443,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Third Eye God",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 1",
+			"Fixed Cast Time - 0.1 sec",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 3",
@@ -8069,7 +8463,8 @@ tbl = {
 		identifiedDisplayName = "[NFS] Panda Bear Balloon",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 1",
+			"ASPD + 1",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8087,7 +8482,7 @@ tbl = {
 		identifiedDisplayName = "Illusionary Spark",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8104,7 +8499,7 @@ tbl = {
 		identifiedDisplayName = "Illusional Saucer",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8121,7 +8516,7 @@ tbl = {
 		identifiedDisplayName = "Republic scarf",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ASPD + 5%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8138,7 +8533,7 @@ tbl = {
 		identifiedDisplayName = "Imperial Glory",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8155,7 +8550,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Imperial Glory",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8172,7 +8567,7 @@ tbl = {
 		identifiedDisplayName = "Hero Cloth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8189,7 +8584,9 @@ tbl = {
 		identifiedDisplayName = "Cosmic Connection",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 15%",
+			"Magic damage against all size monsters + 15%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8206,7 +8603,8 @@ tbl = {
 		identifiedDisplayName = "Ring-ging Nyan Catbell",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Heal power + 10%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8223,7 +8621,7 @@ tbl = {
 		identifiedDisplayName = "[NFS] Mob Scarf",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8235,34 +8633,35 @@ tbl = {
 	},
 	[420316] = {
 		unidentifiedDisplayName = "Twin Cannon-LT",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Twin_Canon_LT_TW",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Twin Cannon-LT",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Twin_Canon_LT_TW",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"Reduces after skill delay by 4%,",
+			"reduces fixed casting time by 0.1 second.",
+			"^4D4DFFTwin Cannon-LT^000000",
+			"reduces after skill delay by additional 5%,",
+			"additional ASPD +1,",
+			"reduces fixed casting time by additional 0.1 second,",
+			"increases long range physical damage by 10%,",
+			"perfect hit +10%."
 		},
 		slotCount = 0,
 		ClassNum = 2497
 	},
 	[420323] = {
 		unidentifiedDisplayName = "Charm of Anywhere",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "CharmOfAnywhere",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Charm of Anywhere",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "CharmOfAnywhere",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A weird rainbow of ectoplasm is floating around your body.",
+			"No one know what kind of omen this item brings.",
+			"ASPD + 10%, ASPD + 1, MATK + 3%, SPL + 3.",
+			"There's a 10% chance to cast Level 2 From the Abyss when performing melee or long ranged physical attack (higher skill level will be casted if you have higher one).",
+			"Class : ^777777Rogue Type^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0
@@ -8274,7 +8673,7 @@ tbl = {
 		identifiedDisplayName = "Auto Parts - Cannons",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8291,7 +8690,7 @@ tbl = {
 		identifiedDisplayName = "Nekomimi Cape (Blue)",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8303,18 +8702,22 @@ tbl = {
 	},
 	[420329] = {
 		unidentifiedDisplayName = "Twinhead Dragon Scale",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "C_Eis_Spinne",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Twinhead Dragon Scale",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "C_Eis_Spinne",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 10",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 100",
-			"^0000CCRequirement:^000000 Level 100"
+			"Shoulder supports modeled after an ice spider covered in permanent frost and capable of withstanding absolute zero.",
+			"MHP + 15%, long ranged physical damage + 15%.",
+			"^4D4DFFTwinhead Dragon Scale^000000",
+			"^4D4DFFTwinhead Dragon Mail [1]^000000",
+			"For every level of Two-handed Defense learned,",
+			"Increase Madness Crusher damage by 15%.",
+			"When Armor refined to +10 or higher, Max HP +10%, Max SP +10%.",
+			"When Armor refined to +11 or higher, Increase long ranged physical damage by 20%.",
+			"When Armor refined to +12 or higher, absorb 1% of the damage dealt as HP when attacking with a physical attack (100% chance).",
+			"When Armor refined to +13 or higher, Increase Dragon's Breath damage by 60%. Increase Dragon's Water Breath damage by 60%.",
+			"When Armor refined to +14 or higher, All basic stat +10, All talent stat +10, Increase Madness Crusher damage by 100%."
 		},
 		slotCount = 0,
 		ClassNum = 2317
@@ -8326,7 +8729,8 @@ tbl = {
 		identifiedDisplayName = "Queen of Calamity",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 15%",
+			"Magic damage against all size monsters + 15%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8338,34 +8742,43 @@ tbl = {
 	},
 	[420342] = {
 		unidentifiedDisplayName = "Wireless Security Drone",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "When performing physical attack, there is a 2% chance to absorb 2% of damage as HP.",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Wireless Security Drone",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "When performing physical attack, there is a 2% chance to absorb 2% of damage as HP.",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 45",
-			"^0000CCRequirement:^000000 Level 1"
+			"When performing physical attack, there is a 1% chance to absorb 1% of damage as SP.",
+			"Reduces After Cast Delay by 3%.",
+			"Increases EXP received from monsters by 8%.",
+			"When defeating monsters with magic attack,",
+			"recover 300 HP and 5 SP",
+			"^4D4DFFWireless Security Drone^000000",
+			"^4D4DFFAutomatic Engine Wing Type C^000000",
+			"Increases EXP received from monsters by 4%.",
+			"For every 2 refine level of Automatic Engine Wing Type C, increases EXP received from monsters by 1%.",
+			"Increases physical/magical damage against all race monsters (except players) by 8%.",
+			"For every 2 refine level of Automatic Armor Type A/B, reduces after dast delay by 1%."
 		},
 		slotCount = 0,
 		ClassNum = 1788
 	},
 	[420343] = {
-		unidentifiedDisplayName = "Survival Whistle-LT",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Rescue Whistle-LT",
+		unidentifiedResourceName = "Rescue_whistle_LT",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Survival Whistle-LT",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Rescue Whistle-LT",
+		identifiedResourceName = "Rescue_whistle_LT",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 100"
+			"A high-volume whistle that carries sound over long distances. Indispensable in critical moments.",
+			"Flee + 20.",
+			"For every 20 pure STR, increases physical damage against enemies of all property by 2%.",
+			"For every 20 pure AGI, increases physical damage against Neutral property enemies by 2%.",
+			"For every 20 pure VIT, increases physical damage against Water property enemies by 2%.",
+			"For every 20 pure INT, increases physical damage against Earth property enemies by 2%.",
+			"For every 20 pure DEX, increases physical damage against Fire property enemies by 2%.",
+			"For every 20 pure LUK, increases physical damage against Wind property enemies by 2%.",
+			"If the total of all pure basic stats is 600 or higher, increases physical damage against enemies of all property by 10%, Flee + 10, Mres + 10.",
+			"If the total of all pure talent stats is 160 or higher, increases CON + 5, P.Atk + 5."
 		},
 		slotCount = 0,
 		ClassNum = 2545
@@ -8377,7 +8790,9 @@ tbl = {
 		identifiedDisplayName = "Book of Destruction",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Damage taken from Doram Player - 3%",
+			"Damage taken from Human Player - 3%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8394,7 +8809,7 @@ tbl = {
 		identifiedDisplayName = "Reaper Of Tomb",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8411,7 +8826,9 @@ tbl = {
 		identifiedDisplayName = "Earth Stone In Mouth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MATK + 20",
+			"After Cast Delay - 5%",
+			"Earth property magic damage + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8428,7 +8845,9 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Earth Stone In Mouth",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"MATK + 20",
+			"After Cast Delay - 5%",
+			"Earth property magic damage + 10%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8445,7 +8864,8 @@ tbl = {
 		identifiedDisplayName = "Atokwe Poenitentia",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Physical damage against all size monsters + 15%",
+			"Magic damage against all size monsters + 15%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8456,52 +8876,49 @@ tbl = {
 		ClassNum = 2594
 	},
 	[420389] = {
-		unidentifiedDisplayName = "Kankrai",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Kankrai (Scissors)",
+		unidentifiedResourceName = "Show me your scissors!",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Kankrai",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Kankrai (Scissors)",
+		identifiedResourceName = "Show me your scissors!",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 170"
+			"Next time, that guy's definitely going to throw paper!",
+			"Increases physical and magic damage to all class enemies by 5%.",
+			"Ignores 60% of physical and magical defense of all monster races (excluding players).",
+			"^4D4DFFKankrai (Scissors)^000000",
+			"Ignores 40% of physical and magical defense of all monster races (excluding players).",
+			"MATK + 15%, Critical Damage + 15%."
 		},
 		slotCount = 0,
 		ClassNum = 795
 	},
 	[420390] = {
-		unidentifiedDisplayName = "Khon",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Khon (Rock)",
+		unidentifiedResourceName = "Throw your rock!",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Khon",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Khon (Rock)",
+		identifiedResourceName = "Throw your rock!",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 170"
+			"Next round, that guy's definitely going to play scissors!",
+			"Reduces After Cast Delay by 7%.",
+			"Increases physical damage to all class enemies by 15%.",
+			"^4D4DFFKhon (Rock)^000000",
+			"ATK + 120."
 		},
 		slotCount = 0,
 		ClassNum = 796
 	},
 	[420391] = {
-		unidentifiedDisplayName = "Kradat",
-		unidentifiedResourceName = "마스크",
+		unidentifiedDisplayName = "Kradat (Paper)",
+		unidentifiedResourceName = "Throw your paper!",
 		unidentifiedDescriptionName = { "No description available." },
-		identifiedDisplayName = "Kradat",
-		identifiedResourceName = "마스크",
+		identifiedDisplayName = "Kradat (Paper)",
+		identifiedResourceName = "Throw your paper!",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 10",
-			"^0000CCRequirement:^000000 Level 170"
+			"Next round, that guy's definitely going to play rock!",
+			"Increases magic damage to all class enemies by 15%.",
+			"^4D4DFFKradat (Paper)^000000",
+			"After Cast Delay - 15%, MHP + 5000."
 		},
 		slotCount = 0,
 		ClassNum = 797
@@ -8513,7 +8930,11 @@ tbl = {
 		identifiedDisplayName = "Twin Cannon-LT",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Max HP + 1000",
+			"Max SP + 200",
+			"After Cast Delay - 5%",
+			"Physical damage against all class monsters + 6%",
+			"Magic damage against all class monsters + 6%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8525,17 +8946,16 @@ tbl = {
 	},
 	[420422] = {
 		unidentifiedDisplayName = "Bat Von Blood",
-		unidentifiedResourceName = "마스크",
+		unidentifiedResourceName = "Nightmare_Looker_TW",
 		unidentifiedDescriptionName = { "No description available." },
 		identifiedDisplayName = "Bat Von Blood",
-		identifiedResourceName = "마스크",
+		identifiedResourceName = "Nightmare_Looker_TW",
 		identifiedDescriptionName = {
-			"No description available.",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCPosition:^000000 Lower",
-			"^0000CCWeight:^000000 20",
-			"^0000CCRequirement:^000000 Level 1"
+			"A small, red vampire bat.",
+			"ATK +100, MATK +100,",
+			"Recovers 700 HP and 70 SP when monsters are defeated by physical or magical attacks.",
+			"Enable to use Greed Lv. 1.",
+			"Experience gained from monsters +15%."
 		},
 		slotCount = 0,
 		ClassNum = 2439
@@ -8547,7 +8967,9 @@ tbl = {
 		identifiedDisplayName = "Mob Scarf-LT",
 		identifiedResourceName = "마스크",
 		identifiedDescriptionName = {
-			"No description available.",
+			"ATK + 8%",
+			"MATK + 8%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCPosition:^000000 Lower",
@@ -8564,7 +8986,7 @@ tbl = {
 		identifiedDisplayName = "Awakened Glacier Helm",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -8583,7 +9005,10 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Fancy Phantom Mask",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"STR + 1",
+			"ATK + 5%",
+			"After Cast Delay - 1%",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
@@ -8602,7 +9027,7 @@ tbl = {
 		identifiedDisplayName = "Wanderer's Sakkat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -8621,7 +9046,7 @@ tbl = {
 		identifiedDisplayName = "[Not For Sale] Wanderer's Sakkat",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 2",
@@ -8640,7 +9065,9 @@ tbl = {
 		identifiedDisplayName = "[NFS] Helm of Death",
 		identifiedResourceName = "캡",
 		identifiedDescriptionName = {
-			"No description available.",
+			"All Stats + 1",
+			"MDEF + 5",
+			"Has additional effects that are not listed here.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 10",

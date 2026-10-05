@@ -30,8 +30,12 @@ not part of the stock database.
   `Solo_Play_Box1/2`, `Spare_Card`, `Wit_Pumpkin_Hat`, `Mosquito_Coil_1Use`) = 417.
 - **Renewal:** 2,465 headgears, 1,225 with no source, minus 18 leftovers (the `RTC` trophies,
   `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207.
-  480 of them have no entry in the client's item table, so `renewal/System/itemInfo.lua` names them (English name,
-  defense, weight and slots from the server database, a generic icon per slot). Their worn sprite is not affected.
+  480 of them have no entry in the client's item table, so `renewal/System/itemInfo.lua` names and describes them. 89 use the name, icon and
+  description of the iRO client table. The other 391 take their name, defense, weight and slots from the server
+  database and list the simple bonuses of their item script (stats, ATK/MATK, HP/SP, cast and delay, damage against
+  race/size/element). 279 of them also carry a line that they have additional effects not listed, because their
+  scripts have skills, refine bonuses or conditions that are not translated. They use a generic icon per slot. Worn
+  sprites are not affected.
   Snake Head and Skull Cap sit in a stock renewal item group, so they are not in this pool.
 
 ## Layout
@@ -49,6 +53,7 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 
 ## Changelog
 
+- **1.2.0**: item descriptions for the 480 renewal headgears the client has no entry for (see above).
 - **1.1.1**: fixed the box showing as "Unknown Item" in renewal. The app links one item table per mod and the renewal table replaced the box's, so the renewal table now includes the box.
 - **1.1.0**: the 480 renewal headgears the client has no item name for are named by the mod (they showed as "Unknown Item"), so the renewal pool is the full 1,207. They use generic icons.
 - **1.0.0**: first release, pre-renewal and renewal. Optional ground drop with autoloot support.
