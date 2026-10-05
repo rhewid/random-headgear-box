@@ -7,7 +7,7 @@ both eras: it uses the pool that fits whichever era is running.
 | Era | Pool | List |
 |---|---|---|
 | Pre-renewal | **417** headgears, Snake Head and Skull Cap among them | [POOL-pre-renewal.md](POOL-pre-renewal.md) |
-| Renewal | **727** headgears | [POOL-renewal.md](POOL-renewal.md) |
+| Renewal | **1,207** headgears | [POOL-renewal.md](POOL-renewal.md) |
 
 ## Settings (Settings -> Mods, then Apply)
 
@@ -29,8 +29,9 @@ not part of the stock database.
 - **Pre-renewal:** 758 headgears, 424 with no source, minus 7 test or event leftovers (`RTC_*`,
   `Solo_Play_Box1/2`, `Spare_Card`, `Wit_Pumpkin_Hat`, `Mosquito_Coil_1Use`) = 417.
 - **Renewal:** 2,465 headgears, 1,225 with no source, minus 18 leftovers (the `RTC` trophies,
-  `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207,
-  minus 480 that the client's item table has no name for (they would show as "Unknown Item") = 727.
+  `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207.
+  480 of them have no entry in the client's item table, so `renewal/System/itemInfo-headgears.lua` names them (English name,
+  defense, weight and slots from the server database, a generic icon per slot). Their worn sprite is not affected.
   Snake Head and Skull Cap sit in a stock renewal item group, so they are not in this pool.
 
 ## Layout
@@ -48,7 +49,7 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 
 ## Changelog
 
-- **1.0.1**: renewal pool no longer includes the 480 headgears the client has no item name for, which showed as "Unknown Item".
+- **1.1.0**: the 480 renewal headgears the client has no item name for are named by the mod (they showed as "Unknown Item"), so the renewal pool is the full 1,207. They use generic icons.
 - **1.0.0**: first release, pre-renewal and renewal. Optional ground drop with autoloot support.
 
 ## License
