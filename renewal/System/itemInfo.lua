@@ -1,4 +1,6 @@
--- Client names for the renewal headgears the translation has no item table entry for.
+-- Client names for the Random Headgear Box (72001) and for the renewal headgears the translation has no item
+-- table entry for. This file replaces System/itemInfo.lua in renewal (the app links one table per mod), so it
+-- carries the box too.
 -- Name, view (ClassNum), defense, weight and slots come from the server's item database. The client has no
 -- icon for these, so each uses a generic one for its slot. The worn sprite is unaffected (it comes from the view id).
 tbl = {
@@ -8648,5 +8650,20 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 742
+	},
+	[72001] = {
+		unidentifiedDisplayName = "Random Headgear Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "I wonder what's inside it..." },
+		identifiedDisplayName = "Random Headgear Box",
+		identifiedResourceName = "선물상자",
+		identifiedDescriptionName = {
+			"A box that holds one of the headgears monsters never drop.",
+			"Open it to get a random one.",
+			"------------------------",
+			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
 	}
 }
