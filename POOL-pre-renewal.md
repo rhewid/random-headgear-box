@@ -1,4 +1,4 @@
-# Headgears in the box (417)
+# Headgears in the pre-renewal box (417)
 
 | Id | AegisName | Name |
 |---|---|---|
