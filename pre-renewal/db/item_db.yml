@@ -92,6 +92,7 @@ Body:
     Name: "Costume Sunglasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 12
     Locations:
       Costume_Head_Mid: true
@@ -100,6 +101,7 @@ Body:
     Name: "Costume Sunglasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 12
     Locations:
       Costume_Head_Mid: true
@@ -108,6 +110,7 @@ Body:
     Name: "Costume Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 3
     Locations:
       Costume_Head_Mid: true
@@ -116,6 +119,7 @@ Body:
     Name: "Costume Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 3
     Locations:
       Costume_Head_Mid: true
@@ -124,6 +128,7 @@ Body:
     Name: "Costume Diver Goggles"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 10
     Locations:
       Costume_Head_Mid: true
@@ -132,6 +137,7 @@ Body:
     Name: "Costume Wedding Veil"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 44
     Locations:
       Costume_Head_Top: true
@@ -140,6 +146,7 @@ Body:
     Name: "Costume Fancy Flower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 4
     Locations:
       Costume_Head_Top: true
@@ -148,6 +155,7 @@ Body:
     Name: "Costume Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 17
     Locations:
       Costume_Head_Top: true
@@ -156,6 +164,7 @@ Body:
     Name: "Costume Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 17
     Locations:
       Costume_Head_Top: true
@@ -164,6 +173,7 @@ Body:
     Name: "Costume Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 9
     Locations:
       Costume_Head_Top: true
@@ -172,6 +182,7 @@ Body:
     Name: "Costume Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 6
     Locations:
       Costume_Head_Top: true
@@ -180,6 +191,7 @@ Body:
     Name: "Costume Eye Patch"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 13
     Locations:
       Costume_Head_Mid: true
@@ -188,6 +200,7 @@ Body:
     Name: "Costume Kitty Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 2
     Locations:
       Costume_Head_Top: true
@@ -196,6 +209,7 @@ Body:
     Name: "Costume Bunny Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 15
     Locations:
       Costume_Head_Top: true
@@ -204,6 +218,7 @@ Body:
     Name: "Costume Flower Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 5
     Locations:
       Costume_Head_Top: true
@@ -212,6 +227,7 @@ Body:
     Name: "Costume Biretta"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 11
     Locations:
       Costume_Head_Top: true
@@ -220,6 +236,7 @@ Body:
     Name: "Costume Biretta"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 11
     Locations:
       Costume_Head_Top: true
@@ -228,6 +245,7 @@ Body:
     Name: "Costume Flu Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 8
     Locations:
       Costume_Head_Low: true
@@ -236,6 +254,7 @@ Body:
     Name: "Costume Flu Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 8
     Locations:
       Costume_Head_Low: true
@@ -244,6 +263,7 @@ Body:
     Name: "Costume Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 16
     Locations:
       Costume_Head_Top: true
@@ -252,6 +272,7 @@ Body:
     Name: "Costume Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 16
     Locations:
       Costume_Head_Top: true
@@ -260,6 +281,7 @@ Body:
     Name: "Costume Turban"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 7
     Locations:
       Costume_Head_Top: true
@@ -268,6 +290,7 @@ Body:
     Name: "Costume Turban"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 7
     Locations:
       Costume_Head_Top: true
@@ -276,6 +299,7 @@ Body:
     Name: "Costume Goggles"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 1
     Locations:
       Costume_Head_Mid: true
@@ -285,6 +309,7 @@ Body:
     Name: "Costume Goggles"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 1
     Locations:
       Costume_Head_Mid: true
@@ -294,6 +319,7 @@ Body:
     Name: "Costume Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 14
     Locations:
       Costume_Head_Top: true
@@ -302,6 +328,7 @@ Body:
     Name: "Costume Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 14
     Locations:
       Costume_Head_Top: true
@@ -310,6 +337,7 @@ Body:
     Name: "Costume Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 40
     Locations:
       Costume_Head_Top: true
@@ -318,6 +346,7 @@ Body:
     Name: "Costume Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 40
     Locations:
       Costume_Head_Top: true
@@ -326,6 +355,7 @@ Body:
     Name: "Costume Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -334,6 +364,7 @@ Body:
     Name: "Costume Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -342,6 +373,7 @@ Body:
     Name: "Costume Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 19
     Locations:
       Costume_Head_Top: true
@@ -350,6 +382,7 @@ Body:
     Name: "Costume Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 45
     Locations:
       Costume_Head_Top: true
@@ -358,6 +391,7 @@ Body:
     Name: "Costume Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 20
     Locations:
       Costume_Head_Top: true
@@ -366,6 +400,7 @@ Body:
     Name: "Costume Bandit Beard"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 21
     Locations:
       Costume_Head_Low: true
@@ -374,6 +409,7 @@ Body:
     Name: "Costume Monocle"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 23
     Locations:
       Costume_Head_Mid: true
@@ -382,6 +418,7 @@ Body:
     Name: "Costume Beard"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 24
     Locations:
       Costume_Head_Low: true
@@ -390,6 +427,7 @@ Body:
     Name: "Costume Grampa Beard"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 25
     Locations:
       Costume_Head_Low: true
@@ -398,6 +436,7 @@ Body:
     Name: "Costume Purple Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 26
     Locations:
       Costume_Head_Mid: true
@@ -406,6 +445,7 @@ Body:
     Name: "Costume Geek Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 27
     Locations:
       Costume_Head_Mid: true
@@ -414,6 +454,7 @@ Body:
     Name: "Costume Big Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 28
     Locations:
       Costume_Head_Top: true
@@ -422,6 +463,7 @@ Body:
     Name: "Costume Sweet Gent"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 29
     Locations:
       Costume_Head_Top: true
@@ -430,6 +472,7 @@ Body:
     Name: "Costume Golden Gear"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 30
     Locations:
       Costume_Head_Top: true
@@ -438,6 +481,7 @@ Body:
     Name: "Costume Romantic Gent"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 31
     Locations:
       Costume_Head_Top: true
@@ -446,6 +490,7 @@ Body:
     Name: "Costume Western Grace"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 32
     Locations:
       Costume_Head_Top: true
@@ -454,6 +499,7 @@ Body:
     Name: "Costume Coronet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 33
     Locations:
       Costume_Head_Top: true
@@ -462,6 +508,7 @@ Body:
     Name: "Costume Cute Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 34
     Locations:
       Costume_Head_Top: true
@@ -470,6 +517,7 @@ Body:
     Name: "Costume Monk Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 35
     Locations:
       Costume_Head_Top: true
@@ -478,6 +526,7 @@ Body:
     Name: "Costume Wizard Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 36
     Locations:
       Costume_Head_Top: true
@@ -486,6 +535,7 @@ Body:
     Name: "Costume Sunflower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 37
     Locations:
       Costume_Head_Top: true
@@ -494,6 +544,7 @@ Body:
     Name: "Costume Angel Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 38
     Locations:
       Costume_Head_Top: true
@@ -502,6 +553,7 @@ Body:
     Name: "Costume Evil Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 39
     Locations:
       Costume_Head_Top: true
@@ -510,6 +562,7 @@ Body:
     Name: "Costume Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 41
     Locations:
       Costume_Head_Top: true
@@ -518,6 +571,7 @@ Body:
     Name: "Costume Unicorn Horn"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 42
     Locations:
       Costume_Head_Top: true
@@ -526,6 +580,7 @@ Body:
     Name: "Costume Spiky Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 43
     Locations:
       Costume_Head_Top: true
@@ -534,6 +589,7 @@ Body:
     Name: "Costume Mini Propeller"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 46
     Locations:
       Costume_Head_Top: true
@@ -542,6 +598,7 @@ Body:
     Name: "Costume Mini Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 47
     Locations:
       Costume_Head_Mid: true
@@ -550,6 +607,7 @@ Body:
     Name: "Costume Army Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 48
     Locations:
       Costume_Head_Top: true
@@ -558,6 +616,7 @@ Body:
     Name: "Costume Clown Nose"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 49
     Locations:
       Costume_Head_Low: true
@@ -566,6 +625,7 @@ Body:
     Name: "Costume Zorro Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 50
     Locations:
       Costume_Head_Mid: true
@@ -574,6 +634,7 @@ Body:
     Name: "Costume Munak Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 51
     Locations:
       Costume_Head_Low: true
@@ -584,6 +645,7 @@ Body:
     Name: "Costume Gangster Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 52
     Locations:
       Costume_Head_Low: true
@@ -592,6 +654,7 @@ Body:
     Name: "Costume Iron Cain"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 53
     Locations:
       Costume_Head_Low: true
@@ -600,6 +663,7 @@ Body:
     Name: "Costume Cigarette"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 54
     Locations:
       Costume_Head_Low: true
@@ -608,6 +672,7 @@ Body:
     Name: "Costume Pipe"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 55
     Locations:
       Costume_Head_Low: true
@@ -616,6 +681,7 @@ Body:
     Name: "Costume Romantic Flower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 56
     Locations:
       Costume_Head_Low: true
@@ -624,6 +690,7 @@ Body:
     Name: "Costume Romantic Leaf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 57
     Locations:
       Costume_Head_Low: true
@@ -632,6 +699,7 @@ Body:
     Name: "Costume Jack be Dandy"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 58
     Locations:
       Costume_Head_Top: true
@@ -640,6 +708,7 @@ Body:
     Name: "Costume Stop Post"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 59
     Locations:
       Costume_Head_Top: true
@@ -648,6 +717,7 @@ Body:
     Name: "Costume Doctor Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 60
     Locations:
       Costume_Head_Top: true
@@ -656,6 +726,7 @@ Body:
     Name: "Costume Ghost Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 61
     Locations:
       Costume_Head_Top: true
@@ -664,6 +735,7 @@ Body:
     Name: "Costume Red Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 62
     Locations:
       Costume_Head_Top: true
@@ -672,6 +744,7 @@ Body:
     Name: "Costume Eagle Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 63
     Locations:
       Costume_Head_Mid: true
@@ -680,6 +753,7 @@ Body:
     Name: "Costume Nurse Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 64
     Locations:
       Costume_Head_Top: true
@@ -688,6 +762,7 @@ Body:
     Name: "Costume Mr. Smile"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 65
     Locations:
       Costume_Head_Low: true
@@ -697,6 +772,7 @@ Body:
     Name: "Costume Bomb Wick"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 66
     Locations:
       Costume_Head_Top: true
@@ -705,6 +781,7 @@ Body:
     Name: "Costume Sakkat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 67
     Locations:
       Costume_Head_Top: true
@@ -713,6 +790,7 @@ Body:
     Name: "Costume Opera Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 68
     Locations:
       Costume_Head_Low: true
@@ -722,6 +800,7 @@ Body:
     Name: "Costume Halo"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 69
     Locations:
       Costume_Head_Top: true
@@ -730,6 +809,7 @@ Body:
     Name: "Costume Ear Muffs"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 70
     Locations:
       Costume_Head_Top: true
@@ -738,6 +818,7 @@ Body:
     Name: "Costume Antlers"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 71
     Locations:
       Costume_Head_Top: true
@@ -746,6 +827,7 @@ Body:
     Name: "Costume Apple of Archer"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 72
     Locations:
       Costume_Head_Top: true
@@ -754,6 +836,7 @@ Body:
     Name: "Costume Elven Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 73
     Locations:
       Costume_Head_Mid: true
@@ -762,6 +845,7 @@ Body:
     Name: "Costume Pirate Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 74
     Locations:
       Costume_Head_Top: true
@@ -770,6 +854,7 @@ Body:
     Name: "Costume Mr. Scream"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 75
     Locations:
       Costume_Head_Low: true
@@ -779,6 +864,7 @@ Body:
     Name: "Costume Poo Poo Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 76
     Locations:
       Costume_Head_Top: true
@@ -787,6 +873,7 @@ Body:
     Name: "Costume Funeral Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 77
     Locations:
       Costume_Head_Top: true
@@ -795,6 +882,7 @@ Body:
     Name: "Costume Butterfly Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 78
     Locations:
       Costume_Head_Mid: true
@@ -803,6 +891,7 @@ Body:
     Name: "Costume Welding Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 79
     Locations:
       Costume_Head_Low: true
@@ -812,6 +901,7 @@ Body:
     Name: "Costume Pretend Murdered"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 80
     Locations:
       Costume_Head_Top: true
@@ -820,6 +910,7 @@ Body:
     Name: "Costume Stellar"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 81
     Locations:
       Costume_Head_Top: true
@@ -828,6 +919,7 @@ Body:
     Name: "Costume Blinkers"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 82
     Locations:
       Costume_Head_Mid: true
@@ -836,6 +928,7 @@ Body:
     Name: "Costume Binoculars"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 83
     Locations:
       Costume_Head_Mid: true
@@ -844,6 +937,7 @@ Body:
     Name: "Costume Goblin Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 84
     Locations:
       Costume_Head_Low: true
@@ -853,6 +947,7 @@ Body:
     Name: "Costume Green Feeler"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 85
     Locations:
       Costume_Head_Top: true
@@ -861,6 +956,7 @@ Body:
     Name: "Costume Orc Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 86
     Locations:
       Costume_Head_Top: true
@@ -869,6 +965,7 @@ Body:
     Name: "Costume Elven Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 73
     Locations:
       Costume_Head_Mid: true
@@ -877,6 +974,7 @@ Body:
     Name: "Costume Steel Flower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 56
     Locations:
       Costume_Head_Low: true
@@ -885,6 +983,7 @@ Body:
     Name: "Costume Headset"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 87
     Locations:
       Costume_Head_Top: true
@@ -893,6 +992,7 @@ Body:
     Name: "Costume Jewel Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 88
     Locations:
       Costume_Head_Top: true
@@ -901,6 +1001,7 @@ Body:
     Name: "Costume Joker Jester"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 89
     Locations:
       Costume_Head_Top: true
@@ -909,6 +1010,7 @@ Body:
     Name: "Costume Oxygen Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 90
     Locations:
       Costume_Head_Low: true
@@ -917,6 +1019,7 @@ Body:
     Name: "Costume Gas Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 91
     Locations:
       Costume_Head_Low: true
@@ -926,6 +1029,7 @@ Body:
     Name: "Costume Machoman's Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 92
     Locations:
       Costume_Head_Mid: true
@@ -934,6 +1038,7 @@ Body:
     Name: "Costume Grand Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 93
     Locations:
       Costume_Head_Top: true
@@ -942,6 +1047,7 @@ Body:
     Name: "Costume Puppy Love"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 94
     Locations:
       Costume_Head_Top: true
@@ -950,6 +1056,7 @@ Body:
     Name: "Costume Safety Helmet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 95
     Locations:
       Costume_Head_Top: true
@@ -958,6 +1065,7 @@ Body:
     Name: "Costume Indian Fillet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 96
     Locations:
       Costume_Head_Top: true
@@ -966,6 +1074,7 @@ Body:
     Name: "Costume Antenna"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 97
     Locations:
       Costume_Head_Top: true
@@ -974,6 +1083,7 @@ Body:
     Name: "Costume Ph.D Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 98
     Locations:
       Costume_Head_Top: true
@@ -982,6 +1092,7 @@ Body:
     Name: "Costume Lord Kaho's Horn"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 99
     Locations:
       Costume_Head_Top: true
@@ -990,6 +1101,7 @@ Body:
     Name: "Costume Fin Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 100
     Locations:
       Costume_Head_Mid: true
@@ -998,6 +1110,7 @@ Body:
     Name: "Costume Egg Shell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 101
     Locations:
       Costume_Head_Top: true
@@ -1006,6 +1119,7 @@ Body:
     Name: "Costume Boy's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 102
     Locations:
       Costume_Head_Top: true
@@ -1014,6 +1128,7 @@ Body:
     Name: "Costume Bone Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 103
     Locations:
       Costume_Head_Top: true
@@ -1022,6 +1137,7 @@ Body:
     Name: "Costume Feather Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 104
     Locations:
       Costume_Head_Top: true
@@ -1030,6 +1146,7 @@ Body:
     Name: "Costume Corsair"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 105
     Locations:
       Costume_Head_Top: true
@@ -1038,6 +1155,7 @@ Body:
     Name: "Costume Kafra Headband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 106
     Locations:
       Costume_Head_Top: true
@@ -1046,6 +1164,7 @@ Body:
     Name: "Costume Bankruptcy of Heart"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 107
     Locations:
       Costume_Head_Top: true
@@ -1054,6 +1173,7 @@ Body:
     Name: "Costume Hat of the Sun God"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 138
     Locations:
       Costume_Head_Mid: true
@@ -1063,6 +1183,7 @@ Body:
     Name: "Costume Parcel Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 108
     Locations:
       Costume_Head_Top: true
@@ -1071,6 +1192,7 @@ Body:
     Name: "Costume Cake Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 109
     Locations:
       Costume_Head_Top: true
@@ -1079,6 +1201,7 @@ Body:
     Name: "Costume Helm of Angel"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 110
     Locations:
       Costume_Head_Top: true
@@ -1087,6 +1210,7 @@ Body:
     Name: "Costume Chef Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 111
     Locations:
       Costume_Head_Top: true
@@ -1095,6 +1219,7 @@ Body:
     Name: "Costume Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 112
     Locations:
       Costume_Head_Top: true
@@ -1103,6 +1228,7 @@ Body:
     Name: "Costume Candle"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 113
     Locations:
       Costume_Head_Top: true
@@ -1111,6 +1237,7 @@ Body:
     Name: "Costume Spore Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 114
     Locations:
       Costume_Head_Top: true
@@ -1119,6 +1246,7 @@ Body:
     Name: "Costume Panda Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 115
     Locations:
       Costume_Head_Top: true
@@ -1127,6 +1255,7 @@ Body:
     Name: "Costume Mine Helmet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 116
     Locations:
       Costume_Head_Top: true
@@ -1135,6 +1264,7 @@ Body:
     Name: "Costume Sunday Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 117
     Locations:
       Costume_Head_Top: true
@@ -1143,6 +1273,7 @@ Body:
     Name: "Costume Raccoon Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 118
     Locations:
       Costume_Head_Top: true
@@ -1151,6 +1282,7 @@ Body:
     Name: "Costume Bulb Headband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 119
     Locations:
       Costume_Head_Top: true
@@ -1159,6 +1291,7 @@ Body:
     Name: "Costume Poring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 120
     Locations:
       Costume_Head_Top: true
@@ -1167,6 +1300,7 @@ Body:
     Name: "Costume Cross Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 121
     Locations:
       Costume_Head_Top: true
@@ -1175,6 +1309,7 @@ Body:
     Name: "Costume Nut Shell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 122
     Locations:
       Costume_Head_Top: true
@@ -1183,6 +1318,7 @@ Body:
     Name: "Costume Deviruchi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 123
     Locations:
       Costume_Head_Top: true
@@ -1191,6 +1327,7 @@ Body:
     Name: "Costume Rainbow Eggshell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 124
     Locations:
       Costume_Head_Top: true
@@ -1199,6 +1336,7 @@ Body:
     Name: "Costume Blush"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 125
     Locations:
       Costume_Head_Mid: true
@@ -1207,6 +1345,7 @@ Body:
     Name: "Costume Heart Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 126
     Locations:
       Costume_Head_Top: true
@@ -1215,6 +1354,7 @@ Body:
     Name: "Costume Bao Bao"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 127
     Locations:
       Costume_Head_Top: true
@@ -1223,6 +1363,7 @@ Body:
     Name: "Costume Opera Phantom Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 128
     Locations:
       Costume_Head_Mid: true
@@ -1231,6 +1372,7 @@ Body:
     Name: "Costume Evil Wing Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 129
     Locations:
       Costume_Head_Top: true
@@ -1239,6 +1381,7 @@ Body:
     Name: "Costume Magician Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 130
     Locations:
       Costume_Head_Top: true
@@ -1247,6 +1390,7 @@ Body:
     Name: "Costume Bongun Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 139
     Locations:
       Costume_Head_Low: true
@@ -1257,6 +1401,7 @@ Body:
     Name: "Costume Fashionable Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 131
     Locations:
       Costume_Head_Top: true
@@ -1265,6 +1410,7 @@ Body:
     Name: "Costume Cresent Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 132
     Locations:
       Costume_Head_Top: true
@@ -1273,6 +1419,7 @@ Body:
     Name: "Costume Striped Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 133
     Locations:
       Costume_Head_Top: true
@@ -1281,6 +1428,7 @@ Body:
     Name: "Costume Wonder Nutshell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 134
     Locations:
       Costume_Head_Top: true
@@ -1289,6 +1437,7 @@ Body:
     Name: "Costume Pussy Cat Bell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 135
     Locations:
       Costume_Head_Low: true
@@ -1297,6 +1446,7 @@ Body:
     Name: "Costume Blue Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 136
     Locations:
       Costume_Head_Top: true
@@ -1305,6 +1455,7 @@ Body:
     Name: "Costume Sphinx Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 137
     Locations:
       Costume_Head_Low: true
@@ -1314,6 +1465,7 @@ Body:
     Name: "Costume Assassin Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 180
     Locations:
       Costume_Head_Low: true
@@ -1322,6 +1474,7 @@ Body:
     Name: "Costume Novice False Eggshell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 101
     Locations:
       Costume_Head_Top: true
@@ -1330,6 +1483,7 @@ Body:
     Name: "Costume Fruit of Love"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 140
     Locations:
       Costume_Head_Top: true
@@ -1338,6 +1492,7 @@ Body:
     Name: "Costume Black Cat Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 141
     Locations:
       Costume_Head_Top: true
@@ -1346,6 +1501,7 @@ Body:
     Name: "Costume Drooping Cat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 142
     Locations:
       Costume_Head_Top: true
@@ -1354,6 +1510,7 @@ Body:
     Name: "Costume Teddybear Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 143
     Locations:
       Costume_Head_Top: true
@@ -1362,6 +1519,7 @@ Body:
     Name: "Costume Party Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 144
     Locations:
       Costume_Head_Top: true
@@ -1370,6 +1528,7 @@ Body:
     Name: "Costume Flower Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 145
     Locations:
       Costume_Head_Top: true
@@ -1378,6 +1537,7 @@ Body:
     Name: "Costume Straw Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 146
     Locations:
       Costume_Head_Top: true
@@ -1386,6 +1546,7 @@ Body:
     Name: "Costume Bandage"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 147
     Locations:
       Costume_Head_Top: true
@@ -1394,6 +1555,7 @@ Body:
     Name: "Costume Smokie Leaf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 148
     Locations:
       Costume_Head_Top: true
@@ -1402,6 +1564,7 @@ Body:
     Name: "Costume Blue Fish"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 149
     Locations:
       Costume_Head_Top: true
@@ -1410,6 +1573,7 @@ Body:
     Name: "Costume Succubus Horn"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 150
     Locations:
       Costume_Head_Top: true
@@ -1418,6 +1582,7 @@ Body:
     Name: "Costume Sombrero"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 151
     Locations:
       Costume_Head_Top: true
@@ -1426,6 +1591,7 @@ Body:
     Name: "Costume Evil Wing Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 152
     Locations:
       Costume_Head_Mid: true
@@ -1434,6 +1600,7 @@ Body:
     Name: "Costume Kitsune Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 153
     Locations:
       Costume_Head_Top: true
@@ -1442,6 +1609,7 @@ Body:
     Name: "Costume Hot-blooded Headband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 154
     Locations:
       Costume_Head_Top: true
@@ -1450,6 +1618,7 @@ Body:
     Name: "Costume Indian Headband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 155
     Locations:
       Costume_Head_Top: true
@@ -1458,6 +1627,7 @@ Body:
     Name: "Costume Incubus Horn"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 156
     Locations:
       Costume_Head_Top: true
@@ -1466,6 +1636,7 @@ Body:
     Name: "Costume Model Training Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 157
     Locations:
       Costume_Head_Top: true
@@ -1474,6 +1645,7 @@ Body:
     Name: "Costume Angel Wing Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 158
     Locations:
       Costume_Head_Mid: true
@@ -1482,6 +1654,7 @@ Body:
     Name: "Costume Cowboy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 159
     Locations:
       Costume_Head_Top: true
@@ -1490,6 +1663,7 @@ Body:
     Name: "Costume Beanie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 160
     Locations:
       Costume_Head_Top: true
@@ -1498,6 +1672,7 @@ Body:
     Name: "Costume Tulip Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 161
     Locations:
       Costume_Head_Top: true
@@ -1506,6 +1681,7 @@ Body:
     Name: "Costume Sea-Otter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 162
     Locations:
       Costume_Head_Top: true
@@ -1514,6 +1690,7 @@ Body:
     Name: "Costume X Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 163
     Locations:
       Costume_Head_Top: true
@@ -1522,6 +1699,7 @@ Body:
     Name: "Costume Crown of Ancient Queen"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 164
     Locations:
       Costume_Head_Top: true
@@ -1530,6 +1708,7 @@ Body:
     Name: "Costume Crown of Mistress"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 165
     Locations:
       Costume_Head_Top: true
@@ -1538,6 +1717,7 @@ Body:
     Name: "Costume Decorative Mushroom"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 166
     Locations:
       Costume_Head_Top: true
@@ -1546,6 +1726,7 @@ Body:
     Name: "Costume Red Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 167
     Locations:
       Costume_Head_Top: true
@@ -1554,6 +1735,7 @@ Body:
     Name: "Costume Lazy Smokie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 168
     Locations:
       Costume_Head_Top: true
@@ -1562,6 +1744,7 @@ Body:
     Name: "Costume Small Ribbons"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 169
     Locations:
       Costume_Head_Mid: true
@@ -1570,6 +1753,7 @@ Body:
     Name: "Costume Alarm Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 170
     Locations:
       Costume_Head_Low: true
@@ -1579,6 +1763,7 @@ Body:
     Name: "Costume Poker Face"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 171
     Locations:
       Costume_Head_Low: true
@@ -1588,6 +1773,7 @@ Body:
     Name: "Costume Surprised Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 172
     Locations:
       Costume_Head_Low: true
@@ -1597,6 +1783,7 @@ Body:
     Name: "Costume Annoyed Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 173
     Locations:
       Costume_Head_Low: true
@@ -1606,6 +1793,7 @@ Body:
     Name: "Costume Goblin Leader Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 174
     Locations:
       Costume_Head_Low: true
@@ -1615,6 +1803,7 @@ Body:
     Name: "Costume Decorative Golden Bell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 175
     Locations:
       Costume_Head_Mid: true
@@ -1624,6 +1813,7 @@ Body:
     Name: "Costume Coif"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 176
     Locations:
       Costume_Head_Mid: true
@@ -1633,6 +1823,7 @@ Body:
     Name: "Costume Coif"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 177
     Locations:
       Costume_Head_Mid: true
@@ -1642,6 +1833,7 @@ Body:
     Name: "Costume Helmet of Orc Hero"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 178
     Locations:
       Costume_Head_Mid: true
@@ -1651,6 +1843,7 @@ Body:
     Name: "Costume Assassin Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 180
     Locations:
       Costume_Head_Low: true
@@ -1659,6 +1852,7 @@ Body:
     Name: "Costume Holiday Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 144
     Locations:
       Costume_Head_Top: true
@@ -1667,6 +1861,7 @@ Body:
     Name: "Costume Tiger Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 181
     Locations:
       Costume_Head_Mid: true
@@ -1676,6 +1871,7 @@ Body:
     Name: "Costume Neko Mimi"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 182
     Locations:
       Costume_Head_Top: true
@@ -1684,6 +1880,7 @@ Body:
     Name: "Costume Sales Banner"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 183
     Locations:
       Costume_Head_Top: true
@@ -1692,6 +1889,7 @@ Body:
     Name: "Costume Takius Blindfold"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 184
     Locations:
       Costume_Head_Mid: true
@@ -1700,6 +1898,7 @@ Body:
     Name: "Costume Blank Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 185
     Locations:
       Costume_Head_Mid: true
@@ -1708,6 +1907,7 @@ Body:
     Name: "Costume Sunflower Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 186
     Locations:
       Costume_Head_Top: true
@@ -1716,6 +1916,7 @@ Body:
     Name: "Costume Dark Blinkers"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 187
     Locations:
       Costume_Head_Mid: true
@@ -1724,6 +1925,7 @@ Body:
     Name: "Costume 2nd Anniversary Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 109
     Locations:
       Costume_Head_Top: true
@@ -1732,6 +1934,7 @@ Body:
     Name: "Costume G10 Anniversary Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 144
     Locations:
       Costume_Head_Top: true
@@ -1740,6 +1943,7 @@ Body:
     Name: "Costume Crunch Toast"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 188
     Locations:
       Costume_Head_Low: true
@@ -1748,6 +1952,7 @@ Body:
     Name: "Costume Renown Detective's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 189
     Locations:
       Costume_Head_Top: true
@@ -1756,6 +1961,7 @@ Body:
     Name: "Costume Red Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 190
     Locations:
       Costume_Head_Top: true
@@ -1764,6 +1970,7 @@ Body:
     Name: "Costume Baby Pacifier"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 191
     Locations:
       Costume_Head_Low: true
@@ -1772,6 +1979,7 @@ Body:
     Name: "Costume Galapago Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 192
     Locations:
       Costume_Head_Top: true
@@ -1780,6 +1988,7 @@ Body:
     Name: "Costume Super Novice Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 193
     Locations:
       Costume_Head_Top: true
@@ -1788,6 +1997,7 @@ Body:
     Name: "Costume Angry Snarl"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 194
     Locations:
       Costume_Head_Low: true
@@ -1796,6 +2006,7 @@ Body:
     Name: "Costume Bucket Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 195
     Locations:
       Costume_Head_Top: true
@@ -1804,6 +2015,7 @@ Body:
     Name: "Costume Winter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 196
     Locations:
       Costume_Head_Top: true
@@ -1812,6 +2024,7 @@ Body:
     Name: "Costume Banana Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 197
     Locations:
       Costume_Head_Top: true
@@ -1820,6 +2033,7 @@ Body:
     Name: "Costume Mystic Rose"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 198
     Locations:
       Costume_Head_Top: true
@@ -1828,6 +2042,7 @@ Body:
     Name: "Costume Puppy Headband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 199
     Locations:
       Costume_Head_Top: true
@@ -1836,6 +2051,7 @@ Body:
     Name: "Costume Super Novice Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 193
     Locations:
       Costume_Head_Top: true
@@ -1844,6 +2060,7 @@ Body:
     Name: "Costume Bucket Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 195
     Locations:
       Costume_Head_Top: true
@@ -1852,6 +2069,7 @@ Body:
     Name: "Costume Zealotus Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 200
     Locations:
       Costume_Head_Mid: true
@@ -1861,6 +2079,7 @@ Body:
     Name: "Costume Magni's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 250
     Locations:
       Costume_Head_Top: true
@@ -1869,6 +2088,7 @@ Body:
     Name: "Costume Ulle's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 254
     Locations:
       Costume_Head_Top: true
@@ -1877,6 +2097,7 @@ Body:
     Name: "Costume Fricca's Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 251
     Locations:
       Costume_Head_Top: true
@@ -1885,6 +2106,7 @@ Body:
     Name: "Costume Angel's Kiss"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 255
     Locations:
       Costume_Head_Top: true
@@ -1893,6 +2115,7 @@ Body:
     Name: "Costume Morpheus's Hood"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 256
     Locations:
       Costume_Head_Top: true
@@ -1901,6 +2124,7 @@ Body:
     Name: "Costume Morrigane's Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 257
     Locations:
       Costume_Head_Top: true
@@ -1909,6 +2133,7 @@ Body:
     Name: "Costume Goibne's Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 258
     Locations:
       Costume_Head_Top: true
@@ -1917,6 +2142,7 @@ Body:
     Name: "Costume Bird Nest"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 201
     Locations:
       Costume_Head_Top: true
@@ -1925,6 +2151,7 @@ Body:
     Name: "Costume Lion Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 202
     Locations:
       Costume_Head_Mid: true
@@ -1934,6 +2161,7 @@ Body:
     Name: "Costume Close Helmet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 203
     Locations:
       Costume_Head_Low: true
@@ -1944,6 +2172,7 @@ Body:
     Name: "Costume Angelring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 204
     Locations:
       Costume_Head_Top: true
@@ -1952,6 +2181,7 @@ Body:
     Name: "Costume Sheep Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 205
     Locations:
       Costume_Head_Top: true
@@ -1960,6 +2190,7 @@ Body:
     Name: "Costume Pumpkin-Head"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 206
     Locations:
       Costume_Head_Top: true
@@ -1968,6 +2199,7 @@ Body:
     Name: "Costume Cyclop's Eye"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 207
     Locations:
       Costume_Head_Mid: true
@@ -1976,6 +2208,7 @@ Body:
     Name: "Costume Antonio's Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 20
     Locations:
       Costume_Head_Top: true
@@ -1984,6 +2217,7 @@ Body:
     Name: "Costume Alice Doll"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 208
     Locations:
       Costume_Head_Top: true
@@ -1992,6 +2226,7 @@ Body:
     Name: "Costume Magic Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 209
     Locations:
       Costume_Head_Top: true
@@ -2000,6 +2235,7 @@ Body:
     Name: "Costume Hibiscus"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 210
     Locations:
       Costume_Head_Top: true
@@ -2008,6 +2244,7 @@ Body:
     Name: "Costume Charming Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 211
     Locations:
       Costume_Head_Top: true
@@ -2016,6 +2253,7 @@ Body:
     Name: "Costume Marionette Doll"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 212
     Locations:
       Costume_Head_Top: true
@@ -2024,6 +2262,7 @@ Body:
     Name: "Costume Crescent Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 213
     Locations:
       Costume_Head_Mid: true
@@ -2033,6 +2272,7 @@ Body:
     Name: "Costume Kabuki Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 214
     Locations:
       Costume_Head_Low: true
@@ -2043,6 +2283,7 @@ Body:
     Name: "Costume Gambler Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 16
     Locations:
       Costume_Head_Top: true
@@ -2051,6 +2292,7 @@ Body:
     Name: "Costume Carnival Joker Jester"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 89
     Locations:
       Costume_Head_Top: true
@@ -2059,6 +2301,7 @@ Body:
     Name: "Costume Elephant Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 215
     Locations:
       Costume_Head_Top: true
@@ -2067,6 +2310,7 @@ Body:
     Name: "Costume Baseball Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 216
     Locations:
       Costume_Head_Top: true
@@ -2075,6 +2319,7 @@ Body:
     Name: "Costume Phrygian Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 217
     Locations:
       Costume_Head_Top: true
@@ -2083,6 +2328,7 @@ Body:
     Name: "Costume Silver Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 218
     Locations:
       Costume_Head_Top: true
@@ -2091,6 +2337,7 @@ Body:
     Name: "Costume Joker Jester"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 219
     Locations:
       Costume_Head_Top: true
@@ -2099,6 +2346,7 @@ Body:
     Name: "Costume Note Headphone"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 220
     Locations:
       Costume_Head_Mid: true
@@ -2108,6 +2356,7 @@ Body:
     Name: "Costume Chinese Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 221
     Locations:
       Costume_Head_Mid: true
@@ -2117,6 +2366,7 @@ Body:
     Name: "Costume Angelring Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 222
     Locations:
       Costume_Head_Top: true
@@ -2125,6 +2375,7 @@ Body:
     Name: "Costume Father's Sunglasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 12
     Locations:
       Costume_Head_Mid: true
@@ -2133,6 +2384,7 @@ Body:
     Name: "Costume Father's White Moustache"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 25
     Locations:
       Costume_Head_Low: true
@@ -2141,6 +2393,7 @@ Body:
     Name: "Costume Father's Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 8
     Locations:
       Costume_Head_Low: true
@@ -2149,6 +2402,7 @@ Body:
     Name: "Costume Orc Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 86
     Locations:
       Costume_Head_Top: true
@@ -2157,6 +2411,7 @@ Body:
     Name: "Costume Monk Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 35
     Locations:
       Costume_Head_Top: true
@@ -2165,6 +2420,7 @@ Body:
     Name: "Costume Golden Gear"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 30
     Locations:
       Costume_Head_Top: true
@@ -2173,6 +2429,7 @@ Body:
     Name: "Costume Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 41
     Locations:
       Costume_Head_Top: true
@@ -2181,6 +2438,7 @@ Body:
     Name: "Costume Spiky Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 43
     Locations:
       Costume_Head_Top: true
@@ -2189,6 +2447,7 @@ Body:
     Name: "Costume Bone Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 103
     Locations:
       Costume_Head_Top: true
@@ -2197,6 +2456,7 @@ Body:
     Name: "Costume Corsair"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 105
     Locations:
       Costume_Head_Top: true
@@ -2205,6 +2465,7 @@ Body:
     Name: "Costume Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 19
     Locations:
       Costume_Head_Top: true
@@ -2213,6 +2474,7 @@ Body:
     Name: "Costume Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 45
     Locations:
       Costume_Head_Top: true
@@ -2221,6 +2483,7 @@ Body:
     Name: "Costume Sphinx Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 137
     Locations:
       Costume_Head_Low: true
@@ -2230,6 +2493,7 @@ Body:
     Name: "Costume Munak Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 51
     Locations:
       Costume_Head_Low: true
@@ -2240,6 +2504,7 @@ Body:
     Name: "Costume Bongun Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 139
     Locations:
       Costume_Head_Low: true
@@ -2250,6 +2515,7 @@ Body:
     Name: "Costume Bride Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 223
     Locations:
       Costume_Head_Mid: true
@@ -2259,6 +2525,7 @@ Body:
     Name: "Costume Feather Beret"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 224
     Locations:
       Costume_Head_Top: true
@@ -2267,6 +2534,7 @@ Body:
     Name: "Costume Valkyrie Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 225
     Locations:
       Costume_Head_Top: true
@@ -2275,6 +2543,7 @@ Body:
     Name: "Costume Beret"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 226
     Locations:
       Costume_Head_Top: true
@@ -2283,6 +2552,7 @@ Body:
     Name: "Costume Magistrate Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 227
     Locations:
       Costume_Head_Top: true
@@ -2291,6 +2561,7 @@ Body:
     Name: "Costume Ayam"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 228
     Locations:
       Costume_Head_Top: true
@@ -2299,6 +2570,7 @@ Body:
     Name: "Costume Censor Bar"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 229
     Locations:
       Costume_Head_Mid: true
@@ -2307,6 +2579,7 @@ Body:
     Name: "Costume Hahoe Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 230
     Locations:
       Costume_Head_Low: true
@@ -2316,6 +2589,7 @@ Body:
     Name: "Costume Mythical Lion Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 231
     Locations:
       Costume_Head_Mid: true
@@ -2325,6 +2599,7 @@ Body:
     Name: "Costume Candle"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 113
     Locations:
       Costume_Head_Top: true
@@ -2333,6 +2608,7 @@ Body:
     Name: "Costume Golden Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 232
     Locations:
       Costume_Head_Top: true
@@ -2341,6 +2617,7 @@ Body:
     Name: "Costume Holiday Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 217
     Locations:
       Costume_Head_Top: true
@@ -2349,6 +2626,7 @@ Body:
     Name: "Costume Helm of Darkness"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 233
     Locations:
       Costume_Head_Mid: true
@@ -2358,6 +2636,7 @@ Body:
     Name: "Costume Puppy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 234
     Locations:
       Costume_Head_Top: true
@@ -2366,6 +2645,7 @@ Body:
     Name: "Costume Bird Nest Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 235
     Locations:
       Costume_Head_Top: true
@@ -2374,6 +2654,7 @@ Body:
     Name: "Costume Captain's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 236
     Locations:
       Costume_Head_Top: true
@@ -2382,6 +2663,7 @@ Body:
     Name: "Costume Laurel Wreath"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 237
     Locations:
       Costume_Head_Top: true
@@ -2390,6 +2672,7 @@ Body:
     Name: "Costume Geographer Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 238
     Locations:
       Costume_Head_Top: true
@@ -2398,6 +2681,7 @@ Body:
     Name: "Costume Twin Red Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 239
     Locations:
       Costume_Head_Top: true
@@ -2406,6 +2690,7 @@ Body:
     Name: "Costume Creative Convention Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 240
     Locations:
       Costume_Head_Top: true
@@ -2414,6 +2699,7 @@ Body:
     Name: "Costume Autumn Leaves"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 241
     Locations:
       Costume_Head_Top: true
@@ -2422,6 +2708,7 @@ Body:
     Name: "Costume Independence Memorial Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 216
     Locations:
       Costume_Head_Top: true
@@ -2430,6 +2717,7 @@ Body:
     Name: "Costume Black Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 242
     Locations:
       Costume_Head_Top: true
@@ -2438,6 +2726,7 @@ Body:
     Name: "Costume Yellow Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 243
     Locations:
       Costume_Head_Top: true
@@ -2446,6 +2735,7 @@ Body:
     Name: "Costume Green Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 244
     Locations:
       Costume_Head_Top: true
@@ -2454,6 +2744,7 @@ Body:
     Name: "Costume Pink Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 245
     Locations:
       Costume_Head_Top: true
@@ -2462,6 +2753,7 @@ Body:
     Name: "Costume Red Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 246
     Locations:
       Costume_Head_Top: true
@@ -2470,6 +2762,7 @@ Body:
     Name: "Costume Orange Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 247
     Locations:
       Costume_Head_Top: true
@@ -2478,6 +2771,7 @@ Body:
     Name: "Costume White Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 248
     Locations:
       Costume_Head_Top: true
@@ -2486,6 +2780,7 @@ Body:
     Name: "Costume Evolved Drooping Bunny"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 249
     Locations:
       Costume_Head_Top: true
@@ -2494,6 +2789,7 @@ Body:
     Name: "Costume Baseball Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 216
     Locations:
       Costume_Head_Top: true
@@ -2502,6 +2798,7 @@ Body:
     Name: "Costume Coppola"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 252
     Locations:
       Costume_Head_Top: true
@@ -2510,6 +2807,7 @@ Body:
     Name: "Costume Party Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 144
     Locations:
       Costume_Head_Top: true
@@ -2518,6 +2816,7 @@ Body:
     Name: "Costume Fantastic Pumpkin-Head"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 206
     Locations:
       Costume_Head_Top: true
@@ -2526,6 +2825,7 @@ Body:
     Name: "Costume Smiling Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 253
     Locations:
       Costume_Head_Low: true
@@ -2535,6 +2835,7 @@ Body:
     Name: "Costume Rudolph's Nose"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 49
     Locations:
       Costume_Head_Low: true
@@ -2543,6 +2844,7 @@ Body:
     Name: "Costume Emperor's Laurel Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 261
     Locations:
       Costume_Head_Mid: true
@@ -2552,6 +2854,7 @@ Body:
     Name: "Costume Romantic White Flower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 259
     Locations:
       Costume_Head_Low: true
@@ -2560,6 +2863,7 @@ Body:
     Name: "Costume Angel Blessing"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 260
     Locations:
       Costume_Head_Top: true
@@ -2568,6 +2872,7 @@ Body:
     Name: "Costume Rideword Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 262
     Locations:
       Costume_Head_Top: true
@@ -2576,6 +2881,7 @@ Body:
     Name: "Costume Yellow Baseball Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 263
     Locations:
       Costume_Head_Top: true
@@ -2584,6 +2890,7 @@ Body:
     Name: "Costume Flapping Angel Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 264
     Locations:
       Costume_Head_Top: true
@@ -2592,6 +2899,7 @@ Body:
     Name: "Costume Dress Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 265
     Locations:
       Costume_Head_Top: true
@@ -2600,6 +2908,7 @@ Body:
     Name: "Costume Satellite Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 266
     Locations:
       Costume_Head_Top: true
@@ -2608,6 +2917,7 @@ Body:
     Name: "Costume Black Bunny Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 267
     Locations:
       Costume_Head_Top: true
@@ -2616,6 +2926,7 @@ Body:
     Name: "Costume Moonlight Flower Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 268
     Locations:
       Costume_Head_Mid: true
@@ -2625,6 +2936,7 @@ Body:
     Name: "Costume Evolved Angel Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 38
     Locations:
       Costume_Head_Top: true
@@ -2633,6 +2945,7 @@ Body:
     Name: "Costume Evolved Evil Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 39
     Locations:
       Costume_Head_Top: true
@@ -2641,6 +2954,7 @@ Body:
     Name: "Costume Evolved Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 41
     Locations:
       Costume_Head_Top: true
@@ -2649,6 +2963,7 @@ Body:
     Name: "Costume Evolved Bunny Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 15
     Locations:
       Costume_Head_Top: true
@@ -2657,6 +2972,7 @@ Body:
     Name: "Costume Evolved Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 142
     Locations:
       Costume_Head_Top: true
@@ -2665,6 +2981,7 @@ Body:
     Name: "Costume Evolved Pipe"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 55
     Locations:
       Costume_Head_Low: true
@@ -2673,6 +2990,7 @@ Body:
     Name: "Costume Evolved Pair of Red Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 169
     Locations:
       Costume_Head_Mid: true
@@ -2681,6 +2999,7 @@ Body:
     Name: "Costume Evolved Blue Fish"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 149
     Locations:
       Costume_Head_Top: true
@@ -2689,6 +3008,7 @@ Body:
     Name: "Costume Evolved Big Golden Bell"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 175
     Locations:
       Costume_Head_Mid: true
@@ -2698,6 +3018,7 @@ Body:
     Name: "Costume Evolved Orc Hero Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 178
     Locations:
       Costume_Head_Mid: true
@@ -2707,6 +3028,7 @@ Body:
     Name: "Costume Holy Marcher Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 269
     Locations:
       Costume_Head_Top: true
@@ -2715,6 +3037,7 @@ Body:
     Name: "Costume Mini Propeller"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 270
     Locations:
       Costume_Head_Top: true
@@ -2723,6 +3046,7 @@ Body:
     Name: "Costume Red Deviruchi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 271
     Locations:
       Costume_Head_Top: true
@@ -2731,6 +3055,7 @@ Body:
     Name: "Costume Gray Deviruchi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 272
     Locations:
       Costume_Head_Top: true
@@ -2739,6 +3064,7 @@ Body:
     Name: "Costume Brown Deviruchi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 273
     Locations:
       Costume_Head_Top: true
@@ -2747,6 +3073,7 @@ Body:
     Name: "Costume Gray Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 274
     Locations:
       Costume_Head_Top: true
@@ -2755,6 +3082,7 @@ Body:
     Name: "Costume Brown Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 275
     Locations:
       Costume_Head_Top: true
@@ -2763,6 +3091,7 @@ Body:
     Name: "Costume Pink Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 276
     Locations:
       Costume_Head_Top: true
@@ -2771,6 +3100,7 @@ Body:
     Name: "Costume Blue Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 277
     Locations:
       Costume_Head_Top: true
@@ -2779,6 +3109,7 @@ Body:
     Name: "Costume Yellow Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 278
     Locations:
       Costume_Head_Top: true
@@ -2787,6 +3118,7 @@ Body:
     Name: "Costume Brown Beanie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 279
     Locations:
       Costume_Head_Top: true
@@ -2795,6 +3127,7 @@ Body:
     Name: "Costume Blue Beanie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 280
     Locations:
       Costume_Head_Top: true
@@ -2803,6 +3136,7 @@ Body:
     Name: "Costume Pink Beanie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 281
     Locations:
       Costume_Head_Top: true
@@ -2811,6 +3145,7 @@ Body:
     Name: "Costume Red Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 282
     Locations:
       Costume_Head_Top: true
@@ -2819,6 +3154,7 @@ Body:
     Name: "Costume Gray Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 283
     Locations:
       Costume_Head_Top: true
@@ -2827,6 +3163,7 @@ Body:
     Name: "Costume Brown Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 284
     Locations:
       Costume_Head_Top: true
@@ -2835,6 +3172,7 @@ Body:
     Name: "Costume Blue Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 285
     Locations:
       Costume_Head_Top: true
@@ -2843,6 +3181,7 @@ Body:
     Name: "Costume Yellow Mage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 286
     Locations:
       Costume_Head_Top: true
@@ -2851,6 +3190,7 @@ Body:
     Name: "Costume Shafka"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 287
     Locations:
       Costume_Head_Mid: true
@@ -2860,6 +3200,7 @@ Body:
     Name: "Costume Elven Blindfold"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 288
     Locations:
       Costume_Head_Mid: true
@@ -2868,6 +3209,7 @@ Body:
     Name: "Costume Elven Sunglasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 289
     Locations:
       Costume_Head_Mid: true
@@ -2876,6 +3218,7 @@ Body:
     Name: "Costume Angelic Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 290
     Locations:
       Costume_Head_Top: true
@@ -2884,6 +3227,7 @@ Body:
     Name: "Costume Satanic Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 291
     Locations:
       Costume_Head_Top: true
@@ -2892,6 +3236,7 @@ Body:
     Name: "Costume Robotic Blindfold"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 292
     Locations:
       Costume_Head_Mid: true
@@ -2900,6 +3245,7 @@ Body:
     Name: "Costume Human Blindfold"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 293
     Locations:
       Costume_Head_Mid: true
@@ -2908,6 +3254,7 @@ Body:
     Name: "Costume Robotic Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 294
     Locations:
       Costume_Head_Mid: true
@@ -2916,6 +3263,7 @@ Body:
     Name: "Costume Round Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 295
     Locations:
       Costume_Head_Mid: true
@@ -2924,6 +3272,7 @@ Body:
     Name: "Costume Drooping Ninetail"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 296
     Locations:
       Costume_Head_Top: true
@@ -2932,6 +3281,7 @@ Body:
     Name: "Costume Lif Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 297
     Locations:
       Costume_Head_Top: true
@@ -2940,6 +3290,7 @@ Body:
     Name: "Costume Devilring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 298
     Locations:
       Costume_Head_Top: true
@@ -2948,6 +3299,7 @@ Body:
     Name: "Costume Triple Poring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 299
     Locations:
       Costume_Head_Top: true
@@ -2956,6 +3308,7 @@ Body:
     Name: "Costume Valkyrie Feather Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 300
     Locations:
       Costume_Head_Top: true
@@ -2964,6 +3317,7 @@ Body:
     Name: "Costume Soulless Ring"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 301
     Locations:
       Costume_Head_Top: true
@@ -2972,6 +3326,7 @@ Body:
     Name: "Costume Afro Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 302
     Locations:
       Costume_Head_Mid: true
@@ -2981,6 +3336,7 @@ Body:
     Name: "Costume Elephant Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 215
     Locations:
       Costume_Head_Top: true
@@ -2989,6 +3345,7 @@ Body:
     Name: "Costume Cookie Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 217
     Locations:
       Costume_Head_Top: true
@@ -2997,6 +3354,7 @@ Body:
     Name: "Costume Silver Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 218
     Locations:
       Costume_Head_Top: true
@@ -3005,6 +3363,7 @@ Body:
     Name: "Costume Golden Tiara"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 232
     Locations:
       Costume_Head_Top: true
@@ -3013,6 +3372,7 @@ Body:
     Name: "Costume Pagdayaw"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 303
     Locations:
       Costume_Head_Low: true
@@ -3023,6 +3383,7 @@ Body:
     Name: "Costume Australian Flag Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 304
     Locations:
       Costume_Head_Top: true
@@ -3031,6 +3392,7 @@ Body:
     Name: "Costume Apple of Archer"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 72
     Locations:
       Costume_Head_Top: true
@@ -3039,6 +3401,7 @@ Body:
     Name: "Costume Bunny Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 15
     Locations:
       Costume_Head_Top: true
@@ -3047,6 +3410,7 @@ Body:
     Name: "Costume Sakkat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 67
     Locations:
       Costume_Head_Top: true
@@ -3055,6 +3419,7 @@ Body:
     Name: "Costume Grand Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 93
     Locations:
       Costume_Head_Top: true
@@ -3063,6 +3428,7 @@ Body:
     Name: "Costume Flapping Angel Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 264
     Locations:
       Costume_Head_Top: true
@@ -3071,6 +3437,7 @@ Body:
     Name: "Costume Autumn Leaves"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 241
     Locations:
       Costume_Head_Top: true
@@ -3079,6 +3446,7 @@ Body:
     Name: "Costume Phoenix Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 221
     Locations:
       Costume_Head_Mid: true
@@ -3088,6 +3456,7 @@ Body:
     Name: "Costume Tongue Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 253
     Locations:
       Costume_Head_Low: true
@@ -3097,6 +3466,7 @@ Body:
     Name: "Costume Happy Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 305
     Locations:
       Costume_Head_Mid: true
@@ -3106,6 +3476,7 @@ Body:
     Name: "Costume Shiny Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 306
     Locations:
       Costume_Head_Mid: true
@@ -3115,6 +3486,7 @@ Body:
     Name: "Costume Marvelous Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 307
     Locations:
       Costume_Head_Mid: true
@@ -3124,6 +3496,7 @@ Body:
     Name: "Costume Fantastic Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 308
     Locations:
       Costume_Head_Mid: true
@@ -3133,6 +3506,7 @@ Body:
     Name: "Costume Yellow Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 309
     Locations:
       Costume_Head_Top: true
@@ -3141,6 +3515,7 @@ Body:
     Name: "Costume Yellow Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 310
     Locations:
       Costume_Head_Top: true
@@ -3149,6 +3524,7 @@ Body:
     Name: "Costume Refined Drooping Cat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 142
     Locations:
       Costume_Head_Top: true
@@ -3157,6 +3533,7 @@ Body:
     Name: "Costume Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 41
     Locations:
       Costume_Head_Top: true
@@ -3165,6 +3542,7 @@ Body:
     Name: "Costume Refined Deviruchi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 123
     Locations:
       Costume_Head_Top: true
@@ -3173,6 +3551,7 @@ Body:
     Name: "Costume Baseball Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 216
     Locations:
       Costume_Head_Top: true
@@ -3181,6 +3560,7 @@ Body:
     Name: "Costume Chick Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 311
     Locations:
       Costume_Head_Top: true
@@ -3189,6 +3569,7 @@ Body:
     Name: "Costume Water Lily Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 312
     Locations:
       Costume_Head_Top: true
@@ -3197,6 +3578,7 @@ Body:
     Name: "Costume Vane Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 313
     Locations:
       Costume_Head_Top: true
@@ -3205,6 +3587,7 @@ Body:
     Name: "Costume Pecopeco Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 314
     Locations:
       Costume_Head_Top: true
@@ -3213,6 +3596,7 @@ Body:
     Name: "Costume Vacation Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 315
     Locations:
       Costume_Head_Top: true
@@ -3221,6 +3605,7 @@ Body:
     Name: "Costume Red Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 316
     Locations:
       Costume_Head_Mid: true
@@ -3229,6 +3614,7 @@ Body:
     Name: "Costume Vanilmirth Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 317
     Locations:
       Costume_Head_Top: true
@@ -3237,6 +3623,7 @@ Body:
     Name: "Costume Drooping Bunny"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 249
     Locations:
       Costume_Head_Top: true
@@ -3245,6 +3632,7 @@ Body:
     Name: "Costume Kettle Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 318
     Locations:
       Costume_Head_Top: true
@@ -3253,6 +3641,7 @@ Body:
     Name: "Costume Dragon Skull"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 319
     Locations:
       Costume_Head_Top: true
@@ -3261,6 +3650,7 @@ Body:
     Name: "Costume Ramen Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 320
     Locations:
       Costume_Head_Top: true
@@ -3269,6 +3659,7 @@ Body:
     Name: "Costume Whisper Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 321
     Locations:
       Costume_Head_Low: true
@@ -3279,6 +3670,7 @@ Body:
     Name: "Costume Golden Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 138
     Locations:
       Costume_Head_Mid: true
@@ -3288,6 +3680,7 @@ Body:
     Name: "Costume Drooping Nine Tail"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 296
     Locations:
       Costume_Head_Top: true
@@ -3296,6 +3689,7 @@ Body:
     Name: "Costume Soul Wing"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 301
     Locations:
       Costume_Head_Top: true
@@ -3304,6 +3698,7 @@ Body:
     Name: "Costume Dokkaebi's Wig"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 307
     Locations:
       Costume_Head_Mid: true
@@ -3313,6 +3708,7 @@ Body:
     Name: "Costume Pagdayaw"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 303
     Locations:
       Costume_Head_Low: true
@@ -3323,6 +3719,7 @@ Body:
     Name: "Costume Bullock Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 322
     Locations:
       Costume_Head_Top: true
@@ -3331,6 +3728,7 @@ Body:
     Name: "Costume Victory Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 323
     Locations:
       Costume_Head_Top: true
@@ -3339,6 +3737,7 @@ Body:
     Name: "Costume Water Lily Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 324
     Locations:
       Costume_Head_Top: true
@@ -3347,6 +3746,7 @@ Body:
     Name: "Costume Flower Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 325
     Locations:
       Costume_Head_Top: true
@@ -3355,6 +3755,7 @@ Body:
     Name: "Costume Cap of Blindness"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 326
     Locations:
       Costume_Head_Low: true
@@ -3365,6 +3766,7 @@ Body:
     Name: "Costume Pirate Dagger"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 327
     Locations:
       Costume_Head_Low: true
@@ -3373,6 +3775,7 @@ Body:
     Name: "Costume Freya Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 328
     Locations:
       Costume_Head_Top: true
@@ -3381,6 +3784,7 @@ Body:
     Name: "Costume Tropical Fruit Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 329
     Locations:
       Costume_Head_Top: true
@@ -3389,6 +3793,7 @@ Body:
     Name: "Costume Brazilian Flag Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 330
     Locations:
       Costume_Head_Top: true
@@ -3397,6 +3802,7 @@ Body:
     Name: "Costume Mohawk Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 331
     Locations:
       Costume_Head_Low: true
@@ -3407,6 +3813,7 @@ Body:
     Name: "Costume Shining Electric Bulb Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 332
     Locations:
       Costume_Head_Top: true
@@ -3415,6 +3822,7 @@ Body:
     Name: "Costume Large Hisbiscus"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 333
     Locations:
       Costume_Head_Top: true
@@ -3423,6 +3831,7 @@ Body:
     Name: "Costume Ayothaya King's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 334
     Locations:
       Costume_Head_Top: true
@@ -3431,6 +3840,7 @@ Body:
     Name: "Costume Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 335
     Locations:
       Costume_Head_Mid: true
@@ -3440,6 +3850,7 @@ Body:
     Name: "Costume Hockey Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 336
     Locations:
       Costume_Head_Low: true
@@ -3449,6 +3860,7 @@ Body:
     Name: "Costume Observer"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 337
     Locations:
       Costume_Head_Mid: true
@@ -3457,6 +3869,7 @@ Body:
     Name: "Costume Umbrella Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 338
     Locations:
       Costume_Head_Top: true
@@ -3465,6 +3878,7 @@ Body:
     Name: "Costume Fisherman Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 339
     Locations:
       Costume_Head_Top: true
@@ -3473,6 +3887,7 @@ Body:
     Name: "Costume Poring Party Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 340
     Locations:
       Costume_Head_Top: true
@@ -3481,6 +3896,7 @@ Body:
     Name: "Costume Arc Angelring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 341
     Locations:
       Costume_Head_Top: true
@@ -3489,6 +3905,7 @@ Body:
     Name: "Costume Champion Wreath"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 261
     Locations:
       Costume_Head_Top: true
@@ -3497,6 +3914,7 @@ Body:
     Name: "Costume Indonesian Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 342
     Locations:
       Costume_Head_Top: true
@@ -3505,6 +3923,7 @@ Body:
     Name: "Costume Scarf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 343
     Locations:
       Costume_Head_Top: true
@@ -3513,6 +3932,7 @@ Body:
     Name: "Costume Mistress Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 165
     Locations:
       Costume_Head_Top: true
@@ -3521,6 +3941,7 @@ Body:
     Name: "Costume Little Angel Doll"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 344
     Locations:
       Costume_Head_Top: true
@@ -3529,6 +3950,7 @@ Body:
     Name: "Costume Robo Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 345
     Locations:
       Costume_Head_Mid: true
@@ -3537,6 +3959,7 @@ Body:
     Name: "Costume Butterfly Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 78
     Locations:
       Costume_Head_Mid: true
@@ -3545,6 +3968,7 @@ Body:
     Name: "Costume Refined Helmet of Orc Hero"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 178
     Locations:
       Costume_Head_Mid: true
@@ -3554,6 +3978,7 @@ Body:
     Name: "Costume Evil Wing Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 152
     Locations:
       Costume_Head_Mid: true
@@ -3562,6 +3987,7 @@ Body:
     Name: "Costume Dark Blinkers"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 187
     Locations:
       Costume_Head_Mid: true
@@ -3570,6 +3996,7 @@ Body:
     Name: "Costume Drooping Kitty"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 142
     Locations:
       Costume_Head_Top: true
@@ -3578,6 +4005,7 @@ Body:
     Name: "Costume Corsair"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 105
     Locations:
       Costume_Head_Top: true
@@ -3586,6 +4014,7 @@ Body:
     Name: "Costume Loki Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 346
     Locations:
       Costume_Head_Low: true
@@ -3595,6 +4024,7 @@ Body:
     Name: "Costume Radio Antenna"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 347
     Locations:
       Costume_Head_Top: true
@@ -3603,6 +4033,7 @@ Body:
     Name: "Costume Flapping Angelring"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 348
     Locations:
       Costume_Head_Top: true
@@ -3611,6 +4042,7 @@ Body:
     Name: "Costume Jumping Poring"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 349
     Locations:
       Costume_Head_Top: true
@@ -3619,6 +4051,7 @@ Body:
     Name: "Costume Guildsman Recruiter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 350
     Locations:
       Costume_Head_Top: true
@@ -3627,6 +4060,7 @@ Body:
     Name: "Costume Party Recruiter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 351
     Locations:
       Costume_Head_Top: true
@@ -3635,6 +4069,7 @@ Body:
     Name: "Costume Battlefield Recruiter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 352
     Locations:
       Costume_Head_Top: true
@@ -3643,6 +4078,7 @@ Body:
     Name: "Costume Friend Recruiter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 353
     Locations:
       Costume_Head_Top: true
@@ -3651,6 +4087,7 @@ Body:
     Name: "Costume Defolty Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 354
     Locations:
       Costume_Head_Top: true
@@ -3659,6 +4096,7 @@ Body:
     Name: "Costume Glaris Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 355
     Locations:
       Costume_Head_Top: true
@@ -3667,6 +4105,7 @@ Body:
     Name: "Costume Sorin Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 356
     Locations:
       Costume_Head_Top: true
@@ -3675,6 +4114,7 @@ Body:
     Name: "Costume Telling Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 357
     Locations:
       Costume_Head_Top: true
@@ -3683,6 +4123,7 @@ Body:
     Name: "Costume Bennit Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 358
     Locations:
       Costume_Head_Top: true
@@ -3691,6 +4132,7 @@ Body:
     Name: "Costume W Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 359
     Locations:
       Costume_Head_Top: true
@@ -3699,6 +4141,7 @@ Body:
     Name: "Costume Gf Recruiter Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 360
     Locations:
       Costume_Head_Top: true
@@ -3707,6 +4150,7 @@ Body:
     Name: "Costume Ph.D Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 98
     Locations:
       Costume_Head_Top: true
@@ -3715,6 +4159,7 @@ Body:
     Name: "Costume Big Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 28
     Locations:
       Costume_Head_Top: true
@@ -3723,6 +4168,7 @@ Body:
     Name: "Costume Boy's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 102
     Locations:
       Costume_Head_Top: true
@@ -3731,6 +4177,7 @@ Body:
     Name: "Costume Pirate Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 74
     Locations:
       Costume_Head_Top: true
@@ -3739,6 +4186,7 @@ Body:
     Name: "Costume Sunflower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 37
     Locations:
       Costume_Head_Top: true
@@ -3747,6 +4195,7 @@ Body:
     Name: "Costume Poporing Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 361
     Locations:
       Costume_Head_Top: true
@@ -3755,6 +4204,7 @@ Body:
     Name: "Costume Hat of The Sun God"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 138
     Locations:
       Costume_Head_Mid: true
@@ -3764,6 +4214,7 @@ Body:
     Name: "Costume Songkok"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 362
     Locations:
       Costume_Head_Top: true
@@ -3772,6 +4223,7 @@ Body:
     Name: "Costume Selendang"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 363
     Locations:
       Costume_Head_Top: true
@@ -3780,6 +4232,7 @@ Body:
     Name: "Costume Festival Pumpkin Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 206
     Locations:
       Costume_Head_Top: true
@@ -3788,6 +4241,7 @@ Body:
     Name: "Costume Wings of Victory"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 365
     Locations:
       Costume_Head_Mid: true
@@ -3797,6 +4251,7 @@ Body:
     Name: "Costume Pecopeco Wing Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 366
     Locations:
       Costume_Head_Mid: true
@@ -3805,6 +4260,7 @@ Body:
     Name: "Costume Captain's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 367
     Locations:
       Costume_Head_Top: true
@@ -3813,6 +4269,7 @@ Body:
     Name: "Costume Wickebine's Black Cat Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 368
     Locations:
       Costume_Head_Top: true
@@ -3821,6 +4278,7 @@ Body:
     Name: "Costume Gangster Scarf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -3829,6 +4287,7 @@ Body:
     Name: "Costume Ninja Scroll"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 370
     Locations:
       Costume_Head_Low: true
@@ -3837,6 +4296,7 @@ Body:
     Name: "Costume Helm of Abyss"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 371
     Locations:
       Costume_Head_Top: true
@@ -3845,6 +4305,7 @@ Body:
     Name: "Costume Evil Snake Lord Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 372
     Locations:
       Costume_Head_Top: true
@@ -3853,6 +4314,7 @@ Body:
     Name: "Costume Magnolia Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 373
     Locations:
       Costume_Head_Top: true
@@ -3861,6 +4323,7 @@ Body:
     Name: "Costume King's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 374
     Locations:
       Costume_Head_Top: true
@@ -3869,6 +4332,7 @@ Body:
     Name: "Costume Yao Jun Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 375
     Locations:
       Costume_Head_Low: true
@@ -3879,6 +4343,7 @@ Body:
     Name: "Costume Wings of Light"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 38
     Locations:
       Costume_Head_Top: true
@@ -3887,6 +4352,7 @@ Body:
     Name: "Costume Wings of Darkness"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 39
     Locations:
       Costume_Head_Top: true
@@ -3895,6 +4361,7 @@ Body:
     Name: "Costume Orchid Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 376
     Locations:
       Costume_Head_Top: true
@@ -3903,6 +4370,7 @@ Body:
     Name: "Costume Judge Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 377
     Locations:
       Costume_Head_Mid: true
@@ -3912,6 +4380,7 @@ Body:
     Name: "Costume Koneko Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 378
     Locations:
       Costume_Head_Top: true
@@ -3920,6 +4389,7 @@ Body:
     Name: "Costume Dark Randgris Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 379
     Locations:
       Costume_Head_Mid: true
@@ -3929,6 +4399,7 @@ Body:
     Name: "Costume Gigantic Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 380
     Locations:
       Costume_Head_Top: true
@@ -3937,6 +4408,7 @@ Body:
     Name: "Costume Large Orc Hero Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 381
     Locations:
       Costume_Head_Mid: true
@@ -3946,6 +4418,7 @@ Body:
     Name: "Costume Satanic Chain"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 382
     Locations:
       Costume_Head_Top: true
@@ -3954,6 +4427,7 @@ Body:
     Name: "Costume Antique Smoking Pipe"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 383
     Locations:
       Costume_Head_Low: true
@@ -3962,6 +4436,7 @@ Body:
     Name: "Costume Bunny Ears Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 384
     Locations:
       Costume_Head_Top: true
@@ -3970,6 +4445,7 @@ Body:
     Name: "Costume Balloon Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 385
     Locations:
       Costume_Head_Top: true
@@ -3978,6 +4454,7 @@ Body:
     Name: "Costume Fish Head Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 386
     Locations:
       Costume_Head_Top: true
@@ -3986,6 +4463,7 @@ Body:
     Name: "Costume Santa Poring Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 387
     Locations:
       Costume_Head_Top: true
@@ -3994,6 +4472,7 @@ Body:
     Name: "Costume Bell Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 388
     Locations:
       Costume_Head_Top: true
@@ -4002,6 +4481,7 @@ Body:
     Name: "Costume Hunting Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 389
     Locations:
       Costume_Head_Top: true
@@ -4010,6 +4490,7 @@ Body:
     Name: "Costume Twin Pom Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 390
     Locations:
       Costume_Head_Top: true
@@ -4018,6 +4499,7 @@ Body:
     Name: "Costume Yoyo Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 391
     Locations:
       Costume_Head_Top: true
@@ -4026,6 +4508,7 @@ Body:
     Name: "Costume New Year's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 228
     Locations:
       Costume_Head_Top: true
@@ -4034,6 +4517,7 @@ Body:
     Name: "Costume Neko Mimi Kafra"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 392
     Locations:
       Costume_Head_Top: true
@@ -4042,6 +4526,7 @@ Body:
     Name: "Costume Snake Head"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 393
     Locations:
       Costume_Head_Top: true
@@ -4050,6 +4535,7 @@ Body:
     Name: "Costume Angel Spirit"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 394
     Locations:
       Costume_Head_Mid: true
@@ -4058,6 +4544,7 @@ Body:
     Name: "Costume Twin Pom Blue Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 395
     Locations:
       Costume_Head_Top: true
@@ -4066,6 +4553,7 @@ Body:
     Name: "Costume Crunch Toast"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 188
     Locations:
       Costume_Head_Low: true
@@ -4074,6 +4562,7 @@ Body:
     Name: "Costume Louyang NewYear Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 396
     Locations:
       Costume_Head_Top: true
@@ -4082,6 +4571,7 @@ Body:
     Name: "Costume Valentine Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 397
     Locations:
       Costume_Head_Top: true
@@ -4090,6 +4580,7 @@ Body:
     Name: "Costume Tiraya Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 398
     Locations:
       Costume_Head_Top: true
@@ -4098,6 +4589,7 @@ Body:
     Name: "Costume Jasper Crest"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 399
     Locations:
       Costume_Head_Top: true
@@ -4106,6 +4598,7 @@ Body:
     Name: "Costume Scuba Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 400
     Locations:
       Costume_Head_Mid: true
@@ -4114,6 +4607,7 @@ Body:
     Name: "Costume Bone Head"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 401
     Locations:
       Costume_Head_Top: true
@@ -4122,6 +4616,7 @@ Body:
     Name: "Costume Mandragora Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 402
     Locations:
       Costume_Head_Top: true
@@ -4130,6 +4625,7 @@ Body:
     Name: "Costume Fox Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 403
     Locations:
       Costume_Head_Low: true
@@ -4140,6 +4636,7 @@ Body:
     Name: "Costume Black Frame Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 404
     Locations:
       Costume_Head_Mid: true
@@ -4148,6 +4645,7 @@ Body:
     Name: "Costume Mischievous Fairy"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 405
     Locations:
       Costume_Head_Mid: true
@@ -4156,6 +4654,7 @@ Body:
     Name: "Costume Fish in Mouth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 406
     Locations:
       Costume_Head_Low: true
@@ -4164,6 +4663,7 @@ Body:
     Name: "Costume Blue Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 407
     Locations:
       Costume_Head_Top: true
@@ -4172,6 +4672,7 @@ Body:
     Name: "Costume Filir Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 408
     Locations:
       Costume_Head_Top: true
@@ -4180,6 +4681,7 @@ Body:
     Name: "Costume Academy Freshman Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 409
     Locations:
       Costume_Head_Top: true
@@ -4188,6 +4690,7 @@ Body:
     Name: "Costume Academy Completion Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 410
     Locations:
       Costume_Head_Top: true
@@ -4196,6 +4699,7 @@ Body:
     Name: "Costume Old Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 6
     Locations:
       Costume_Head_Top: true
@@ -4204,6 +4708,7 @@ Body:
     Name: "Costume Purple Cowboy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 411
     Locations:
       Costume_Head_Top: true
@@ -4212,6 +4717,7 @@ Body:
     Name: "Costume Brown Paperbag Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 412
     Locations:
       Costume_Head_Low: true
@@ -4222,6 +4728,7 @@ Body:
     Name: "Costume White Snake Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 413
     Locations:
       Costume_Head_Top: true
@@ -4230,6 +4737,7 @@ Body:
     Name: "Costume Lollipop"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 414
     Locations:
       Costume_Head_Low: true
@@ -4238,6 +4746,7 @@ Body:
     Name: "Costume Popcorn Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 415
     Locations:
       Costume_Head_Top: true
@@ -4246,6 +4755,7 @@ Body:
     Name: "Costume Campfire Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 416
     Locations:
       Costume_Head_Top: true
@@ -4254,6 +4764,7 @@ Body:
     Name: "Costume Poring Cake Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 417
     Locations:
       Costume_Head_Top: true
@@ -4262,6 +4773,7 @@ Body:
     Name: "Costume Beer Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 418
     Locations:
       Costume_Head_Top: true
@@ -4270,6 +4782,7 @@ Body:
     Name: "Costume Crown Parrot"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 419
     Locations:
       Costume_Head_Top: true
@@ -4278,6 +4791,7 @@ Body:
     Name: "Costume Soldier Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 420
     Locations:
       Costume_Head_Top: true
@@ -4286,6 +4800,7 @@ Body:
     Name: "Costume Evolved Leaf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 57
     Locations:
       Costume_Head_Low: true
@@ -4294,6 +4809,7 @@ Body:
     Name: "Costume Mask of Ifrit"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 421
     Locations:
       Costume_Head_Low: true
@@ -4304,6 +4820,7 @@ Body:
     Name: "Costume Ears of Ifrit"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 422
     Locations:
       Costume_Head_Mid: true
@@ -4312,6 +4829,7 @@ Body:
     Name: "Costume Linguistic Book Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 423
     Locations:
       Costume_Head_Top: true
@@ -4320,6 +4838,7 @@ Body:
     Name: "Costume I LOVE CHINA"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 424
     Locations:
       Costume_Head_Top: true
@@ -4328,6 +4847,7 @@ Body:
     Name: "Costume Fanta Orange Can Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 425
     Locations:
       Costume_Head_Top: true
@@ -4336,6 +4856,7 @@ Body:
     Name: "Costume Fanta Grape Can Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 426
     Locations:
       Costume_Head_Top: true
@@ -4344,6 +4865,7 @@ Body:
     Name: "Costume Karada Meguricha Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 427
     Locations:
       Costume_Head_Top: true
@@ -4352,6 +4874,7 @@ Body:
     Name: "Costume Black Tea Kochakaden Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 428
     Locations:
       Costume_Head_Top: true
@@ -4360,6 +4883,7 @@ Body:
     Name: "Costume RWC Anniversary Bread Envelope"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 429
     Locations:
       Costume_Head_Low: true
@@ -4370,6 +4894,7 @@ Body:
     Name: "Costume Dokkaebi Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 430
     Locations:
       Costume_Head_Top: true
@@ -4378,6 +4903,7 @@ Body:
     Name: "Costume Flame Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 431
     Locations:
       Costume_Head_Top: true
@@ -4386,6 +4912,7 @@ Body:
     Name: "Costume Chicken Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 432
     Locations:
       Costume_Head_Top: true
@@ -4394,6 +4921,7 @@ Body:
     Name: "Costume bRO 4th Anniversary Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 433
     Locations:
       Costume_Head_Top: true
@@ -4402,6 +4930,7 @@ Body:
     Name: "Costume Golden Laurel"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 434
     Locations:
       Costume_Head_Top: true
@@ -4410,6 +4939,7 @@ Body:
     Name: "Costume Red Sombrero Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 436
     Locations:
       Costume_Head_Top: true
@@ -4418,6 +4948,7 @@ Body:
     Name: "Costume Bride's Corolla"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 437
     Locations:
       Costume_Head_Top: true
@@ -4426,6 +4957,7 @@ Body:
     Name: "Costume Fairy Flower"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 438
     Locations:
       Costume_Head_Top: true
@@ -4434,6 +4966,7 @@ Body:
     Name: "Costume Cute Green Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 439
     Locations:
       Costume_Head_Top: true
@@ -4442,6 +4975,7 @@ Body:
     Name: "Costume Cute Red Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 440
     Locations:
       Costume_Head_Top: true
@@ -4450,6 +4984,7 @@ Body:
     Name: "Costume Cute Blue Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 441
     Locations:
       Costume_Head_Top: true
@@ -4458,6 +4993,7 @@ Body:
     Name: "Costume Cute White Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 442
     Locations:
       Costume_Head_Top: true
@@ -4466,6 +5002,7 @@ Body:
     Name: "Costume Necktie"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 443
     Locations:
       Costume_Head_Top: true
@@ -4474,6 +5011,7 @@ Body:
     Name: "Costume Statue of Baby Angel"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 444
     Locations:
       Costume_Head_Top: true
@@ -4482,6 +5020,7 @@ Body:
     Name: "Costume Hair Brush"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 445
     Locations:
       Costume_Head_Top: true
@@ -4490,6 +5029,7 @@ Body:
     Name: "Costume Candy Cane in Mouth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 446
     Locations:
       Costume_Head_Low: true
@@ -4498,6 +5038,7 @@ Body:
     Name: "Costume Cat Paw Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 447
     Locations:
       Costume_Head_Top: true
@@ -4506,6 +5047,7 @@ Body:
     Name: "Costume Frog Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 448
     Locations:
       Costume_Head_Top: true
@@ -4514,6 +5056,7 @@ Body:
     Name: "Costume Indifferent Solo Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 449
     Locations:
       Costume_Head_Low: true
@@ -4524,6 +5067,7 @@ Body:
     Name: "Costume Angry Solo Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 450
     Locations:
       Costume_Head_Low: true
@@ -4534,6 +5078,7 @@ Body:
     Name: "Costume Solar Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 451
     Locations:
       Costume_Head_Top: true
@@ -4542,6 +5087,7 @@ Body:
     Name: "Costume Gold Dragon Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 452
     Locations:
       Costume_Head_Top: true
@@ -4550,6 +5096,7 @@ Body:
     Name: "Costume Silver Dragon Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 453
     Locations:
       Costume_Head_Top: true
@@ -4558,6 +5105,7 @@ Body:
     Name: "Costume Copper Dragon Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 454
     Locations:
       Costume_Head_Top: true
@@ -4566,6 +5114,7 @@ Body:
     Name: "Costume Puppy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 234
     Locations:
       Costume_Head_Top: true
@@ -4574,6 +5123,7 @@ Body:
     Name: "Costume Decorative Geographer"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 238
     Locations:
       Costume_Head_Top: true
@@ -4582,6 +5132,7 @@ Body:
     Name: "Costume Summer Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 315
     Locations:
       Costume_Head_Top: true
@@ -4590,6 +5141,7 @@ Body:
     Name: "Costume Moon Rabbit Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 455
     Locations:
       Costume_Head_Top: true
@@ -4598,6 +5150,7 @@ Body:
     Name: "Costume Pinwheel Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 456
     Locations:
       Costume_Head_Top: true
@@ -4606,6 +5159,7 @@ Body:
     Name: "Costume Drooping Bunny"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 249
     Locations:
       Costume_Head_Top: true
@@ -4614,6 +5168,7 @@ Body:
     Name: "Costume Evolved Dragon Skull Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 457
     Locations:
       Costume_Head_Top: true
@@ -4622,6 +5177,7 @@ Body:
     Name: "Costume Evolved Whisper Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 458
     Locations:
       Costume_Head_Low: true
@@ -4632,6 +5188,7 @@ Body:
     Name: "Costume Spiked Scarf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 459
     Locations:
       Costume_Head_Low: true
@@ -4640,6 +5197,7 @@ Body:
     Name: "Costume Rainbow Scarf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 460
     Locations:
       Costume_Head_Low: true
@@ -4648,6 +5206,7 @@ Body:
     Name: "Costume Bacsojin Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 461
     Locations:
       Costume_Head_Top: true
@@ -4656,6 +5215,7 @@ Body:
     Name: "Costume Grand Peco Headdress"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 473
     Locations:
       Costume_Head_Mid: true
@@ -4665,6 +5225,7 @@ Body:
     Name: "Costume Brazilian Flag Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 474
     Locations:
       Costume_Head_Top: true
@@ -4673,6 +5234,7 @@ Body:
     Name: "Costume Classic Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 475
     Locations:
       Costume_Head_Top: true
@@ -4681,6 +5243,7 @@ Body:
     Name: "Costume Shaman's Hair Decoration"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 476
     Locations:
       Costume_Head_Top: true
@@ -4689,6 +5252,7 @@ Body:
     Name: "Costume Bijofnil Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 477
     Locations:
       Costume_Head_Top: true
@@ -4697,6 +5261,7 @@ Body:
     Name: "Costume Hermode Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 478
     Locations:
       Costume_Head_Top: true
@@ -4705,6 +5270,7 @@ Body:
     Name: "Costume Dark Knight Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 479
     Locations:
       Costume_Head_Low: true
@@ -4715,6 +5281,7 @@ Body:
     Name: "Costume Odin's Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 480
     Locations:
       Costume_Head_Low: true
@@ -4724,6 +5291,7 @@ Body:
     Name: "Costume Tiger Face"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 483
     Locations:
       Costume_Head_Low: true
@@ -4734,6 +5302,7 @@ Body:
     Name: "Costume Anniversary Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 395
     Locations:
       Costume_Head_Top: true
@@ -4742,6 +5311,7 @@ Body:
     Name: "Costume Poring Cake Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 417
     Locations:
       Costume_Head_Top: true
@@ -4750,6 +5320,7 @@ Body:
     Name: "Costume Twin Pom Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 390
     Locations:
       Costume_Head_Top: true
@@ -4758,6 +5329,7 @@ Body:
     Name: "Costume Love Daddy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 484
     Locations:
       Costume_Head_Top: true
@@ -4766,6 +5338,7 @@ Body:
     Name: "Costume Anubis Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 485
     Locations:
       Costume_Head_Top: true
@@ -4774,6 +5347,7 @@ Body:
     Name: "Costume Bandit Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 486
     Locations:
       Costume_Head_Top: true
@@ -4782,6 +5356,7 @@ Body:
     Name: "Costume Student Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 102
     Locations:
       Costume_Head_Top: true
@@ -4790,6 +5365,7 @@ Body:
     Name: "Costume Ulle's Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 254
     Locations:
       Costume_Head_Top: true
@@ -4798,6 +5374,7 @@ Body:
     Name: "Costume Sphinx Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 137
     Locations:
       Costume_Head_Low: true
@@ -4807,6 +5384,7 @@ Body:
     Name: "Costume Power of Thor"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 493
     Locations:
       Costume_Head_Top: true
@@ -4815,6 +5393,7 @@ Body:
     Name: "Costume Dice Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 494
     Locations:
       Costume_Head_Top: true
@@ -4823,6 +5402,7 @@ Body:
     Name: "Costume King Tiger Doll Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 495
     Locations:
       Costume_Head_Top: true
@@ -4831,6 +5411,7 @@ Body:
     Name: "Costume Wandering Wolf King Helmet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 490
     Locations:
       Costume_Head_Mid: true
@@ -4840,6 +5421,7 @@ Body:
     Name: "Costume Pizza Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 487
     Locations:
       Costume_Head_Top: true
@@ -4848,6 +5430,7 @@ Body:
     Name: "Costume Ice Cream Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 488
     Locations:
       Costume_Head_Top: true
@@ -4856,6 +5439,7 @@ Body:
     Name: "Costume Pirate's Pride"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 496
     Locations:
       Costume_Head_Top: true
@@ -4864,6 +5448,7 @@ Body:
     Name: "Costume Necromancer's Hood"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 491
     Locations:
       Costume_Head_Mid: true
@@ -4873,6 +5458,7 @@ Body:
     Name: "Costume Rabbit Magic Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 497
     Locations:
       Costume_Head_Top: true
@@ -4881,6 +5467,7 @@ Body:
     Name: "Costume RO 5th Wedding Anniversary"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 489
     Locations:
       Costume_Head_Mid: true
@@ -4890,6 +5477,7 @@ Body:
     Name: "Costume Ashura Fairy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 492
     Locations:
       Costume_Head_Mid: true
@@ -4899,6 +5487,7 @@ Body:
     Name: "Costume Blue Pajamas Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 501
     Locations:
       Costume_Head_Top: true
@@ -4907,6 +5496,7 @@ Body:
     Name: "Costume Pink Pajamas Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 502
     Locations:
       Costume_Head_Top: true
@@ -4915,6 +5505,7 @@ Body:
     Name: "Costume Shark Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 503
     Locations:
       Costume_Head_Top: true
@@ -4923,6 +5514,7 @@ Body:
     Name: "Costume Sting Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 504
     Locations:
       Costume_Head_Top: true
@@ -4931,6 +5523,7 @@ Body:
     Name: "Costume Shower Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 507
     Locations:
       Costume_Head_Top: true
@@ -4939,6 +5532,7 @@ Body:
     Name: "Costume Samambaia"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 508
     Locations:
       Costume_Head_Mid: true
@@ -4948,6 +5542,7 @@ Body:
     Name: "Costume Aquarius Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 509
     Locations:
       Costume_Head_Top: true
@@ -4956,6 +5551,7 @@ Body:
     Name: "Costume Aquarius Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 510
     Locations:
       Costume_Head_Top: true
@@ -4964,6 +5560,7 @@ Body:
     Name: "Costume Pisces Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 511
     Locations:
       Costume_Head_Top: true
@@ -4972,6 +5569,7 @@ Body:
     Name: "Costume Pisces Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 512
     Locations:
       Costume_Head_Top: true
@@ -4980,6 +5578,7 @@ Body:
     Name: "Costume Hawk Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 23
     Locations:
       Costume_Head_Mid: true
@@ -4988,6 +5587,7 @@ Body:
     Name: "Costume Hawk Eyes"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 23
     Locations:
       Costume_Head_Mid: true
@@ -4996,6 +5596,7 @@ Body:
     Name: "Costume Gigantic Majestic Goat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 513
     Locations:
       Costume_Head_Top: true
@@ -5004,6 +5605,7 @@ Body:
     Name: "Costume Peacock Feather"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 514
     Locations:
       Costume_Head_Top: true
@@ -5012,6 +5614,7 @@ Body:
     Name: "Costume Rabbit Earmuffs"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 515
     Locations:
       Costume_Head_Mid: true
@@ -5021,6 +5624,7 @@ Body:
     Name: "Costume Angry Mouth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 194
     Locations:
       Costume_Head_Low: true
@@ -5029,6 +5633,7 @@ Body:
     Name: "Costume Fanta Zero Lemon Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 516
     Locations:
       Costume_Head_Top: true
@@ -5037,6 +5642,7 @@ Body:
     Name: "Costume Sakura Mist Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 517
     Locations:
       Costume_Head_Top: true
@@ -5045,6 +5651,7 @@ Body:
     Name: "Costume Sakura Milk Tea Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 518
     Locations:
       Costume_Head_Top: true
@@ -5053,6 +5660,7 @@ Body:
     Name: "Costume First Leaf Tea Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 519
     Locations:
       Costume_Head_Top: true
@@ -5061,6 +5669,7 @@ Body:
     Name: "Costume Lady Tanee Doll"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 520
     Locations:
       Costume_Head_Top: true
@@ -5069,6 +5678,7 @@ Body:
     Name: "Costume Lunatic Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 521
     Locations:
       Costume_Head_Top: true
@@ -5077,6 +5687,7 @@ Body:
     Name: "Costume Frog Prince Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 522
     Locations:
       Costume_Head_Top: true
@@ -5085,6 +5696,7 @@ Body:
     Name: "Costume Devil's Bone Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 523
     Locations:
       Costume_Head_Mid: true
@@ -5094,6 +5706,7 @@ Body:
     Name: "Costume Raven Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 524
     Locations:
       Costume_Head_Top: true
@@ -5102,6 +5715,7 @@ Body:
     Name: "Costume Baby Dragon Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 525
     Locations:
       Costume_Head_Top: true
@@ -5110,6 +5724,7 @@ Body:
     Name: "Costume Pirate Dagger"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 327
     Locations:
       Costume_Head_Low: true
@@ -5118,6 +5733,7 @@ Body:
     Name: "Costume Emperor Wreath"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 261
     Locations:
       Costume_Head_Top: true
@@ -5126,6 +5742,7 @@ Body:
     Name: "Costume Side Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 529
     Locations:
       Costume_Head_Top: true
@@ -5134,6 +5751,7 @@ Body:
     Name: "Costume Spare Card"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 526
     Locations:
       Costume_Head_Low: true
@@ -5142,6 +5760,7 @@ Body:
     Name: "Costume Coati Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 527
     Locations:
       Costume_Head_Top: true
@@ -5150,6 +5769,7 @@ Body:
     Name: "Costume Tucan Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 528
     Locations:
       Costume_Head_Mid: true
@@ -5159,6 +5779,7 @@ Body:
     Name: "Costume Jaguar Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 530
     Locations:
       Costume_Head_Low: true
@@ -5169,6 +5790,7 @@ Body:
     Name: "Costume Freya's Spiritual Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -5177,6 +5799,7 @@ Body:
     Name: "Costume Freya's Spiritual Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -5185,6 +5808,7 @@ Body:
     Name: "Costume Freya's Spiritual Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -5193,6 +5817,7 @@ Body:
     Name: "Costume Freya's Spiritual Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 18
     Locations:
       Costume_Head_Top: true
@@ -5201,6 +5826,7 @@ Body:
     Name: "Costume Time Guardian Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 240
     Locations:
       Costume_Head_Top: true
@@ -5209,6 +5835,7 @@ Body:
     Name: "Costume Aries Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 531
     Locations:
       Costume_Head_Top: true
@@ -5217,6 +5844,7 @@ Body:
     Name: "Costume Aries Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 532
     Locations:
       Costume_Head_Top: true
@@ -5225,6 +5853,7 @@ Body:
     Name: "Costume RJC Flower Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 533
     Locations:
       Costume_Head_Top: true
@@ -5233,6 +5862,7 @@ Body:
     Name: "Costume Crimson Rose"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 534
     Locations:
       Costume_Head_Low: true
@@ -5241,6 +5871,7 @@ Body:
     Name: "Costume Taurus Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 535
     Locations:
       Costume_Head_Top: true
@@ -5249,6 +5880,7 @@ Body:
     Name: "Costume Taurus Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 536
     Locations:
       Costume_Head_Top: true
@@ -5257,6 +5889,7 @@ Body:
     Name: "Costume Festival Grand Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 93
     Locations:
       Costume_Head_Top: true
@@ -5265,6 +5898,7 @@ Body:
     Name: "Costume Festival Bunny Band"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 15
     Locations:
       Costume_Head_Top: true
@@ -5273,6 +5907,7 @@ Body:
     Name: "Costume Octopus Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 538
     Locations:
       Costume_Head_Top: true
@@ -5281,6 +5916,7 @@ Body:
     Name: "Costume Leaf Cat Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 539
     Locations:
       Costume_Head_Top: true
@@ -5289,6 +5925,7 @@ Body:
     Name: "Costume Fur Seal Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 540
     Locations:
       Costume_Head_Low: true
@@ -5299,6 +5936,7 @@ Body:
     Name: "Costume Wild Rose Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 541
     Locations:
       Costume_Head_Top: true
@@ -5307,6 +5945,7 @@ Body:
     Name: "Costume Luxury Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 542
     Locations:
       Costume_Head_Top: true
@@ -5315,6 +5954,7 @@ Body:
     Name: "Costume Pure White Cloth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 543
     Locations:
       Costume_Head_Top: true
@@ -5323,6 +5963,7 @@ Body:
     Name: "Costume Horned Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 322
     Locations:
       Costume_Head_Top: true
@@ -5331,6 +5972,7 @@ Body:
     Name: "Costume Rabbit Magic Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 497
     Locations:
       Costume_Head_Top: true
@@ -5339,6 +5981,7 @@ Body:
     Name: "Costume Love of Truth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 489
     Locations:
       Costume_Head_Mid: true
@@ -5348,6 +5991,7 @@ Body:
     Name: "Costume Crown of Deceit"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 544
     Locations:
       Costume_Head_Mid: true
@@ -5357,6 +6001,7 @@ Body:
     Name: "Costume Dragon Arhat Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 545
     Locations:
       Costume_Head_Low: true
@@ -5366,6 +6011,7 @@ Body:
     Name: "Costume Tiger Arhat Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 546
     Locations:
       Costume_Head_Low: true
@@ -5375,6 +6021,7 @@ Body:
     Name: "Costume Rage of Luster"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 548
     Locations:
       Costume_Head_Top: true
@@ -5383,6 +6030,7 @@ Body:
     Name: "Costume Rabbit Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 549
     Locations:
       Costume_Head_Mid: true
@@ -5392,6 +6040,7 @@ Body:
     Name: "Costume Gemini Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 550
     Locations:
       Costume_Head_Top: true
@@ -5400,6 +6049,7 @@ Body:
     Name: "Costume Gemini Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 551
     Locations:
       Costume_Head_Top: true
@@ -5408,6 +6058,7 @@ Body:
     Name: "Costume Savage Babe Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 553
     Locations:
       Costume_Head_Top: true
@@ -5416,6 +6067,7 @@ Body:
     Name: "Costume Dokkaebi Horn"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 554
     Locations:
       Costume_Head_Top: true
@@ -5424,6 +6076,7 @@ Body:
     Name: "Costume Well-Chewed Pencil"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 555
     Locations:
       Costume_Head_Low: true
@@ -5432,6 +6085,7 @@ Body:
     Name: "Costume Rice Ball Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 556
     Locations:
       Costume_Head_Top: true
@@ -5440,6 +6094,7 @@ Body:
     Name: "Costume Dark Knight Mask"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 479
     Locations:
       Costume_Head_Low: true
@@ -5450,6 +6105,7 @@ Body:
     Name: "Costume Voyage Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 236
     Locations:
       Costume_Head_Top: true
@@ -5458,6 +6114,7 @@ Body:
     Name: "Costume Wanderer's Sakkat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 558
     Locations:
       Costume_Head_Mid: true
@@ -5467,6 +6124,7 @@ Body:
     Name: "Costume Cancer Diadem"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 560
     Locations:
       Costume_Head_Top: true
@@ -5475,6 +6133,7 @@ Body:
     Name: "Costume Cancer Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 561
     Locations:
       Costume_Head_Top: true
@@ -5483,6 +6142,7 @@ Body:
     Name: "Costume Paradise Group Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 465
     Locations:
       Costume_Head_Top: true
@@ -5491,6 +6151,7 @@ Body:
     Name: "Costume Majestic Devil Horns"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 562
     Locations:
       Costume_Head_Top: true
@@ -5499,6 +6160,7 @@ Body:
     Name: "Costume Rune Hairband"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 564
     Locations:
       Costume_Head_Mid: true
@@ -5508,6 +6170,7 @@ Body:
     Name: "Costume Mosquito Coil"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 563
     Locations:
       Costume_Head_Top: true
@@ -5516,6 +6179,7 @@ Body:
     Name: "Costume Mosquito Coil For 1 Use"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 563
     Locations:
       Costume_Head_Top: true
@@ -5524,6 +6188,7 @@ Body:
     Name: "Costume Poring Cake Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 417
     Locations:
       Costume_Head_Top: true
@@ -5532,6 +6197,7 @@ Body:
     Name: "Costume Sigrun's Wings"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 568
     Locations:
       Costume_Head_Mid: true
@@ -5540,6 +6206,7 @@ Body:
     Name: "Costume Rabbit Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 549
     Locations:
       Costume_Head_Mid: true
@@ -5549,6 +6216,7 @@ Body:
     Name: "Costume Donut in Mouth"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 569
     Locations:
       Costume_Head_Low: true
@@ -5557,6 +6225,7 @@ Body:
     Name: "Costume Four Leaf Clover"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 571
     Locations:
       Costume_Head_Low: true
@@ -5565,6 +6234,7 @@ Body:
     Name: "Costume Chewing Gum"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 572
     Locations:
       Costume_Head_Low: true
@@ -5573,6 +6243,7 @@ Body:
     Name: "Costume Brazil Twin Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 575
     Locations:
       Costume_Head_Top: true
@@ -5581,6 +6252,7 @@ Body:
     Name: "Costume RWC Statue(Winner)"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 577
     Locations:
       Costume_Head_Top: true
@@ -5589,6 +6261,7 @@ Body:
     Name: "Costume RWC Statue(Second)"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 578
     Locations:
       Costume_Head_Top: true
@@ -5597,6 +6270,7 @@ Body:
     Name: "Costume RWC Statue(3rd)"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 579
     Locations:
       Costume_Head_Top: true
@@ -5605,6 +6279,7 @@ Body:
     Name: "Costume Darkness Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 586
     Locations:
       Costume_Head_Top: true
@@ -5613,6 +6288,7 @@ Body:
     Name: "Costume Red Marching Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 587
     Locations:
       Costume_Head_Top: true
@@ -5621,6 +6297,7 @@ Body:
     Name: "Costume Imp Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 589
     Locations:
       Costume_Head_Top: true
@@ -5629,6 +6306,7 @@ Body:
     Name: "Costume Sleeper Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 590
     Locations:
       Costume_Head_Top: true
@@ -5637,6 +6315,7 @@ Body:
     Name: "Costume Gryphon Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 591
     Locations:
       Costume_Head_Top: true
@@ -5645,6 +6324,7 @@ Body:
     Name: "Costume Filir's Pinions"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 595
     Locations:
       Costume_Head_Mid: true
@@ -5653,6 +6333,7 @@ Body:
     Name: "Costume Shaman Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 596
     Locations:
       Costume_Head_Top: true
@@ -5661,6 +6342,7 @@ Body:
     Name: "Costume Crown Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 597
     Locations:
       Costume_Head_Top: true
@@ -5669,6 +6351,7 @@ Body:
     Name: "Costume Skull Hood"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 598
     Locations:
       Costume_Head_Mid: true
@@ -5678,6 +6361,7 @@ Body:
     Name: "Costume Mysterious Pumpkin Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 206
     Locations:
       Costume_Head_Top: true
@@ -5686,6 +6370,7 @@ Body:
     Name: "Costume Drooping Incarnation of Morocc"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 600
     Locations:
       Costume_Head_Top: true
@@ -5694,6 +6379,7 @@ Body:
     Name: "Costume Green Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 244
     Locations:
       Costume_Head_Top: true
@@ -5702,6 +6388,7 @@ Body:
     Name: "Costume Triangle Rune Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 610
     Locations:
       Costume_Head_Top: true
@@ -5710,6 +6397,7 @@ Body:
     Name: "Costume Majestic Goat Model"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 41
     Locations:
       Costume_Head_Top: true
@@ -5718,6 +6406,7 @@ Body:
     Name: "Costume Jewel Crown"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 88
     Locations:
       Costume_Head_Top: true
@@ -5726,6 +6415,7 @@ Body:
     Name: "Costume Knight's Army Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 48
     Locations:
       Costume_Head_Top: true
@@ -5734,6 +6424,7 @@ Body:
     Name: "Costume Feather Bonnet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 104
     Locations:
       Costume_Head_Top: true
@@ -5742,6 +6433,7 @@ Body:
     Name: "Costume Orc Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 86
     Locations:
       Costume_Head_Top: true
@@ -5750,6 +6442,7 @@ Body:
     Name: "Costume Red Wing Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 613
     Locations:
       Costume_Head_Top: true
@@ -5758,6 +6451,7 @@ Body:
     Name: "Costume Sailor's Bandana"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 542
     Locations:
       Costume_Head_Top: true
@@ -5766,6 +6460,7 @@ Body:
     Name: "Costume Sea Cat Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 539
     Locations:
       Costume_Head_Top: true
@@ -5774,6 +6469,7 @@ Body:
     Name: "Costume Snowman Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 616
     Locations:
       Costume_Head_Top: true
@@ -5782,6 +6478,7 @@ Body:
     Name: "Costume Eternal Egg Skin Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 101
     Locations:
       Costume_Head_Top: true
@@ -5790,6 +6487,7 @@ Body:
     Name: "Costume Rudolf Santa Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 619
     Locations:
       Costume_Head_Top: true
@@ -5798,6 +6496,7 @@ Body:
     Name: "Costume Splash Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 349
     Locations:
       Costume_Head_Top: true
@@ -5806,6 +6505,7 @@ Body:
     Name: "Costume Family Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 109
     Locations:
       Costume_Head_Top: true
@@ -5814,6 +6514,7 @@ Body:
     Name: "Costume Chocolate Donut"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 653
     Locations:
       Costume_Head_Low: true
@@ -5822,6 +6523,7 @@ Body:
     Name: "Costume Persica"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 659
     Locations:
       Costume_Head_Top: true
@@ -5830,6 +6532,7 @@ Body:
     Name: "Costume Ancient Elven Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 665
     Locations:
       Costume_Head_Mid: true
@@ -5838,6 +6541,7 @@ Body:
     Name: "Costume 3D Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 661
     Locations:
       Costume_Head_Mid: true
@@ -5846,6 +6550,7 @@ Body:
     Name: "Costume Fish Pin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 669
     Locations:
       Costume_Head_Top: true
@@ -5854,6 +6559,7 @@ Body:
     Name: "Costume Life Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 575
     Locations:
       Costume_Head_Mid: true
@@ -5862,6 +6568,7 @@ Body:
     Name: "Costume 3D Glasses"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 661
     Locations:
       Costume_Head_Mid: true
@@ -5870,6 +6577,7 @@ Body:
     Name: "Costume Cheering scarf"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -5878,6 +6586,7 @@ Body:
     Name: "Costume Cheering scarf II"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -5886,6 +6595,7 @@ Body:
     Name: "Costume Cheering scarf III"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -5894,6 +6604,7 @@ Body:
     Name: "Costume Cheering scarf IV"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -5902,6 +6613,7 @@ Body:
     Name: "Costume Blush of Groom"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 125
     Locations:
       Costume_Head_Mid: true
@@ -5910,6 +6622,7 @@ Body:
     Name: "Costume Red Tailed Ribbon"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 167
     Locations:
       Costume_Head_Top: true
@@ -5918,6 +6631,7 @@ Body:
     Name: "Costume Upgrade Elephant Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 215
     Locations:
       Costume_Head_Top: true
@@ -5926,6 +6640,7 @@ Body:
     Name: "Costume Love Flower Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 5
     Locations:
       Costume_Head_Top: true
@@ -5934,6 +6649,7 @@ Body:
     Name: "Costume Pirate Eye Bandage"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 13
     Locations:
       Costume_Head_Mid: true
@@ -5942,6 +6658,7 @@ Body:
     Name: "Costume Victorious Coronet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 43
     Locations:
       Costume_Head_Top: true
@@ -5950,6 +6667,7 @@ Body:
     Name: "Costume Poet Natalia's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 67
     Locations:
       Costume_Head_Top: true
@@ -5958,6 +6676,7 @@ Body:
     Name: "Costume Octoberfest Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 104
     Locations:
       Costume_Head_Top: true
@@ -5966,6 +6685,7 @@ Body:
     Name: "Costume Dark Basilium"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 364
     Locations:
       Costume_Head_Low: true
@@ -5976,6 +6696,7 @@ Body:
     Name: "Costume Boom Boom Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 216
     Locations:
       Costume_Head_Top: true
@@ -5984,6 +6705,7 @@ Body:
     Name: "Costume Ph.D Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 98
     Locations:
       Costume_Head_Top: true
@@ -5992,6 +6714,7 @@ Body:
     Name: "Costume Santa's Beard"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 25
     Locations:
       Costume_Head_Low: true
@@ -6000,6 +6723,7 @@ Body:
     Name: "Costume Hat of Water Expert"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 16
     Locations:
       Costume_Head_Top: true
@@ -6008,6 +6732,7 @@ Body:
     Name: "Costume Classic Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 475
     Locations:
       Costume_Head_Top: true
@@ -6016,6 +6741,7 @@ Body:
     Name: "Costume Purple Cowboy Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 411
     Locations:
       Costume_Head_Top: true
@@ -6024,6 +6750,7 @@ Body:
     Name: "Costume Carnival Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 505
     Locations:
       Costume_Head_Top: true
@@ -6032,6 +6759,7 @@ Body:
     Name: "Costume Carnival Circlet"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 506
     Locations:
       Costume_Head_Top: true
@@ -6040,6 +6768,7 @@ Body:
     Name: "Costume Golden Tulip Hairpin"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 499
     Locations:
       Costume_Head_Top: true
@@ -6048,6 +6777,7 @@ Body:
     Name: "Costume Love Chick Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 500
     Locations:
       Costume_Head_Top: true
@@ -6056,6 +6786,7 @@ Body:
     Name: "Costume April Fool's Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 265
     Locations:
       Costume_Head_Top: true
@@ -6064,6 +6795,7 @@ Body:
     Name: "Costume Valkyrie Helm"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 225
     Locations:
       Costume_Head_Top: true
@@ -6072,6 +6804,7 @@ Body:
     Name: "Costume Book Pile Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 423
     Locations:
       Costume_Head_Top: true
@@ -6080,6 +6813,7 @@ Body:
     Name: "Costume Buzzy BOL Gum"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 572
     Locations:
       Costume_Head_Low: true
@@ -6088,6 +6822,7 @@ Body:
     Name: "Costume Crown of Summer"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 138
     Locations:
       Costume_Head_Mid: true
@@ -6097,6 +6832,7 @@ Body:
     Name: "Costume Passion Football Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 671
     Locations:
       Costume_Head_Top: true
@@ -6105,6 +6841,7 @@ Body:
     Name: "Costume Cool Soccerball Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 672
     Locations:
       Costume_Head_Top: true
@@ -6113,6 +6850,7 @@ Body:
     Name: "Costume Soccerball Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 673
     Locations:
       Costume_Head_Top: true
@@ -6121,6 +6859,7 @@ Body:
     Name: "Costume Glorious Soccerball Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 674
     Locations:
       Costume_Head_Top: true
@@ -6129,6 +6868,7 @@ Body:
     Name: "Costume Cheering scarf VI"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -6137,6 +6877,7 @@ Body:
     Name: "Costume Cheering scarf VIII"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -6145,6 +6886,7 @@ Body:
     Name: "Costume Cheering Scarf X"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 369
     Locations:
       Costume_Head_Low: true
@@ -6153,6 +6895,7 @@ Body:
     Name: "Costume Small Devil Horns"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 562
     Locations:
       Costume_Head_Mid: true
@@ -6161,6 +6904,7 @@ Body:
     Name: "Costume Umbala Spirit"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 675
     Locations:
       Costume_Head_Low: true
@@ -6169,6 +6913,7 @@ Body:
     Name: "Costume Hatta Black"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 676
     Locations:
       Costume_Head_Low: true
@@ -6179,6 +6924,7 @@ Body:
     Name: "Costume Elven Ears"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 73
     Locations:
       Costume_Head_Mid: true
@@ -6187,6 +6933,7 @@ Body:
     Name: "Costume Skull Cap"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 713
     Locations:
       Costume_Head_Top: true
@@ -6195,6 +6942,7 @@ Body:
     Name: "Costume Ancient Horns"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 757
     Locations:
       Costume_Head_Top: true
@@ -6203,6 +6951,7 @@ Body:
     Name: "Costume Sprout Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 758
     Locations:
       Costume_Head_Top: true
@@ -6211,6 +6960,7 @@ Body:
     Name: "Costume Mercury Riser"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 759
     Locations:
       Costume_Head_Top: true
@@ -6219,6 +6969,7 @@ Body:
     Name: "Costume Cat Ear Beret"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 761
     Locations:
       Costume_Head_Top: true
@@ -6227,6 +6978,7 @@ Body:
     Name: "Costume White Musang Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 770
     Locations:
       Costume_Head_Top: true
@@ -6235,6 +6987,7 @@ Body:
     Name: "Costume Black Musang Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 771
     Locations:
       Costume_Head_Top: true
@@ -6243,6 +6996,7 @@ Body:
     Name: "Costume Heart Eyepatch"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 779
     Locations:
       Costume_Head_Mid: true
@@ -6251,6 +7005,7 @@ Body:
     Name: "Costume Witch's Pumpkin Hat"
     Type: Armor
     Weight: 0
+    ArmorLevel: 1
     View: 717
     Locations:
       Costume_Head_Top: true
