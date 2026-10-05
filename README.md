@@ -14,7 +14,7 @@ both eras: it uses the pool that fits whichever era is running.
 | Setting | Default | |
 |---|---|---|
 | Box drop chance | 5 | Units of 0.01%: 5 = 0.05%, 100 = 1%, 0 = off. Rolled once per monster kill, any monster. |
-| Drop the box on the ground | off | Off: straight into the inventory. On: it falls next to you like a normal drop, unless your `@autoloot` would pick it up (see below). |
+| Drop the box on the ground | off | Off: straight into the inventory. On: it falls where the monster died like a normal drop, unless your `@autoloot` would pick it up (see below). |
 
 **Autoloot.** With the ground drop on, the box goes into your inventory anyway when your `@autoloot` would have taken it: the box is on your `@autolootitem` list, or its drop chance (0.05% by default) is within your `@autoloot` rate and the item type is allowed. Same test as extended-arpg-eq-mod. There is no chat message when the box drops.
 

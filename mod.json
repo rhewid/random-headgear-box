@@ -24,7 +24,7 @@
       "type": "boolean",
       "default": false,
       "label": "Drop the box on the ground",
-      "description": "Off: the box goes straight into your inventory. On: it drops on the ground next to you like a normal drop. If your @autoloot would pick it up (its drop chance is within your @autoloot rate and its type is allowed, or it is on your @autolootitem list), it goes into your inventory anyway."
+      "description": "Off: the box goes straight into your inventory. On: it drops on the ground where the monster died, like a normal drop. If your @autoloot would pick it up (its drop chance is within your @autoloot rate and its type is allowed, or it is on your @autolootitem list), it goes into your inventory anyway."
     }
   ]
 }

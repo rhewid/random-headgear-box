@@ -1,7 +1,7 @@
 // Random Headgear Box drop: every monster kill has a small chance to drop one box.
 // Chance = the "drop_chance" setting in units of 0.01% (5 = 0.05%, the default).
-// With "ground_drop" on, the box falls on the ground next to the player instead of going straight
-// into the inventory. A player whose @autoloot would pick it up still gets it directly, the same
+// With "ground_drop" on, the box falls on the ground where the monster died (the player's position if
+// that cannot be read) instead of going straight into the inventory. A player whose @autoloot would pick it up still gets it directly, the same
 // test as extended-arpg-eq-mod: the box is on the @autolootitem list, or its drop chance is within
 // the player's @autoloot rate and its item type is allowed.
 
@@ -31,7 +31,22 @@ OnNPCKillEvent:
 	}
 
 	if (.ground && !.@auto) {
+		// Drop it where the monster died. getmapxy cannot look up monsters, so read the dead monster
+		// with getunitdata (killedgid). Start from the player's position and only take the monster's
+		// if it is a real spot near the player, so a failed lookup falls back to the player.
+		// Same approach as affix-forge.
 		getmapxy(.@map$, .@x, .@y, BL_PC);
+		getunitdata(killedgid, .@mob);
+		.@mx = .@mob[UMOB_X];
+		.@my = .@mob[UMOB_Y];
+		.@dx = .@mx - .@x;
+		.@dy = .@my - .@y;
+		if (.@dx < 0) .@dx = -.@dx;
+		if (.@dy < 0) .@dy = -.@dy;
+		if (.@mx > 0 && .@my > 0 && .@dx <= 30 && .@dy <= 30) {
+			.@x = .@mx;
+			.@y = .@my;
+		}
 		makeitem .id, 1, .@map$, .@x, .@y;
 	} else {
 		getitem .id, 1;
