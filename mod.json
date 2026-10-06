@@ -88,6 +88,24 @@
       "description": "Costume Exchange Tickets for a costume box that can hold any head slot or a garment."
     },
     {
+      "key": "swap_cost_to_costume",
+      "type": "number",
+      "default": 1,
+      "min": 1,
+      "max": 100,
+      "label": "Ticket Swap: headgear tickets for 1 costume ticket",
+      "description": "How many Headgear Exchange Tickets the Ticket Swap NPC takes for one Costume Exchange Ticket. 1 = one for one."
+    },
+    {
+      "key": "swap_cost_to_headgear",
+      "type": "number",
+      "default": 1,
+      "min": 1,
+      "max": 100,
+      "label": "Ticket Swap: costume tickets for 1 headgear ticket",
+      "description": "How many Costume Exchange Tickets the Ticket Swap NPC takes for one Headgear Exchange Ticket. 1 = one for one. Raise it to make costume -> headgear more expensive."
+    },
+    {
       "key": "costume_fee",
       "type": "number",
       "default": 10000,

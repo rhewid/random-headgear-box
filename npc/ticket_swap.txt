@@ -1,34 +1,44 @@
-// Ticket Swap -- trades Headgear Exchange Tickets (72031) and Costume Exchange Tickets (72032) 1:1, in both directions.
+// Ticket Swap -- trades Headgear Exchange Tickets (72031) and Costume Exchange Tickets (72032) in both directions.
+//
+// The rates are settings, each is "how many tickets you give for ONE ticket you get" (default 1, so 1:1):
+//   swap_cost_to_costume   headgear tickets for 1 costume ticket
+//   swap_cost_to_headgear  costume tickets for 1 headgear ticket
+// Raise one of them to make that direction more expensive.
 
 prontera,188,193,4	script	Ticket Swap#rhb	4_M_SAGE_A,{
 	mes "[Ticket Swap]";
-	mes "I trade Headgear Exchange Tickets and Costume Exchange Tickets one for one, either way.";
+	mes "I trade Headgear Exchange Tickets and Costume Exchange Tickets, either way.";
 	mes "Headgear tickets: ^0055FF" + countitem(72031) + "^000000";
 	mes "Costume tickets: ^0055FF" + countitem(72032) + "^000000";
+	mes "Rates:";
+	mes "- " + .c_to_costume + " headgear ticket" + (.c_to_costume > 1 ? "s" : "") + " for 1 costume ticket";
+	mes "- " + .c_to_headgear + " costume ticket" + (.c_to_headgear > 1 ? "s" : "") + " for 1 headgear ticket";
 	next;
-	.@c = select("Headgear tickets -> Costume tickets:Costume tickets -> Headgear tickets:Cancel");
+	.@c = select("Headgear tickets -> Costume tickets (" + .c_to_costume + " : 1):Costume tickets -> Headgear tickets (" + .c_to_headgear + " : 1):Cancel");
 	if (.@c == 3) close;
 	if (.@c == 1) {
 		.@from = 72031;
 		.@to = 72032;
+		.@cost = .c_to_costume;
 	} else {
 		.@from = 72032;
 		.@to = 72031;
+		.@cost = .c_to_headgear;
 	}
-	.@have = countitem(.@from);
-	if (.@have < 1) {
+	.@max = countitem(.@from) / .@cost;
+	if (.@max < 1) {
 		mes "[Ticket Swap]";
-		mes "You have no " + getitemname(.@from) + "s.";
+		mes "You need " + .@cost + " " + getitemname(.@from) + (.@cost > 1 ? "s" : "") + " for one " + getitemname(.@to) + " and you have " + countitem(.@from) + ".";
 		close;
 	}
 	mes "[Ticket Swap]";
-	mes "How many " + getitemname(.@from) + "s do you want to swap for " + getitemname(.@to) + "s? (1 to " + .@have + ")";
-	next;
-	input .@n, 0, .@have;
+	mes "One ^008800" + getitemname(.@to) + "^000000 costs " + .@cost + " ^008800" + getitemname(.@from) + "^000000" + (.@cost > 1 ? "s" : "") + ".";
+	.@n = callfunc("F_RhbQty", .@max);
 	if (.@n < 1) close;
-	if (countitem(.@from) < .@n) {
+	.@total = .@cost * .@n;
+	if (countitem(.@from) < .@total) {
 		mes "[Ticket Swap]";
-		mes "You do not have that many.";
+		mes "You do not have enough tickets.";
 		close;
 	}
 	if (!checkweight(.@to, .@n)) {
@@ -36,9 +46,16 @@ prontera,188,193,4	script	Ticket Swap#rhb	4_M_SAGE_A,{
 		mes "You are carrying too much. Make some room first!";
 		close;
 	}
-	delitem .@from, .@n;
+	delitem .@from, .@total;
 	getitem .@to, .@n;
 	mes "[Ticket Swap]";
-	mes "Done: " + .@n + " x ^008800" + getitemname(.@to) + "^000000.";
+	mes "Done: " + .@n + " x ^008800" + getitemname(.@to) + "^000000 for " + .@total + " x ^008800" + getitemname(.@from) + "^000000.";
 	close;
+
+OnInit:
+	.c_to_costume = callfunc("F_ModSetting", "random-headgear-box", "swap_cost_to_costume", 1);
+	.c_to_headgear = callfunc("F_ModSetting", "random-headgear-box", "swap_cost_to_headgear", 1);
+	if (.c_to_costume < 1) .c_to_costume = 1;
+	if (.c_to_headgear < 1) .c_to_headgear = 1;
+	end;
 }

@@ -26,7 +26,7 @@ Ground drop and `@autoloot` work for both items (see Settings).
 | **Costume Tailor** | 181,190 | Turns any unequipped headgear into a costume that looks the same. Cards come back, refine, enchantments and bonus options are lost. Fee 10,000 zeny. |
 | **Headgear Exchange** | 183,190 | Headgear Exchange Tickets for boxes (below). |
 | **Costume Exchange** | 185,190 | Costume Exchange Tickets for boxes from the costume collection (below). |
-| **Ticket Swap** | 188,193 | Headgear Exchange Tickets <-> Costume Exchange Tickets, **1:1 in both directions**, any amount. |
+| **Ticket Swap** | 188,193 | Headgear Exchange Tickets <-> Costume Exchange Tickets, in both directions. **1:1 by default, each direction's rate is a setting** (for example make costume -> headgear cost 2 or 3 tickets). |
 
 ### Headgear Exchange (headgear tickets)
 
@@ -43,7 +43,7 @@ Ground drop and `@autoloot` work for both items (see Settings).
 | **10** tickets | an **Upper / Middle / Lower Costume Box**: one random costume of that slot from the costume collection |
 | **15** tickets | a **Random Costume Box**: one random costume from the collection, any head slot or garment |
 
-Both exchanges ask **how many** boxes you want when you can afford more than one: 1, 5, 10 (when affordable), the maximum
+Both exchanges and the Ticket Swap ask **how many** you want when you can afford more than one: 1, 5, 10 (when affordable), the maximum
 you can afford, or any amount you type. All prices are settings. Do not confuse the two kinds of costume boxes: a *Headgear Costume Box* gives a costume copy of a
 headgear (see the Tailor), a *Costume Box* gives a costume from the collection.
 
@@ -77,6 +77,8 @@ Odette's shop and the Lucky Trunk of costume-collector-extended-prerenewal are n
 | Costume Exchange Ticket drop chance | 5 | Units of 0.01%, 0 = off. |
 | Costume tickets for an Upper / Middle / Lower Costume Box | 10 | |
 | Costume tickets for a Random Costume Box | 15 | |
+| Ticket Swap: headgear tickets for 1 costume ticket | 1 | Raise it to make headgear -> costume more expensive. |
+| Ticket Swap: costume tickets for 1 headgear ticket | 1 | Raise it to make costume -> headgear more expensive. |
 | Costume Tailor fee | 10000 | Zeny per costume. 0 = free. |
 
 **Autoloot.** With the ground drop on, a dropped box or ticket goes into your inventory anyway when your `@autoloot` would
@@ -139,7 +141,7 @@ The app applies the folder of the running era over the mod, and a file at the sa
 so everything era-specific lives in the era folders and only the scripts are shared.
 
 - `npc/box_drop.txt`: the drops. `npc/exchange.txt`: Headgear Exchange. `npc/costume_exchange.txt`: Costume Exchange.
-  `npc/ticket_swap.txt`: Ticket Swap. `npc/exchange_quantity.txt`: the "how many" menu of the two exchanges.
+  `npc/ticket_swap.txt`: Ticket Swap. `npc/exchange_quantity.txt`: the "how many" menu of the exchanges and the swap.
   `npc/headgear_costume.txt`: Costume Tailor.
 - `<era>/db/item_db.yml`: the boxes, tickets, costume twins (and, in pre-renewal, the costume collection).
   `<era>/System/itemInfo.lua`: their client names and icons (renewal also names headgears and costumes the client lacks).
@@ -156,7 +158,7 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 
 - **1.4.0**: Costume Exchange Ticket drop (new setting), Costume Exchange NPC with one-slot and random costume boxes from a
   costume collection (pre-renewal: costume-collector's costumes under new ids; renewal: the stock costumes), Ticket Swap
-  NPC (headgear <-> costume tickets, 1:1). Both exchanges ask how many boxes to buy. Costume ids no longer overwrite stock items.
+  NPC (headgear <-> costume tickets, 1:1 by default, both rates adjustable). Both exchanges and the swap ask how many to buy. Costume ids no longer overwrite stock items.
 - **1.3.0**: Headgear Exchange Ticket drop (new setting), the Headgear Exchange NPC with costume boxes, one-slot
   headgear boxes and the Random Headgear Box, and the Costume Tailor from headgear-to-costume bundled. A multi-slot headgear
   becomes one costume per slot, so the "view costume" checkbox hides it. Exchange ticket idea by BlaXun, costume exchange idea by faust.layout.
