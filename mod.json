@@ -1,6 +1,6 @@
 {
   "name": "random-headgear-box",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "author": "rhwski",
   "description": "Monsters can drop a Random Headgear Box (0.05% by default) or, with one setting, a Headgear Exchange Ticket, plus a Costume Exchange Ticket. Prontera NPCs trade tickets for headgear boxes, headgear-costume boxes and boxes from a costume collection (1,203 costumes in pre-renewal, the stock costumes in renewal), swap the two ticket kinds 1:1, and a Costume Tailor turns any headgear into costumes. The headgear boxes hold headgears nothing in the stock item database drops or sells: 417 in pre-renewal, 1,207 in renewal. Works in both eras.",
   "requires": {

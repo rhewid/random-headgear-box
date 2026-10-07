@@ -120,20 +120,12 @@ not part of the stock database.
   `Mosquito_Coil_1Use`, `Wit_Pumpkin_Hat`, `Spider_Temp_TW`, `Solo_Play_Box1/2`, `Spare_Card`) = 1,207.
   Snake Head and Skull Cap sit in a stock renewal item group, so they are not in this pool.
 
-## Item names and descriptions (renewal)
+## Item names and descriptions
 
-The renewal client has no item name for 480 of the 1,207 headgears, so they would show as "Unknown Item"
-(the worn sprite is fine). `renewal/System/itemInfo.lua` names and describes them:
-
-- **33** use the name, icon and description of the iRO client table, only where its record matches the
-  server's item name.
-- **447** are generated. Name, defense, weight, slots, level, job and class limits come from the server item
-  database. The item script is turned into plain text: stat and percent bonuses, damage against race, size and
-  element, resistances, skill damage / cooldown / cast bonuses, autocasts and chance effects, refine, skill-level,
-  stat and base-level conditions, and per-refine or per-level scaling. Checked against the 1,958 headgears that
-  do have a real description: 94.8% of the generated lines carry numbers that also appear in the real text.
-  116 items still end with "Has additional effects that are not listed here", where the script uses something
-  not translated. They use a generic icon per slot.
+`<era>/System/itemInfo.lua` names only the mod's own items: the boxes and tickets (72001-72044) and the costume
+twins (73000+). Official items are left to the client's own tables. The app reads a mod's item table before the
+client's, so an entry for an official item would replace its real iRO name and icon with a generic one (issue #1).
+Headgears or costumes that the client has no name for show as "Unknown Item" (the worn sprite is fine).
 
 ## Layout
 
@@ -144,7 +136,7 @@ so everything era-specific lives in the era folders and only the scripts are sha
   `npc/ticket_swap.txt`: Ticket Swap. `npc/exchange_quantity.txt`: the "how many" menu of the exchanges and the swap.
   `npc/headgear_costume.txt`: Costume Tailor.
 - `<era>/db/item_db.yml`: the boxes, tickets, costume twins (and, in pre-renewal, the costume collection).
-  `<era>/System/itemInfo.lua`: their client names and icons (renewal also names headgears and costumes the client lacks).
+  `<era>/System/itemInfo.lua`: their client names and icons.
 - `<era>/npc/headgear_box_pool.txt`: the headgear pool per slot. `<era>/npc/htc_table.txt`: the headgear -> costume
   twin table and the headgear costume lists. `<era>/npc/costume_lists.txt`: the costume collection per slot.
   Add or remove ids freely.
@@ -156,6 +148,7 @@ Settings -> Mods -> Add mod from folder, then restart the server. Needs app >= 1
 
 ## Changelog
 
+- **1.4.1**: renewal `itemInfo.lua` now holds only the mod's own items (boxes, tickets, costume twins), so official iRO items keep their real names and icons (issue #1). The renewal Costume Exchange Ticket and costume boxes (72032, 72041-72044) now have client names.
 - **1.4.0**: Costume Exchange Ticket drop (new setting), Costume Exchange NPC with one-slot and random costume boxes from a
   costume collection (pre-renewal: costume-collector's costumes under new ids; renewal: the stock costumes), Ticket Swap
   NPC (headgear <-> costume tickets, 1:1 by default, both rates adjustable). Both exchanges and the swap ask how many to buy. Costume ids no longer overwrite stock items.
